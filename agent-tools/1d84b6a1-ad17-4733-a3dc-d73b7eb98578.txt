@@ -1,0 +1,259 @@
+Media-expressed negative tone and firm-level stock returns - ScienceDirect
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![Elsevier logo](https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](https://www.sciencedirect.com/)
+[My account](https://www.sciencedirect.com/user/login?targetURL=/science/article/pii/S0929119915001637&from=globalheader)
+[Sign in](https://www.sciencedirect.com/user/institution/login?targetURL=/science/article/pii/S0929119915001637)
+* [Access through**your institution**](https://www.sciencedirect.com/user/institution/login?targetUrl=/science/article/pii/S0929119915001637)
+* [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0929119915001637/purchase)
+Search ScienceDirect
+## Article preview
+* [Abstract](#preview-section-abstract)
+* [Introduction](#preview-section-introduction)
+* [Section snippets](#preview-section-snippets)
+* [References (79)](#preview-section-references)
+* [Cited by (73)](#preview-section-cited-by)
+[![Elsevier](https://sdfestaticassets-us-east-1.sciencedirectassets.com/prod/558f6b3505d331efa27a89a25731aa712b0662a4/image/elsevier-non-solus.png)](https://www.sciencedirect.com/journal/journal-of-corporate-finance)
+## [Journal of Corporate Finance](https://www.sciencedirect.com/journal/journal-of-corporate-finance)
+[Volume 37](https://www.sciencedirect.com/journal/journal-of-corporate-finance/vol/37/suppl/C),April 2016, Pages 152-172
+[![Journal of Corporate Finance](https://ars.els-cdn.com/content/image/1-s2.0-S0929119916X00028-cov150h.gif)](https://www.sciencedirect.com/journal/journal-of-corporate-finance/vol/37/suppl/C)
+# Media-expressed negative tone and firm-level stock returns
+Author links open overlay panelKhurshidAhmada,JingGuangHanb,ElaineHutsonc,ColmKearneyd,ShaLiue
+Show more
+Add to Mendeley
+Share
+Cite
+[https://doi.org/10.1016/j.jcorpfin.2015.12.014](https://doi.org/10.1016/j.jcorpfin.2015.12.014)[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0929119915001637&orderBeanReset=true)
+## Highlights
+* •We create a measure of firm-specific negative media tone from 5½ million articles for 20 large US firms.
+* •Rising negative sentiment triggers permanently lower returns, but at the level of the firm, this relation occurs only intermittently.
+* •Some of these episodes are persistent, implying media-expressed negative tone can contain fundamental information about firm value.
+* •Our findings are consistent with efficiently functioning markets in which the media assists with the processing of complex information.
+## Abstract
+We build a corpus of over 5½ million news articles on 20 large US firms over the 10-year period from January 2001 to December 2010, and use it to study the time-varying nature of the relation between media-expressed firm-specific tone and firm-level returns. By estimating a series of separate rolling window vector autoregressive (VAR) models for each firm, we show how media-expressed negative tone impacts firm-level returns episodically in ways that vary across firms and over time. We find that firms experience prolonged periods during which media-expressed tone has no effect on returns, and occasional episodes when it has a significant impact. During the significant episodes, its impacts are sometimes quickly reversed and at other times they endure —implying that media comment and analysis can sometimes be*sentiment*(or noise), but it can also contain value-relevant information or*news*. Our findings are in general consistent with efficiently functioning markets in which the media assists with the processing of complex information.
+## Introduction
+A key question in the literature on the textual analysis of media content and how it relates to financial market outcomes is whether its ‘tone’ significantly affects stock returns, and if so whether the effects are transitory or persistent. Using a variety of text corpora, content analysis methods, model specifications and estimation techniques, most studies find that negative media-expressed tone leads to significantly negative next-day returns that are partially reversed (Tetlock, 2007, Groß-Klußmann and Hautsch, 2011, Loughran and McDonald, 2011, Boudoukh et al., 2013, Dzielinski and Hasseltoft, 2013, Ferguson et al., 2013, Garcia, 2013, Chen et al., 2014, Heston and Sinha, 2014). Drawing on the ‘noise trader risk’ theory of DeLong et al. (1990), Tetlock (2007) argues that persistent or enduring effects imply that media-expressed tone contains new information about fundamental value, whereas transitory effects that are quickly reversed suggest that media-expressed tone is*sentiment*— defined as the level of noise traders' beliefs relative to Bayesian beliefs about the effect of information on stock prices.1
+Few studies have examined the media-expressed tone-return relation at the level of the firm. This constitutes a gap in the literature to the extent that the aggregation of media tone and return data in prior studies may conceal potentially illuminating firm-level effects. For example, time-varying effects of media tone on returns are possible; Garcia (2013) finds that media pessimism affects the Dow Jones index three times more strongly in recessions than in economic expansions. One reason why firm-level studies are scarce is that most firms appear infrequently in the media, and this has stymied the ability of researchers to construct reliable measures of firm-specific tone —particularly at short data intervals. A common response of researchers to this constraint has been to aggregate firm-level media tone into a single proxy measure, or to extract firm-specific tone for each firm and combine these in a panel regression framework.2The former creates a single representative ‘firm’, and implicitly assumes that media tone is identical across firms. The panel regression approach allows for different measures of firm-level tone, but its default specification constrains the estimated effects on returns to be similar across firms and over time.3
+In this paper, we ask whether these aggregate and market-level findings hold at the level of the firm. We conduct a time-varying analysis of the relation between media-expressed firm-specific negative tone and firm-level returns. To do this, we use daily data over the 10-year period of 2001–2010 for 20 large non-financial US firms. Our corpus comprises more than 5½ million articles from newspapers, industry and trade magazines, newswires, financial blogs and other web-based publications, providing us with between 59,000 and 1.1 million articles for each firm. By focussing on a small number of large firms for which there are ample news stories, we are able to derive daily measures of firm-specific tone for each firm from a media corpus in which there are few days with no articles.
+In addition to enabling a more detailed analysis of the firm-specific tone-return relation, our sample of large firms offers several advantages over studies that use firms of all sizes.*First*, our firms are unlikely to suffer from a lack of investor recognition or a scarcity of information that is associated with mispricing. An information-poor environment is associated with a slower speed of information diffusion that is more commonly observed amongst small firms (Hong and Stein, 1999; Hong, Lim and Stein, 2000).*Second*, our sample firms are not ‘extreme growth’ or ‘high uncertainty’ stocks that are difficult to value, so they should not be particularly vulnerable to sentiment (Zhang, 2006, Baker and Wurgler, 2007, Hillert et al., 2014).*Third*, our sample firms are unlikely to have binding constraints on arbitrage. The persistence of return autocorrelation is often explained by high trading costs and restrictions on short selling (Jegadeesh and Titman, 1993, Jegadeesh and Titman, 2001, Chan, 2003, Antoniou et al., 2013), and such barriers to arbitrage are more likely amongst small stocks (Baker and Wurgler, 2007). Our sample of large, liquid and information-rich firms allows us to draw conclusions about the effects of media-expressed tone on firm-level returns with confidence that our findings are not artefacts of information paucity or constraints on trading.
+We begin by using a panel approach, and find that a rise in firm-specific negative media tone leads to a significant reduction in next-day firm-level returns. In contrast to prior studies, however, we find no evidence of return reversal —which suggests that the negative tone in media articles might contain new fundamental information about firm value. In the news arrival and volatility clustering literature, information events are considered to arrive sporadically —in short bursts followed by periods of relative quiet (Andersen, 1996, Andersen et al., 2010). Further, different types of news events can have dissimilar effects on returns (Engle et al., 2012, Boudoukh et al., 2013, Neuhierl et al., 2013).4Using rolling VAR regressions with a one-year window moving forward a day at a time, we observe how media-expressed tone impacts returns in ways that differ for each firm and vary over time. We find that the negative tone-return relation is indeed episodic, with long interludes during which media tone has no effect on returns, interspersed by bursts of significance. Some of these episodes are transitory, and others are enduring or persistent. Our transitory episodes –involving initial overreaction followed by reversal –suggest that, consistent with the prior literature conducted at the market or aggregate level, media-expressed tone is*sentiment*. Our novel result that media-expressed negative tone can sometimes lead to persistently lower returns suggests, however, that negative media tone can sometimes contain*news*about fundamental firm value.
+In order to further test our argument that the enduring episodes are indicative of news, we construct a corpus of newswire articles5; we call this the*newswire corpus*, and we refer to our main collection of media articles as the*full corpus*. Newswires are likely to be the best measure of genuine news available (Fang and Peress, 2009, Kelley and Tetlock, 2013, Hillert et al., 2014); they are widely disseminated electronically, and their systems are designed to get news out as fast as possible.6If the tone extracted from our newswire corpus contains new information about firm value, its effects on firm-level returns should be immediate, unbiased and enduring. Prior research findings, however, are not consistent with this insofar as newswire tone has been shown to impact returns with short and longer-term delays (Tetlock et al., 2008; Heston and Sinha, 2012, Sinha, 2012, Boudoukh et al., 2013). When we repeat our panel analysis, we find that negative newswire tone leads to significantly negative next-day returns that persist more strongly than for the full corpus. Replicating our firm-level rolling VAR regressions with the newswire corpus, we find that the relation is similarly episodic. Consistent with the notion that negative newswire tone reflects*news*, we find that in all but one of the episodes the effect of negative newswire tone on returns endures.
+These findings prompt us to ask whether a related trading strategy yields positive excess returns. We conduct a zero-investment long-short portfolio analysis in which we sort our 20 firms each day from highest to lowest negative tone.7We short the 10 stocks with the highest negative tone and take a long position in the remainder. For the full corpus, we find a large and significantly positive next-day return to the long-short portfolio of more than 17% annualised, and this is driven equally by the long and the short legs. It is also robust to the Fama and French (1993) and Carhart (1997) risk factors. This is a strong result given that our long-short portfolio comprises all of the sample stocks —in contrast to the standard approach to long-short portfolio construction that comprises only the extreme performers. A key finding from our portfolio analysis is that the full corpus tone is associated with a short-term overreaction that is fully reversed on day +2. For the newswire corpus, we find that the long-short portfolio earns positive but insignificant next-day returns —suggesting that there is little delay in the impounding of news into stock prices. Further, we find no evidence of longer-term ‘drift’ in returns using either the full or the newswire corpus. What we do find using both corpora is that the long-short portfolios yield significant holding period returns (HPRs) of around 2% for holding periods of up to 250days post-formation, and that these effects are driven by short positions in the high-negative tone stocks. This suggests that the combined effects of negative firm-specific news (in the form of media-expressed tone) across firms and over time are permanently reflected in aggregated returns.
+Many studies of the media's effect on stock returns use ‘media coverage’; that is, the count of articles or simply the existence of a news article, rather than tone (Chan, 2003, Vega, 2006, Barber and Odean, 2008, Fang and Peress, 2009, Engelberg and Parsons, 2011, Hillert et al., 2014). We re-run our long-short analyses using the daily count (or ‘coverage’) of articles, this time taking a long position in the ‘low coverage’ and a short position in the ‘high-coverage’ stocks. We find no evidence that media coverage affects next-day returns. The longer-term effect, however, is very similar to our findings using negative tone: the long-short portfolio HPR converges to about 2%, and this is driven by the short leg containing the high-coverage stocks. This suggests that the count of media articles might be a proxy for negative tone. We confirm that the general media, as represented by our full corpus, is significantly biased towards negative news stories. Furthermore, this bias cannot be traced to newswires or to news releases by the firm in the form of 8-Ks. It follows that the news media is more likely to pick up and run with bad news stories.8This finding may provide a partial explanation for the findings of studies such as Chan (2003) and Fang and Peress (2009) —that high media coverage stocks underperform low or no-coverage stocks.
+The literature on the arrival and processing of market-relevant information has sharpened our understanding of what occurs during the time between information becoming available and its being impounded into stock prices (Campbell and Hentschel, 1992, Andersen, 1996, Engelberg, 2008, Engle et al., 2012, Demers and Vega, 2014, Heston and Sinha, 2014). A potential explanation for return persistence in our enduring episodes is that some bad news events are sufficiently complex or ambiguous that some ‘processing’ is needed before investors get a full understanding of their implications for firm value (Engle et al., 2012), or that ‘soft’ information (as opposed to ‘hard’ information such as financial statements) takes longer to be impounded into prices because it is more costly to process (Engelberg, 2008, Demers and Vega, 2014). Several recent studies suggest that the media can play a role in this process (Dougal et al., 2012, Engle et al., 2012, Boudoukh et al., 2013), and our paper shows how this occurs at the firm level.
+The remainder of our paper is structured as follows. In the next section we describe the data and present summary statistics. In Section 3, we present our initial panel analysis, followed by our more detailed rolling regression VAR models for each firm. In Section 4, we further test our findings by running our tests on the newswire corpus. In Section 5 we conduct our long-short portfolio analyses, and in Section 6 we present our ‘count’ portfolio analysis. Section 7 summarises and draws together our main conclusions.
+## Section snippets
+## Data
+In order to construct the best possible dataset of firm-specific media-expressed tone at the daily frequency, we need to select firms for which news and commentary articles are likely to be available most days. Our sample comprises the 20 largest non-financial US companies on the 2011*Fortune 500*list that have a sizeable daily news flow over the 10-year period from 1 January 2001 to 31 December 2010. The firms are Apple, AT&T, Boeing, Chevron, Cisco Systems, ConocoPhillips, Dell, ExxonMobil,
+## Panel and VAR analyses: Full corpus
+We earlier alluded to the data limitations in constructing useful time-series of firm-specific tone. Researchers such as Engelberg (2008), Tetlock et al. (2008), Sinha (2012), Dougal et al. (2012), Ferguson et al. (2013),15
+## Analysing the newswire corpus
+If newswire articles contain ‘news’ in the sense that they are conduits for the dissemination of new information to the market, an efficient market perspective would suggest that stock prices react quickly and unbiasedly to newswire tone. A few recent studies that have examined the effect of newswire tone on returns show that this is not the case. Tetlock et al. (2008) find that newswire tone is impounded in stock prices with a 1-day delay. Sinha (2012) finds that stock prices underreact to
+## Portfolio analysis
+The strength of our findings about the impact of firm-specific tone on next-day firm-level returns suggests the possibility of a successful trading strategy. In our long-short analysis, we use the overlapping holding period approach of Jegadeesh and Titman (1993) with a daily formation period. On each day, we sort our 20 stocks from highest to lowest negative tone. We take a long position in an equally-weighted portfolio of the 10 stocks with the lowest negative tone, and we short the 10 stocks
+## Portfolio analysis using article count
+Studies examining how news media impacts stock returns often use a ‘count’ approach, whereby media attention or news is proxied by whether an article has appeared (Chan, 2003, Barber and Odean, 2008), or how many have appeared during a given period (Fang and Peress, 2009, Hillert et al., 2014). In this section, we repeat our long-short analysis, this time sorting on the daily count of articles. Because prior studies have found that low- and no-media coverage stocks are associated with
+## Summary and conclusions
+In this paper, we have built a corpus of over 5½ million news articles on 20 large US firms over the 10-year period from January 2001 to December 2010, and used it to study the time-varying nature of the relation between firm-specific negative tone and firm-level returns. By focussing on a small number of large, well-known and widely traded firms for which there are many news stories, we have been able to construct separate series of firm-specific negative media-expressed tone for each firm
+## Acknowledgements
+Khurshid Ahmad and Colm Kearney acknowledge financial support under Grant No.IP/200/059fromEnterprise Ireland. Sha Liu was partly funded under a bursary fromTrinity College Dublin (TCD). Thanks to Barry Redmond who developed the textual analytics software under the guidance of Khurshid Ahmad, and to Nicholas Daly, Peter Dunne, Stephen Kelly and Xiubo Zhang. Thanks to Rob Brooks, Philip Gray, Farshid Vahid, Frank McGroarty and Desheng Wu for their insightful comments, and to Nafisa Ovi for
+Recommended articles
+## References(79)
+* N.Barberis*et al.*### [A model of investor sentiment](https://www.sciencedirect.com/science/article/pii/S0304405X98000270)
+### J. Financ. Econ.
+(1998)
+* P.Barroso*et al.*### [Momentum has its moments](https://www.sciencedirect.com/science/article/pii/S0304405X14002566)
+### J. Financ. Econ.
+(2015)
+* L.Benati*et al.*### [Investigating time-variation in the marginal predictive power of the yield spread](https://www.sciencedirect.com/science/article/pii/S016518890700125X)
+### J. Econ. Dyn. Control.
+(2008)
+* G.G.Booth*et al.*### [Volatility clustering and the bid-ask spread: exchange rate behavior in early Renaissance Florence](https://www.sciencedirect.com/science/article/pii/S0927539807000564)
+### J. Empir. Financ.
+(2008)
+* M.W.Brandt*et al.*### [Οn the relationship between the conditional mean and volatility of stock returns: a latent VAR approach](https://www.sciencedirect.com/science/article/pii/S0304405X03002435)
+### J. Financ. Econ.
+(2004)
+* J.Y.Campbell*et al.*### [No news is good news: an asymmetric model of changing volatility in stock returns](https://www.sciencedirect.com/science/article/pii/0304405X9290037X)
+### J. Financ. Econ.
+(1992)
+* W.S.Chan### [Stock price reaction to news and no-news: drift and reversal after headlines](https://www.sciencedirect.com/science/article/pii/S0304405X03001466)
+### J. Financ. Econ.
+(2003)
+* J.E.Engelberg*et al.*### [How are shorts informed? Short sellers, news and information processing](https://www.sciencedirect.com/science/article/pii/S0304405X12000384)
+### J. Financ. Econ.
+(2012)
+* E.F.Fama*et al.*### [Common risk factors in the returns on stocks and bonds](https://www.sciencedirect.com/science/article/pii/0304405X93900235)
+### J. Financ. Econ.
+(1993)
+* A.Groß-Klußmann*et al.*### [When machines read the news: using automated text analytics to quantify high frequency news-implied market reactions](https://www.sciencedirect.com/science/article/pii/S0927539810000873)
+### J. Empir. Financ.
+(2011)
+* N.Jegadeesh*et al.*### [Word power: a new approach for content analysis](https://www.sciencedirect.com/science/article/pii/S0304405X13002328)
+### J. Financ. Econ.
+(2013)
+* S.Joslin*et al.*### [Why Gaussian macro-finance term structure models are (nearly) unconstrained factor-VARs](https://www.sciencedirect.com/science/article/pii/S0304405X13001116)
+### J. Financ. Econ.
+(2013)
+* C.Kearney*et al.*### [Textual sentiment in finance: a survey of methods and models](https://www.sciencedirect.com/science/article/pii/S1057521914000295)
+### Int. Rev. Financ. Anal.
+(2014)
+* G.Koop*et al.*### [Modelling the relationship between European carbon permits and certified emission](https://www.sciencedirect.com/science/article/pii/S0927539813000728)
+### J. Empir. Financ.
+(2013)
+* C.Vega### [Stock price reaction to public and private information](https://www.sciencedirect.com/science/article/pii/S0304405X06000444)
+### J. Financ. Econ.
+(2006)
+* T.P.Wisniewski*et al.*### [The role of media in the credit crunch: the case of the banking sector](https://www.sciencedirect.com/science/article/pii/S0167268111002617)
+### J. Econ. Behav. Organ.
+(2013)
+* Ahmad K. (2014) KA01-351-01; Method and Systems for Calculating Affect in one or more Documents. (Patent Application in...
+* T.Andersen### Return volatility and trading volume: an information flow interpretation of stochastic volatility
+### J. Financ.
+(1996)
+* T.G.Andersen*et al.*### Continuous-time models, realized volatilities, and testable distributional implications for daily stock returns
+### J. Appl. Econ.
+(2010)
+* C.Antoniou*et al.*### Cognitive dissonance, sentiment, and momentum
+### J. Financ. Quant. Anal.
+(2013)
+* W.Antweiler*et al.*### Is all that talk just noise? The information content of internet stock message boards
+### J. Financ.
+(2004)
+* S.P.Baginski*et al.*### The effect of legal environment on voluntary disclosure: evidence from management earnings
+### Account. Rev.
+(2002)
+* M.Baker*et al.*### Investor sentiment in the stock market
+### J. Econ. Perspect.
+(2007)
+* B.M.Barber*et al.*### All that glitters: the effect of attention and news on the buying behavior of individual and institutional investors
+### Rev. Financ. Stud.
+(2008)
+* G.G.Booth*et al.*### Trading and pricing in upstairs and downstairs stock markets
+### Rev. Financ. Stud.
+(2002)
+* J.Boudoukh*et al.*### Which news moves stock prices? A textual analysis
+* F.Canova*et al.*### Panel vector autoregressive models: a survey
+* M.M.Carhart### On persistence in mutual fund performance
+### J. Financ.
+(1997)
+* H.Chen*et al.*### Wisdom of crowds: the value of stock opinions transmitted through social media
+### Rev. Financ. Stud.
+(2014)
+* Z.Da*et al.*### In search of attention
+### J. Financ.
+(2011)
+* K.Daniel*et al.*### Investor psychology and security market under and overreactions
+### J. Financ.
+(1998)
+* S.R.Das*et al.*### Yahoo! for Amazon: sentiment extraction from small talk on the web
+### Manag. Sci.
+(2007)
+* A.K.Davis*et al.*### Managers' use of language across alternative disclosure outlets: earnings press releases versus MD&A
+### Contemp. Account. Res.
+(2012)
+* J.B.DeLong*et al.*### Noise trader risk in financial markets
+### J. Polit. Econ.
+(1990)
+* E.Demers*et al.*### Understanding the role of managerial optimism and uncertainty in the price formation process: evidence from the textual content of earnings announcements
+* J.S.Doran*et al.*### Earnings conference call content and stock price: the case of REITs
+### J. Real Estate Financ. Econ.
+(2010)
+* C.Dougal*et al.*### Journalists and the stock market
+### Rev. Financ. Stud.
+(2012)
+* M.Dzielinski*et al.*### Why do investors disagree? The role of a dispersed news flow
+* J.Engelberg### Costly information processing: evidence from earnings announcements
+View more references
+## Cited by (73)
+* ### [Does media spotlight really burn innovation? Evidence from China](https://www.sciencedirect.com/science/article/pii/S0927538X23003116)
+2024, Pacific Basin Finance Journal
+Show abstract
+This study investigates whether and how media coverage influences corporate innovation in China as an emerging economy. In sharp contrast to evidence from developed markets (e.g., U.S.), this study demonstrates that media coverage is positively associated with corporate innovation in China. The results hold following a series of endogeneity and robustness tests. We also demonstrate that media coverage largely has a positive influence through improving the information environment and external governance and alleviating financial constraints for innovative firms. Furthermore, the effects of media coverage are more pronounced for firms located in less developed regions of China. Finally, we find that the effects of media coverage are driven by nonofficial rather than official media coverage, and positive (negative) coverage facilitates (impedes) corporate innovation. Overall, this study contributes to the literature by confirming that media coverage may spur rather than burn corporate innovation in emerging markets.
+* ### [Do bitcoin news information flow and return volatility fit the sequential information arrival hypothesis and the mixture of distribution hypothesis?](https://www.sciencedirect.com/science/article/pii/S1059056023001892)
+2023, International Review of Economics and Finance
+Show abstract
+The financial asset return volatility and information field have continued to compare both hypotheses: sequential information arrival hypothesis (SIAH) and the mixture of distribution hypothesis (MDH). However, numerous former studies have not found an appropriate information indicator but just used trading volume as an indirect proxy. The study examines the relationship between Bitcoin return volatility and information flow instead of the trading volume. We apply a text and web mining to get all related 24,316 news items for Bitcoin from 64 news websites. Next, we apply a sentiment analysis of natural language processing (NLP) to generate information flow data to replace the traditional trading volume. Finally, we appropriate vector autoregressive (VAR) models to catch the lead-lag relationship and Spearman Correlation to test contemporaneous nexus. The study results show that Bitcoin return volatility is affected by the negative information flow and parallels SIAH; the positive information flow impacts Bitcoin return volatility and matches MDH. The empirical result benefits investors in making proper investment decisions in Bitcoin, and the gist of the paper fills the gap in academic literature because the aspect of information is still absent in academia.
+* ### [COVID-19 and corporate tax avoidance: International evidence](https://www.sciencedirect.com/science/article/pii/S0969593123000434)
+2023, International Business Review
+Show abstract
+Governments across the globe initiated various tax reforms in the post- Global Financial Crisis period to rein in aggressive corporate tax avoidance for managing budget deficits. These developments created new realities in the international business environment by altering the costs and benefits of corporate tax management. Yet, we have a limited understanding of the effectiveness of tax reforms in controlling corporate tax avoidance at the global level. COVID-19 offers a litmus test for how corporates manage their taxes during the pandemic in light of past tax reforms. We use financial constraints and reputational costs as two contradicting theoretical perspectives to explain corporate tax avoidance during the crisis. Consistent with the financial constraints hypothesis, we find that firms avoid taxes amid COVID-19 to prevent liquidity crunches. Our study also highlights the role of country-level information and governance quality in curbing tax avoidance during extreme events like COVID-19. Our findings call for an immediate tax policy intervention to limit corporate tax avoidance during the ongoing pandemic phases.
+* ### [COVID-19 related TV news and stock returns: Evidence from major US TV stations](https://www.sciencedirect.com/science/article/pii/S106297692200134X)
+2023, Quarterly Review of Economics and Finance
+Show abstract
+We investigate a novel dataset of more than half a million 15 secondstranscribed audio snippets containing COVID-19 mentions from major US TV stations throughout 2020. Using the Latent Dirichlet Allocation (LDA), an unsupervised machine learning algorithm, we identify seven COVID-19 related topics discussed in US TV news. We find that several topics identified by the LDA predict significant and economically meaningful market reactions in the next day, even after controlling for the general TV tone derived from a field-specific COVID-19 tone dictionary. Our results suggest that COVID-19 related TV content had nonnegligible effects on financial markets during the pandemic.
+* ### [Media abnormal tone, earnings announcements, and the stock market](https://www.sciencedirect.com/science/article/pii/S1386418121000598)
+2022, Journal of Financial Markets
+Show abstract
+We conduct a tone-based event study to examine the aggregate abnormal tone dynamics in media articles around earnings announcements. We test whether they convey incremental information that is useful for price discovery for non-financial S&P 500 firms. The relation we find between the abnormal tone and abnormal returns suggests that media articles provide incremental information relative to the information contained in earnings press releases and earnings calls.
+* ### [The role of different information sources in information spread: Evidence from three media channels in China](https://www.sciencedirect.com/science/article/pii/S1059056022000922)
+2022, International Review of Economics and Finance
+Show abstract
+Using a comprehensive dataset from 2008 to 2018, we study the role of different information sources (traditional media, new media, and social media) on information spread in the Chinese stock market. The findings reveal varied leading and lagging relationships in the timeliness of fraud information disclosure from three media types and the most significant impact from social media. The results on price synchronicity reveal the significantly negative influence of all media coverages; among them, the impact of new media is in the first position, social media is in second place, and traditional media is the smallest. Furthermore, this influence is more pronounced for firms that are not audited by Big 4 auditors or with lower institutional ownership. In summary, we reveal the different effects of three media channels around fraud events and price synchronicity in China.
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-84955247333&md5=36a61d82ca6e7a51c164112c277f1c3)
+[View full text](https://www.sciencedirect.com/science/article/pii/S0929119915001637)
+Copyright ©2016 Elsevier B.V. All rights reserved.
+## Recommended articles
+* ### [News sentiment and bank credit risk](https://www.sciencedirect.com/science/article/pii/S0927539816300421)
+Journal of Empirical Finance, Volume 38, Part A, 2016, pp. 37-61
+Lee A.Smales
+* ### [The tone and readability of the media during the financial crisis: Evidence from pre-IPO media coverage](https://www.sciencedirect.com/science/article/pii/S105752191930081X)
+International Review of Financial Analysis, Volume 63, 2019, pp. 40-48
+ArtiBhardwaj,ShahedImam
+* ### [Time-variation in the impact of news sentiment](https://www.sciencedirect.com/science/article/pii/S1057521914001938)
+International Review of Financial Analysis, Volume 37, 2015, pp. 40-50
+Lee A.Smales
+* ### [The tone of financial news and the perceptions of stock and CDS traders](https://www.sciencedirect.com/science/article/pii/S1057521916300783)
+International Review of Financial Analysis, Volume 46, 2016, pp. 159-175
+MichaelLiebmann, …,DirkNeumann
+* ### [When does the tone of earnings press releases matter?](https://www.sciencedirect.com/science/article/pii/S1057521918300899)
+International Review of Financial Analysis, Volume 57, 2018, pp. 231-245
+KrisBoudt, …,WouterTorsin
+* ### [Corporate media connections and merger outcomes](https://www.sciencedirect.com/science/article/pii/S0929119920301802)
+Journal of Corporate Finance, Volume 65, 2020, Article 101736
+Md MiranHossain,DavidJavakhadze
+Show 3 more articles
+## Article Metrics
+![plumX logo](https://cdn.plu.mx/3ba727faf225e19d2c759f6ebffc511d/plumx-inverse-logo.png)
+Citations
+* Citation Indexes:59
+Captures
+* Readers:156
+![plumX logo](https://cdn.plu.mx/3ba727faf225e19d2c759f6ebffc511d/plumx-logo.png)
+[View details](https://plu.mx/plum/a/?doi=10.1016/j.jcorpfin.2015.12.014&theme=plum-sciencedirect-theme&hideUsage=true)
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see our[Cookie Policy](https://www.elsevier.com/legal/cookienotice)
+Cookie SettingsAccept all cookies
+![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
+## Cookie Preference Center
+We use cookies which are necessary to make our site work. We may also use additional cookies to analyse, improve and personalise our content and your digital experience. For more information, see our[Cookie Policy](https://www.elsevier.com/legal/cookienotice)and the list of[Google Ad-Tech Vendors](https://support.google.com/admanager/answer/9012903).
+You may choose not to allow some types of cookies. However, blocking some types may impact your experience of our site and the services we are able to offer. See the different category headings below to find out more or change your settings.
+You may also be able to exercise your privacy choices![Cookie Settings | Your Privacy Choices](https://risk.lexisnexis.com/-/media/images/privacyoptions29x14%20png.png)as described in our[Privacy Policy](https://www.elsevier.com/legal/privacy-policy)
+Allow all
+### Manage Consent Preferences
+#### Strictly Necessary Cookies
+Always active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+Cookie Details List‎
+#### Functional Cookies
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+Cookie Details List‎
+#### Performance Cookies
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
+Cookie Details List‎
+#### Targeting Cookies
+Targeting Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. If you do not allow these cookies, you will experience less targeted advertising.
+Cookie Details List‎
+Back Button### Cookie List
+Search Icon
+Filter Icon
+Clear
+checkbox labellabel
+ApplyCancel
+ConsentLeg.Interest
+checkbox labellabel
+checkbox labellabel
+checkbox labellabel
+Confirm my choices
+[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg "Powered by OneTrust Opens in a new Tab")](https://www.onetrust.com/products/cookie-consent/)

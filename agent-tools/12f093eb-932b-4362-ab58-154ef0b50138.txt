@@ -1,0 +1,924 @@
+1
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY 
+WITH HIGH-FREQUENCY INTRADAY DATA FOR SECURITIES 
+LITIGATIONS AND VALUATIONS†
+Rajeev R. Bhattacharya, Ph.D.*
+Joseph J. Bial, J.D., Ph.D.**
+Alex J. Evans***
+I. INTRODUCTION
+In this Article, we prove that work using daily (or lower frequency) data and/or ad 
+hoc subjective judgments are unreliable.1
+1) It is imperative to use intraday data for event studies work:
+(a) systemically—two hours are sufficient to measure the impact of a 
+potentially material event in question—and
+(b) if one were to use daily data, one would miss the impact of an event that 
+reverts quickly, and/or worse, one could erroneously attribute the impact of entirely 
+unrelated events to the potentially material event in question.
+2) Event studies using ad hoc subjective judgments on whether an event (such 
+as an analyst report) is better than expected news, worse than expected news, or no surprise at 
+all, are fatally flawed (and have been strongly criticized by courts), because there is no objective 
+and systematic way to determine what the markets expected at a particular time from publicly 
+available data.
+Following the publications of The Adjustment of Stock Prices to New Information2
+and An Empirical Evaluation of Accounting Income Numbers,
+3 hundreds of event studies have 
+been conducted in the legal, financial economics, and accounting literatures. They test the 
+impact, speed, and unbiasedness of the market’s reaction to an event, as pointed out in Capital 
+† We are grateful to Reena Aggarwal, Matt Armstrong, Ray Ball, Michael McDonald, Vikram Nanda, Jeffrey 
+Pontiff, Lei Shi, Raghu Sundaram, Erik Sirri, Simon Wheatley, Hamid Yahyaei, seminar and conference 
+participants at Warsaw School of Economics, Macquarie University, St. Mary’s University, University of Texas, 
+University of Auckland, and the Securities and Exchange Commission, and especially Tom Smith, Ahmed 
+Elnahas, Siamak Javadi, Robert Korajczyk, Pete Kyle, Mahendra Gupta, and Glenn MacDonald.
+* Corresponding author. President, Washington Finance and Economics;
+RRB.WashingtonFinance@gmail.com.
+** Partner, Paul, Weiss, Rifkind, Wharton & Garrison; JBial@PaulWeiss.com.
+*** Senior Associate, Macfarlanes; Alex.Evans@Macfarlanes.com.
+1 The views and findings set forth herein are solely those of the authors.
+2 See Eugene F. Fama et al., The Adjustment of Stock Prices to New Information, 10 INT’L ECON. REV. 1, 1 
+(1969).
+3 See Ray Ball & Philip Brown, An Empirical Evaluation of Accounting Income Numbers, 6 J. ACCT. RSCH. 159, 
+160-61 (1968).
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+2
+Markets Research in Accounting.
+4 Relevant sources to review include Fama, Fisher, Jensen, 
+and Roll (1969): Retrospective Comments,
+5 providing a retrospective comment by one of the 
+co-founders of event studies describing the contributions of the other co-founders; Using Daily 
+Stock Returns: The Case of Event Studies, summarizing event studies using daily data; and 
+Section II of this Article, offering detailed descriptions of event studies using high-frequency 
+intraday data.6
+To motivate this Article, consider the following example: On September 18, 2018, at 
+11:42 AM U.S. Eastern, Bloomberg announced that “Tesla Inc. is under investigation by the 
+Justice Department over public statements made by the company and Chief Executive Officer 
+Elon Musk, according to two people familiar with the matter. The criminal probe is running 
+alongside a previously reported civil inquiry by securities regulators.”7 In Table 0, the halfhour8
+where the announcement took place and the following halfhour are marked in pink, the 
+following halfhours that saw substantial absolute returns (>1%) based on Volume-Weighted 
+Average Price (“VWAP”) are in yellow, and the following halfhours where there were 
+negligible absolute returns are in green, and as suggested by the following table, all reaction, 
+overreaction, correction, overcorrection, bounceback, etc.,9 were almost all out of the system 
+within two hours after the potentially material event.10
+4 See S.P. Kothari, Capital Markets Research in Accounting, 31 J. ACCT. RSCH. 105, 187 (2001). 5 See Ray Ball, Fama, Fisher Jensen, and Roll (1969): Retrospective Comments, in JOHN H. COCHRANE &
+TOBIAS J. MOSKOWITZ, THE FAMA PORTFOLIO, 203 (John H. Cochrane & Tobias J. Moskowitz eds., 2017). 6 See Jerold Brown & Stephen Warner, The Case of Event Studies, 14 J. FIN. ECON. 3, 3 (1985); see infra Section 
+II.
+7 Tom Schoenberg & Matt Robinson, Tesla Is Facing U.S. Criminal Probe Over Elon Musk Statements, 
+BLOOMBERG (Sept. 19, 2018), https://www.bloomberg.com/news/articles/2018-09-18/tesla-is-said-to-face-u-scriminal-probe-over-musk-statements [https://perma.cc/2ZA5-6FDP].
+8 We divide each trading day into 15 halfhours as follows: halfhour 0 for prior to 9:30 AM U.S. Eastern, halfhours 
+1-13 for each halfhour of the trading hours 9:30 AM - 4 PM U.S. Eastern, and halfhour 14 for after 4 PM U.S. 
+Eastern.
+9 For this motivating example, we use the actual absolute returns, not the absolute abnormal returns that we 
+describe later.
+10 See generally infra Table 0 (specifically looking at the VWAP column).
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+3
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+4
+As in Big Data in Finance: Theory and Empirics,11 Chapter 8, analyzing all publicly 
+traded U.S. stocks from 2014 to September 2021, using intraday data from NYSE Trade and 
+Quote (“TAQ”), trade reporting and compliance engine (“TRACE”), institutional brokers’ 
+estimate system (“I/B/E/S”), and S&P Capital IQ, and using daily data from Center for 
+Research in Security Prices (“CRSP”), Thomson Reuters, Compustat, CRSP-Compustat 
+Merged Database, and the Federal Reserve Economic Data of St. Louis (“FRED”), (tens of 
+trillions of observations,12 about 30 TB of data13), we find, with robust econometrics, that all 
+reaction, overreaction, correction, overcorrection, bounceback, etc., are systemically out of the 
+system within two hours after a potentially material event, for all equities—of course, some 
+events have longer horizons, but that is the nature of idiosyncrasies versus a strongly persuasive 
+systemic result.
+Therefore, it is imperative to use intraday data for event studies work: 1) two hours 
+are systemically sufficient to measure the impact of a potentially material event in question, 
+and 2) if one were to use daily data, one would miss the impact of an event that reverts quickly, 
+and/or worse yet, one could erroneously attribute the impact of entirely unrelated events to the 
+potentially material event in question.14 Thus, all previous event studies and market efficiency 
+work using daily data have only historical value now, even though they were of enormous and 
+ground-breaking significance in the past, with the caveat that any empirical study has, of course, 
+to work within its data and computational constraints.
+15
+A potentially material event is systematically and objectively determined separately 
+as 1) a key development (identified by S&P Global CapitalIQ, event types include earnings, 
+dividends, mergers & acquisitions, buybacks, public offerings, management changes, debt 
+defaults, dividend cancellations, and regulatory agency inquiries, sourced from regulatory 
+filings and news vendors),16 and 2) an earnings announcement or revision, or an analyst forecast 
+or revision. The result relies upon event studies controlling for intraday market equity returns, 
+Nasdaq listing equity returns, industry (3-digit North American Industry Classification System 
+(“NAICS”) Code) equity returns, market cap decile equity returns, intraday volatility decile 
+equity returns, dividend decile equity returns, Fama-French factors17 decile equity returns, fixed 
+11 See Rajeev R. Bhattacharya, Big Data in Finance: Theory and Empirics, WORLD SCI. PUBL’G (2024, 
+forthcoming).
+12 For perspective, the total number of stars in the Milky Way is estimated to be 100 billion, less than a hundredth 
+of the number of observations analyzed in this Article. See Maggie Masetti, How Many Stars in the Milky Way?, 
+NAT’L AEROS. AND SPACE ADMIN. (NASA): GODDARD SPACE FLIGHT CTR. (July 22, 2015), 
+https://asd.gsfc.nasa.gov/blueshift/index.php/2015/07/22/how-many-stars-in-the-milky-way 
+[https://perma.cc/32AH-86HH]. 13 Analyzing Big Data is not a scalable version of the programming that is done for smaller datasets. See e.g.,
+Domenico Talia, A View of Programming Scalable Data Analysis: From Clouds to Exascale, 8 J. CLOUD 
+COMPUTING 1 (Feb. 11, 2019). 14 See Edward Xuejun Li et al., Do Analyst Stock Recommendations Piggyback on Recent Corporate News? An 
+Analysis of Regular-hour and After-hours Revisions, 53 J. ACCT. RSCH. 821, 825 (2015). 15 See Bhattacharya, supra note 11.
+16 See Key Developments, MARKETPLACE S&P GLOB., https://www.marketplace.spglobal.com/en/datasets/keydevelopments-(15) [https://perma.cc/RDN5-3BVT] (last visited Nov. 19, 2023). 17 See Eugene F. Fama & Kenneth R. French, A Five-factor Asset Pricing Model, 116 J. FIN. ECON. 1, 2 (2015); 
+see also Eugene F. Fama & Kenneth R. French, Common Risk Factors in the Returns on Stocks and Bonds, 33 J.
+FIN. ECON. 3, 12 (1993); Eugene F. Fama & Kenneth R. French, The Cross-Section of Expected Stock Returns, 
+47 J. FIN. ECON. 427, 429 (1992).
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+5
+income yield, daily risk-free and foreign exchange rates,18 and uses controlled contrasts 
+between halfhour-level absolute abnormal returns in post-window halfhours on one hand versus 
+control halfhours (non-announcement and non-relevant halfhours) on the other, measured by 
+using the coefficients of one-, two-, and three-way fixed effects in the regression of halfhourlevel absolute abnormal returns on tickers, time periods, and interactions, detailed in Section 
+IV.C.
+19
+A market is semistrong efficient if prices reflect all publicly available information; 
+thus, a market is efficient if stock prices adjust rapidly to new information. Prices of securities 
+adjust, albeit to varying extents, to new information, therefore, markets for securities are 
+efficient in varying degrees—often referred to as relative efficiency.20 In this Article, we use 
+two different metrics to measure market efficiency: a) abnormal responses to key developments 
+(“KD”) (as indicated by S&P Global) and b) earnings announcements and revisions, and analyst 
+forecasts and revisions (“EA”), based upon event studies, controlling for intraday market equity 
+returns, Nasdaq listing equity returns, industry (3-digit NAICS Code) equity returns, market 
+cap decile equity returns, intraday volatility decile equity returns, dividend decile equity 
+returns, Fama-French factors, decile equity returns, fixed income yield, daily risk-free and 
+foreign exchange rates, with intraday data for equity, fixed income securities, earnings 
+announcements and revisions, and analyst forecasts and revisions, on all publicly traded U.S. 
+companies between 2014 to September 2021: a controlled contrast between absolute abnormal 
+returns for relevant halfhours versus absolute abnormal returns in control halfhours (nonannouncement and non-relevant halfhours)—measured by the negative of the coefficient of the 
+fixed effect of the interaction between the indicator variable, and as the case may be, ticker 
+and/or time period of interest, in the regression of halfhour-level absolute abnormal returns on 
+tickers, time periods, and interactions—provides an objective, systematic, and ordinal per se
+measure of market efficiency.21 As in Big Data in Finance: Theory and Empirics, Chapter 4, 
+we normalize each variable (except for an indicator or time variable) by the Gaussian 
+cumulative probability of its Z_Score,
+22 this makes the impacts comparable and thus, allows a 
+systematic and objective definition of economic significance, which is different from statistical 
+significance.23
+Section II provides a comprehensive literature review.24 Section III describes the 
+data.25 Section IV discusses the event studies.26 Section V summarizes the legal framework for 
+market efficiency analysis in securities class actions.27 Section VI describes the econometric 
+18 See infra. p. 10. 19 See infra p. 11; see also WILLIAM GREENE, ECONOMETRIC ANALYSIS, (Pearson, 8th ed. 2018); JEFFREY 
+WOOLDRIDGE, ECONOMETRIC ANALYSIS OF CROSS SECTION AND PANEL DATA, (MIT Press, 2nd ed., 2010)); 
+JOHN CAMPBELL ET AL., THE ECONOMETRICS OF FINANCIAL MARKETS (Princeton U. Press, 1997). 20 See Bhattacharya, supra note 11; see CAMPBELL ET AL., supra note 19. 21 See infra p. 2. 22 Z_Score(x) = (x minus Mean(x))/(Standard Deviation(x)). 23 Bhattacharya, supra note 11; see infra p. 25.
+24 See infra p. 6.
+25 See infra p. 9. 26 See infra p. 9. 27 See infra p. 13.
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+6
+methodology and empirical results of this Article;28 Table 1 summarizes the fixed effects of 
+post-window halfhours versus control halfhours.29 Section VII concludes, and the Appendix 
+provides summary statistics and calculations.30 Systematic, independent, and objective 
+characterizations of each ticker-year, ticker-half-year, ticker-quarter, and ticker-month, and 
+each year, half-year, quarter, and month, 2014 to September 2021, as statistically and 
+economically significant efficient, statistically and economically significant inefficient, or 
+otherwise, are available upon request from the corresponding author.
+II. LITERATURE REVIEW
+The study of how quickly prices react to new information has a distinguished history, 
+and, more recently, insightful research has been conducted using high-frequency intraday data; 
+here is a brief review of this research, in reverse chronological order.
+It was concluded in Rest in Peace Post-Earnings Announcement Drift that “in modern 
+financial markets, stock prices fully reflect earnings surprises on the announcement date, 
+leading to the disappearance of post-earnings announcement drifts.”31 In How is Earnings News 
+Transmitted to Stock Prices? found that “the best quote instantly adjusts to earning surprises.”32
+It was found in The Intraday Bitcoin Response to Tether Minting and Burning Events: 
+Asymmetry, Investor Sentiment, and ‘Whale Alerts’ on Twitter that “Bitcoin responds positively 
+to . . . minting events over 5- to 30-minute event windows, but this response begins declining 
+after 60 minutes.”33 Run EDGAR Run: SEC Dissemination in a High-Frequency World found
+that “prices, volumes, and spreads respond to the news contained in filings beginning around 
+30 seconds before public posting.”34 The authors in The High-Frequency Trading Arms Race: 
+Frequent Batch Auctions as a Market Design Response:
+[U]se millisecond-level direct-feed data from exchanges to document a 
+series of stylized facts about how the continuous market works at highfrequency time horizons: (i) correlations completely break down; which (ii) 
+leads to obvious mechanical arbitrage opportunities; and (iii) competition 
+has not affected the size or frequency of the arbitrage opportunities.35
+As stated in Do Analyst Stock Recommendations Piggyback on Recent Corporate 
+News? An Analysis of Regular-hour and After-hour Revisionse:
+28 See infra Section IV.
+29 See infra Table 1. 30 See infra Section VII. 31 Charles Martineau, Rest in Peace Post-Earnings Announcement Drift, 11 CRITICAL FIN.REV. 613, 614 (2021). 32 Vincent Grégoire & Charles Martineau, How Is Earnings News Transmitted to Stock Prices?, 60 J. ACCT.
+RSCH. 261, 261 (2022).
+33 Aman Saggu, The Intraday Bitcoin Response to Tether Minting and Burning Events: Asymmetry, Investor 
+Sentiment, and ‘Whale Alerts’ on Twitter, 49 FIN. RSCH. LETTERS 1, 1 (2022). 34 Jonathan Rogers et al., Run EDGAR Run: SEC Dissemination in a High-Frequency World, 55. J. OF ACCT.
+RSCH. 459, 459 (2017).
+35 Eric Budish, The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design 
+Response, 130 QUARTERLY J. ECON. 1548, 1548 (2015).
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+7
+[A]nalysis of the regular-hour recommendation revisions shows large 
+preannouncement returns and trading volume in the [-1 day, -21 minute] 
+window although [they] also find statistically and economically significant 
+returns and trading volume in the announcement window [-20 minute, +20 
+minute] and in the postannouncement window [+21 minute, +1 day]. In 
+contrast, [their] analysis of the after-hours revisions shows that most of the 
+price and volume reactions occur in the postannouncement window.36
+It was found in Information Content of Earnings Announcements: Evidence From 
+After-Hours Trading, that “a significant portion of the price change and price discovery occurs 
+immediately after the earnings releases.”37 The authors of What Makes Conference Calls 
+Useful? The Information Content of Managers’ Presentations and Analysts’ Discussion 
+Sessions use:
+[I]ntra-day trading data to calculate absolute returns during each segment . . 
+. . [They] first examine the incremental information content of each segment 
+of the call and find that both the presentation and discussion have 
+incremental information content over the accompanying press release. 
+However, [they] find statistically greater abnormal absolute returns during 
+the discussion portion of the call relative to the presentation.38
+From On the Information Role of Stock Recommendations:
+[M]easure revision returns using narrow return intervals around daytime 
+revision announcements . . . for identifying daytime dividend announcement 
+returns from other event returns. [They] find the mean 40 minutes revision 
+announcement returns are economically unimportant . . . . These results are 
+robust to wider windows of one hour and two hours.39
+In Evidence on the Speed of Convergence to Market Efficiency it was found that for 
+actively traded NYSE stocks, “in thirty minutes, they are well along on their daily quest.”40 In 
+Market Efficiency in Real-Time the authors:
+[A]nalyze 322 stocks featured on the Morning Call and Midday Call 
+segments. [They] find that stocks discussed positively experience a 
+statistically and economically significant price impact beginning seconds 
+after the stock is first mentioned and lasting approximately one minute. The 
+36 Edward Liet al., Do Analyst Stock Recommendations Piggyback on Recent Corporate News? An Analysis of 
+Regular-hour and After-hour Revisions, 53. J. OF ACCT. RSCH. 821, 824
+37 Christine Jiang et al., Information Content of Earnings Announcements: Evidence From After-Hours Trading, 
+47 J. OF FIN. & QUANTITATIVE ANALYSIS 1303, 1303. 38 Dawn Matsumoto et al., What Makes Conference Calls Useful? The Information Content of Managers’ 
+Presentations and Analysts’ Discussion Sessions, 86 ACCT. REV. 1383, 1384 (2011).
+39 Oya Altınkılıç & Robert Hansen, On the Information Role of Stock Recommendations, 48 J. ACCT. & ECON.
+17, 19 (2007). 40 Tarun Chordia et al., Evidence on the Speed of Convergence to Market Efficiency, 76 J. FIN. ECON. (2005).
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+8
+response to negative reports is more gradual, lasting 15 minutes, perhaps 
+due to the higher costs of short selling.conclude that prices adjust to stock 
+mentions within fifteen seconds.41
+A market is semistrong efficient (efficient) if prices reflect all publicly available 
+information,42 and, therefore, a market is efficient if “stock prices adjust very rapidly to new 
+information.”43 Prices of securities adjust, albeit to varying extents, to new information, 
+therefore, markets for securities are efficient in varying degrees – often referred to as relative 
+efficiency.44 Other measures of market efficiency, such as 1) based on securities prices 
+following random walks in efficient markets (as used in Hedge Fund Holdings and Stock 
+Market Efficiency,
+45 and Institutional Investors and the Informational Efficiency of Prices46), 
+2) the two purely empirical measures of market efficiency based on the asymmetry between 
+positive and negative market returns (as used in Efficiency and the Bear: Short Sales and 
+Markets Around the World 47), 3) the variance ratio measures of random walk,48 4) the friction 
+measures of market efficiency,49 5) the mispricing score based on eleven return anomalies,50
+are all indirect measures of market efficiency based on a posited positive correlation between 
+each of these indirect measures and the actual efficiency of the market for a security, which is 
+not per se relevant but relevant only in the absence of an actual measure of market efficiency. 
+In this Article, we use two metrics, as separate objective, ordinal, and actual per se measures 
+of the efficiency of the market for a stock, which eliminates the need for the correlation-based 
+measures referred to above.51
+41 Jeffrey A. Busse & T. Clifton Green, Market Efficiency in Real-Time, 65 J. FIN. ECON. 415, 416 (2002). 42 See e.g., Eugene Fama, Efficient Capital Markets: A Review of Theory and Empirical Work, 25 J. FIN. 383, 
+383 (1970); Michael Jensen, Some Anomalous Evidence Regarding Market Efficiency, 6 J. FIN. ECON. 95 (1978); 
+Sanford Grossman & Joseph Stiglitz, On the Impossibility of Informationally Efficient Markets, 70 AM. ECON.
+REV. 393 (1980); Burton Malkiel, Efficient Market Hypothesis, in NEW PALGRAVE DICTIONARY OF MONEY &
+FIN. (John Eatwell et al. eds., 1992); Rafael Porta et al., Good News for Value Stocks: Further Evidence on 
+Market Efficiency (Nat’l Bureau of Econ. Rsch., Working Paper No. 5311, 1995); LARRY HARRIS, TRADING &
+EXCHANGES: MARKET MICROSTRUCTURE FOR PRACTITIONERS (Oxford U. Press, 2003); Tim Loughran & Jay 
+Ritter, Uniformly Least Powerful Tests of Market Efficiency, 55 J. FIN. ECON. 361-389 (2000); ANDREI SHLEIFER,
+INEFFICIENT MARKETS – AN INTRODUCTION TO BEHAVIORAL FIN. (Oxford U. Press, 2000); Paul Samuelson, An 
+Enjoyable Life Puzzling Over Modern Finance Theory,” 1 ANN. REV. FIN. ECON. 19-35 (2009); Dominik Rosch 
+et al., The Dynamics of Market Efficiency, 30 REV. FIN. STUD. 1151-1187 (2017).
+43 Fama et al., supra note 2, at 20. 44 See generally CAMPBELL ET AL., supra note 19. 45 See Charles Cao, Hedge Fund Holdings and Stock Market Efficiency, 8 REV. ASSET PRICING STUD. 77 (2018). 46 See Ekkehart Boehmer & Erik K. Kelley, Institutional Investors and the Informational Efficiency of Prices, 
+22 REV. FIN. STUD. 3563 (2009).
+47 See generally Arturo Bris et al., Efficiency and the Bear: Short Sales and Markets Around the World, 62 J.
+FIN. 1029, (2007). 48 See CAMPBELL ET AL., supra note 19. The last two methods were also used by Pedro Saffi and Kari Sigurdsson. 
+See generally Pedro Saffi & Kari Sigurdsson, Price Efficiency and Short Selling, 24 REV. FIN. STUD. 821 (2011).
+49 See generally Kewei Hou & Tobias Moskowitz, Market Frictions, Price Delay, and the Cross-Section of 
+Expected Returns, 18 REV. FIN. STUD. 981 (2005); Ekkehart Boehmer & Juan (Julie) Wu, Short Selling and the 
+Price Discovery Process, 26 REV. FIN. STUD. 287 (2013).
+50 See Robert Stambaugh et al., Arbitrage Asymmetry and the Idiosyncratic Volatility Puzzle, 70 J. FIN. 1903, 
+1905 (2015).
+51 See infra Section VI.C.
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+9
+III. DESCRIPTION OF DATA
+We use data on all publicly traded U.S. stocks from 2014 to September 2021.52 We 
+use intraday equity trading data from TAQ and intraday fixed income security trading data with 
+|| ≤ 100% from TRACE. We restrict attention to stocks corresponding to publicly 
+traded firms that did not have more than one Permno or Ticker or 3-digit NAICS Code53 from 
+2014 to September 2021. We further restrict attention to stock-days that did not have splits, 
+reverse splits, or dividends, and to stock-days that have positive closing price and positive 
+shares outstanding and other restrictions, that had the following fields in CRSP: date, closing 
+price, return, shares outstanding, trading volume, closing bid and ask, exchange membership, 
+NAICS Code, and had data on the following variables: intraday analyst forecasts and revisions 
+(from I/B/E/S), intraday earnings announcements and revisions (from I/B/E/S) with 
+| ℎ| ≤ $100, intraday Key Developments (from Capital IQ), daily data 
+from Compustat-CRSP Merged Database, and daily data for T-Bill yields and Nominal Broad 
+U.S. Dollar Index from FRED.54 Summary statistics are available in Table Appendix-1.55
+IV. EVENT STUDIES
+Since The Adjustment of Stock Prices to New Information, and An Empirical 
+Evaluation of Accounting Income Numbers,
+56 hundreds of event studies have been conducted 
+in the legal, financial economics, and accounting literatures.57 They test the impact, speed, and 
+unbiasedness of the market‘s reaction to an event, as pointed out in Capital Markets Research
+in Accounting.
+58
+In this Article, we do not ascribe any directional component to a potentially material 
+event, because it is impossible, without additional information or ad hoc judgment, to 
+objectively determine the market’s perception prior to any potentially material event and to 
+determine whether a particular potentially material event was better than expected news, worse 
+than expected news, or even a surprise at all.59 Colloquially speaking: good news or bad news 
+is not the relevant question here, and it requires subjective judgment to infer from the 
+description of an event if market efficiency would require the price of the security to go up, 
+down, or stay the same.60 In Petrobras Securities Litigation,61 the court addressed the issue of 
+directionality and in its opinion, stringently criticized the subjective and ad hoc marking of 
+52 See infra Section III.
+53 See North American Industry Classification System, UNITED STATES CENSUS BUREAU, 
+https://www.census.gov/naics (last visited Nov. 30, 2023 at 2:50 PM).
+54 We do not have access to intraday data for treasury yield and foreign exchange rates from FRED; we thank B. 
+Ravikumar for his help on this matter.
+55 See infra Appendix A.1. 56 See Fama et al., supra note 2; see also Ball & Brown, supra note 3. 57 See Kothari, supra note 4, at 107. 58 See id. at 187. 59 See supra Section I.
+60 See id.
+61 See In re Petrobras Sec. Litig., 312 F.R.D. 354, 361-62 (S.D.N.Y. 2016), aff’d in part, vacated in part sub 
+nom. In re Petrobras Sec., 862 F.3d 250 (2d Cir. 2017).
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+10
+directionality of events in the dueling expert witness reports.62 For example, one of the expert 
+witnesses in the litigation used the presence or absence of the text “corrupt” in the description 
+of an event to determine the relevant directionality of a potentially material event.63
+A. HalfHour-Level Averages
+We use intraday equity trading data from TAQ and intraday fixed income security 
+trading data from TRACE. As discussed earlier calendar-time, rather than transaction-time, is 
+relevant for market efficiency discussions.64 Therefore, we divide each trading day into 15 
+halfhours as follows: halfhour 0 for prior to 9:30 AM U.S. Eastern, halfhours 1-13 for each 
+halfhour of the trading hours 9:30 AM - 4 PM U.S. Eastern, and halfhour 14 for after 4 PM 
+U.S. Eastern. For each stock i, for each trading day, for each halfhour = {0, 1, . . ., 14} with 
+positive volume, we calculate the VWAP of trading prices, and then calculate the relevant 
+continuously compounded return for halfhour . We calculate the various weighted averages 
+for equity returns. For each fixed income security Ticker-Cusip, for each halfhour, we calculate 
+the Volume-Weighted Average Yield (“VWAY”) and for each Ticker, we calculate the simple 
+average of VWAY over all Cusips corresponding to that Ticker. Since we are using yield-tomaturity (“YTM”) with traded prices for the FI securities, we have comparability across 
+different coupons, maturities, and periodicities, thus, average yield is meaningful, and we use 
+a simple average to avoid the volatility of ticker-halfhour-yield because of substantially 
+differing trading volumes,65 and we calculate the various weighted averages for FI returns.66
+B. Market Model
+Our market model67 controls for intraday market equity returns, Nasdaq listing equity 
+returns, industry 3-digit NAICS Code, equity returns, market cap decile equity returns, intraday 
+volatility decile equity returns, dividend decile equity returns, Fama-French factor decile equity 
+returns, fixed income yield, and daily risk-free68 and foreign exchange rates.69 This enables one 
+to predict or benchmark the equity return for that firm i and that halfhour —the normal return 
+or expected return @!,#, and therefore, to measure the abnormal return @ !,# =
+$,# − @!,#.
+62 See In re Petrobras Sec. Litig., 116 F. Supp. 3d 368, 387-88 (S.D.N.Y July, 30 2015).
+63 See id. at 377. 64 See Albert Kyle & Anna Obizhaeva, Market Microstructure Invariance: Empirical Hypotheses, 84 
+ECONOMETRICA 1345, 1346 (2016). 65 See infra at p. 27. We are still left with other complexities such as seniority and convertibility, but we do not 
+have these data.
+66 See infra Appendix A (for these calculations). 67 See infra Appendix B. 68 Having the risk-free rate as a regressor in the market model is a generalization of using excess return (yield) 
+of security = return (yield) of security minus risk-free rate, in all calculations for equity (fixed income) securities. 
+See infra at p. 5 69 We do not have access to intraday data for foreign exchange rates or T-bill yields.
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+11
+C. Controlled Contrasts
+As detailed in Appendix C, for fixed n announcement halfhours and m relevant 
+halfhours, a systematic and controlled contrast between E @ !,#Efor Relevant HalfHours
+versus E @ !,#E for ControlHalfHours would be necessary for an objective, systematic 
+and ordinal direct measure of market efficiency. From the theory, it follows that E @ !,#E
+should be weakly higher for relevant halfhours than for control halfhours, and therefore, in this 
+Article, for each of the identification systems for potentially material events (collectively, “KD 
+and EA”) for each security i, for each quarter t, we provide an ordinal direct measure of market 
+efficiency for that security for that quarter as the negative of the coefficient of the interaction 
+between the indicator variable for relevant halfhours versus control halfhours, and as the case 
+may be, ticker and/or time period of interest, in a fixed effects regression of halfhour-level 
+absolute abnormal returns on tickers, time periods, and interactions.70
+D. Announcement Windows, Relevant Windows, and Post-Event Windows
+Big Data in Finance: Theory and Empirics, Chapter 9, Depending on how one 
+determines a potentially material event, we have two separate paths of research on event studies. 
+For the first path, we rely upon the marking of an event as a Key Development by Capital IQ, 
+a service of S&P Global, to study as a potentially material event for the issuing firm. For each 
+Key Development for the firm and for each relevant window halfhour following the Key 
+Development, we calculate the absolute abnormal return—we call this the Key Developments 
+Abnormal Response (“KDAR“) for that window halfhour following that Key Development. As 
+mentioned earlier, we do not try to ascribe any directional component to any Key Development, 
+because it is impossible to objectively and systematically determine from publicly available 
+data the market’s perceptions immediately prior to the relevant Key Development, therefore, it 
+is impossible to objectively and systematically determine whether a particular Key 
+Development was better than expected news, worse than expected news, or just as expected.71
+The second path studies the impact of earnings announcements and forecasts on 
+security prices and has a long and distinguished history.72 For each earnings announcement, 
+earnings announcement revision, analyst forecast, and analyst forecast revision, we calculate 
+70 See Bhattacharya, supra note 11. In Chapter 9 of Big Data in Finance: Theory and Empirics:
+[F]or each of the identification systems for potentially material events (KD and EA), for 
+each n, m, for each security i, for each quarter t, we provide an ordinal direct measure of 
+market efficiency for that security for that quarter as the negative of the positive part of 
+the difference in quarterly means between absolute abnormal returns for relevant halfhours 
+and absolute abnormal returns for control halfhours.
+Id. (footnote omitted). 71 See MARKETPLACE S&P GLOB, supra note 16. Even if one were to make an ad hoc inference about the 
+directionality of the surprise information in a key development, with errors about market information at the time 
+of a key development, from its description, one would compound error upon error, each of which would be nonidentifiable.
+72 See e.g., Ball & Brown, supra note 3, at 160; Daniel Collins & S.P. Kothari, An Analysis of Intertemporal and 
+Cross-Sectional Determinants of Earnings Response Coefficients, 11 J. ACCT. & ECON. 143, 144 (1989); S.P. 
+Kothari & Jerold B. Warner, Econometrics of Event Studies, in HANDBOOK OF CORP. FIN.: EMPIRICAL CORP.
+FIN. 3-36 (B. Espen Eckbo ed., 1st vol. 2007).
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+12
+the absolute abnormal return for each relevant window halfhour following the earnings 
+announcement, earnings announcement revision, analyst forecast, and analyst forecast 
+revision—we call this the Earnings Announcements Abnormal Response (“EAAR“) for that
+earnings announcement, earnings announcement revision, analyst forecast, and analyst forecast 
+revision. Please note that the actual announced earnings per share (“EPS“) or its deviation from 
+consensus forecasts do not enter our calculations for a number of reasons. Any estimate of the 
+market’s consensus prediction of the EPS at the point of an EPS announcement, whether it is 
+by using mean/medians of analyst forecasts, or by using valuation models, is sensitive to the 
+methodology used to estimate the market’s perception and the deviation from it,73 therefore, it 
+is impossible to objectively and systematically measure how much information about an actual 
+earnings announcement or forecast leaked out before the actual announcement or forecast, and, 
+therefore, it is impossible to objectively and systematically measure, from publicly available 
+data, the surprise component of the earnings announcement or forecast.
+For each stock, for each potentially material event at halfhour T, we consider the 
+announcement window halfhours to be ∈ {, . . . , + 2 − 1} = {, + 1} ( =
+2 ℎℎ), the relevant window halfhours to be ∈ { + 1 + 1, . . . , + 2 + 2 − 1} =
+{ + 2, + 3} ( = 2 ℎℎ), and the post-relevant windows to be ∈ { + 2 +
+2, . . . , + 2 + 2 + 6 − 1} = { + 4, . . . , + 9} ( = 6 ℎℎ).
+74 We calculate the 
+absolute abnormal return E @ !,#E for each stock i for each halfhour . As exemplified 
+in Table 0, we find that halfhour level absolute abnormal returns for the six trading halfhours 
+following each relevant window following each potentially material event (as identified in 
+Section IV.D),75 are not economically significantly higher than all non-announcement and all 
+non-relevant window trading halfhours; i.e., reaction, overreaction, correction, overcorrection, 
+bounceback, etc., are all systemically out of the system within a few hours after a potentially 
+material event, so it is imperative to use intraday data to consider event studies and market 
+efficiency: 1) systemically, two hours are sufficient to measure the impact of a potentially 
+material event in question, and 2) if one were to use daily data, one would miss the impact of 
+an event that reverts quickly, and/or worse yet, one could erroneously attribute the impact of 
+entirely unrelated events to the potentially material event in question. Therefore, all previous 
+event studies and market efficiency work using daily data, while of ground-breaking 
+significance in the past, have only historical value now, with the caveat that each empirical 
+work has to be done, of course, within its data and computational constraints.
+76
+73 See Chin-Han Chiang et al., Robust Measures of Earnings Surprises, 74 J. FIN. 943 (2018) (detailing biases in 
+the calculations of deviations from consensus); see also S.P. Kothari et al., Analysts’ Forecasts and Asset Pricing: 
+A Survey, 8 ANN. REV. FIN. ECON. 197 (2016) (surveying literature on quality, bias, and predictability of earning 
+forecasts). Treating these analyst forecasts as representing market information at the time of a potentially material 
+event, with forecast errors, would need compounding error upon error, each of which would be non-identifiable. 
+See supra Section IV.D; see also Rajeev R. Bhattacharya & Mahendra R. Gupta, Diligence, Objectivity, Quality, 
+and Accuracy, J. ACCT. LITERATURE (manuscript at 4), https://doi.org/10.1108/JAL-02-2023-0031. 74 See Rajeev R. Bhattacharya & Mahendra R. Gupta, Impact of FINRA 2241 44 (June 25, 2023) (unpublished 
+manuscript), https://ssrn.com/abstract=4490828 (discussing different sensitivities). 75 See infra Table 0. 76 See infra Section II; see also Ball & Brown, supra note 3, at 160, 163.
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+13
+V. ANALYSIS OF MARKET EFFICIENCY IN SECURITIES CLASS ACTIONS—
+THE LEGAL FRAMEWORK
+Section 10(b) of the Securities Exchange Act of 1934 prohibits the “use or 
+employ[ment]” of any “deceptive device” “in connection with the purchase or sale of any 
+security” in breach of rules set out by the Securities and Exchange Commission (“SEC”).77 SEC 
+Rule 10b-5 prohibits entities subject to this Act from “mak[ing] any untrue statement of a 
+material fact” or “omit[ting] to state a material fact necessary in order to make the statements 
+not misleading.”78 Courts have inferred from these sources an implied private cause of action 
+permitting the recovery of damages for securities fraud,79 where a plaintiff can prove (among 
+other things) a material misrepresentation or omission by the defendant, and the plaintiff’s 
+reliance on that misrepresentation or omission (the “Reliance Requirement”).80
+Several hundred securities class actions are typically filed each year on the above 
+basis.81 Often, defendants will file a motion to dismiss and will be successful roughly half the 
+time.82 Where an action advances beyond a motion to dismiss, the next major hurdle is the class 
+certification hearing, where the court assesses whether the action is appropriate to be brought 
+as a class action, and numerous plaintiffs collectively pursue essentially the same claim against 
+the defendant at the same time rather than each plaintiff’s claims proceeding individually to 
+trial.83 To clear this bar, plaintiffs must demonstrate (among several other requirements) that 
+“the questions of law or fact common to class members predominate over any questions 
+affecting only individual members.”84
+In relation to the Reliance Requirement, in the context of the court’s consideration of 
+predominance at the class certification stage, the courts established a rebuttable presumption of 
+class-wide reliance (based on the so-called fraud-on-the-market theory that “an investor 
+presumptively relies on a misrepresentation so long as it was reflected in the market price at 
+the time of his transaction”85) where the plaintiffs can prove that: 1) the alleged 
+misrepresentation was publicly known; 2) it was material;86 3) the stock traded in an efficient 
+77 15 U.S.C. § 78j(b).
+78 17 C.F.R. § 240.10b-5(b) (1992); see Jean Eaglesham, SEC Is Focusing on Earnings Manipulation by 
+Companies, WALL ST. J. (Mar. 10, 2023, 5:30 AM), https://www.wsj.com/articles/sec-is-focusing-on-earningsmanipulation-by-companies-9bc2c592 [https://perma.cc/EW8R-2UCR].
+79 See Halliburton Co. v. Erica P. John Fund, Inc., 573 U.S. 258, 267 (2014).
+80 See id. 81 See, e.g., Securities Class Action Filings: 2022 Year in Review, CORNERSTONE RSCH. (2023), 
+https://www.cornerstone.com/wp-content/uploads/2023/05/Securities-Class-Action-Filings-2022-Year-inReview.pdf [https://perma.cc/2CU8-4XQC]; see also Securities Exchange Act of 1933, 15 U.S.C § 77a 
+(indicating that although such cases are predominantly filed in federal court, although they can sometimes be 
+brought in state court pursuant to the Act).
+82 See Albert H. Choi, Just Say No? Shareholder Voting on Securities Class Actions, 1 U. CHI. BUS. L. REV. 41, 
+62 (2022).
+83 See id. 84 FED. R. CIV. P. 23(b)(3). 85 Erica P. John Fund, Inc. v. Halliburton Co., 563 U.S. 804, 813 (2011). 86 The Supreme Court has ruled that this particular aspect need not be proved by plaintiffs at the class certification 
+stage and is more appropriately left to the merits stage, since it does not bear on the predominance question. 
+Amgen Inc. v. Connecticut Retirement Plans and Trust Funds, 568 U.S. 455, 466-68 (2013).
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+14
+market.; and 4) the plaintiff traded the stock between the time the misrepresentation was made 
+and when the truth was revealed (the “Basic Presumption”87). Defendants can rebut the Basic 
+Presumption through “[a]ny showing that severs the link between the alleged misrepresentation 
+and either the price received (or paid) by the plaintiff, or his decision to trade at a fair market 
+price.”88 In practice, of the several thousand securities class actions filed since Halliburton II, 
+there are few occasions where the Basic Presumption was rebutted.89 As a consequence, the 
+majority of motions for class certification are granted.90 However, the Supreme Court has 
+recently confirmed that defendants bear the ultimate burden of persuasion (and not simply an 
+initial burden of production). When attempting to rebut the Basic Presumption, a court must 
+consider all evidence relevant to price impact at the class certification stage (including the 
+generic nature of an alleged misrepresentation), even if that evidence is relevant to a merits 
+question such as materiality.91
+As regards the third limb of the Basic Presumption—market efficiency—one 
+significant decision by the U.S. District Court for the District of New Jersey enumerated several 
+factors that should be considered, including: 1) the average weekly trading volume; 2) the 
+number of security analysts following and reporting on the security; 3) the extent to which 
+market makers traded the security; 4) the issuer’s eligibility to file a U.S. SEC registration Form 
+S-3; and 5) the cause-and-effect relationship between material disclosures and changes in the 
+security’s price (collectively, the “Cammer Factors).92 These Cammer Factors have been 
+adopted by a number of other courts.93 Still courts have added additional considerations.94 For 
+instance, one court considered the company’s market capitalization and the size of the public 
+float for the security,95 while another considered the ability to sell short the security and the 
+level of autocorrelation between the security’s prices.96 A class certification hearing is not a 
+trial on the merits and is often conducted before full discovery is completed, therefore plaintiffs 
+do not need to prove each of the claim elements on the merits at the class certification stage.97
+87 See generally Basic v. Levinson, 485 U.S. 224 (1988). 88 Id. at 248.
+89 See generally Ohio Public Employees Retirement System v. Federal Home Loan Mortgage Corp., Civ. No. 
+08-160, 2018 WL 3861840 (N.D. Ohio Aug. 14, 2018); In Re Finisar Corp. Securities Litigation, Civ. No. 11-
+1252, 2017 WL 6026244 (N.D. Cal. Dec. 5, 2017); In Re Intuitive Surgical Securities Litigation, Civ. No. 13-
+1920, 2016 WL 7425926 (N.D. Cal. Dec. 22, 2016); Erica P. John Fund, Inc. v. Halliburton Co., 309 F.R.D. 251 
+(N.D. Tex. 2015).
+90 See Janeen McIntosh et al., Recent Trends in Securities Class Action Litigation: 2022 Full-Year Review, 
+NERA ECON. CONSULTING (Jan. 24, 2023),
+https://www.nera.com/content/dam/nera/publications/2023/PUB_2022_Full_Year_Trends.pdf 
+[https://perma.cc/857L-FUYT]. 91 Goldman Sachs Group, Inc. v. Arkansas Teacher Retirement System, et al., 141 S.Ct. 1951, 1960 (2021).
+92 Cammer v. Bloom, 711 F. Supp. 1264, 1286-87 (D. N.J. 1989).
+93 See e.g., In re DVI, Inc. Sec. Litig., 639 F.3d 623, 633 n.14 (3rd Cir. 2013); Teamsters Local 445 Freight Div. 
+Pension Fund v. Bombardier, Inc., 546 F.3d 196, 204, n. 11 (2d Cir. 2008); In re Xcelera.com Sec. Litig., 430 
+F.3d 503, 508 (1st Cir. 2005); Unger v. Amedisys Inc., 401 F.3d 316, 323 (5th Cir. 2005); Gariety v. Grant 
+Thornton, LLP, 368 F.3d 356, 368 (4th Cir. 2004); Binder v. Gillespie, 184 F. 3d 1059, 1064-65 (9th Cir. 1999). 94 See Charles R. Ksomo, Mismatch: The Misuse of Market Efficiency in Market Manipulation Class Actions, 52 
+WM. & MARY L. REV. 1111, 1133 (2011). 95 See Krogman v. Sterritt, 202 F.R.D. 467, 478 (N.D. Tex. 2001).
+96 For the latest research in financial economics on the associations of market efficiency with these factors see
+Bhattacharya, supra note 11. See In re Polymedica Corp. Sec. Litig., 432 F.3d 1, 18 at n. 21 (1st Cir. 2005). 97 See generally In re Initial Pub. Offerings Sec. Litig., 471 F.3d 24 (2d Cir. 2006).
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+15
+Plaintiffs are required to prove—not simply plead—the Rule 23(a) class action requirements, 
+and typically, that questions of law or fact common to all class members predominate over 
+questions affecting individual members.98
+Tensions have grown as the proof required to establish class action requirements spills 
+over into the merits of the underlying claims themselves.99 Thus, courts are struggling to 
+determine what and how much information must be proven during class certification 
+contests.100 Amid two significant 5-4 decisions reversing class certification decisions because 
+plaintiffs failed to prove the requirements of Rule 23, Wal-Mart Stores, Inc. v. Dukes, and 
+Comcast Corp. v. Behrend, the United States Supreme Court has now issued other significant 
+decisions regarding securities class actions cases that ultimately continue to support the 1988 
+Basic decision even while demonstrating that the fraud-on-the-market theory and the efficient 
+market theory increasingly are coming under harsh attack.101 In Amgen Inc. v. Connecticut 
+Retirement Plans and Trust Funds, a 6-3 majority decided that the materiality requirement of a 
+securities claim was sufficiently distinct from market efficiency and the public nature of 
+securities claims, such that it did not have to be established at the class certification stage.102
+The Court reasoned whether a misrepresentation was sufficiently material to a stock price and
+was a matter of common proof such that the courts do not need to delve into the merits of this 
+issue during class certification.103 The Court held that, while the parties are presenting event 
+studies that speak to reliance (and the predominance of the common reliance evidence) to show 
+that a stock price effect exists, plaintiffs need not prove during class certification that the stock
+price effect was material.104 Although implicit, neither Justice Scalia nor Justice Thomas’s 
+dissent (joined by Justices Scalia and Kennedy) explicitly suggested that the Basic decision 
+should be overruled, presumably because that issue was not directly before the Court. Amgen
+is consistent with the Court’s unanimous decision two years earlier in Erica P. John Fund, Inc. 
+v. Halliburton Co, U.S. (2011), which held that plaintiffs need not prove loss causation, and 
+that the misrepresentation in question caused the plaintiffs’ economic loss, at the class 
+certification stage.105 The Fifth Circuit Court of Appeals had previously ruled in favor of 
+Halliburton, holding that plaintiffs’ proof of loss causation, namely that company statements 
+“actually caused the stock price to fall and resulted in the losses,” was necessary to invoke the 
+Basic Presumption of reliance.106 Before the Supreme Court, Halliburton argued that 
+insufficient evidence existed as to any price impact, thus suggesting there was nothing to rely 
+upon in order to invoke the Basic Presumption.107
+98 See id. at 29. 99 See id. 100 See id. at 43. 101 See Amgen Inc. v. Conn. Ret. Plans & Tr. Funds, 568 U.S. 455, 564-69 (2013).
+102 See id. at 473.
+103 See id. at 474. 104 See id. at 481. 105 See Securities Litigation Defense Implications from the Supreme Court’s Amgen Opinion, JONES DAY, 
+https://www.jonesday.com/en/insights/2013/04/securities-litigation-defense-implications-from-the-supremecourts-iamgeni-opinion [https://perma.cc/3NLG-HRTE] (last visited Oct. 25, 2023). 106 Erica P. John Fund, Inc. v. Halliburton Co., 131 S.Ct. 2179, 2184 (2011). 107 See id. at 2186.
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+16
+The Supreme Court refused to examine the economic evidence and simply concluded 
+that the Court of Appeals erred in conflating loss causation with the reliance element and the 
+Basic Presumption of reliance.108 The Court remanded the matter for reconsideration of the trial 
+court’s class certification decision; the district court granted class certification, which the Fifth 
+Circuit subsequently affirmed.109 Halliburton then appealed to the Supreme Court and presented 
+two issues.110 First, the Court addressed whether the Basic Presumption of liability should be 
+overruled, thus ruling on whether plaintiffs should be required to prove actual reliance, 
+including whether class-wide common proof of reliance was now required at the class 
+certification stage of litigation.111 Second, the Court addressed the extent to which evidence of 
+a presumption of reliance could be rebutted by defendants at the class certification stage, 
+recognizing that class certification hearings are not meant to be trials on the merits but also 
+recognizing that the Court’s recent class action decisions place increasing burdens on plaintiffs 
+to prove (as opposed to presume) the class action requirements of Rule 23.112 The Supreme 
+Court yet again unanimously vacated the lower court rulings and instructed the trial court to reexamine the evidence on class certification.113
+Five justices, led by Chief Justice Roberts, determined that Halliburton should be 
+given an opportunity to rebut the Basic Presumption of reliance by presenting evidence of a 
+lack of any price impact.114 Justices Ginsburg, Breyer and Sotomayor concurred, recognizing 
+that the evidentiary burden of rebutting the Basic Presumption falls on defendants and thus 
+should not be an additional hurdle for class action plaintiffs.115 Justices Thomas, Alito and 
+Scalia concurred in the result but suggested that Basic should now be overruled, in part because 
+“overwhelming empirical evidence” now suggests that even when markets do incorporate 
+public information, they often fail to do so accurately and that “[s]cores” of “efficiency-defying 
+anomalies” such as market swings in the absence of new information and prolonged deviations 
+from underlying asset values make market efficiency “more contestable than ever.”116 Thus, the 
+Basic Presumption remains a fixture of federal securities litigation even though the judicial 
+system is now amply aware of the debates within finance theory about the extent and usefulness 
+of the efficient market hypothesis.117
+Furthermore, academic debates themselves will certainly carry over into future class 
+certification analyses as Halliburton supports defendants’ efforts to garner evidence and present 
+their own event studies challenging the efficiency of the information signals associated with 
+plaintiffs’ allegations of misrepresentations.118 Without doubt, federal district courts will 
+continue to conduct more rigorous reviews of market efficiency at the class certification stage 
+108 See id. 109 See Halliburton Co. v. Erica P. John Fund, Inc., 134 S.Ct. 2398, 2406 (2014). 110 See id.
+111 See id.
+112 See id. at 2407. 113 See id. at 2417. 114 See id. at 2398-99. 115 See id. at 2417. 116 Id. at 2417, 2421.
+117 Rajeev Bhattacharya & Stephen O’Brien, Arbitrage Risk and Market Efficiency – Applications to Securities 
+Class Actions, 55 SANTA CLARA L. REV. 643, 653 (2015). 118 Id.
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+17
+of securities lawsuits.119 The scope and structure of these analyses are necessarily case-by-case, 
+left to the parties and their financial experts to present evidence to the courts, with the courts 
+then making legal determinations about whether the pertinent markets were “efficient enough” 
+to justify the Basic Presumption of reliance. This Article emphasizes relative efficiency, that 1) 
+prices of securities reflect, albeit to varying extents, all publicly available information, 2) prices 
+adjust, albeit to varying extents, to new information, and 3) abnormal returns are close to zero, 
+also albeit to various extents—therefore, markets for securities are efficient in varying 
+degrees.120
+In order to appreciate how trading volume impacts market efficiency, we need to 
+understand why a trade occurs. In particular, “investors trade among themselves because they 
+are different,”121 and “volume reflects a lack of consensus regarding the price.”122 However, 
+there is no reason that higher dispersion in investor valuations necessarily leads to higher 
+market efficiency; therefore, the impact on market efficiency of normalized trading volume, 
+everything else remaining the same, is fundamentally an empirical question—and the empirical 
+answer is that the efficiency of the market for a stock is not significantly and positively affected 
+by trading volume.123 The demand for market making services is an increasing function of 
+trading volume, for instance, through higher dispersion of the valuation profile.124 As a 
+corollary, everything else remaining the same,125 a firm is more likely to enter (or not exit) the 
+market for market-making services if there is higher trading volume (and thus, higher marketmaking profits), for instance, through a higher dispersion of the valuation profile for that 
+security.126 However, with a higher number of market makers, competition for trades would put 
+downward pressure on the transaction costs, and economies of scale will determine the 
+equilibrium impact on the price of market making services.127 Therefore, the direction of impact 
+of the number of market makers for a security on the efficiency of the market for that security 
+can only be determined empirically—and the empirical answer is that the efficiency of the 
+market for a stock is not significantly and positively affected by the number of market 
+makers.128 Recent empirical work also shows that short sales costs & constraints do not 
+negatively impact market efficiency.129
+119 Id.
+120 See Halliburton Co., 573 U.S. at 2414; see also In re Petrobras Sec. Litig., No. 1:14-cv-09662-JSR, slip op. 
+at 6.
+121 Jiang Wang, A Model of Competitive Stock Trading Volume, 102 J. POL. ECON. 127, 128 (1994). 122 See William Beaver, The Information Content of Annual Earnings Announcements, 6 J. ACCT. RSCH. 67, 69 
+(1968).
+123 See Bhattacharya & O’Brien, supra note 117, at 666. 124 See id. 125 In particular, keeping constant other incentives of investment banks, such as profits from proprietary trading. 126 See Bhattacharya & O’Brien, supra note 117, at 666. 127 See Rajeev Bhattacharya, Strong Non-Monotonicity of Equilibrium Price – Static and Dynamic Models 1
+(May 25, 2022) (unpublished manuscript), https://ssrn.com/abstract=2980215. 128 See Bhattacharya & O’Brien, supra note 117, at 666. 129 See Bhattacharya, supra note 11; see also Bhattacharya & O’Brien, supra note 117, at 666 (discussing the 
+role of market efficiency in securities regulation); see generally Bradford Cornell & James Rutten, Market 
+Efficiency, Crashes, and Securities Litigation, 81 TULANE L. REV. 443 (2006); Rajeev Bhattacharya, Objective 
+Measures of Market Efficiency; Applications to Securities Class Actions and Valuations, 16 BERKELEY BUS. L.J.
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+18
+VI. METHODOLOGY AND EMPIRICAL RESULTS
+A. Economic Significance
+Following Big Data in Finance: Theory and Empirics, Chapter 4, when dealing with 
+large numbers of observations, we replace each variable x, except for each indicator or time 
+variable, by its normalization130:
+T_ ()Y = Z
+ − ()
+() ^ ~[0,1]
+where is the cumulative likelihood function of a standard Gaussian random variable 
+and represents a uniform distribution. This is a rigorization of the number of standard 
+deviations approach to interpretation of coefficients, which also implicitly assumes Gaussian 
+distributions. Therefore, all such regression coefficients are comparable, a coefficient (, )
+on the regression of the regressand y on the regressor x means that a 1% increase in the 
+cumulative probability of x is associated with a (, )% increase in the cumulative probability 
+of y.
+131 Similarly, a regression coefficient (, ) on the regression of the regressand y on the 
+indicator variable means that there is a (, ) higher cumulative probability of y for 
+membership in , and a regression coefficient (,) on the regression of the regressand y on 
+time period means that there is a (,) increase in cumulative probability of y from one time 
+period to the next. 132
+The impact of a regressor x on the regressand y is economically significant positive if 
+the relevant coefficient (, ) > 0.01 and is economically significant negative if the relevant 
+coefficient (, ) < −0.01. We indicate economically significant positive impacts by green 
+highlighting and economically significant negative impacts by red highlighting. 133
+B. Fixed Effects
+As exemplified in Table 0, and as found in Big Data in Finance: Theory and Empirics, 
+using cutting-edge econometrics of one-, two-, and three-way fixed effects in the regression of 
+halfhour-level absolute abnormal returns on tickers, time periods, and interactions, detailed in 
+Section IV.C and Appendix C,134 we find in this Article that halfhour-level absolute abnormal 
+returns for the six trading halfhours following each relevant window following each potentially 
+249 (2019) (describing the importance of relative efficiency for valuations (especially Mark-to-Market) and 
+securities class actions (especially class certification)).
+130 See Bhattacharya, supra note 11. 131 It is worth pointing out that Percentile(x)≈RoundUp(100Φ(Z_Score(x))) and, therefore, |β(y,x)|≥1 implies that 
+a move of x to one higher percentile causes y to move up (approximately) Round(β(y,x)) percentiles, and 
+0≤|β(y,x)|<1 implies that a move of x to one higher percentile causes y to stay in (approximately) the same 
+percentile. Similarly, Millenile(x)≈RoundUp(1,000Φ(Z_Score(x))), Decile(x)≈RoundUp(10Φ(Z_Score(x))), 
+Quartile(x)≈RoundUp(4Φ(Z_Score(x))), etc.
+132 For a robust defense of responsible science, that science needs to have integrity and relevance see Hiroyki 
+Aman et al., Responsible science: Celebrating the 50-year Legacy of Ball and Brown (1968) Using a 
+Registration-based Framework, 56 PACIFIC BASIN FIN. J. 129 (2019).
+133 See Bhattacharya, supra note 11.
+134 See WILLIAM GREENE, ECONOMETRIC ANALYSIS, PEARSON (2018); see also WOOLDRIDGE, supra note 19; 
+see also CAMPBELL ET AL., supra note 19.
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+19
+material event (as identified in Section IV.D),135 are not economically significantly higher than 
+all non-announcement and all non-relevant window trading halfhours; i.e., reaction, 
+overreaction, correction, overcorrection, bounceback, etc., are systemically all out of the system 
+within a few hours after a potentially material event; note that, otherwise, the coefficients for 
+the post-event indicator variables in the fixed effects regressions of halfhour-level absolute 
+abnormal returns would have to be statistically and economically significant.136 It is, therefore, 
+imperative to use intraday data for event studies and market efficiency work: 1) systemically, 
+two hours are sufficient to measure the impact of a potentially material event in question, and 
+2) if one were to use daily data, one would miss the impact of an event that reverts quickly, 
+and/or worse yet, one could erroneously attribute the impact of entirely unrelated events to the 
+potentially material event in question.137
+135 See Bhattacharya, supra note 11. 136 See infra Table 1. 137 See Li et al., supra note 14, at 825.
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+20
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+21
+C. Objective, Systematic, Independent and Ordinal Per Se Measures of Market 
+Efficiency
+As described in Section IV.C-D, for each stock i, for each potentially material event 
+at halfhour T, we consider the announcement window halfhours to be ∈ {, . . ., + 2 − 1} =
+{, + 1} ( = 2 ℎℎ), the relevant window halfhours to be ∈ { + 1 + 1, . . . , +
+2 + 2 − 1} = { + 2, + 3} ( = 2 ℎℎ), and the control halfhours are all the 
+halfhours that are neither announcement window halfhours nor relevant window halfhours.138
+We calculate the absolute abnormal return E @ !,#E, for each stock i, for each halfhour 
+. A systematic and controlled contrast between E @ !,#E for relevant window halfhours 
+versus control (non-announcement and non-relevant) window halfhours—measured by the 
+negative of the coefficient of the fixed effect of the interaction between the indicator variable, 
+and as the case maybe, ticker and/or time period of interest in the regression of halfhour-level 
+absolute abnormal returns on tickers, time periods, and interactions—provides an objective, 
+systematic and ordinal actual per se measure of market efficiency for the relevant ticker, time 
+period, or ticker-time period.
+Systematic, independent, and objective characterizations of each ticker-year, tickerhalfyear, ticker-quarter, and ticker-month, and each year, halfyear, quarter, and month, 2014 to 
+September 2021, as statistically and economically significant efficient, statistically, and 
+economically significant inefficient, or otherwise, are available upon request from the 
+corresponding author.
+VII. CONCLUSIONS
+Analyzing all publicly traded U.S. stocks from 2014 - September 2021, using intraday 
+data from TAQ, TRACE, I/B/E/S, and Capital IQ, using daily data from CRSP, Compustat, 
+CRSP-Compustat Merged Database, and FRED, we found that all reaction, overreaction, 
+correction, overcorrection, bounceback, etc., are systemically all out of the system within two 
+hours after a potentially material event for all publicly traded U.S. equities over 2014 to 
+September 2021. Therefore, it is imperative to use high-frequency intraday data for event 
+studies and market efficiency work: 1) systemically, two hours are sufficient to measure the 
+impact of a potentially material event in question, and 2) if one were to use daily data, one 
+would miss the impact of an event that reverts quickly, and/or worse yet, one could erroneously 
+attribute the impact of entirely unrelated events to the potentially material event in question.139
+Thus, all previous event studies and market efficiency work using daily data, while of groundbreaking significance in the past, have only historical value now.
+138 See Bhattacharya & Gupta, supra note 74 (discussing different sensitivities). 139 See infra p. 2.
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+22
+APPENDIX A. HALFHOUR-LEVEL AVERAGES
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+23
+We use intraday equity trading data from TAQ and intraday fixed income security 
+trading data from TRACE. We divide each trading day into 15 halfhours as follows: halfhour 
+0 for prior to 9:30 AM, halfhour 14 for after 4 PM, and halfhours 1-13 for each half-hour of the 
+trading hours. For each stock , for each trading day, for each halfhour = {0,1, . . . ,14} with 
+positive volume, we calculate the Volume-Weighted Average Price
+$,# = ∑%∈#T_$,%YT_$,%Y
+∑%∈#T_$,%Y
+of trading prices, and then calculate the relevant continuously compounded return for 
+halfhour 
+$,# = T$,#Y − T$,#'(Y
+where
+_$,%
+and
+__$,#
+denote the equity volume and fixed income volume for ticker in halfhour . We 
+calculate the various weighted averages for equity returns as follows.
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+24
+_#
+= ∑)T_),#YT_),#Y
+∑)T_),#Y
+_$,#
+= ∑)∈*+,-+.T_),#YT_),#Y
+∑)∈*+,-+.T_),#Y
+_3$,#
+= ∑)∈*/012'34$5$6T_),#YT_),#Y
+∑)∈*/012'34$5$6T_),#Y
+_$,#
+= ∑)∈7+89:6'1+;'4:<$%:T_),#YT_),#Y
+∑)∈7+89:6'1+;'4:<$%:T_),#Y
+_$,#
+= ∑)∈0=68+4+>'?@%+6$%$6>'4:<$%:T_),#YT_),#Y
+∑)∈0=68+4+>'?@%+6$%$6>'4:<$%: _),#
+_ $,#
+= ∑)∈4$A$-:=-'B$:%-'4:<$%:T_),#YT_),#Y
+∑)∈4$A$-:=-'B$:%-'4:<$%:T_),#Y
+_$,#
+= ∑)∈C@@9'6@'7+89:6'D+6$@'4:<$%:T_),#YT_),#Y
+∑)∈C@@9'6@'7+89:6'D+6$@'4:<$%:T_),#Y
+_$,#
+= ∑)∈E8$<:'6@'F+8=$=5,'D+6$@'4:<$%:T_),#YT_),#Y
+∑)∈E8$<:'6@'F+8=$=5,'D+6$@'4:<$%:T_),#Y
+_$,#
+= ∑)∈4:G6'6@'F.H$6>'D+6$@'4:<$%:T_),#YT_),#Y
+∑)∈4:G6'6@'F.H$6>'D+6$@'4:<$%:T_),#Y
+For each fixed income security Ticker-Cusip, we calculate the volume-weighted 
+average yield (VWAY)
+$,# = ___$,#
+= ∑%∈#T__$,%YT__$,%Y
+∑%∈#T__$,%Y
+and for each Ticker, we calculate the simple average of VWAY over all Cusips
+corresponding to that Ticker. Since we are using yield-to-maturity (YTM) with traded prices 
+for the FI securities, we have comparability across different coupons, maturities, and 
+periodicities, thus, the following average is meaningful, and we use a simple average to avoid 
+the volatility of ticker-halfhour-yield because of substantially differing trading volumes. We 
+am still left with other complexities such as seniority and convertibility, but we do not have 
+these data.
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+25
+_$,#
+= ∑1H,$;∈I$<9:8T__$,#Y
+∑ (1) 1H,$;∈I$<9:8
+_#
+= ∑)T_),#YT__),#Y
+∑)T__),#Y
+and,
+#
+= Yield of T-Bill, 4-Weeks Maturity, for Date including HalfHour 
+#
+= Nominal Broad U.S. Dollar Index for Date including HalfHour 
+APPENDIX B. MARKET MODEL
+The market model is given by the return of Ticker in halfhour , $,#
+= 
++TF.D:6 _ /%%K+%LK@H8Y(_#)
++TF.D:6 _ *+,-+. _ K+%LK@H8YT_$,#Y
++TF.D:6 _ */01234$5K+%LK@H8YT_3$,#Y
++TF.D:6 _ 71+;4:<$%:K+%LK@H8YT_$,#Y
++TF.D:6 _0=68+?6>4:<$%:K+%LK@H8YT_$,#Y
++TF.D:6 _ 4$AB$:%-4:<$%:K+%LK@H8YT_$,#Y
++TF.D:6 _C7D+6$@4:<$%:K+%LK@H8YT_$,#Y
++TF.D:6 _ EFD+6$@4:<$%:K+%LK@H8YT_$,#Y
++TF.D:6 _ 4FD+6$@4:<$%:K+%LK@H8YT_$,#Y
++TM0B%- _ /%%K+%LK@H8Y(_#)
++(D$,9M8::)(#)
++(*@NC8@+-O240=-:P)(#)
++$,#
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+26
+Table Appendix-3
+Summary Statistics of Market Model Variables (2014 - September 2021)
+Regressor
+Number
+of Obs Mean
+Standard
+Deviation
+Upper
+Quartile Median
+Lower
+Quartile
+EqRet_TickerHalfHour 50,106,402 -0.0000010 0.0886823 0.0025405 0.0000000 -0.0025618
+EqRet_AllHalfHour 28,978 0.0019833 0.0280379 0.0026144 0.0002849 -0.0019915
+EqRet_NasdaqHalfHour 57,956 0.0016141 0.0304606 0.0026501 0.0002452 -0.0021699
+EqRet_NAICS3DigHalfHour 2,312,853 -0.0001584 0.0397222 0.0021762 0.0000352 -0.0020869
+EqRet_MCapDecileHalfHour 289,753 0.0008127 0.0401322 0.0034137 0.0001037 -0.0032963
+EqRet_IntraVtyDecileHalfHour 179,869 -0.0009897 0.0975003 0.0078628 0.0001303 -0.0071964
+EqRet_DivYieldDecileHalfHour 231,817 -0.0001597 0.0307727 0.0021047 0.0001144 -0.0018948
+EqRet_BMRatioDecileHalfHour 238,459 0.0005654 0.0408437 0.0030663 0.0001485 -0.0028001
+EqRet_PERatioDecileHalfHour 289,724 0.0006007 0.0325037 0.0024571 0.0001316 -0.0022033
+EqRet_DERatioDecileHalfHour 281,367 0.0002127 0.0336754 0.0028886 0.0000606 -0.0027801
+NomBroadUSDIndex 1,899 110.92702 6.97292 115.31330 112.65630 109.04920
+TBill_4Wk 1,919 0.0070353 0.0082358 0.0150000 0.0023000 0.0004000
+FIYld_AllHalfHour 28,929 0.0385361 0.0168060 0.0425658 0.0371158 0.0318501
+IT IS IMPERATIVE TO PERFORM EVENT STUDIES ONLY WITH HIGH-FREQUENCY INTRADAY 
+DATA FOR SECURITIES LITIGATIONS AND VALUATIONS
+27
+APPENDIX C. CONTROLLED CONTRASTS
+Fix universe of analysis as set of halfhours. Fix announcement window length ≥
+1, relevant window length ≥ 1, and post-relevant window length ≥ 1. Consider a fixed 
+time period t (e.g., quarter, month) as a set of halfhours. Consider event identification method 
+ ⊆ as potentially material events; in this Article, we use two identification methods for 
+potentially material events: a) key developments (“KD”), identified by S&P Global CapitalIQ, 
+and b) earnings announcements and revisions, and analyst forecasts and revisions (“EA”); see 
+Section IV.D for details. For potentially material event at halfhour ∈ ∩ , 
+(, ) = {, . . ., + − 1} ( ℎℎ), 
+(, , ) = { + , . . ., + + − 1} ( ℎℎ), and 
+therefore TreatmentHalfHours(, , ) = (, ) ∪
+(, , ) = {, . . ., + + − 1} ( + ℎℎ), and 
+therefore, (, , , ) consists of each half hour in t that is not a treatment 
+halfhour for any potentially material event at halfhour ∈ ∩ , and, therefore, equals
+{ ∈ : ∉ {, . . . , + + − 1}, ∀ ∈ ∩ }. And, finally, the list of post-relevant 
+halfhours for event at time halfhour ∈ is (, , , ) =
+{ + + , . . ., + + + − 1} (l halfhours immediately following the relevant 
+halfhours).
+For fixed n, m, l, a systematic and controlled comparison between E @ !,#Efor 
+(, , , ) versus E @ !,#E for 
+(, , , ) is a measure of whether there is any systemic impact of the 
+potentially material event T beyond the announcement and relevant halfhours.140 If this contrast 
+is not statistically and economically significant positive, it would demonstrate that 1) ( + )
+halfhours are systemically sufficient to measure the impact over l halfhours of a potentially 
+material event in question, and 2) if one were to use daily data, one would miss the impact of 
+an event that reverts quickly, and/or worse yet, one could erroneously attribute the impact of 
+entirely unrelated events to the potentially material event in question, and, therefore, although 
+of enormous historical significance, events studies using daily data would be entirely unreliable 
+today.
+For fixed n, m, a systematic and controlled contrast between E @ !,#E for 
+(, , ) versus E @ !,#E for (, , , )
+would be necessary for an objective, systematic and ordinal direct measure of market efficiency 
+with n announcement halfhours and m relevant halfhours. From the theory, it follows that 
+E @ !,#E should be weakly higher for relevant halfhours than for control halfhours, and 
+therefore, in this Article, for each of the identification systems for potentially material events 
+(collectively, “KD and EA”), for each n, m, for each security i, for each quarter t, we provide 
+an ordinal direct measure of market efficiency for that security for that quarter as the negative 
+of the coefficient of the interaction between the indicator variable for relevant halfhours versus 
+control halfhours, and as the case maybe, ticker and/or time period of interest, in a fixed effects 
+140 The rational expectations models tell us that the speed of impact probably depends on whether there is further 
+information that has not been disclosed. See generally F. Douglas Foster & S. Viswanathan, Strategic Trading 
+When Agents Forecast the Forecasts of Others, 51 J. FIN. 1437 (1996); MAUREEN O’HARA, MARKET 
+MICROSTRUCTURE THEORY, (Blackwell Publ’g, 1997).
+THE JOURNAL OF INTERNATIONAL BUSINESS & LAW
+28
+regression of halfhour-level absolute abnormal returns on tickers, time periods, and 
+interactions.141
+141 Bhattacharya, supra note 11. In Chapter 9, an objective, systematic and ordinal direct measure of market 
+efficiency is provided by the negative of the positive part of the difference in quarterly means between absolute 
+abnormal returns for relevant halfhours and absolute abnormal returns for control halfhours. Id.

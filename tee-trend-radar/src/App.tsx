@@ -457,10 +457,7 @@ export function App() {
   return (
     <div>
       <h1>印花 T 恤选题雷达 · 美国市场</h1>
-      <p className="sub">
-        这版不再把一个抽象热度分数直接丢给你，而是把 Google Trends 信号翻译成
-        <strong>「现在主推 / 提前备货 / 暂缓重仓」</strong>。先看动作建议，再看热度细节。
-      </p>
+      <p className="sub">美国区印花主题需求、备货窗口与图案方向概览</p>
 
       <div className="meta-bar">
         <span>
@@ -477,13 +474,8 @@ export function App() {
         </span>
       </div>
 
-      <div className="callout">
-        <strong>怎么看：</strong>卡片上的 <code>0</code> 或低需求并不等于“永远不要做”，很多节日类主题只是
-        <strong>现在还没到销售窗口</strong>。因此请优先看「现在建议」和「季节窗口」。
-      </div>
-
       <section className="section">
-        <SectionTitle title="现在值得主推" desc="适合你这周就上架、扩款或继续测试的方向。" />
+        <SectionTitle title="当前优先主题" desc="适合近期上新、扩款或继续测试的方向。" />
         <div className="summary-grid">
           {nowFocus.map((category) => (
             <article key={category.id} className="summary-card">
@@ -508,7 +500,7 @@ export function App() {
       </section>
 
       <section className="section">
-        <SectionTitle title="未来 90 天先准备什么" desc="这些主题不一定今天最热，但很可能是你接下来该备的季节单。" />
+        <SectionTitle title="未来 90 天备货" desc="适合提前设计、备货和准备 listing 的季节主题。" />
         <div className="summary-grid">
           {next90.map((category) => (
             <article key={category.id} className="summary-card">
@@ -535,7 +527,7 @@ export function App() {
       <section className="section">
         <SectionTitle
           title="全部主题决策卡"
-          desc="每张卡都把“当前需求、动能、季节窗口”三件事拆开，方便你判断是否适合拿来印。"
+          desc="按当前需求、动能与季节窗口拆分展示。"
         />
         <div className="grid">
           {evaluated.map((category) => (

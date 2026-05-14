@@ -1,0 +1,344 @@
+Impact of public news sentiment on stock market index return and volatility | Computational Management Science | Springer Nature Link
+
+# Impact of public news sentiment on stock market index return and volatility
+
+- Original Paper
+- Published: 25 April 2023
+
+- Volume 20, article number 20, (2023)
+- Cite this article
+
+[Save article](https://link.springer.com/article/10.1007/s10287-023-00454-2/save-research?_csrf=wLfrO2zqCcZwtiPHKHMoDpjHFqBhbyWm)
+
+[View saved research](https://link.springer.com/saved-research)
+
+[Computational Management Science](https://link.springer.com/journal/10287) [Aims and scope](https://link.springer.com/journal/10287/aims-and-scope) [Submit manuscript](https://submission.nature.com/new-submission/10287/3)
+
+## Abstract
+
+Recent advances in natural language processing have contributed to the development of market sentiment measures through text content analysis in news providers and social media. The effectiveness of these sentiment variables depends on the implemented techniques and the type of source on which they are based. In this paper, we investigate the impact of the release of public financial news on the S&P 500. Using automatic labeling techniques based on either stock index returns or dictionaries, we apply a classification problem based on long short-term memory neural networks to extract alternative proxies of investor sentiment. Our findings provide evidence that there exists an impact of those sentiments in the market in a 20-min time frame. We find that dictionary-based sentiment provides meaningful results that outperform those based on stock index returns, which partly fails in the mapping process between news and financial returns.
+
+Fig. 1
+
+Fig. 2
+
+Fig. 3
+
+Fig. 4
+
+Fig. 5
+
+Fig. 6
+
+Fig. 7
+
+### [Predicting S&P 500 Based on Its Constituents and Their Social Media Derived Sentiment](https://link.springer.com/10.1007/978-3-030-28377-3_12?fromPaywallRec=true)
+
+### [Textual Analysis of News for Stock Market Prediction](https://link.springer.com/10.1007/978-3-030-87010-2_22?fromPaywallRec=true)
+
+### [Sentiment Analysis for Stock Prediction Using Mass Media Sources](https://link.springer.com/10.1007/978-3-031-69982-5_14?fromPaywallRec=true)
+
+## Notes
+
+According to the authors, net buying pressure can be defined as “the difference between the number of buyer-initiated trades and the number of seller-initiated trades calibrated from the bid-ask quotes”.
+
+To avoid the look-ahead bias, the testing set is both out-of-sample and out-of-time in order to ensure that the training and validation sets contain observations earlier in time than the observations in the testing set.
+
+Further information can be found at [https://www.merriam-webster.com/words-at-play/longest-words-ever](https://www.merriam-webster.com/words-at-play/longest-words-ever).
+
+The integer values are discussed in the Sect. [4.1](https://link.springer.com/article/10.1007/s10287-023-00454-2#Sec8) on the classification results of the stock index returns approach.
+
+An alternative approach would be to use value thresholds for returns, denoted as \(t_1<0\) and \(t_2>0\), by imposing, for example, \(t_1 = -t_2\) or possibly \(t_1 \ne -t_2\). Although using value thresholds for positive and negative returns may appear to be a simple and immediate solution for categorization, it raises several issues related to selecting appropriate threshold values. The selection of threshold magnitudes requires careful consideration specific to the financial asset being studied and the data frequency, which ultimately involves analyzing distributional features. The choice of value thresholds should be specific to the dataset, making it necessary to analyze each case carefully. The only exception to this would be in the case of positive/negative categorizations, where a single threshold centered at zero can be used to identify the two classes.
+
+Full results are available upon request to the authors.
+
+GARCH type models have been successfully applied in measuring the relationship between investor sentiment and stock market returns-volatility (i.e., Rupande et al. [2019](https://link.springer.com/article/10.1007/s10287-023-00454-2#ref-CR32)).
+
+Full results are available upon request to the authors.
+
+Additionally, we have repeated the analysis of the changes in the VIX which represents the forward-looking volatility of the S&P 500. Results are included in Appendix [1](https://link.springer.com/article/10.1007/s10287-023-00454-2#Sec19) and are qualitatively similar.
+
+The “correct” class of each article is the one that has been previously assigned through automatic labeling.
+
+We thank an anonymous Reviewer for this beneficial reference.
+
+## References
+
+Atkins A, Niranjan M, Gerding E (2018) Financial news predicts stock market volatility better than close price. J Finance Data Sci 4:120–137
+
+[Article](https://doi.org/10.1016%2Fj.jfds.2018.02.002) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=Financial%20news%20predicts%20stock%20market%20volatility%20better%20than%20close%20price&journal=J%20Finance%20Data%20Sci&doi=10.1016%2Fj.jfds.2018.02.002&volume=4&pages=120-137&publication_year=2018&author=Atkins%2CA&author=Niranjan%2CM&author=Gerding%2CE)
+
+Behrendt S, Schmidt A (2018) The twitter myth revisited: intraday investor sentiment, twitter activity and individual-level stock return volatility. J Banking Finance 96:355–367
+
+[Article](https://doi.org/10.1016%2Fj.jbankfin.2018.09.016) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20twitter%20myth%20revisited%3A%20intraday%20investor%20sentiment%2C%20twitter%20activity%20and%20individual-level%20stock%20return%20volatility&journal=J%20Banking%20Finance&doi=10.1016%2Fj.jbankfin.2018.09.016&volume=96&pages=355-367&publication_year=2018&author=Behrendt%2CS&author=Schmidt%2CA)
+
+Black F (1976) Studies of stock price changes. In: Proceeding of the 1976 meetings of the American Statistical Association, pp 177–181
+
+Caporin M, Poli F (2017) Building news measures from textual data and an application to volatility forecasting. Econometrics 5:1–46
+
+[Article](https://doi.org/10.3390%2Feconometrics5030035) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Building%20news%20measures%20from%20textual%20data%20and%20an%20application%20to%20volatility%20forecasting&journal=Econometrics&doi=10.3390%2Feconometrics5030035&volume=5&pages=1-46&publication_year=2017&author=Caporin%2CM&author=Poli%2CF)
+
+Chen S, Guo Z, Zhao X (2021) Predicting mortgage early delinquency with machine learning methods. Eur J Oper Res 290:358–372
+
+[Article](https://doi.org/10.1016%2Fj.ejor.2020.07.058) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Predicting%20mortgage%20early%20delinquency%20with%20machine%20learning%20methods&journal=Eur%20J%20Oper%20Res&doi=10.1016%2Fj.ejor.2020.07.058&volume=290&pages=358-372&publication_year=2021&author=Chen%2CS&author=Guo%2CZ&author=Zhao%2CX)
+
+Chung S-L, Hung C-H, Yeh C-Y (2012) When does investor sentiment predict stock returns? J Empir Financ 19:217–240
+
+[Article](https://doi.org/10.1016%2Fj.jempfin.2012.01.002) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=When%20does%20investor%20sentiment%20predict%20stock%20returns%3F&journal=J%20Empir%20Financ&doi=10.1016%2Fj.jempfin.2012.01.002&volume=19&pages=217-240&publication_year=2012&author=Chung%2CS-L&author=Hung%2CC-H&author=Yeh%2CC-Y)
+
+Costola M, Iacopini M, Santagiustina CRMA (2020) Google search volumes and the financial markets during the COVID-19 outbreak. Finance Res Lett 42:101884
+
+[Article](https://doi.org/10.1016%2Fj.frl.2020.101884) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Google%20search%20volumes%20and%20the%20financial%20markets%20during%20the%20COVID-19%20outbreak&journal=Finance%20Res%20Lett&doi=10.1016%2Fj.frl.2020.101884&volume=42&publication_year=2020&author=Costola%2CM&author=Iacopini%2CM&author=Santagiustina%2CCRMA)
+
+Feng L, Fu T, Shi Y (2022) How does news sentiment affect the states of Japanese stock return volatility? Int Rev Financ Anal 84:102267
+
+[Article](https://doi.org/10.1016%2Fj.irfa.2022.102267) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=How%20does%20news%20sentiment%20affect%20the%20states%20of%20Japanese%20stock%20return%20volatility%3F&journal=Int%20Rev%20Financ%20Anal&doi=10.1016%2Fj.irfa.2022.102267&volume=84&publication_year=2022&author=Feng%2CL&author=Fu%2CT&author=Shi%2CY)
+
+Frugier A (2016) Returns, volatility and investor sentiment: evidence from European stock markets. Res Int Bus Financ 38:45–55
+
+[Article](https://doi.org/10.1016%2Fj.ribaf.2016.03.007) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Returns%2C%20volatility%20and%20investor%20sentiment%3A%20evidence%20from%20European%20stock%20markets&journal=Res%20Int%20Bus%20Financ&doi=10.1016%2Fj.ribaf.2016.03.007&volume=38&pages=45-55&publication_year=2016&author=Frugier%2CA)
+
+Garcia D (2013) Sentiment during recessions. J Financ 68:1267–1300
+
+[Article](https://doi.org/10.1111%2Fjofi.12027) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Sentiment%20during%20recessions&journal=J%20Financ&doi=10.1111%2Fjofi.12027&volume=68&pages=1267-1300&publication_year=2013&author=Garcia%2CD)
+
+Groß-Klußmann A, Hautsch N (2011) When machines read the news: using automated text analytics to quantify high frequency news-implied market reactions. J Empir Financ 18:321–340
+
+[Article](https://doi.org/10.1016%2Fj.jempfin.2010.11.009) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=When%20machines%20read%20the%20news%3A%20using%20automated%20text%20analytics%20to%20quantify%20high%20frequency%20news-implied%20market%20reactions&journal=J%20Empir%20Financ&doi=10.1016%2Fj.jempfin.2010.11.009&volume=18&pages=321-340&publication_year=2011&author=Gro%C3%9F-Klu%C3%9Fmann%2CA&author=Hautsch%2CN)
+
+Hajek P, Myskova R, Olej V (2021) Predicting stock return volatility using sentiment analysis of corporate annual reports. In: The essentials of machine learning in finance and accounting. Routledge, pp 75–96
+
+Harrison J (2022) R-package ‘rselenium’. [https://github.com/ropensci/RSelenium](https://github.com/ropensci/RSelenium)
+
+Harvard University (1960) General inquirer. [http://www.wjh.harvard.edu/~inquirer/](http://www.wjh.harvard.edu/%7einquirer/)
+
+Henry E (2008) Are investors influenced by how earnings press releases are written? J Bus Commun 45:363–407
+
+[Article](https://doi.org/10.1177%2F0021943608319388) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Are%20investors%20influenced%20by%20how%20earnings%20press%20releases%20are%20written%3F&journal=J%20Bus%20Commun&doi=10.1177%2F0021943608319388&volume=45&pages=363-407&publication_year=2008&author=Henry%2CE)
+
+Houlihan P, Creamer GG (2017) Can sentiment analysis and options volume anticipate future returns? Comput Econ 50:669–685
+
+[Article](https://link.springer.com/doi/10.1007/s10614-017-9694-4) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Can%20sentiment%20analysis%20and%20options%20volume%20anticipate%20future%20returns%3F&journal=Comput%20Econ&doi=10.1007%2Fs10614-017-9694-4&volume=50&pages=669-685&publication_year=2017&author=Houlihan%2CP&author=Creamer%2CGG)
+
+Huang X, Zhang W, Tang X, Zhang M, Surbiryala J, Iosifidis V, Liu Z, Zhang J (2021) Lstm based sentiment analysis for cryptocurrency prediction. In: International conference on database systems for advanced applications. Springer, pp 617–621
+
+Iacopini M, Santagiustina CR (2021) Filtering the intensity of public concern from social media count data with jumps. J Roy Stat Soc Ser A (Stat Soc)
+
+Jiang GJ, Tian YS (2005) The model-free implied volatility and its information content. Rev Financ Stud 18:1305–1342
+
+[Article](https://doi.org/10.1093%2Frfs%2Fhhi027) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20model-free%20implied%20volatility%20and%20its%20information%20content&journal=Rev%20Financ%20Stud&doi=10.1093%2Frfs%2Fhhi027&volume=18&pages=1305-1342&publication_year=2005&author=Jiang%2CGJ&author=Tian%2CYS)
+
+Jin Z, Yang Y, Liu Y (2020) Stock closing price prediction based on sentiment analysis and lstm. Neural Comput Appl 32:9713–9729
+
+[Article](https://link.springer.com/doi/10.1007/s00521-019-04504-2) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Stock%20closing%20price%20prediction%20based%20on%20sentiment%20analysis%20and%20lstm&journal=Neural%20Comput%20Appl&doi=10.1007%2Fs00521-019-04504-2&volume=32&pages=9713-9729&publication_year=2020&author=Jin%2CZ&author=Yang%2CY&author=Liu%2CY)
+
+Karpathy A (2015) CS231n convolutional neural networks for visual recognition. Linear classification: Support Vector Machine, Softmax classifier. [http://cs231n.github.io/linear-classify/#softmax](http://cs231n.github.io/linear-classify/#softmax)
+
+Li X, Xie H, Chen L, Wang J, Deng X (2014) News impact on stock price return via sentiment analysis. Knowl Based Syst 69:14–23
+
+[Article](https://doi.org/10.1016%2Fj.knosys.2014.04.022) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=News%20impact%20on%20stock%20price%20return%20via%20sentiment%20analysis&journal=Knowl%20Based%20Syst&doi=10.1016%2Fj.knosys.2014.04.022&volume=69&pages=14-23&publication_year=2014&author=Li%2CX&author=Xie%2CH&author=Chen%2CL&author=Wang%2CJ&author=Deng%2CX)
+
+Liu Y, Qin Z, Li P, Wan T (2017) Stock volatility prediction using recurrent neural networks with sentiment analysis. In: International conference on industrial. Springer, Engineering and Other Applications of Applied Intelligent Systems, pp 192–201
+
+Loughran T, McDonald B (2011) When is a liability not a liability? Textual analysis, dictionaries, and 10-Ks. J Financ 66:35–65
+
+[Article](https://doi.org/10.1111%2Fj.1540-6261.2010.01625.x) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=When%20is%20a%20liability%20not%20a%20liability%3F%20Textual%20analysis%2C%20dictionaries%2C%20and%2010-Ks&journal=J%20Financ&doi=10.1111%2Fj.1540-6261.2010.01625.x&volume=66&pages=35-65&publication_year=2011&author=Loughran%2CT&author=McDonald%2CB)
+
+Loughran T, McDonald B (2015) The use of word lists in textual analysis. J Behav Financ 16:1–11
+
+[Article](https://doi.org/10.1080%2F15427560.2015.1000335) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20use%20of%20word%20lists%20in%20textual%20analysis&journal=J%20Behav%20Financ&doi=10.1080%2F15427560.2015.1000335&volume=16&pages=1-11&publication_year=2015&author=Loughran%2CT&author=McDonald%2CB)
+
+Mandal PK, Mahto R (2019) Deep cnn-lstm with word embeddings for news headline sarcasm detection. In: 16th International conference on information technology-new generations (ITNG 2019). Springer, pp. 495–498
+
+Mangee N (2018) Stock returns and the tone of marketplace information: Does context matter? J Behav Financ 19:396–406
+
+[Article](https://doi.org/10.1080%2F15427560.2018.1405268) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Stock%20returns%20and%20the%20tone%20of%20marketplace%20information%3A%20Does%20context%20matter%3F&journal=J%20Behav%20Financ&doi=10.1080%2F15427560.2018.1405268&volume=19&pages=396-406&publication_year=2018&author=Mangee%2CN)
+
+Medhat W, Hassan A, Korashy H (2014) Sentiment analysis algorithms and applications: a survey. Ain Shams Eng J 5:1093–1113
+
+[Article](https://doi.org/10.1016%2Fj.asej.2014.04.011) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Sentiment%20analysis%20algorithms%20and%20applications%3A%20a%20survey&journal=Ain%20Shams%20Eng%20J&doi=10.1016%2Fj.asej.2014.04.011&volume=5&pages=1093-1113&publication_year=2014&author=Medhat%2CW&author=Hassan%2CA&author=Korashy%2CH)
+
+Nigam K, Lafferty J, McCallum, A (1999) Using maximum entropy for text classification. In: IJCAI-99 workshop on machine learning for information filtering, Stockholom, Sweden, vol. 1, pp 61–67
+
+Pennington J, Socher R, Manning CD (2014) Glove: global vectors for word representation. In: Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP), pp 1532–1543
+
+Renault T (2017) Intraday online investor sentiment and return patterns in the us stock market. J Banking Finance 84:25–40
+
+[Article](https://doi.org/10.1016%2Fj.jbankfin.2017.07.002) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intraday%20online%20investor%20sentiment%20and%20return%20patterns%20in%20the%20us%20stock%20market&journal=J%20Banking%20Finance&doi=10.1016%2Fj.jbankfin.2017.07.002&volume=84&pages=25-40&publication_year=2017&author=Renault%2CT)
+
+Rupande L, Muguto HT, Muzindutsi P-F (2019) Investor sentiment and stock return volatility: evidence from the Johannesburg stock exchange. Cogent Econ Finance 7:1–16
+
+[Article](https://doi.org/10.1080%2F23322039.2019.1600233) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Investor%20sentiment%20and%20stock%20return%20volatility%3A%20evidence%20from%20the%20Johannesburg%20stock%20exchange&journal=Cogent%20Econ%20Finance&doi=10.1080%2F23322039.2019.1600233&volume=7&pages=1-16&publication_year=2019&author=Rupande%2CL&author=Muguto%2CHT&author=Muzindutsi%2CP-F)
+
+Schumaker RP, Chen H (2009) Textual analysis of stock market prediction using breaking financial news: the azfin text system. ACM Trans Inf Syst (TOIS) 27:1–19
+
+[Article](https://doi.org/10.1145%2F1462198.1462204) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Textual%20analysis%20of%20stock%20market%20prediction%20using%20breaking%20financial%20news%3A%20the%20azfin%20text%20system&journal=ACM%20Trans%20Inf%20Syst%20%28TOIS%29&doi=10.1145%2F1462198.1462204&volume=27&pages=1-19&publication_year=2009&author=Schumaker%2CRP&author=Chen%2CH)
+
+Shi Y, Ho K-Y, Liu W-M (2016) Public information arrival and stock return volatility: evidence from news sentiment and Markov regime-switching approach. Int Rev Econ Finance 42:291–312
+
+[Article](https://doi.org/10.1016%2Fj.iref.2015.12.003) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Public%20information%20arrival%20and%20stock%20return%20volatility%3A%20evidence%20from%20news%20sentiment%20and%20Markov%20regime-switching%20approach&journal=Int%20Rev%20Econ%20Finance&doi=10.1016%2Fj.iref.2015.12.003&volume=42&pages=291-312&publication_year=2016&author=Shi%2CY&author=Ho%2CK-Y&author=Liu%2CW-M)
+
+Sohangir S, Wang D, Pomeranets A, Khoshgoftaar TM (2018) Big data: deep learning for financial sentiment analysis. J Big Data. [https://doi.org/10.1186/s40537-017-0111-6](https://doi.org/10.1186/s40537-017-0111-6)
+
+[Article](https://link.springer.com/doi/10.1186/s40537-017-0111-6) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Big%20data%3A%20deep%20learning%20for%20financial%20sentiment%20analysis&journal=J%20Big%20Data&doi=10.1186%2Fs40537-017-0111-6&publication_year=2018&author=Sohangir%2CS&author=Wang%2CD&author=Pomeranets%2CA&author=Khoshgoftaar%2CTM)
+
+Souma W, Vodenska I, Aoyama H (2019) Enhanced news sentiment analysis using deep learning methods. J Comput Soc Sci 2:33–46
+
+[Article](https://link.springer.com/doi/10.1007/s42001-019-00035-x) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Enhanced%20news%20sentiment%20analysis%20using%20deep%20learning%20methods&journal=J%20Comput%20Soc%20Sci&doi=10.1007%2Fs42001-019-00035-x&volume=2&pages=33-46&publication_year=2019&author=Souma%2CW&author=Vodenska%2CI&author=Aoyama%2CH)
+
+Uysal AK, Gunal S (2014) The impact of preprocessing on text classification. Inf Process Manag 50:104–112
+
+[Article](https://doi.org/10.1016%2Fj.ipm.2013.08.006) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20impact%20of%20preprocessing%20on%20text%20classification&journal=Inf%20Process%20Manag&doi=10.1016%2Fj.ipm.2013.08.006&volume=50&pages=104-112&publication_year=2014&author=Uysal%2CAK&author=Gunal%2CS)
+
+Vicari M, Gaspari M (2021) Analysis of news sentiments using natural language processing and deep learning. AI Soc 36:931–937
+
+[Article](https://link.springer.com/doi/10.1007/s00146-020-01111-x) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Analysis%20of%20news%20sentiments%20using%20natural%20language%20processing%20and%20deep%20learning&journal=AI%20Soc&doi=10.1007%2Fs00146-020-01111-x&volume=36&pages=931-937&publication_year=2021&author=Vicari%2CM&author=Gaspari%2CM)
+
+Wan X, Yang J, Marinov S, Calliess J-P, Zohren S, Dong X (2021) Sentiment correlation in financial news networks and associated market movements. Sci Rep 11:1–12
+
+[Article](https://doi.org/10.1038%2Fs41598-021-82338-6) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Sentiment%20correlation%20in%20financial%20news%20networks%20and%20associated%20market%20movements&journal=Sci%20Rep&doi=10.1038%2Fs41598-021-82338-6&volume=11&pages=1-12&publication_year=2021&author=Wan%2CX&author=Yang%2CJ&author=Marinov%2CS&author=Calliess%2CJ-P&author=Zohren%2CS&author=Dong%2CX)
+
+Wang G, Wang T, Wang B, Sambasivan D, Zhang Z, Zheng H, Zhao BY (2015) Crowds on Wall Street: Extracting value from social investing platforms. In: Proceedings of the 18th ACM conference on computer supported cooperative work and social computing. ACM, pp 17–30
+
+Wang C, Wang T, Yuan C, Rong JY (2022) Learning to trade on sentiment. J Econ Finance 46:308–323
+
+[Article](https://link.springer.com/doi/10.1007/s12197-021-09565-5) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Learning%20to%20trade%20on%20sentiment&journal=J%20Econ%20Finance&doi=10.1007%2Fs12197-021-09565-5&volume=46&pages=308-323&publication_year=2022&author=Wang%2CC&author=Wang%2CT&author=Yuan%2CC&author=Rong%2CJY)
+
+Wickham H (2016) R-package ‘rvest’, p 156. [https://cran.r-project.org/web/packages/rvest/rvest.pdf](https://cran.r-project.org/web/packages/rvest/rvest.pdf)
+
+Xing FZ, Cambria E, Welsch RE (2018) Natural language based financial forecasting: a survey. Artif Intell Rev 50:49–73
+
+[Article](https://link.springer.com/doi/10.1007/s10462-017-9588-9) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Natural%20language%20based%20financial%20forecasting%3A%20a%20survey&journal=Artif%20Intell%20Rev&doi=10.1007%2Fs10462-017-9588-9&volume=50&pages=49-73&publication_year=2018&author=Xing%2CFZ&author=Cambria%2CE&author=Welsch%2CRE)
+
+Yadav R, Kumar AV, Kumar A (2019) News-based supervised sentiment analysis for prediction of futures buying behaviour. IIMB Manag Rev 31:157–166
+
+[Article](https://doi.org/10.1016%2Fj.iimb.2019.03.006) [Google Scholar](http://scholar.google.com/scholar_lookup?&title=News-based%20supervised%20sentiment%20analysis%20for%20prediction%20of%20futures%20buying%20behaviour&journal=IIMB%20Manag%20Rev&doi=10.1016%2Fj.iimb.2019.03.006&volume=31&pages=157-166&publication_year=2019&author=Yadav%2CR&author=Kumar%2CAV&author=Kumar%2CA)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s10287-023-00454-2?format=refman&flavour=references)
+
+## Author information
+
+### Authors and Affiliations
+
+Ca’ Foscari University of Venice, Venice, Italy
+
+Gianluca Anese, Marco Corazza, Michele Costola & Loriana Pelizzon
+
+Leibniz Institute for Financial Research SAFE, Goethe University Frankfurt, Frankfurt, Germany
+
+Michele Costola & Loriana Pelizzon
+
+Authors
+
+Gianluca Anese
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&amp;contributor=Gianluca%20Anese)
+
+Search author on: [PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Gianluca%20Anese) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Gianluca%20Anese%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+Marco Corazza
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Marco%20Corazza)
+
+Search author on: [PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Marco%20Corazza) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Marco%20Corazza%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+Michele Costola
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Michele%20Costola)
+
+Search author on: [PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Michele%20Costola) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Michele%20Costola%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+Loriana Pelizzon
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Loriana%20Pelizzon)
+
+Search author on: [PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Loriana%20Pelizzon) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Loriana%20Pelizzon%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+### Corresponding author
+
+Correspondence to [Marco Corazza](mailto:corazza@unive.it).
+
+## Additional information
+
+### Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+We thank very much the Associate Editor and two anonymous Reviewers for their valuable suggestions and insightful remarks. We also thank Luca Coraggio of the University of Naples, Tomasz Gubiec of the University of Warsaw, Dian Kusumaningrum of Prasetiya Mulya University, Giovanni Zambruno of the University of Milano-Bicocca, and the other participants of the 2nd One-Day Workshop on Machine Learning for Finance, held at the Ca’ Foscari University of Venice in 2020.
+
+## A: Stock index returns approach using the VIX
+
+### A: Stock index returns approach using the VIX
+
+In this appendix, we replicate the stock index returns approach using the VIX as the matching variable. The VIX is considered a superior predictor of historical volatility since it is based on option prices that reflect the future expectations of market participants (see, for instance, Jiang and Tian [2005](https://link.springer.com/article/10.1007/s10287-023-00454-2#ref-CR19)).
+
+Due to shock asymmetry, volatility is usually higher when the S&P 500 Index returns are negative and might be lower when the S&P 500 Index returns are positive. Following the analysis in the main text, we do not impose any asymmetry in the weighting structure and therefore, process news for the VIX following the same method as for returns. As discussed in the paper, news articles were classified as positive in case of log returns higher than the 55th percentile, negative in case of log returns lower than the 45th percentile, and neutral otherwise. The results are presented in Table [12](https://link.springer.com/article/10.1007/s10287-023-00454-2#Tab12). The period considered and number of articles analyzed were the same as for stock returns. Table [13](https://link.springer.com/article/10.1007/s10287-023-00454-2#Tab13) shows the accuracy of the results for the four models according to the time windows and the presence of the lagging method. Finally, Table [14](https://link.springer.com/article/10.1007/s10287-023-00454-2#Tab14) shows the four sentiment variables built on the basis of the classification methods presented in Table [13](https://link.springer.com/article/10.1007/s10287-023-00454-2#Tab13).
+
+Table 12 Number of negative, neutral, and positive news from Reuters obtained through automatic labeling for the stock index return approach based on different classification methods
+
+[Full size table](https://link.springer.com/article/10.1007/s10287-023-00454-2/tables/12)
+
+Table 13 Best accuracy of the classification obtained from the LSTM neural network applied to articles labeled with the log difference of the VIX Index
+
+[Full size table](https://link.springer.com/article/10.1007/s10287-023-00454-2/tables/13)
+
+Table 14 Sentiment variables based on the classification obtained from the LSTM neural network applied on articles labeled with the log difference of the VIX Index
+
+[Full size table](https://link.springer.com/article/10.1007/s10287-023-00454-2/tables/14)
+
+The estimates for the EGARCH model are presented in Tables [15](https://link.springer.com/article/10.1007/s10287-023-00454-2#Tab15) and [16](https://link.springer.com/article/10.1007/s10287-023-00454-2#Tab16) for \(S_{vix20}\) and \(S_{vix20lag}\), respectively. In both cases, we found similar evidence as for the sentiment built on the S&P 500. For instance, \(\lambda _m\) is significant and very close to zero in both \(S_{vix20}\) and \(S_{vix20lag}\) in seven and nine of the ten cases, respectively. In addition, in this case, there is a discordant sign among the different versions of the sentiment, confirming that the approach based on stock index returns is highly sensitive to the initial settings. Analogously, \(\lambda _m\) is significant in six and nine of ten cases for \(S_{vix20}\) and \(S_{vix20lag}\), respectively. As the tables shows, the coefficient exhibits different signs according to the different versions of sentiment. Also in the paper, we conclude that stock index returns do not represent a reliable approach since it fails in the mapping process between news and financial returns.
+
+Table 15 \(S_{vix20}\) as exogenous variable in the mean and variance equations of the EGARCH(1,1) model with skewed Student’s t-distribution fitted on S&P 500 Index intraday log returns with 20-min time intervals
+
+[Full size table](https://link.springer.com/article/10.1007/s10287-023-00454-2/tables/15)
+
+Table 16 \(S_{vix20lag}\) as lagged exogenous variable in the mean and variance equations of the EGARCH(1,1) model with skewed Student’s t-distribution fitted on S&P 500 Index intraday log returns with 20-min time intervals
+
+[Full size table](https://link.springer.com/article/10.1007/s10287-023-00454-2/tables/16)
+
+## Rights and permissions
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Impact%20of%20public%20news%20sentiment%20on%20stock%20market%20index%20return%20and%20volatility&author=Gianluca%20Anese%20et%20al&contentID=10.1007%2Fs10287-023-00454-2&copyright=The%20Author%28s%29%2C%20under%20exclusive%20licence%20to%20Springer-Verlag%20GmbH%20Germany%2C%20part%20of%20Springer%20Nature&publication=1619-697X&publicationDate=2023-04-25&publisherName=SpringerNature&orderBeanReset=true)
+
+## About this article
+
+[](https://crossmark.crossref.org/dialog/?doi=10.1007/s10287-023-00454-2)
+
+### Cite this article
+
+Anese, G., Corazza, M., Costola, M. et al. Impact of public news sentiment on stock market index return and volatility. Comput Manag Sci 20, 20 (2023). https://doi.org/10.1007/s10287-023-00454-2
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s10287-023-00454-2?format=refman&flavour=citation)
+
+Received: 21 March 2023
+
+Accepted: 28 March 2023
+
+Published: 25 April 2023
+
+Version of record: 25 April 2023
+
+DOI: https://doi.org/10.1007/s10287-023-00454-2
+
+### Keywords
+
+- [Public financial news](https://link.springer.com/search?query=Public%20financial%20news&facet-discipline="Business%20and%20Management")
+- [Stock market](https://link.springer.com/search?query=Stock%20market&facet-discipline="Business%20and%20Management")
+- [NLP](https://link.springer.com/search?query=NLP&facet-discipline="Business%20and%20Management")
+- [Dictionary](https://link.springer.com/search?query=Dictionary&facet-discipline="Business%20and%20Management")
+- [LSTM neural networks](https://link.springer.com/search?query=LSTM%20neural%20networks&facet-discipline="Business%20and%20Management")
+- [Investor sentiment](https://link.springer.com/search?query=Investor%20sentiment&facet-discipline="Business%20and%20Management")
+- [S\(\&\)P 500](https://link.springer.com/search?query=SP%20500&amp;facet-discipline="Business%20and%20Management")
+
+### JEL Classification
+
+- [G14](https://link.springer.com/search?query=G14&facet-discipline="Business%20and%20Management")
+- [G17](https://link.springer.com/search?query=G17&facet-discipline="Business%20and%20Management")
+- [C45](https://link.springer.com/search?query=C45&facet-discipline="Business%20and%20Management")
+- [C63](https://link.springer.com/search?query=C63&facet-discipline="Business%20and%20Management")
+
+### Profiles
+
+1. Michele Costola [View author profile](https://link.springer.com/researchers/92219115SN)

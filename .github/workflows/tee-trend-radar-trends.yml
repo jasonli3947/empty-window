@@ -8,6 +8,7 @@ on:
     - cron: "0 14 * * *"
 
 permissions:
+  actions: write
   contents: write
 
 concurrency:
@@ -38,6 +39,7 @@ jobs:
           npm run update-data
 
       - name: Commit trends.json
+        id: commit_trends
         working-directory: ${{ github.workspace }}
         run: |
           git config user.name "github-actions[bot]"
@@ -45,7 +47,15 @@ jobs:
           git add tee-trend-radar/public/trends.json
           if git diff --staged --quiet; then
             echo "No changes to trends.json"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "chore(tee-trend-radar): refresh Google Trends snapshot"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Trigger Pages deploy
+        if: steps.commit_trends.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-tee-trend-pages.yml --ref main
