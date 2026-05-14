@@ -1,0 +1,56 @@
+# 构建 tee-trend-radar（Vite）并发布到 GitHub Pages
+# 首次使用：仓库 Settings → Pages → Build and deployment → Source 选「GitHub Actions」
+name: Deploy tee-trend-radar site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "tee-trend-radar/**"
+      - ".github/workflows/deploy-tee-trend-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-tee-trend-radar
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+
+      - name: Install & build
+        working-directory: tee-trend-radar
+        env:
+          VITE_BASE_PATH: /${{ github.event.repository.name }}/
+        run: |
+          npm install
+          npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: tee-trend-radar/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

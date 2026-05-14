@@ -69,7 +69,8 @@ export function App() {
     let cancelled = false;
     (async () => {
       try {
-        const res = await fetch(`/trends.json?cb=${Date.now()}`, { cache: "no-store" });
+        const base = import.meta.env.BASE_URL;
+        const res = await fetch(`${base}trends.json?cb=${Date.now()}`, { cache: "no-store" });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const json = (await res.json()) as Payload;
         if (!cancelled) setData(json);
@@ -157,8 +158,8 @@ export function App() {
           {data.methodologyEn}
         </p>
         <p>
-          每日更新：在本地或服务器定时执行 <kbd>npm run update-data</kbd>
-          ，会重写 <kbd>public/trends.json</kbd>；静态托管（如 GitHub Pages）可在 Action 里定时跑同一命令并部署。
+          线上站点由 GitHub Pages 部署；数据文件为仓库内{" "}
+          <code>trends.json</code>，与「刷新 Trends」工作流结果一致。
         </p>
       </footer>
     </div>

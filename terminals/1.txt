@@ -1,12 +1,11 @@
 ---
-pid: 31620
+pid: 32772
 cwd: |
   C:\Users\byli3
 ---
 PS C:\Users\byli3>
 
 
-PS C:\Users\byli3>
 PS C:\Users\byli3> cd C:\Users\byli3\.cursor\projects\empty-window
 PS C:\Users\byli3\.cursor\projects\empty-window> gh auth login
 gh : The term 'gh' is not recognized as the name of a cmdlet, function, script file, or operable 
@@ -18,4 +17,7 @@ At line:1 char:1
     + CategoryInfo          : ObjectNotFound: (gh:String) [], CommandNotFoundException
     + FullyQualifiedErrorId : CommandNotFoundException
  
-PS C:\Users\byli3\.cursor\projects\empty-window>
+PS C:\Users\byli3\.cursor\projects\empty-window> 
+ *  History restored 
+
+PS C:\Users\byli3> 
