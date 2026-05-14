@@ -1,0 +1,391 @@
+Full List of Pokemon Champions Stats - Regulation M-A - The Game Haus
+
+- [Best Pokemon Champions Builds (Meta Tier List & Guide)](https://thegamehaus.com/pokemon-champions/best-pokemon-champions-builds-early-meta-tier-list-guide/2026/04/09/)
+
+Sports
+
+- [Mock Drafts](https://thegamehaus.com/category/nfl-draft/mock-drafts/)
+- [NFL Draft Big Board](https://thegamehaus.com/category/nfl-draft/nfl-draft-big-board/)
+- [NFL Player Profiles](https://thegamehaus.com/category/nfl-draft/nfl-player-profiles/)
+- [NFL Team Mock Drafts](https://thegamehaus.com/category/nfl-draft/nfl-team-mock-drafts/)
+
+- [Contact Us](https://thegamehaus.com/contact-us/)
+- [The Game Haus Team](https://thegamehaus.com/the-game-haus-team/)
+- [Privacy Policy](https://thegamehaus.com/privacy-policy/)
+
+[Home](https://thegamehaus.com/)» Full List of Pokemon Champions Stats – Regulation M-A
+
+# Full List of Pokemon Champions Stats – Regulation M-A
+
+Robert Hanes
+
+Publish Date: April 11, 2026
+
+[Share via Whatsapp](whatsapp://send?text=https%3A%2F%2Fthegamehaus.com%2Fpokemon-champions%2Ffull-list-of-pokemon-champions-stats-regulation-m-a%2F2026%2F04%2F11%2F) [Share via Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fthegamehaus.com%2Fpokemon-champions%2Ffull-list-of-pokemon-champions-stats-regulation-m-a%2F2026%2F04%2F11%2F) [Share via Twitter](https://twitter.com/intent/tweet?text=Full+List+of+Pokemon+Champions+Stats+%26%238211%3B+Regulation+M-A&url=https%3A%2F%2Fthegamehaus.com%2Fpokemon-champions%2Ffull-list-of-pokemon-champions-stats-regulation-m-a%2F2026%2F04%2F11%2F)
+
+Pokemon Stats have changed forever with the launch of Pokemon Champions. Each Regulation will have new Pokemon and Regulation M-A has 185, not including Megas and other Forms. Here are all of the stats for each Pokemon including their Mega Evolutions.
+
+For more Pokemon guides, builds and walkthroughs, check out our [Pokemon hub](https://thegamehaus.com/pokemon/).
+
+Looking to improve competitively? Visit our [Pokemon Champions guides](https://thegamehaus.com/pokemon-champions/) for builds, tier lists and strategies.
+
+---
+
+## Pokemon Champions Stats: Regulation M-A
+
+Below is a list of all of the Pokemon Champions Stats for Regulation M-A. These are all Base Stats for each Pokemon without Natures or Stat Points being added. All Pokemon Stats have been increased for Champions. The new changes across the board at +75 to HP and +20 to Attack, Defense, Special Attack, Special Defense and Speed.
+
+**Note, that if any change occurs with future Patch Notes, this will be updated.
+
+You can also see our latest Build for these Pokemon on our [Best Pokemon Champions Builds (Early Meta Tier List & Guide)](https://thegamehaus.com/pokemon-champions/best-pokemon-champions-builds-early-meta-tier-list-guide/2026/04/09/) Page.
+
+| Name | HP | Atk | Def | Sp. Atk | Sp. Def | Spd | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Abomasnow | 165 | 112 | 95 | 112 | 105 | 80 | 669 |
+| Absol | 140 | 150 | 80 | 95 | 80 | 95 | 640 |
+| Aegislash (Blade) | 135 | 160 | 70 | 160 | 70 | 80 | 675 |
+| Aegislash (Shield) | 135 | 70 | 160 | 70 | 160 | 80 | 675 |
+| Aerodactyl | 155 | 125 | 85 | 80 | 95 | 150 | 690 |
+| Aggron | 145 | 130 | 200 | 80 | 80 | 70 | 705 |
+| Alakazam | 130 | 70 | 65 | 155 | 115 | 140 | 675 |
+| Alcremie | 140 | 80 | 95 | 130 | 141 | 84 | 670 |
+| [Alolan Ninetales](https://thegamehaus.com/pokemon-champions/best-alolan-ninetales-build-in-pokemon-champions-competitive-guide/2026/04/12/) | 148 | 87 | 95 | 101 | 120 | 129 | 680 |
+| Alolan Raichu | 135 | 105 | 70 | 115 | 105 | 130 | 660 |
+| Altaria | 150 | 90 | 110 | 90 | 125 | 100 | 665 |
+| Ampharos | 165 | 95 | 105 | 135 | 110 | 75 | 685 |
+| Appletun | 185 | 105 | 100 | 120 | 100 | 50 | 660 |
+| Araquanid | 143 | 90 | 112 | 70 | 152 | 62 | 629 |
+| Arbok | 135 | 115 | 89 | 85 | 99 | 100 | 623 |
+| Arcanine | 170 | 135 | 100 | 115 | 100 | 110 | 730 |
+| Archaludon | 165 | 125 | 150 | 145 | 85 | 105 | 775 |
+| Ariados | 145 | 110 | 90 | 80 | 90 | 60 | 575 |
+| Armarouge | 160 | 80 | 120 | 145 | 100 | 95 | 700 |
+| Aromatisse | 176 | 92 | 92 | 119 | 109 | 49 | 637 |
+| Aurorus | 198 | 97 | 92 | 119 | 112 | 78 | 696 |
+| Avalugg | 170 | 137 | 204 | 64 | 66 | 48 | 689 |
+| Azumarill | 175 | 70 | 100 | 80 | 100 | 70 | 595 |
+| Banette | 139 | 135 | 85 | 103 | 83 | 85 | 630 |
+| Basculegion (Female) | 195 | 112 | 85 | 120 | 95 | 98 | 705 |
+| [Basculegion (Male)](https://thegamehaus.com/pokemon-champions/best-basculegion-build-in-pokemon-champions-competitive-guide/2026/04/09/) | 195 | 132 | 85 | 100 | 95 | 98 | 705 |
+| Bastiodon | 135 | 72 | 188 | 67 | 158 | 50 | 670 |
+| Beartic | 170 | 150 | 100 | 90 | 100 | 70 | 680 |
+| Beedrill | 140 | 110 | 60 | 65 | 100 | 95 | 570 |
+| Bellibolt | 184 | 84 | 111 | 123 | 103 | 65 | 670 |
+| Blastoise | 154 | 103 | 120 | 105 | 125 | 98 | 705 |
+| Camerupt | 145 | 120 | 90 | 125 | 95 | 60 | 635 |
+| Castform | 145 | 90 | 90 | 90 | 90 | 90 | 635 |
+| Ceruledge | 150 | 145 | 100 | 80 | 120 | 105 | 700 |
+| Chandelure | 135 | 75 | 110 | 165 | 110 | 100 | 695 |
+| [Charizard](https://thegamehaus.com/pokemon-champions/best-charizard-build-in-pokemon-champions-competitive-guide/2026/04/06/) | 153 | 104 | 98 | 129 | 105 | 120 | 709 |
+| Chesnaught | 163 | 127 | 142 | 94 | 95 | 84 | 705 |
+| Chimecho | 150 | 70 | 100 | 115 | 110 | 85 | 630 |
+| Clawitzer | 146 | 93 | 108 | 140 | 109 | 79 | 675 |
+| Clefable | 170 | 90 | 93 | 115 | 110 | 80 | 658 |
+| Cofagrigus | 133 | 70 | 165 | 115 | 125 | 50 | 658 |
+| Conkeldurr | 180 | 160 | 115 | 75 | 85 | 65 | 680 |
+| Corviknight | 173 | 107 | 125 | 73 | 105 | 87 | 670 |
+| Crabominable | 172 | 152 | 97 | 82 | 87 | 63 | 653 |
+| Decidueye | 163 | 132 | 100 | 115 | 115 | 80 | 705 |
+| Dedenne | 142 | 78 | 77 | 101 | 87 | 121 | 606 |
+| Delphox | 150 | 89 | 92 | 134 | 120 | 124 | 709 |
+| Diggersby | 160 | 76 | 97 | 70 | 97 | 98 | 598 |
+| Ditto | 123 | 68 | 68 | 68 | 68 | 68 | 503 |
+| Dragapult | 163 | 140 | 95 | 120 | 95 | 162 | 775 |
+| [Dragonite](https://thegamehaus.com/pokemon-champions/best-dragonite-build-in-pokemon-champions-early-meta-guide/2026/04/06/) | 166 | 154 | 115 | 120 | 120 | 100 | 795 |
+| Drampa | 153 | 80 | 105 | 155 | 111 | 56 | 660 |
+| Emboar | 185 | 143 | 85 | 120 | 85 | 85 | 703 |
+| Emolga | 130 | 95 | 80 | 95 | 80 | 123 | 603 |
+| Empoleon | 159 | 106 | 108 | 131 | 121 | 80 | 705 |
+| Espeon | 140 | 85 | 80 | 150 | 115 | 130 | 700 |
+| Espathra | 170 | 80 | 80 | 121 | 80 | 125 | 736 |
+| Eternal Floette | 149 | 105 | 107 | 175 | 168 | 122 | 826 |
+| Excadrill | 185 | 155 | 80 | 70 | 85 | 108 | 683 |
+| Farigiraf | 195 | 110 | 90 | 130 | 90 | 80 | 695 |
+| Feraligatr | 160 | 125 | 120 | 99 | 103 | 98 | 705 |
+| Flapple | 145 | 130 | 100 | 115 | 80 | 90 | 660 |
+| Flareon | 140 | 150 | 80 | 115 | 130 | 85 | 700 |
+| Floette | 149 | 85 | 87 | 145 | 148 | 112 | 726 |
+| Florges | 153 | 85 | 88 | 132 | 174 | 95 | 727 |
+| Forretress | 150 | 110 | 160 | 80 | 80 | 60 | 640 |
+| Froslass | 145 | 100 | 90 | 100 | 90 | 130 | 655 |
+| Furfrou | 150 | 100 | 80 | 85 | 110 | 122 | 647 |
+| Gallade | 143 | 145 | 85 | 85 | 135 | 100 | 693 |
+| Galarian Slowbro | 170 | 120 | 115 | 120 | 90 | 50 | 665 |
+| Galarian Slowking | 170 | 85 | 100 | 130 | 130 | 50 | 665 |
+| Galarian Stunfisk | 184 | 101 | 119 | 86 | 104 | 52 | 646 |
+| Garbodor | 155 | 115 | 102 | 80 | 102 | 95 | 649 |
+| [Garchomp](https://thegamehaus.com/pokemon-champions/best-garchomp-build-in-pokemon-champions-competitive-guide/2026/04/09/) | 183 | 150 | 115 | 100 | 105 | 122 | 775 |
+| [Gardevoir](https://thegamehaus.com/pokemon-champions/best-gardevoir-build-in-pokemon-champions-competitive-guide/2026/04/09/) | 143 | 85 | 85 | 145 | 135 | 100 | 693 |
+| Garganacl | 175 | 120 | 150 | 65 | 110 | 55 | 675 |
+| Gengar | 135 | 85 | 80 | 150 | 95 | 130 | 675 |
+| Glalie | 155 | 100 | 100 | 100 | 100 | 100 | 655 |
+| Glaceon | 140 | 80 | 130 | 150 | 115 | 85 | 700 |
+| Glimmora | 158 | 75 | 110 | 150 | 101 | 106 | 700 |
+| Gliscor | 150 | 115 | 145 | 65 | 95 | 115 | 685 |
+| Golurk | 164 | 144 | 100 | 75 | 100 | 75 | 658 |
+| Goodra | 165 | 120 | 90 | 130 | 170 | 100 | 775 |
+| Gourgeist (Average) | 150 | 115 | 142 | 78 | 95 | 89 | 669 |
+| Gourgeist (Large) | 130 | 105 | 142 | 78 | 95 | 119 | 669 |
+| Gourgeist (Small) | 140 | 110 | 142 | 78 | 95 | 104 | 669 |
+| Gourgeist (Super) | 160 | 120 | 142 | 78 | 95 | 74 | 669 |
+| Greninja | 147 | 115 | 87 | 123 | 91 | 142 | 705 |
+| [Gyarados](https://thegamehaus.com/pokemon-champions/best-gyarados-build-in-pokemon-champions-competitive-guide/2026/04/08/) | 170 | 145 | 99 | 80 | 120 | 101 | 715 |
+| Hatterene | 132 | 110 | 115 | 156 | 123 | 49 | 685 |
+| Hawlucha | 153 | 112 | 95 | 94 | 83 | 138 | 675 |
+| Heliolisk | 137 | 75 | 72 | 129 | 114 | 129 | 656 |
+| Heracross | 155 | 145 | 95 | 60 | 115 | 105 | 675 |
+| Hippowdon | 183 | 132 | 138 | 88 | 92 | 67 | 700 |
+| Hisuian Arcanine | 165 | 135 | 100 | 115 | 100 | 110 | 725 |
+| Hisuian Avalugg | 170 | 147 | 204 | 54 | 56 | 58 | 689 |
+| Hisuian Decidueye | 153 | 127 | 95 | 120 | 120 | 90 | 705 |
+| Hisuian Goodra | 155 | 120 | 120 | 130 | 170 | 80 | 775 |
+| Hisuian Samurott | 165 | 128 | 100 | 120 | 85 | 105 | 703 |
+| Hisuian Typhlosion | 148 | 104 | 98 | 139 | 105 | 115 | 709 |
+| Hisuian Zoroark | 130 | 120 | 80 | 145 | 80 | 130 | 685 |
+| Houndoom | 150 | 110 | 70 | 130 | 100 | 115 | 675 |
+| Hydrapple | 181 | 100 | 130 | 140 | 100 | 64 | 715 |
+| Hydreigon | 167 | 125 | 110 | 145 | 110 | 118 | 775 |
+| [Incineroar](https://thegamehaus.com/pokemon-champions/best-incineroar-build-in-pokemon-champions-competitive-guide/2026/04/08/) | 170 | 135 | 110 | 100 | 110 | 80 | 705 |
+| Infernape | 151 | 124 | 91 | 124 | 91 | 128 | 709 |
+| Jolteon | 140 | 85 | 80 | 130 | 115 | 150 | 700 |
+| [Kangaskhan](https://thegamehaus.com/pokemon-champions/best-kangaskhan-build-in-pokemon-champions-competitive-guide/2026/04/09/) | 180 | 115 | 100 | 60 | 100 | 110 | 665 |
+| Kingambit | 175 | 155 | 140 | 80 | 105 | 70 | 725 |
+| Kleavor | 145 | 155 | 115 | 65 | 90 | 105 | 675 |
+| Klefki | 132 | 100 | 111 | 100 | 107 | 95 | 645 |
+| Kommo-o | 150 | 130 | 145 | 120 | 125 | 105 | 775 |
+| Krookodile | 170 | 137 | 100 | 85 | 90 | 112 | 694 |
+| Leafeon | 140 | 130 | 150 | 80 | 85 | 115 | 700 |
+| Liepard | 139 | 108 | 70 | 108 | 70 | 126 | 621 |
+| Lopunny | 140 | 96 | 104 | 74 | 116 | 125 | 655 |
+| Lucario | 145 | 130 | 90 | 135 | 90 | 110 | 700 |
+| Luxray | 155 | 140 | 99 | 115 | 99 | 90 | 698 |
+| Lycanroc (Dusk) | 150 | 137 | 85 | 75 | 85 | 130 | 662 |
+| Lycanroc (Midday) | 150 | 135 | 85 | 75 | 85 | 132 | 662 |
+| Lycanroc (Midnight) | 160 | 135 | 95 | 75 | 95 | 102 | 662 |
+| Machamp | 165 | 150 | 100 | 85 | 105 | 75 | 685 |
+| Mamoswine | 185 | 150 | 100 | 90 | 80 | 100 | 705 |
+| Manectric | 145 | 95 | 80 | 125 | 80 | 125 | 650 |
+| Maushold | 149 | 95 | 90 | 85 | 95 | 131 | 645 |
+| Medicham | 135 | 80 | 95 | 80 | 95 | 100 | 585 |
+| Mega Abomasnow | 165 | 152 | 125 | 152 | 125 | 50 | 769 |
+| Mega Absol | 140 | 170 | 80 | 135 | 80 | 135 | 740 |
+| Mega Aerodactyl | 155 | 155 | 105 | 90 | 115 | 170 | 790 |
+| Mega Aggron | 145 | 160 | 250 | 80 | 100 | 70 | 805 |
+| Mega Alakazam | 130 | 70 | 85 | 195 | 125 | 170 | 775 |
+| Mega Ampharos | 165 | 115 | 125 | 185 | 130 | 65 | 785 |
+| Mega Audino | 178 | 80 | 146 | 100 | 146 | 70 | 720 |
+| Mega Banette | 139 | 185 | 95 | 113 | 103 | 95 | 730 |
+| Mega Beedrill | 140 | 170 | 60 | 35 | 100 | 165 | 670 |
+| Mega Blastoise | 154 | 123 | 140 | 155 | 135 | 98 | 805 |
+| Mega Camerupt | 145 | 140 | 120 | 165 | 125 | 40 | 735 |
+| Mega Chandelure | 135 | 95 | 130 | 195 | 130 | 110 | 795 |
+| Mega Charizard X | 153 | 150 | 131 | 150 | 105 | 120 | 809 |
+| [Charizard](https://thegamehaus.com/pokemon-champions/best-charizard-build-in-pokemon-champions-competitive-guide/2026/04/06/) | 153 | 124 | 98 | 179 | 135 | 120 | 809 |
+| Mega Chesnaught | 163 | 157 | 192 | 94 | 135 | 64 | 805 |
+| Mega Clefable | 170 | 100 | 113 | 155 | 130 | 90 | 758 |
+| Mega Crabominable | 172 | 177 | 142 | 82 | 127 | 53 | 753 |
+| Mega Delphox | 144 | 89 | 92 | 179 | 145 | 154 | 803 |
+| [Dragonite](https://thegamehaus.com/pokemon-champions/best-dragonite-build-in-pokemon-champions-early-meta-guide/2026/04/06/) | 166 | 144 | 135 | 165 | 145 | 120 | 875 |
+| Mega Drampa | 153 | 105 | 130 | 180 | 136 | 56 | 760 |
+| Mega Emboar | 185 | 168 | 95 | 130 | 130 | 95 | 803 |
+| Mega Excadrill | 185 | 185 | 120 | 85 | 85 | 123 | 783 |
+| Mega Feraligatr | 160 | 180 | 145 | 109 | 113 | 98 | 805 |
+| Mega Froslass | 145 | 100 | 90 | 160 | 120 | 140 | 755 |
+| Mega Gallade | 143 | 185 | 115 | 85 | 135 | 130 | 793 |
+| [Garchomp](https://thegamehaus.com/pokemon-champions/best-garchomp-build-in-pokemon-champions-competitive-guide/2026/04/09/) | 183 | 190 | 135 | 140 | 115 | 112 | 875 |
+| [Gardevoir](https://thegamehaus.com/pokemon-champions/best-gardevoir-build-in-pokemon-champions-competitive-guide/2026/04/09/) | 143 | 105 | 85 | 185 | 155 | 120 | 793 |
+| Mega Gengar | 135 | 85 | 100 | 190 | 115 | 150 | 775 |
+| Mega Glalie | 155 | 140 | 100 | 140 | 100 | 120 | 755 |
+| Mega Glimmora | 158 | 110 | 125 | 170 | 116 | 121 | 800 |
+| Mega Golurk | 164 | 179 | 125 | 90 | 125 | 75 | 758 |
+| Mega Greninja | 147 | 145 | 97 | 153 | 101 | 162 | 805 |
+| [Gyarados](https://thegamehaus.com/pokemon-champions/best-gyarados-build-in-pokemon-champions-competitive-guide/2026/04/08/) | 170 | 175 | 129 | 90 | 150 | 101 | 815 |
+| Mega Hawlucha | 153 | 157 | 120 | 94 | 113 | 138 | 775 |
+| Mega Heracross | 155 | 205 | 135 | 60 | 125 | 95 | 775 |
+| Mega Houndoom | 150 | 110 | 110 | 160 | 110 | 135 | 775 |
+| [Kangaskhan](https://thegamehaus.com/pokemon-champions/best-kangaskhan-build-in-pokemon-champions-competitive-guide/2026/04/09/) | 180 | 145 | 120 | 80 | 120 | 120 | 765 |
+| Mega Lopunny | 140 | 156 | 114 | 74 | 116 | 155 | 755 |
+| Mega Lucario | 145 | 165 | 108 | 160 | 90 | 132 | 800 |
+| Mega Manectric | 145 | 95 | 100 | 155 | 100 | 155 | 750 |
+| Mega Medicham | 135 | 120 | 105 | 100 | 105 | 120 | 685 |
+| Mega Meganium | 155 | 112 | 135 | 163 | 135 | 100 | 800 |
+| Mega Meowstic | 149 | 68 | 96 | 163 | 121 | 144 | 741 |
+| Mega Pidgeot | 158 | 100 | 100 | 155 | 100 | 141 | 754 |
+| Mega Pinsir | 140 | 175 | 140 | 85 | 110 | 125 | 775 |
+| Mega Sableye | 125 | 105 | 145 | 105 | 135 | 40 | 655 |
+| Mega Scizor | 145 | 170 | 160 | 85 | 120 | 95 | 775 |
+| Mega Scovillain | 140 | 158 | 105 | 158 | 105 | 95 | 761 |
+| Mega Sharpedo | 145 | 160 | 90 | 130 | 85 | 125 | 735 |
+| Mega Skarmory | 140 | 160 | 130 | 60 | 120 | 130 | 740 |
+| Mega Slowbro | 170 | 95 | 200 | 150 | 100 | 50 | 765 |
+| Mega Starmie | 135 | 120 | 125 | 150 | 125 | 140 | 795 |
+| [Tyranitar](https://thegamehaus.com/pokemon-champions/best-tyranitar-build-in-pokemon-champions-competitive-guide/2026/04/08/) | 175 | 184 | 170 | 115 | 140 | 91 | 875 |
+| Mega Venusaur | 155 | 122 | 143 | 142 | 140 | 100 | 802 |
+| Mega Victreebel | 155 | 145 | 105 | 155 | 115 | 90 | 765 |
+| Meganium | 155 | 102 | 120 | 103 | 120 | 100 | 700 |
+| Meowscarada | 151 | 130 | 90 | 101 | 90 | 143 | 705 |
+| Meowstic (Female) | 149 | 68 | 96 | 103 | 101 | 124 | 641 |
+| Meowstic (Male) | 149 | 68 | 96 | 103 | 101 | 124 | 641 |
+| Milotic | 170 | 80 | 99 | 120 | 145 | 101 | 715 |
+| Mimikyu | 130 | 110 | 100 | 70 | 125 | 116 | 651 |
+| Morpeko | 133 | 115 | 78 | 90 | 78 | 117 | 611 |
+| Mr. Rime | 155 | 105 | 95 | 130 | 120 | 90 | 695 |
+| Mudsdale | 175 | 145 | 120 | 75 | 105 | 55 | 675 |
+| Ninetales | 148 | 96 | 95 | 101 | 120 | 120 | 680 |
+| Noivern | 160 | 90 | 100 | 117 | 100 | 143 | 710 |
+| Oranguru | 165 | 80 | 100 | 110 | 130 | 80 | 665 |
+| Orthworm | 145 | 105 | 165 | 80 | 75 | 85 | 655 |
+| Palafin (Hero Form) | 175 | 180 | 117 | 126 | 107 | 120 | 825 |
+| Palafin (Zero Form) | 175 | 90 | 92 | 73 | 82 | 120 | 632 |
+| Paldean Tauros (Aqua) | 150 | 130 | 125 | 50 | 90 | 120 | 665 |
+| Paldean Tauros (Blaze) | 150 | 130 | 125 | 50 | 90 | 120 | 665 |
+| Paldean Tauros (Combat) | 150 | 130 | 125 | 50 | 90 | 120 | 665 |
+| Pangoro | 170 | 144 | 98 | 89 | 91 | 78 | 670 |
+| Passimian | 175 | 140 | 110 | 60 | 80 | 100 | 665 |
+| Pelipper | 135 | 70 | 120 | 115 | 90 | 85 | 615 |
+| Pidgeot | 158 | 100 | 95 | 90 | 90 | 121 | 654 |
+| Pikachu | 110 | 75 | 60 | 70 | 70 | 110 | 495 |
+| Pinsir | 140 | 145 | 120 | 75 | 90 | 105 | 675 |
+| Politoed | 165 | 95 | 95 | 110 | 120 | 90 | 675 |
+| Polteageist | 135 | 85 | 85 | 154 | 134 | 90 | 683 |
+| Primarina | 155 | 94 | 94 | 146 | 136 | 80 | 705 |
+| Quaquaval | 160 | 140 | 100 | 105 | 95 | 105 | 705 |
+| Raichu | 135 | 110 | 75 | 110 | 100 | 130 | 660 |
+| Rampardos | 172 | 185 | 80 | 85 | 70 | 78 | 670 |
+| Reuniclus | 185 | 85 | 95 | 145 | 105 | 50 | 665 |
+| Rhyperior | 190 | 160 | 150 | 75 | 75 | 60 | 710 |
+| Roserade | 135 | 90 | 85 | 145 | 125 | 110 | 690 |
+| Rotom | 125 | 70 | 97 | 115 | 97 | 111 | 615 |
+| Rotom (Forms) | 125 | 85 | 127 | 125 | 127 | 106 | 695 |
+| Runerigus | 133 | 115 | 165 | 70 | 125 | 50 | 658 |
+| Sableye | 125 | 95 | 95 | 85 | 85 | 70 | 555 |
+| Salazzle | 143 | 84 | 80 | 131 | 80 | 137 | 655 |
+| Samurott | 170 | 120 | 105 | 128 | 90 | 90 | 703 |
+| Sandaconda | 147 | 127 | 145 | 85 | 90 | 91 | 685 |
+| Scizor | 145 | 150 | 120 | 75 | 100 | 85 | 675 |
+| Scovillain | 140 | 128 | 85 | 128 | 85 | 95 | 661 |
+| Serperior | 150 | 95 | 115 | 95 | 115 | 133 | 703 |
+| Sharpedo | 145 | 140 | 60 | 115 | 60 | 115 | 635 |
+| Simipour | 150 | 118 | 83 | 118 | 83 | 121 | 673 |
+| Simisage | 150 | 118 | 83 | 118 | 83 | 121 | 673 |
+| Simisear | 150 | 118 | 83 | 118 | 83 | 121 | 673 |
+| Sinistcha | 146 | 80 | 126 | 141 | 100 | 90 | 683 |
+| Skarmory | 140 | 100 | 160 | 60 | 90 | 90 | 640 |
+| Skeledirge | 179 | 95 | 120 | 130 | 95 | 86 | 705 |
+| Slowbro | 170 | 95 | 130 | 120 | 100 | 50 | 665 |
+| Slowking | 170 | 95 | 100 | 120 | 130 | 50 | 665 |
+| Slurpuff | 157 | 100 | 106 | 105 | 95 | 92 | 655 |
+| [Sneasler](https://thegamehaus.com/pokemon-champions/best-sneasler-build-in-pokemon-champions-competitive-guide/2026/04/12/) | 155 | 150 | 80 | 60 | 100 | 140 | 685 |
+| Snorlax | 235 | 130 | 85 | 85 | 130 | 50 | 715 |
+| Spiritomb | 125 | 112 | 128 | 112 | 128 | 55 | 660 |
+| Starmie | 135 | 95 | 105 | 120 | 105 | 135 | 695 |
+| Steelix | 150 | 105 | 220 | 75 | 85 | 50 | 685 |
+| Stunfisk | 184 | 86 | 104 | 101 | 119 | 52 | 646 |
+| Sylveon | 170 | 85 | 85 | 130 | 150 | 80 | 700 |
+| Talonflame | 156 | 101 | 91 | 94 | 89 | 146 | 677 |
+| Tauros | 150 | 120 | 115 | 60 | 90 | 130 | 665 |
+| Tinkaton | 160 | 95 | 97 | 90 | 125 | 114 | 681 |
+| Torkoal | 145 | 105 | 160 | 105 | 90 | 40 | 645 |
+| Torterra | 170 | 129 | 125 | 95 | 105 | 76 | 700 |
+| Toucannon | 155 | 140 | 95 | 95 | 95 | 80 | 660 |
+| Toxapex | 125 | 83 | 172 | 73 | 162 | 55 | 670 |
+| Toxicroak | 158 | 126 | 85 | 106 | 85 | 105 | 665 |
+| Trevenant | 160 | 130 | 96 | 85 | 102 | 76 | 649 |
+| Tsareena | 147 | 140 | 118 | 70 | 118 | 92 | 685 |
+| Typhlosion | 153 | 104 | 98 | 129 | 105 | 120 | 709 |
+| [Tyranitar](https://thegamehaus.com/pokemon-champions/best-tyranitar-build-in-pokemon-champions-competitive-guide/2026/04/08/) | 175 | 154 | 130 | 115 | 120 | 81 | 775 |
+| Tyrantrum | 157 | 141 | 139 | 89 | 79 | 91 | 696 |
+| Umbreon | 170 | 85 | 130 | 80 | 150 | 85 | 700 |
+| Vanilluxe | 146 | 115 | 105 | 130 | 115 | 99 | 710 |
+| Vaporeon | 205 | 85 | 80 | 130 | 115 | 85 | 700 |
+| Venusaur | 155 | 102 | 103 | 120 | 120 | 100 | 700 |
+| Victreebel | 155 | 125 | 85 | 120 | 90 | 90 | 665 |
+| Vivillon | 155 | 72 | 70 | 110 | 70 | 109 | 586 |
+| Volcarona | 160 | 80 | 85 | 155 | 125 | 120 | 725 |
+| Watchog | 135 | 105 | 89 | 80 | 89 | 97 | 595 |
+| Weavile | 145 | 140 | 85 | 65 | 105 | 145 | 685 |
+| [Whimsicott](https://thegamehaus.com/pokemon-champions/best-whimsicott-build-in-pokemon-champions-competitive-guide/2026/04/08/) | 135 | 87 | 105 | 97 | 95 | 136 | 655 |
+| Wyrdeer | 178 | 125 | 92 | 125 | 95 | 85 | 700 |
+| Zoroark | 135 | 125 | 80 | 140 | 80 | 125 | 705 |
+
+### Best Pokemon in Champions By Stats
+
+We have made our lists for the best Pokemon by each stat to help you decide on which Pokemon you may want to add to your team. Some of these will change with time as well, especially as each new Regulation gets implemented.
+
+- [Top 10 Highest Base Stat Total Pokemon in Pokemon Champions](https://thegamehaus.com/pokemon-champions/top-10-highest-base-stat-total-bst-pokemon-in-pokemon-champions/2026/04/11/)
+- [Top 10 Highest HP Pokemon in Pokemon Champions](https://thegamehaus.com/pokemon-champions/top-10-highest-hp-pokemon-in-pokemon-champions-regulation-m-a/2026/04/11/)
+- [Top 10 Highest Attack Pokemon in Pokemon Champions](https://thegamehaus.com/pokemon-champions/top-10-highest-attack-pokemon-in-pokemon-champions/2026/04/12/)
+- [Top 10 Highest Defense Pokemon in Pokemon Champions](https://thegamehaus.com/pokemon-champions/top-10-highest-defense-pokemon-in-pokemon-champions/2026/04/12/)
+- [Top 10 Highest Special Attack Pokemon in Pokemon Champions](https://thegamehaus.com/pokemon-champions/top-10-highest-special-attack-pokemon-in-pokemon-champions/2026/04/12/)
+- [Top 10 Highest Special Defense Pokemon in Pokemon Champions](https://thegamehaus.com/pokemon-champions/top-10-highest-special-defense-pokemon-in-pokemon-champions/2026/04/12/)
+- [Top 10 Fastest Pokemon in Pokemon Champions](https://thegamehaus.com/pokemon-champions/top-10-fastest-pokemon-in-pokemon-champions/2026/04/11/)
+
+---
+
+#### Stay Connected
+
+You can read more pieces like “Best Pokemon Champions Builds” and ‘ [Like](https://www.facebook.com/thegamehausesports/)’ The Game Haus on Facebook and ‘ [Follow](https://twitter.com/TGHEsports)’ us on Twitter for more sports and esports articles from other great TGH writers along with [Robert](https://twitter.com/TGHRobertHanes)!
+
+“From Our Haus to Yours”
+
+### Leave A Reply
+
+Name *
+
+Email (not public) *
+
+Website (not public) *
+
+Phone (not public) *
+
+Write a comment
+
+* required
+
+##### Read Also
+
+##### Entire Pokemon Emerald Seaglass Pokedex
+
+One of the best new Rom Hacks in the Pokemon community is ...
+
+##### Call of Duty Modern Warfare III Season 1 Full Patch Notes
+
+Patch notes for Call of Duty: Modern Warfare III have been released. ...
+
+##### All LoL Season 14 Item Changes: What is Known So Far
+
+The next League of Legends season is bringing with it some major ...
+
+##### Forza Motorsport: All Cars In The Game
+
+With Forza Motorsport finally released, everyone's starting their engines and hitting the ...
+
+##### Full Forza Motorsport Car List
+
+Calling all car enthusiasts because Forza just might be the game for ...
+
+Our Team
+
+Joe DiTullio
+
+Robert Hanes
+
+Connor Knudsen
+
+[Pittsburgh Steelers 2025 NFL Mock Draft Vol. 1](https://www.youtube.com/watch?v=7jUPAy1Ao6k)
+
+[Pittsburgh Steelers 2025 NFL Mock Draft Vol. 1](https://www.youtube.com/watch?v=7jUPAy1Ao6k)
+
+[Pittsburgh Steelers 2025 NFL Mock Draft Vol. 1](https://www.youtube.com/watch?v=7jUPAy1Ao6k)
+
+[Pittsburgh Steelers 2025 NFL Mock Draft Vol. 1](https://www.youtube.com/watch?v=7jUPAy1Ao6k)
+
+The Game Haus aims to bring unbiased, factually sound opinions to audiences across a range of mediums that are not readily accessible in the day-to-day media outlets. We cover the latest news in Gaming, Call of Duty, CS:GO, League of Legends, Dota 2, Fighting Games, NBA 2K, Halo, Hearthstone, Overwatch, Pokemon, Rocket League, Smite, Starcraft II, Fantasy Sports, MLS, EPL, MLB, NASCAR, NBA, NCAAB, NCAAF, NFL, NHL, and PGA. Next to our unbiased coverage for esports and sports, have a look at our iGaming content. If you are looking for the most recommended [Esports Betting Sites](https://thegamehaus.com/igaming/esports-betting/) or [Best Sports Betting Sites](https://thegamehaus.com/igaming/betting/), look no further. We also cover the [Best Sweepstakes Casinos](https://thegamehaus.com/igaming/sweepstakes/) in our free 2 play section and have a closer look at the [Best DFS Sites](https://thegamehaus.com/igaming/daily-fantasy-sports/) out there. If you are looking for some real money options, check how we ranked the [Best Online Casinos](https://thegamehaus.com/igaming/casino/). Follow us on Social Media for updates!Sports: [Facebook](https://www.facebook.com/thegamehaussports/)| [Twitter](https://twitter.com/tghsports) Esports: [Facebook](https://www.facebook.com/thegamehausesports/)| [Twitter](https://twitter.com/thgesports)
+
+Players must be 21 years of age or older or reach the minimum age for gambling in their respective state and located in jurisdictions where online gambling is legal. Please play responsibly. Bet with your head, not over it. If you or someone you know has a gambling problem, and wants help, call or visit: (a) the Council on Compulsive Gambling of New Jersey at 1-800-Gambler or www.800gambler.org; or (b) Gamblers Anonymous at 855-2-CALL-GA or www.gamblersanonymous.org.
+
+Your Promo Code:
+
+The bonus offer of was already opened in an additional window. If not, you can open it also by clicking the following link:
+
+Play now

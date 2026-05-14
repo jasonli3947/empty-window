@@ -1,0 +1,305 @@
+Serebii.net Pok�dex - Top 300 All Pok�mon
+
+| Nat No. | Pic | Name | Type | Base Stat | Total Base Stat |
+| --- | --- | --- | --- | --- | --- |
+| HP | Att | Def | S.Att | S.Def | Spd |
+| #0149 | [Dragonite](https://www.serebii.net/pokedex-champions/dragonite/) | 91 | 124 | 115 | 145 | 125 | 100 | 700 |
+| #0248 | [Tyranitar](https://www.serebii.net/pokedex-champions/tyranitar/) | 100 | 164 | 150 | 95 | 120 | 71 | 700 |
+| #0445 | [Garchomp](https://www.serebii.net/pokedex-champions/garchomp/) | 108 | 170 | 115 | 120 | 95 | 92 | 700 |
+| #0670 | [Floette](https://www.serebii.net/pokedex-champions/floette/) | 74 | 85 | 87 | 155 | 148 | 102 | 651 |
+| #0130 | [Gyarados](https://www.serebii.net/pokedex-champions/gyarados/) | 95 | 155 | 109 | 70 | 130 | 81 | 640 |
+| #0006 | [Charizard](https://www.serebii.net/pokedex-champions/charizard/) | 78 | 130 | 111 | 130 | 85 | 100 | 634 |
+| #0006 | [Charizard](https://www.serebii.net/pokedex-champions/charizard/) | 78 | 104 | 78 | 159 | 115 | 100 | 634 |
+| #0655 | [Delphox](https://www.serebii.net/pokedex-champions/delphox/) | 75 | 69 | 72 | 159 | 125 | 134 | 634 |
+| #0009 | [Blastoise](https://www.serebii.net/pokedex-champions/blastoise/) | 79 | 103 | 120 | 135 | 115 | 78 | 630 |
+| #0160 | [Feraligatr](https://www.serebii.net/pokedex-champions/feraligatr/) | 85 | 160 | 125 | 89 | 93 | 78 | 630 |
+| #0306 | [Aggron](https://www.serebii.net/pokedex-champions/aggron/) | 70 | 140 | 230 | 60 | 80 | 50 | 630 |
+| #0652 | [Chesnaught](https://www.serebii.net/pokedex-champions/chesnaught/) | 88 | 137 | 172 | 74 | 115 | 44 | 630 |
+| #0658 | [Greninja](https://www.serebii.net/pokedex-champions/greninja/) | 72 | 125 | 77 | 133 | 81 | 142 | 630 |
+| #0500 | [Emboar](https://www.serebii.net/pokedex-champions/emboar/) | 110 | 148 | 75 | 110 | 110 | 75 | 628 |
+| #0003 | [Venusaur](https://www.serebii.net/pokedex-champions/venusaur/) | 80 | 100 | 123 | 122 | 120 | 80 | 625 |
+| #0154 | [Meganium](https://www.serebii.net/pokedex-champions/meganium/) | 80 | 92 | 115 | 143 | 115 | 80 | 625 |
+| #0448 | [Lucario](https://www.serebii.net/pokedex-champions/lucario/) | 70 | 145 | 88 | 140 | 70 | 112 | 625 |
+| #0121 | [Starmie](https://www.serebii.net/pokedex-champions/starmie/) | 60 | 100 | 105 | 130 | 105 | 120 | 620 |
+| #0609 | [Chandelure](https://www.serebii.net/pokedex-champions/chandelure/) | 60 | 75 | 110 | 175 | 110 | 90 | 620 |
+| #0282 | [Gardevoir](https://www.serebii.net/pokedex-champions/gardevoir/) | 68 | 85 | 65 | 165 | 135 | 100 | 618 |
+| #0475 | [Gallade](https://www.serebii.net/pokedex-champions/gallade/) | 68 | 165 | 95 | 65 | 115 | 110 | 618 |
+| #0142 | [Aerodactyl](https://www.serebii.net/pokedex-champions/aerodactyl/) | 80 | 135 | 85 | 70 | 95 | 150 | 615 |
+| #0181 | [Ampharos](https://www.serebii.net/pokedex-champions/ampharos/) | 90 | 95 | 105 | 165 | 110 | 45 | 610 |
+| #0208 | [Steelix](https://www.serebii.net/pokedex-champions/steelix/) | 75 | 125 | 230 | 55 | 95 | 30 | 610 |
+| #0530 | [Excadrill](https://www.serebii.net/pokedex-champions/excadrill/) | 110 | 165 | 100 | 65 | 65 | 103 | 608 |
+| #0149 | [Dragonite](https://www.serebii.net/pokedex-champions//) | 91 | 134 | 95 | 100 | 100 | 80 | 600 |
+| #0248 | [Tyranitar](https://www.serebii.net/pokedex-champions//) | 100 | 134 | 110 | 95 | 100 | 61 | 600 |
+| #0445 | [Garchomp](https://www.serebii.net/pokedex-champions//) | 108 | 130 | 95 | 80 | 85 | 102 | 600 |
+| #0635 | [Hydreigon](https://www.serebii.net/pokedex-champions//) | 92 | 105 | 90 | 125 | 90 | 98 | 600 |
+| #0706 | [Goodra](https://www.serebii.net/pokedex-champions//) | 90 | 100 | 70 | 110 | 150 | 80 | 600 |
+| #0784 | [Kommo-o](https://www.serebii.net/pokedex-champions//) | 75 | 110 | 125 | 100 | 105 | 85 | 600 |
+| #0887 | [Dragapult](https://www.serebii.net/pokedex-champions//) | 88 | 120 | 75 | 100 | 75 | 142 | 600 |
+| #1018 | [Archaludon](https://www.serebii.net/pokedex-champions//) | 90 | 105 | 130 | 125 | 65 | 85 | 600 |
+| #0065 | [Alakazam](https://www.serebii.net/pokedex-champions/alakazam/) | 55 | 50 | 65 | 175 | 105 | 150 | 600 |
+| #0094 | [Gengar](https://www.serebii.net/pokedex-champions/gengar/) | 60 | 65 | 80 | 170 | 95 | 130 | 600 |
+| #0127 | [Pinsir](https://www.serebii.net/pokedex-champions/pinsir/) | 65 | 155 | 120 | 65 | 90 | 105 | 600 |
+| #0212 | [Scizor](https://www.serebii.net/pokedex-champions/scizor/) | 70 | 150 | 140 | 65 | 100 | 75 | 600 |
+| #0214 | [Heracross](https://www.serebii.net/pokedex-champions/heracross/) | 80 | 185 | 115 | 40 | 105 | 75 | 600 |
+| #0229 | [Houndoom](https://www.serebii.net/pokedex-champions/houndoom/) | 75 | 90 | 90 | 140 | 90 | 115 | 600 |
+| #0701 | [Hawlucha](https://www.serebii.net/pokedex-champions/hawlucha/) | 78 | 137 | 100 | 74 | 93 | 118 | 600 |
+| #0706 | [Goodra](https://www.serebii.net/pokedex-champions/goodra/) | 80 | 100 | 100 | 110 | 150 | 60 | 600 |
+| #0460 | [Abomasnow](https://www.serebii.net/pokedex-champions/abomasnow/) | 90 | 132 | 105 | 132 | 105 | 30 | 594 |
+| #0071 | [Victreebel](https://www.serebii.net/pokedex-champions/victreebel/) | 80 | 125 | 85 | 135 | 95 | 70 | 590 |
+| #0080 | [Slowbro](https://www.serebii.net/pokedex-champions/slowbro/) | 95 | 75 | 180 | 130 | 80 | 30 | 590 |
+| #0115 | [Kangaskhan](https://www.serebii.net/pokedex-champions/kangaskhan/) | 105 | 125 | 100 | 60 | 100 | 100 | 590 |
+| #0334 | [Altaria](https://www.serebii.net/pokedex-champions/altaria/) | 75 | 110 | 110 | 110 | 105 | 80 | 590 |
+| #0780 | [Drampa](https://www.serebii.net/pokedex-champions/drampa/) | 78 | 85 | 110 | 160 | 116 | 36 | 585 |
+| #0036 | [Clefable](https://www.serebii.net/pokedex-champions/clefable/) | 95 | 80 | 93 | 135 | 110 | 70 | 583 |
+| #0623 | [Golurk](https://www.serebii.net/pokedex-champions/golurk/) | 89 | 159 | 105 | 70 | 105 | 55 | 583 |
+| #0362 | [Glalie](https://www.serebii.net/pokedex-champions/glalie/) | 80 | 120 | 80 | 120 | 80 | 100 | 580 |
+| #0428 | [Lopunny](https://www.serebii.net/pokedex-champions/lopunny/) | 65 | 136 | 94 | 54 | 96 | 135 | 580 |
+| #0478 | [Froslass](https://www.serebii.net/pokedex-champions/froslass/) | 70 | 80 | 70 | 140 | 100 | 120 | 580 |
+| #0018 | [Pidgeot](https://www.serebii.net/pokedex-champions/pidgeot/) | 83 | 80 | 80 | 135 | 80 | 121 | 579 |
+| #0740 | [Crabominable](https://www.serebii.net/pokedex-champions/crabominable/) | 97 | 157 | 122 | 62 | 107 | 33 | 578 |
+| #0310 | [Manectric](https://www.serebii.net/pokedex-champions/manectric/) | 70 | 75 | 80 | 135 | 80 | 135 | 575 |
+| #0678 | [Meowstic](https://www.serebii.net/pokedex-champions/meowstic/) | 74 | 48 | 76 | 143 | 101 | 124 | 566 |
+| #0227 | [Skarmory](https://www.serebii.net/pokedex-champions/skarmory/) | 65 | 140 | 110 | 40 | 100 | 110 | 565 |
+| #0359 | [Absol](https://www.serebii.net/pokedex-champions/absol/) | 65 | 150 | 60 | 115 | 60 | 115 | 565 |
+| #0319 | [Sharpedo](https://www.serebii.net/pokedex-champions/sharpedo/) | 70 | 140 | 70 | 110 | 65 | 105 | 560 |
+| #0323 | [Camerupt](https://www.serebii.net/pokedex-champions/camerupt/) | 70 | 120 | 100 | 145 | 105 | 20 | 560 |
+| #0059 | [Arcanine](https://www.serebii.net/pokedex-champions//) | 90 | 110 | 80 | 100 | 80 | 95 | 555 |
+| #0059 | [Arcanine](https://www.serebii.net/pokedex-champions/arcanine/) | 95 | 115 | 80 | 95 | 80 | 90 | 555 |
+| #0354 | [Banette](https://www.serebii.net/pokedex-champions/banette/) | 64 | 165 | 75 | 93 | 83 | 75 | 555 |
+| #0358 | [Chimecho](https://www.serebii.net/pokedex-champions/chimecho/) | 75 | 50 | 110 | 135 | 120 | 65 | 555 |
+| #0671 | [Florges](https://www.serebii.net/pokedex-champions//) | 78 | 65 | 68 | 112 | 154 | 75 | 552 |
+| #0670 | [Floette](https://www.serebii.net/pokedex-champions/floette/) | 74 | 65 | 67 | 125 | 128 | 92 | 551 |
+| #0637 | [Volcarona](https://www.serebii.net/pokedex-champions//) | 85 | 60 | 65 | 135 | 105 | 100 | 550 |
+| #0983 | [Kingambit](https://www.serebii.net/pokedex-champions//) | 100 | 135 | 120 | 60 | 85 | 50 | 550 |
+| #0531 | [Audino](https://www.serebii.net/pokedex-champions/audino/) | 103 | 60 | 126 | 80 | 126 | 50 | 545 |
+| #0130 | [Gyarados](https://www.serebii.net/pokedex-champions//) | 95 | 125 | 79 | 60 | 100 | 81 | 540 |
+| #0143 | [Snorlax](https://www.serebii.net/pokedex-champions//) | 160 | 110 | 65 | 65 | 110 | 30 | 540 |
+| #0350 | [Milotic](https://www.serebii.net/pokedex-champions//) | 95 | 60 | 79 | 100 | 125 | 81 | 540 |
+| #1019 | [Hydrapple](https://www.serebii.net/pokedex-champions//) | 106 | 80 | 110 | 120 | 80 | 44 | 540 |
+| #0464 | [Rhyperior](https://www.serebii.net/pokedex-champions//) | 115 | 140 | 130 | 55 | 55 | 40 | 535 |
+| #0584 | [Vanilluxe](https://www.serebii.net/pokedex-champions//) | 71 | 95 | 85 | 110 | 95 | 79 | 535 |
+| #0715 | [Noivern](https://www.serebii.net/pokedex-champions//) | 85 | 70 | 80 | 97 | 80 | 123 | 535 |
+| #0006 | [Charizard](https://www.serebii.net/pokedex-champions//) | 78 | 84 | 78 | 109 | 85 | 100 | 534 |
+| #0157 | [Typhlosion](https://www.serebii.net/pokedex-champions//) | 78 | 84 | 78 | 109 | 85 | 100 | 534 |
+| #0392 | [Infernape](https://www.serebii.net/pokedex-champions//) | 76 | 104 | 71 | 104 | 71 | 108 | 534 |
+| #0655 | [Delphox](https://www.serebii.net/pokedex-champions//) | 75 | 69 | 72 | 114 | 100 | 104 | 534 |
+| #0157 | [Typhlosion](https://www.serebii.net/pokedex-champions/typhlosion/) | 73 | 84 | 78 | 119 | 85 | 95 | 534 |
+| #0009 | [Blastoise](https://www.serebii.net/pokedex-champions//) | 79 | 83 | 100 | 85 | 105 | 78 | 530 |
+| #0160 | [Feraligatr](https://www.serebii.net/pokedex-champions//) | 85 | 105 | 100 | 79 | 83 | 78 | 530 |
+| #0306 | [Aggron](https://www.serebii.net/pokedex-champions//) | 70 | 110 | 180 | 60 | 60 | 50 | 530 |
+| #0395 | [Empoleon](https://www.serebii.net/pokedex-champions//) | 84 | 86 | 88 | 111 | 101 | 60 | 530 |
+| #0473 | [Mamoswine](https://www.serebii.net/pokedex-champions//) | 110 | 130 | 80 | 70 | 60 | 80 | 530 |
+| #0652 | [Chesnaught](https://www.serebii.net/pokedex-champions//) | 88 | 107 | 122 | 74 | 75 | 64 | 530 |
+| #0658 | [Greninja](https://www.serebii.net/pokedex-champions//) | 72 | 95 | 67 | 103 | 71 | 122 | 530 |
+| #0724 | [Decidueye](https://www.serebii.net/pokedex-champions//) | 78 | 107 | 75 | 100 | 100 | 70 | 530 |
+| #0727 | [Incineroar](https://www.serebii.net/pokedex-champions//) | 95 | 115 | 90 | 80 | 90 | 60 | 530 |
+| #0730 | [Primarina](https://www.serebii.net/pokedex-champions//) | 80 | 74 | 74 | 126 | 116 | 60 | 530 |
+| #0902 | [Basculegion](https://www.serebii.net/pokedex-champions//) | 120 | 112 | 65 | 80 | 75 | 78 | 530 |
+| #0908 | [Meowscarada](https://www.serebii.net/pokedex-champions//) | 76 | 110 | 70 | 81 | 70 | 123 | 530 |
+| #0911 | [Skeledirge](https://www.serebii.net/pokedex-champions//) | 104 | 75 | 100 | 110 | 75 | 66 | 530 |
+| #0914 | [Quaquaval](https://www.serebii.net/pokedex-champions//) | 85 | 120 | 80 | 85 | 75 | 85 | 530 |
+| #0724 | [Decidueye](https://www.serebii.net/pokedex-champions/decidueye/) | 88 | 112 | 80 | 95 | 95 | 60 | 530 |
+| #0497 | [Serperior](https://www.serebii.net/pokedex-champions//) | 75 | 75 | 95 | 75 | 95 | 113 | 528 |
+| #0500 | [Emboar](https://www.serebii.net/pokedex-champions//) | 110 | 123 | 65 | 100 | 65 | 65 | 528 |
+| #0503 | [Samurott](https://www.serebii.net/pokedex-champions//) | 95 | 100 | 85 | 108 | 70 | 70 | 528 |
+| #0503 | [Samurott](https://www.serebii.net/pokedex-champions/samurott/) | 90 | 108 | 80 | 100 | 65 | 85 | 528 |
+| #0003 | [Venusaur](https://www.serebii.net/pokedex-champions//) | 80 | 82 | 83 | 100 | 100 | 80 | 525 |
+| #0134 | [Vaporeon](https://www.serebii.net/pokedex-champions//) | 130 | 65 | 60 | 110 | 95 | 65 | 525 |
+| #0135 | [Jolteon](https://www.serebii.net/pokedex-champions//) | 65 | 65 | 60 | 110 | 95 | 130 | 525 |
+| #0136 | [Flareon](https://www.serebii.net/pokedex-champions//) | 65 | 130 | 60 | 95 | 110 | 65 | 525 |
+| #0154 | [Meganium](https://www.serebii.net/pokedex-champions//) | 80 | 82 | 100 | 83 | 100 | 80 | 525 |
+| #0196 | [Espeon](https://www.serebii.net/pokedex-champions//) | 65 | 65 | 60 | 130 | 95 | 110 | 525 |
+| #0197 | [Umbreon](https://www.serebii.net/pokedex-champions//) | 95 | 65 | 110 | 60 | 130 | 65 | 525 |
+| #0389 | [Torterra](https://www.serebii.net/pokedex-champions//) | 95 | 109 | 105 | 75 | 85 | 56 | 525 |
+| #0448 | [Lucario](https://www.serebii.net/pokedex-champions//) | 70 | 110 | 70 | 115 | 70 | 90 | 525 |
+| #0450 | [Hippowdon](https://www.serebii.net/pokedex-champions//) | 108 | 112 | 118 | 68 | 72 | 47 | 525 |
+| #0470 | [Leafeon](https://www.serebii.net/pokedex-champions//) | 65 | 110 | 130 | 60 | 65 | 95 | 525 |
+| #0471 | [Glaceon](https://www.serebii.net/pokedex-champions//) | 65 | 60 | 110 | 130 | 95 | 65 | 525 |
+| #0700 | [Sylveon](https://www.serebii.net/pokedex-champions//) | 95 | 65 | 65 | 110 | 130 | 60 | 525 |
+| #0899 | [Wyrdeer](https://www.serebii.net/pokedex-champions//) | 103 | 105 | 72 | 105 | 75 | 65 | 525 |
+| #0936 | [Armarouge](https://www.serebii.net/pokedex-champions//) | 85 | 60 | 100 | 125 | 80 | 75 | 525 |
+| #0937 | [Ceruledge](https://www.serebii.net/pokedex-champions//) | 75 | 125 | 80 | 60 | 100 | 85 | 525 |
+| #0970 | [Glimmora](https://www.serebii.net/pokedex-champions//) | 83 | 55 | 90 | 130 | 81 | 86 | 525 |
+| #0405 | [Luxray](https://www.serebii.net/pokedex-champions//) | 80 | 120 | 79 | 95 | 79 | 70 | 523 |
+| #0697 | [Tyrantrum](https://www.serebii.net/pokedex-champions//) | 82 | 121 | 119 | 69 | 59 | 71 | 521 |
+| #0699 | [Aurorus](https://www.serebii.net/pokedex-champions//) | 123 | 77 | 72 | 99 | 92 | 58 | 521 |
+| #0121 | [Starmie](https://www.serebii.net/pokedex-champions//) | 60 | 75 | 85 | 100 | 85 | 115 | 520 |
+| #0609 | [Chandelure](https://www.serebii.net/pokedex-champions//) | 60 | 55 | 90 | 145 | 90 | 80 | 520 |
+| #0866 | [Mr. Rime](https://www.serebii.net/pokedex-champions//) | 80 | 85 | 75 | 110 | 100 | 70 | 520 |
+| #0981 | [Farigiraf](https://www.serebii.net/pokedex-champions//) | 120 | 90 | 70 | 110 | 70 | 60 | 520 |
+| #0479 | [Rotom](https://www.serebii.net/pokedex-champions/rotom/) | 50 | 65 | 107 | 105 | 107 | 86 | 520 |
+| #0479 | [Rotom](https://www.serebii.net/pokedex-champions/rotom/) | 50 | 65 | 107 | 105 | 107 | 86 | 520 |
+| #0479 | [Rotom](https://www.serebii.net/pokedex-champions/rotom/) | 50 | 65 | 107 | 105 | 107 | 86 | 520 |
+| #0479 | [Rotom](https://www.serebii.net/pokedex-champions/rotom/) | 50 | 65 | 107 | 105 | 107 | 86 | 520 |
+| #0553 | [Krookodile](https://www.serebii.net/pokedex-champions//) | 95 | 117 | 80 | 65 | 70 | 92 | 519 |
+| #0282 | [Gardevoir](https://www.serebii.net/pokedex-champions//) | 68 | 65 | 65 | 125 | 115 | 80 | 518 |
+| #0475 | [Gallade](https://www.serebii.net/pokedex-champions//) | 68 | 125 | 65 | 65 | 115 | 80 | 518 |
+| #0142 | [Aerodactyl](https://www.serebii.net/pokedex-champions//) | 80 | 105 | 65 | 60 | 75 | 130 | 515 |
+| #0407 | [Roserade](https://www.serebii.net/pokedex-champions//) | 60 | 70 | 65 | 125 | 105 | 90 | 515 |
+| #0713 | [Avalugg](https://www.serebii.net/pokedex-champions//) | 95 | 117 | 184 | 44 | 46 | 28 | 514 |
+| #0713 | [Avalugg](https://www.serebii.net/pokedex-champions/avalugg/) | 95 | 127 | 184 | 34 | 36 | 38 | 514 |
+| #0181 | [Ampharos](https://www.serebii.net/pokedex-champions//) | 90 | 75 | 85 | 115 | 90 | 55 | 510 |
+| #0208 | [Steelix](https://www.serebii.net/pokedex-champions//) | 75 | 85 | 200 | 55 | 65 | 30 | 510 |
+| #0461 | [Weavile](https://www.serebii.net/pokedex-champions//) | 70 | 120 | 65 | 45 | 85 | 125 | 510 |
+| #0472 | [Gliscor](https://www.serebii.net/pokedex-champions//) | 75 | 95 | 125 | 45 | 75 | 95 | 510 |
+| #0571 | [Zoroark](https://www.serebii.net/pokedex-champions//) | 60 | 105 | 60 | 120 | 60 | 105 | 510 |
+| #0763 | [Tsareena](https://www.serebii.net/pokedex-champions//) | 72 | 120 | 98 | 50 | 98 | 72 | 510 |
+| #0844 | [Sandaconda](https://www.serebii.net/pokedex-champions//) | 72 | 107 | 125 | 65 | 70 | 71 | 510 |
+| #0858 | [Hatterene](https://www.serebii.net/pokedex-champions//) | 57 | 90 | 95 | 136 | 103 | 29 | 510 |
+| #0903 | [Sneasler](https://www.serebii.net/pokedex-champions//) | 80 | 130 | 60 | 40 | 80 | 120 | 510 |
+| #0308 | [Medicham](https://www.serebii.net/pokedex-champions/medicham/) | 60 | 100 | 85 | 80 | 85 | 100 | 510 |
+| #0571 | [Zoroark](https://www.serebii.net/pokedex-champions/zoroark/) | 55 | 100 | 60 | 125 | 60 | 110 | 510 |
+| #0530 | [Excadrill](https://www.serebii.net/pokedex-champions//) | 110 | 135 | 60 | 50 | 65 | 88 | 508 |
+| #0855 | [Polteageist](https://www.serebii.net/pokedex-champions//) | 60 | 65 | 65 | 134 | 114 | 70 | 508 |
+| #1013 | [Sinistcha](https://www.serebii.net/pokedex-champions//) | 71 | 60 | 106 | 121 | 80 | 70 | 508 |
+| #0959 | [Tinkaton](https://www.serebii.net/pokedex-champions//) | 85 | 75 | 77 | 70 | 105 | 94 | 506 |
+| #0038 | [Ninetales](https://www.serebii.net/pokedex-champions//) | 73 | 76 | 75 | 81 | 100 | 100 | 505 |
+| #0068 | [Machamp](https://www.serebii.net/pokedex-champions//) | 90 | 130 | 80 | 65 | 85 | 55 | 505 |
+| #0534 | [Conkeldurr](https://www.serebii.net/pokedex-champions//) | 105 | 140 | 95 | 55 | 65 | 45 | 505 |
+| #0614 | [Beartic](https://www.serebii.net/pokedex-champions//) | 95 | 130 | 80 | 70 | 80 | 50 | 505 |
+| #0038 | [Ninetales](https://www.serebii.net/pokedex-champions/ninetales/) | 73 | 67 | 75 | 81 | 100 | 109 | 505 |
+| #0065 | [Alakazam](https://www.serebii.net/pokedex-champions//) | 55 | 50 | 45 | 135 | 95 | 120 | 500 |
+| #0094 | [Gengar](https://www.serebii.net/pokedex-champions//) | 60 | 65 | 60 | 130 | 75 | 110 | 500 |
+| #0127 | [Pinsir](https://www.serebii.net/pokedex-champions//) | 65 | 125 | 100 | 55 | 70 | 85 | 500 |
+| #0186 | [Politoed](https://www.serebii.net/pokedex-champions//) | 90 | 75 | 75 | 90 | 100 | 70 | 500 |
+| #0212 | [Scizor](https://www.serebii.net/pokedex-champions//) | 70 | 130 | 100 | 55 | 80 | 65 | 500 |
+| #0214 | [Heracross](https://www.serebii.net/pokedex-champions//) | 80 | 125 | 75 | 40 | 95 | 85 | 500 |
+| #0229 | [Houndoom](https://www.serebii.net/pokedex-champions//) | 75 | 90 | 50 | 110 | 80 | 95 | 500 |
+| #0681 | [Aegislash](https://www.serebii.net/pokedex-champions//) | 60 | 50 | 140 | 50 | 140 | 60 | 500 |
+| #0693 | [Clawitzer](https://www.serebii.net/pokedex-champions//) | 71 | 73 | 88 | 120 | 89 | 59 | 500 |
+| #0701 | [Hawlucha](https://www.serebii.net/pokedex-champions//) | 78 | 92 | 75 | 74 | 63 | 118 | 500 |
+| #0750 | [Mudsdale](https://www.serebii.net/pokedex-champions//) | 100 | 125 | 100 | 55 | 85 | 35 | 500 |
+| #0900 | [Kleavor](https://www.serebii.net/pokedex-champions//) | 70 | 135 | 95 | 45 | 70 | 85 | 500 |
+| #0934 | [Garganacl](https://www.serebii.net/pokedex-champions//) | 100 | 100 | 130 | 45 | 90 | 35 | 500 |
+| #0681 | [Aegislash](https://www.serebii.net/pokedex-champions/aegislash/) | 60 | 140 | 50 | 140 | 50 | 60 | 500 |
+| #0663 | [Talonflame](https://www.serebii.net/pokedex-champions//) | 78 | 81 | 71 | 74 | 69 | 126 | 499 |
+| #0512 | [Simisage](https://www.serebii.net/pokedex-champions//) | 75 | 98 | 63 | 98 | 63 | 101 | 498 |
+| #0514 | [Simisear](https://www.serebii.net/pokedex-champions//) | 75 | 98 | 63 | 98 | 63 | 101 | 498 |
+| #0516 | [Simipour](https://www.serebii.net/pokedex-champions//) | 75 | 98 | 63 | 98 | 63 | 101 | 498 |
+| #0409 | [Rampardos](https://www.serebii.net/pokedex-champions//) | 97 | 165 | 60 | 65 | 50 | 58 | 495 |
+| #0411 | [Bastiodon](https://www.serebii.net/pokedex-champions//) | 60 | 52 | 168 | 47 | 138 | 30 | 495 |
+| #0675 | [Pangoro](https://www.serebii.net/pokedex-champions//) | 95 | 124 | 78 | 69 | 71 | 58 | 495 |
+| #0748 | [Toxapex](https://www.serebii.net/pokedex-champions//) | 50 | 63 | 152 | 53 | 142 | 35 | 495 |
+| #0823 | [Corviknight](https://www.serebii.net/pokedex-champions//) | 98 | 87 | 105 | 53 | 85 | 67 | 495 |
+| #0869 | [Alcremie](https://www.serebii.net/pokedex-champions//) | 65 | 60 | 75 | 110 | 121 | 64 | 495 |
+| #0939 | [Bellibolt](https://www.serebii.net/pokedex-champions//) | 109 | 64 | 91 | 103 | 83 | 45 | 495 |
+| #0015 | [Beedrill](https://www.serebii.net/pokedex-champions/beedrill/) | 65 | 150 | 40 | 15 | 80 | 145 | 495 |
+| #0460 | [Abomasnow](https://www.serebii.net/pokedex-champions//) | 90 | 92 | 75 | 92 | 85 | 60 | 494 |
+| #0711 | [Gourgeist](https://www.serebii.net/pokedex-champions//) | 65 | 90 | 122 | 58 | 75 | 84 | 494 |
+| #0711 | [Gourgeist](https://www.serebii.net/pokedex-champions/gourgeist/) | 55 | 85 | 122 | 58 | 75 | 99 | 494 |
+| #0711 | [Gourgeist](https://www.serebii.net/pokedex-champions/gourgeist/) | 75 | 95 | 122 | 58 | 75 | 69 | 494 |
+| #0711 | [Gourgeist](https://www.serebii.net/pokedex-champions/gourgeist/) | 85 | 100 | 122 | 58 | 75 | 54 | 494 |
+| #0071 | [Victreebel](https://www.serebii.net/pokedex-champions//) | 80 | 105 | 65 | 100 | 70 | 70 | 490 |
+| #0080 | [Slowbro](https://www.serebii.net/pokedex-champions//) | 95 | 75 | 110 | 100 | 80 | 30 | 490 |
+| #0115 | [Kangaskhan](https://www.serebii.net/pokedex-champions//) | 105 | 95 | 80 | 40 | 80 | 90 | 490 |
+| #0128 | [Tauros](https://www.serebii.net/pokedex-champions//) | 75 | 100 | 95 | 40 | 70 | 110 | 490 |
+| #0199 | [Slowking](https://www.serebii.net/pokedex-champions//) | 95 | 75 | 80 | 100 | 110 | 30 | 490 |
+| #0334 | [Altaria](https://www.serebii.net/pokedex-champions//) | 75 | 70 | 90 | 70 | 105 | 80 | 490 |
+| #0454 | [Toxicroak](https://www.serebii.net/pokedex-champions//) | 83 | 106 | 65 | 86 | 65 | 85 | 490 |
+| #0579 | [Reuniclus](https://www.serebii.net/pokedex-champions//) | 110 | 65 | 75 | 125 | 85 | 30 | 490 |
+| #0765 | [Oranguru](https://www.serebii.net/pokedex-champions//) | 90 | 60 | 80 | 90 | 110 | 60 | 490 |
+| #0766 | [Passimian](https://www.serebii.net/pokedex-champions//) | 100 | 120 | 90 | 40 | 60 | 80 | 490 |
+| #0080 | [Slowbro](https://www.serebii.net/pokedex-champions/slowbro/) | 95 | 100 | 95 | 100 | 70 | 30 | 490 |
+| #0128 | [Tauros](https://www.serebii.net/pokedex-champions/tauros/) | 75 | 110 | 105 | 30 | 70 | 100 | 490 |
+| #0128 | [Tauros](https://www.serebii.net/pokedex-champions/tauros/) | 75 | 110 | 105 | 30 | 70 | 100 | 490 |
+| #0128 | [Tauros](https://www.serebii.net/pokedex-champions/tauros/) | 75 | 110 | 105 | 30 | 70 | 100 | 490 |
+| #0199 | [Slowking](https://www.serebii.net/pokedex-champions/slowking/) | 95 | 65 | 80 | 110 | 110 | 30 | 490 |
+| #0745 | [Lycanroc](https://www.serebii.net/pokedex-champions//) | 75 | 115 | 65 | 55 | 65 | 112 | 487 |
+| #0745 | [Lycanroc](https://www.serebii.net/pokedex-champions/lycanroc/) | 85 | 115 | 75 | 55 | 75 | 82 | 487 |
+| #0745 | [Lycanroc](https://www.serebii.net/pokedex-champions/lycanroc/) | 75 | 117 | 65 | 55 | 65 | 110 | 487 |
+| #0952 | [Scovillain](https://www.serebii.net/pokedex-champions//) | 65 | 108 | 65 | 108 | 65 | 75 | 486 |
+| #0026 | [Raichu](https://www.serebii.net/pokedex-champions//) | 60 | 90 | 55 | 90 | 80 | 110 | 485 |
+| #0442 | [Spiritomb](https://www.serebii.net/pokedex-champions//) | 50 | 92 | 108 | 92 | 108 | 35 | 485 |
+| #0733 | [Toucannon](https://www.serebii.net/pokedex-champions//) | 80 | 120 | 75 | 75 | 75 | 60 | 485 |
+| #0780 | [Drampa](https://www.serebii.net/pokedex-champions//) | 78 | 60 | 85 | 135 | 91 | 36 | 485 |
+| #0841 | [Flapple](https://www.serebii.net/pokedex-champions//) | 70 | 110 | 80 | 95 | 60 | 70 | 485 |
+| #0842 | [Appletun](https://www.serebii.net/pokedex-champions//) | 110 | 85 | 80 | 100 | 80 | 30 | 485 |
+| #0026 | [Raichu](https://www.serebii.net/pokedex-champions/raichu/) | 60 | 85 | 50 | 95 | 85 | 110 | 485 |
+| #0036 | [Clefable](https://www.serebii.net/pokedex-champions//) | 95 | 70 | 73 | 95 | 90 | 60 | 483 |
+| #0563 | [Cofagrigus](https://www.serebii.net/pokedex-champions//) | 58 | 50 | 145 | 95 | 105 | 30 | 483 |
+| #0623 | [Golurk](https://www.serebii.net/pokedex-champions//) | 89 | 124 | 80 | 55 | 80 | 55 | 483 |
+| #0867 | [Runerigus](https://www.serebii.net/pokedex-champions//) | 58 | 95 | 145 | 50 | 105 | 30 | 483 |
+| #0695 | [Heliolisk](https://www.serebii.net/pokedex-champions//) | 62 | 55 | 52 | 109 | 94 | 109 | 481 |
+| #0956 | [Espathra](https://www.serebii.net/pokedex-champions//) | 95 | 60 | 60 | 101 | 60 | 105 | 481 |
+| #0362 | [Glalie](https://www.serebii.net/pokedex-champions//) | 80 | 80 | 80 | 80 | 80 | 80 | 480 |
+| #0428 | [Lopunny](https://www.serebii.net/pokedex-champions//) | 65 | 76 | 84 | 54 | 96 | 105 | 480 |
+| #0478 | [Froslass](https://www.serebii.net/pokedex-champions//) | 70 | 80 | 70 | 80 | 70 | 110 | 480 |
+| #0547 | [Whimsicott](https://www.serebii.net/pokedex-champions//) | 60 | 67 | 85 | 77 | 75 | 116 | 480 |
+| #0685 | [Slurpuff](https://www.serebii.net/pokedex-champions//) | 82 | 80 | 86 | 85 | 75 | 72 | 480 |
+| #0758 | [Salazzle](https://www.serebii.net/pokedex-champions//) | 68 | 64 | 60 | 111 | 60 | 117 | 480 |
+| #0968 | [Orthworm](https://www.serebii.net/pokedex-champions//) | 70 | 85 | 145 | 60 | 55 | 65 | 480 |
+| #0302 | [Sableye](https://www.serebii.net/pokedex-champions/sableye/) | 50 | 85 | 125 | 85 | 115 | 20 | 480 |
+| #0018 | [Pidgeot](https://www.serebii.net/pokedex-champions//) | 83 | 80 | 75 | 70 | 70 | 101 | 479 |
+| #0740 | [Crabominable](https://www.serebii.net/pokedex-champions//) | 97 | 132 | 77 | 62 | 67 | 43 | 478 |
+| #0778 | [Mimikyu](https://www.serebii.net/pokedex-champions//) | 55 | 90 | 80 | 50 | 105 | 96 | 476 |
+| #0310 | [Manectric](https://www.serebii.net/pokedex-champions//) | 70 | 75 | 60 | 105 | 60 | 105 | 475 |
+| #0569 | [Garbodor](https://www.serebii.net/pokedex-champions//) | 80 | 95 | 82 | 60 | 82 | 75 | 474 |
+| #0709 | [Trevenant](https://www.serebii.net/pokedex-champions//) | 85 | 110 | 76 | 65 | 82 | 56 | 474 |
+| #0676 | [Furfrou](https://www.serebii.net/pokedex-champions//) | 75 | 80 | 60 | 65 | 90 | 102 | 472 |
+| #0618 | [Stunfisk](https://www.serebii.net/pokedex-champions//) | 109 | 66 | 84 | 81 | 99 | 32 | 471 |
+| #0618 | [Stunfisk](https://www.serebii.net/pokedex-champions/stunfisk/) | 109 | 81 | 99 | 66 | 84 | 32 | 471 |
+| #0324 | [Torkoal](https://www.serebii.net/pokedex-champions//) | 70 | 85 | 140 | 85 | 70 | 20 | 470 |
+| #0707 | [Klefki](https://www.serebii.net/pokedex-champions//) | 57 | 80 | 91 | 80 | 87 | 75 | 470 |
+| #0925 | [Maushold](https://www.serebii.net/pokedex-champions//) | 74 | 75 | 70 | 65 | 75 | 111 | 470 |
+| #0678 | [Meowstic](https://www.serebii.net/pokedex-champions//) | 74 | 48 | 76 | 83 | 81 | 104 | 466 |
+| #0678 | [Meowstic](https://www.serebii.net/pokedex-champions/meowstic/) | 74 | 48 | 76 | 83 | 81 | 104 | 466 |
+| #0205 | [Forretress](https://www.serebii.net/pokedex-champions//) | 75 | 90 | 140 | 60 | 60 | 40 | 465 |
+| #0227 | [Skarmory](https://www.serebii.net/pokedex-champions//) | 65 | 80 | 140 | 40 | 70 | 70 | 465 |
+| #0359 | [Absol](https://www.serebii.net/pokedex-champions//) | 65 | 130 | 60 | 75 | 60 | 75 | 465 |
+| #0683 | [Aromatisse](https://www.serebii.net/pokedex-champions//) | 101 | 72 | 72 | 99 | 89 | 29 | 462 |
+| #0319 | [Sharpedo](https://www.serebii.net/pokedex-champions//) | 70 | 120 | 40 | 95 | 40 | 95 | 460 |
+| #0323 | [Camerupt](https://www.serebii.net/pokedex-champions//) | 70 | 100 | 70 | 105 | 75 | 40 | 460 |
+| #0964 | [Palafin](https://www.serebii.net/pokedex-champions//) | 100 | 70 | 72 | 53 | 62 | 100 | 457 |
+| #0354 | [Banette](https://www.serebii.net/pokedex-champions//) | 64 | 115 | 65 | 83 | 63 | 65 | 455 |
+| #0358 | [Chimecho](https://www.serebii.net/pokedex-champions//) | 75 | 50 | 80 | 95 | 90 | 65 | 455 |
+| #0752 | [Araquanid](https://www.serebii.net/pokedex-champions//) | 68 | 70 | 92 | 50 | 132 | 42 | 454 |
+| #0024 | [Arbok](https://www.serebii.net/pokedex-champions//) | 60 | 95 | 69 | 65 | 79 | 80 | 448 |
+| #0510 | [Liepard](https://www.serebii.net/pokedex-champions//) | 64 | 88 | 50 | 88 | 50 | 106 | 446 |
+| #0531 | [Audino](https://www.serebii.net/pokedex-champions//) | 103 | 60 | 86 | 60 | 86 | 50 | 445 |
+| #0279 | [Pelipper](https://www.serebii.net/pokedex-champions//) | 60 | 50 | 100 | 95 | 70 | 65 | 440 |
+| #0479 | [Rotom](https://www.serebii.net/pokedex-champions//) | 50 | 50 | 77 | 95 | 77 | 91 | 440 |
+| #0877 | [Morpeko](https://www.serebii.net/pokedex-champions//) | 58 | 95 | 58 | 70 | 58 | 97 | 436 |
+| #0702 | [Dedenne](https://www.serebii.net/pokedex-champions//) | 67 | 58 | 57 | 81 | 67 | 101 | 431 |
+| #0587 | [Emolga](https://www.serebii.net/pokedex-champions//) | 55 | 75 | 60 | 75 | 60 | 103 | 428 |
+| #0660 | [Diggersby](https://www.serebii.net/pokedex-champions//) | 85 | 56 | 77 | 50 | 77 | 78 | 423 |
+| #0184 | [Azumarill](https://www.serebii.net/pokedex-champions//) | 100 | 50 | 80 | 60 | 80 | 50 | 420 |
+| #0351 | [Castform](https://www.serebii.net/pokedex-champions//) | 70 | 70 | 70 | 70 | 70 | 70 | 420 |
+| #0505 | [Watchog](https://www.serebii.net/pokedex-champions//) | 60 | 85 | 69 | 60 | 69 | 77 | 420 |
+| #0666 | [Vivillon](https://www.serebii.net/pokedex-champions//) | 80 | 52 | 50 | 90 | 50 | 89 | 411 |
+| #0308 | [Medicham](https://www.serebii.net/pokedex-champions//) | 60 | 60 | 75 | 60 | 75 | 80 | 410 |
+| #0168 | [Ariados](https://www.serebii.net/pokedex-champions//) | 70 | 90 | 70 | 60 | 70 | 40 | 400 |
+| #0015 | [Beedrill](https://www.serebii.net/pokedex-champions//) | 65 | 90 | 40 | 45 | 80 | 75 | 395 |
+| #0302 | [Sableye](https://www.serebii.net/pokedex-champions//) | 50 | 75 | 75 | 65 | 65 | 50 | 380 |
+| #0025 | [Pikachu](https://www.serebii.net/pokedex-champions//) | 35 | 55 | 40 | 50 | 50 | 90 | 320 |
+| #0132 | [Ditto](https://www.serebii.net/pokedex-champions//) | 48 | 48 | 48 | 48 | 48 | 48 | 288 |
+| #0001 | [Bulbasaur](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0002 | [Ivysaur](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0004 | [Charmander](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0005 | [Charmeleon](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0007 | [Squirtle](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0008 | [Wartortle](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0010 | [Caterpie](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0011 | [Metapod](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0012 | [Butterfree](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0013 | [Weedle](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0014 | [Kakuna](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0016 | [Pidgey](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0017 | [Pidgeotto](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0019 | [Rattata](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0020 | [Raticate](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0021 | [Spearow](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0022 | [Fearow](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0023 | [Ekans](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0027 | [Sandshrew](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0028 | [Sandslash](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0029 | [Nidoran♀](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0030 | [Nidorina](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0031 | [Nidoqueen](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0032 | [Nidoran♂](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0033 | [Nidorino](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0034 | [Nidoking](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0035 | [Clefairy](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0037 | [Vulpix](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0039 | [Jigglypuff](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0040 | [Wigglytuff](https://www.serebii.net/pokedex-champions//) | 0 |
+| #0041 | [Zubat](https://www.serebii.net/pokedex-champions//) | 0 |

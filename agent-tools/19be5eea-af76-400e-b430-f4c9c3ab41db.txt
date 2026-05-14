@@ -1,0 +1,507 @@
+Pokémon Champions - Useable Moves
+
+# Available Moves
+
+In Pokémon Champions, rather than learn moves through levelling up or other means such as breeding or TMs, you instead get to select the moves from a list of potential moves that each Pokémon has. This is all done in one long list and there is no need to go through various other means
+
+| Due to the nature of the game, the move pool has been finetuned with only a select hand picked amount of moves being available. |
+| --- |
+
+## List of Available Moves
+
+| Name | Type | Cat | PP | Base Power | Accuracy | Effect |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Accelerock](https://www.serebii.net/attackdex-champions/accelerock.shtml) | 20 | 40 | 100 |
+| [Acid Armor](https://www.serebii.net/attackdex-champions/acidarmor.shtml) | 20 | -- | 101 | Boosts the user's Defense stat by 2 stages. |
+| [Acid Spray](https://www.serebii.net/attackdex-champions/acidspray.shtml) | 20 | 40 | 100 | Lowers the target's Sp. Def stat by 2 stages. |
+| [Acrobatics](https://www.serebii.net/attackdex-champions/acrobatics.shtml) | 16 | 55 | 100 | This move's power is doubled if the user isn't holding an item. |
+| [Acupressure](https://www.serebii.net/attackdex-champions/acupressure.shtml) | 20 | -- | 101 | Boosts the Attack Defense Sp. Atk Sp. Def Speed accuracy or evasiveness of the user or an ally by 2 stages. |
+| [Aerial Ace](https://www.serebii.net/attackdex-champions/aerialace.shtml) | 20 | 60 | 101 | This move never misses. |
+| [After You](https://www.serebii.net/attackdex-champions/afteryou.shtml) | 16 | -- | 101 | Makes the target move immediately after the user. |
+| [Agility](https://www.serebii.net/attackdex-champions/agility.shtml) | 20 | -- | 101 | Boosts the user's Speed stat by 2 stages. |
+| [Air Cutter](https://www.serebii.net/attackdex-champions/aircutter.shtml) | 20 | 60 | 95 | This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Air Slash](https://www.serebii.net/attackdex-champions/airslash.shtml) | 16 | 75 | 95 | Has a 30% chance of making the target flinch. |
+| [Alluring Voice](https://www.serebii.net/attackdex-champions/alluringvoice.shtml) | 12 | 80 | 100 | Confuses the target if its stats were boosted during the turn this move is used. |
+| [Ally Switch](https://www.serebii.net/attackdex-champions/allyswitch.shtml) | 16 | -- | 101 | The user switches spots with one of its allies. With each consecutive use this move's chance of success becomes 1/3 of what it was before. |
+| [Amnesia](https://www.serebii.net/attackdex-champions/amnesia.shtml) | 20 | -- | 101 | Boosts the user's Sp. Def stat by 2 stages. |
+| [Ancient Power](https://www.serebii.net/attackdex-champions/ancientpower.shtml) | 8 | 60 | 100 | Has a 10% chance of boosting the user's Attack Defense Sp. Atk Sp. Def and Speed stats by 1 stage. |
+| [Apple Acid](https://www.serebii.net/attackdex-champions/appleacid.shtml) | 12 | 90 | 100 | Lowers the target's Sp. Def stat by 1 stage. |
+| [Aqua Cutter](https://www.serebii.net/attackdex-champions/aquacutter.shtml) | 20 | 70 | 100 | This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Aqua Jet](https://www.serebii.net/attackdex-champions/aquajet.shtml) | 20 | 40 | 100 |
+| [Aqua Ring](https://www.serebii.net/attackdex-champions/aquaring.shtml) | 20 | -- | 101 | The user gains the Aqua Ring status. |
+| [Aqua Step](https://www.serebii.net/attackdex-champions/aquastep.shtml) | 12 | 80 | 100 | Boosts the user's Speed stat by 1 stage. |
+| [Aqua Tail](https://www.serebii.net/attackdex-champions/aquatail.shtml) | 12 | 90 | 90 |
+| [Armor Cannon](https://www.serebii.net/attackdex-champions/armorcannon.shtml) | 8 | 120 | 100 | Lowers the user's Defense and Sp. Def stats by 1 stage. |
+| [Aromatic Mist](https://www.serebii.net/attackdex-champions/aromaticmist.shtml) | 20 | -- | 101 | Boosts an ally's Sp. Def stat by 1 stage. |
+| [Assurance](https://www.serebii.net/attackdex-champions/assurance.shtml) | 12 | 60 | 100 | This move's power is doubled if the target has already taken damage during the turn this move is used. |
+| [Attract](https://www.serebii.net/attackdex-champions/attract.shtml) | 16 | -- | 100 | Gives the target the Infatuated status. This move will fail against a target that is the same gender as the user or whose gender is unknown. |
+| [Aura Sphere](https://www.serebii.net/attackdex-champions/aurasphere.shtml) | 20 | 80 | 101 | This move never misses. |
+| [Aura Wheel](https://www.serebii.net/attackdex-champions/aurawheel.shtml) | 12 | 110 | 100 | Boosts the user's Speed stat by 1 stage. This move's type depends on Morpeko's form. |
+| [Aurora Veil](https://www.serebii.net/attackdex-champions/auroraveil.shtml) | 20 | -- | 101 | Gives the user's side the Aurora Veil status for 5 turns. This move can be used only in snow. |
+| [Avalanche](https://www.serebii.net/attackdex-champions/avalanche.shtml) | 12 | 60 | 100 | This move's power is doubled if the target has already dealt damage to the user with a move in the same turn. |
+| [Axe Kick](https://www.serebii.net/attackdex-champions/axekick.shtml) | 12 | 120 | 90 | Has a 30% chance of confusing the target. If this move misses or fails the user takes damage equal to 1/2 of its max HP. |
+| [Baby-Doll Eyes](https://www.serebii.net/attackdex-champions/baby-dolleyes.shtml) | 20 | -- | 100 | Lowers the target's Attack stat by 1 stage. |
+| [Baneful Bunker](https://www.serebii.net/attackdex-champions/banefulbunker.shtml) | 8 | -- | 101 | The user protects itself from incoming moves for the turn. Any attackers that use contact moves against the user during this turn become poisoned. With each consecutive use this move's chance of success becomes 1/3 of what it was before. |
+| [Baton Pass](https://www.serebii.net/attackdex-champions/batonpass.shtml) | 20 | -- | 101 | The user switches out of battle to be replaced by another party Pokémon. If the user had any stat changes a substitute or other such effects they will be passed on to the Pokémon switching in. |
+| [Beak Blast](https://www.serebii.net/attackdex-champions/beakblast.shtml) | 8 | 120 | 100 | If the user is hit by a contact move before it uses this move the attacker will be burned. |
+| [Beat Up](https://www.serebii.net/attackdex-champions/beatup.shtml) | 12 | -- | 100 | The target is attacked as many times as the number of Pokémon in the user's party. Pokémon that have fainted or have a status condition are not counted. This move's power is calculated based on the Attack stats of the party Pokémon. |
+| [Belch](https://www.serebii.net/attackdex-champions/belch.shtml) | 12 | 120 | 90 | This move fails unless the user has eaten a Berry during the battle. |
+| [Belly Drum](https://www.serebii.net/attackdex-champions/bellydrum.shtml) | 12 | -- | 101 | The user loses 1/2 of its max HP to boost its Attack stat to its sixth stage. This move fails if the user doesn't have enough remaining HP. |
+| [Bind](https://www.serebii.net/attackdex-champions/bind.shtml) | 20 | 15 | 85 | Gives the target the Bound status. |
+| [Bite](https://www.serebii.net/attackdex-champions/bite.shtml) | 20 | 60 | 100 | Has a 30% chance of making the target flinch. |
+| [Bitter Blade](https://www.serebii.net/attackdex-champions/bitterblade.shtml) | 12 | 90 | 100 | The user's HP is restored by 1/2 of the damage dealt by this move. |
+| [Bitter Malice](https://www.serebii.net/attackdex-champions/bittermalice.shtml) | 12 | 75 | 100 | Lowers the target's Attack stat by 1 stage. |
+| [Blast Burn](https://www.serebii.net/attackdex-champions/blastburn.shtml) | 8 | 150 | 90 | The user gains the Recharging status on the turn after this move is used. |
+| [Blaze Kick](https://www.serebii.net/attackdex-champions/blazekick.shtml) | 12 | 85 | 90 | Has a 10% chance of burning the target. This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Blizzard](https://www.serebii.net/attackdex-champions/blizzard.shtml) | 8 | 110 | 70 | Has a 10% chance of freezing targets. This move never misses in snow. |
+| [Block](https://www.serebii.net/attackdex-champions/block.shtml) | 8 | -- | 101 | Gives the target the Can't Escape status. |
+| [Body Press](https://www.serebii.net/attackdex-champions/bodypress.shtml) | 12 | 80 | 100 | The damage dealt by this move is calculated using the user's Defense stat instead of its Attack stat. |
+| [Body Slam](https://www.serebii.net/attackdex-champions/bodyslam.shtml) | 16 | 85 | 100 | Has a 30% chance of paralyzing the target. If the target has the Minimized status this move's power is doubled and it will be sure to hit. |
+| [Bone Rush](https://www.serebii.net/attackdex-champions/bonerush.shtml) | 12 | 30 | 90 | The user attacks 2 to 5 times in a row. |
+| [Boomburst](https://www.serebii.net/attackdex-champions/boomburst.shtml) | 12 | 140 | 100 |
+| [Bounce](https://www.serebii.net/attackdex-champions/bounce.shtml) | 8 | 85 | 85 | The user gains the Sky-High status on the turn this move is used then attacks on the following turn. This move has a 30% chance of paralyzing the target. |
+| [Brave Bird](https://www.serebii.net/attackdex-champions/bravebird.shtml) | 16 | 120 | 100 | The user takes 1/3 of the damage dealt by this move. |
+| [Breaking Swipe](https://www.serebii.net/attackdex-champions/breakingswipe.shtml) | 16 | 60 | 100 | Lowers targets' Attack stats by 1 stage. |
+| [Brick Break](https://www.serebii.net/attackdex-champions/brickbreak.shtml) | 16 | 75 | 100 | Removes the Light Screen Reflect and Aurora Veil statuses on the target's side. |
+| [Brutal Swing](https://www.serebii.net/attackdex-champions/brutalswing.shtml) | 20 | 60 | 100 |
+| [Bug Bite](https://www.serebii.net/attackdex-champions/bugbite.shtml) | 20 | 60 | 100 | If the target is holding a Berry the user eats that Berry and gains its effect. |
+| [Bug Buzz](https://www.serebii.net/attackdex-champions/bugbuzz.shtml) | 12 | 90 | 100 | Has a 10% chance of lowering the target's Sp. Def stat by 1 stage. |
+| [Bulk Up](https://www.serebii.net/attackdex-champions/bulkup.shtml) | 20 | -- | 101 | Boosts the user's Attack and Defense stats by 1 stage. |
+| [Bulldoze](https://www.serebii.net/attackdex-champions/bulldoze.shtml) | 20 | 60 | 100 | Lowers targets' Speed stats by 1 stage. When Grassy Terrain is active this move's power is halved. |
+| [Bullet Punch](https://www.serebii.net/attackdex-champions/bulletpunch.shtml) | 20 | 40 | 100 |
+| [Bullet Seed](https://www.serebii.net/attackdex-champions/bulletseed.shtml) | 20 | 25 | 100 | The user attacks 2 to 5 times in a row. |
+| [Burn Up](https://www.serebii.net/attackdex-champions/burnup.shtml) | 8 | 130 | 100 | The user loses the Fire type. Cures the user of being frozen. This move fails unless it is used by a Fire type. |
+| [Burning Jealousy](https://www.serebii.net/attackdex-champions/burningjealousy.shtml) | 8 | 70 | 100 | Burns targets if their stats were boosted during the turn this move is used. |
+| [Calm Mind](https://www.serebii.net/attackdex-champions/calmmind.shtml) | 20 | -- | 101 | Boosts the user's Sp. Atk and Sp. Def stats by 1 stage. |
+| [Ceaseless Edge](https://www.serebii.net/attackdex-champions/ceaselessedge.shtml) | 16 | 65 | 90 | Gives the opponent's side the Spikes status. |
+| [Charge](https://www.serebii.net/attackdex-champions/charge.shtml) | 20 | -- | 101 | Boosts the user's Sp. Def stat by 1 stage. The user gains the Electric Boost status. |
+| [Charge Beam](https://www.serebii.net/attackdex-champions/chargebeam.shtml) | 12 | 50 | 90 | Has a 70% chance of boosting the user's Sp. Atk stat by 1 stage. |
+| [Charm](https://www.serebii.net/attackdex-champions/charm.shtml) | 20 | -- | 100 | Lowers the target's Attack stat by 2 stages. |
+| [Chilling Water](https://www.serebii.net/attackdex-champions/chillingwater.shtml) | 20 | 50 | 100 | Lowers the target's Attack stat by 1 stage. |
+| [Chilly Reception](https://www.serebii.net/attackdex-champions/chillyreception.shtml) | 12 | -- | 101 | Summons snow for 5 turns. The user switches out of battle to be replaced by another party Pokémon. |
+| [Circle Throw](https://www.serebii.net/attackdex-champions/circlethrow.shtml) | 12 | 60 | 90 | If there are other Pokémon in the target's party that can switch into battle the target is forced to switch out of battle and is replaced by one of those Pokémon at random. |
+| [Clanging Scales](https://www.serebii.net/attackdex-champions/clangingscales.shtml) | 8 | 110 | 100 | Lowers the user's Defense stat by 1 stage. |
+| [Clangorous Soul](https://www.serebii.net/attackdex-champions/clangoroussoul.shtml) | 8 | -- | 101 | The user loses 1/3 of its max HP to boost its Attack Defense Sp. Atk Sp. Def and Speed stats by 1 stage. This move fails if the user doesn't have enough remaining HP. |
+| [Clear Smog](https://www.serebii.net/attackdex-champions/clearsmog.shtml) | 16 | 50 | 101 | Removes all stat changes from the target. This move never misses. |
+| [Close Combat](https://www.serebii.net/attackdex-champions/closecombat.shtml) | 8 | 120 | 100 | Lowers the user's Defense and Sp. Def stats by 1 stage. |
+| [Coaching](https://www.serebii.net/attackdex-champions/coaching.shtml) | 12 | -- | 101 | Boosts allies' Attack and Defense stats by 1 stage. |
+| [Coil](https://www.serebii.net/attackdex-champions/coil.shtml) | 20 | -- | 101 | Boosts the user's Attack and Defense stats as well as its accuracy by 1 stage. |
+| [Comeuppance](https://www.serebii.net/attackdex-champions/comeuppance.shtml) | 12 | -- | 100 | The user retaliates to deal 150% of the damage it took from an opponent's move during the turn this move is used. |
+| [Confuse Ray](https://www.serebii.net/attackdex-champions/confuseray.shtml) | 12 | -- | 100 | Confuses the target. |
+| [Copycat](https://www.serebii.net/attackdex-champions/copycat.shtml) | 20 | -- | 101 | The user mimics the move that was last used. This move fails if no other move has been used yet. |
+| [Corrosive Gas](https://www.serebii.net/attackdex-champions/corrosivegas.shtml) | 20 | -- | 100 | Causes all other Pokémon on the field to lose their held items. |
+| [Cosmic Power](https://www.serebii.net/attackdex-champions/cosmicpower.shtml) | 20 | -- | 101 | Boosts the user's Defense and Sp. Def stats by 1 stage. |
+| [Cotton Guard](https://www.serebii.net/attackdex-champions/cottonguard.shtml) | 12 | -- | 101 | Boosts the user's Defense stat by 3 stages. |
+| [Cotton Spore](https://www.serebii.net/attackdex-champions/cottonspore.shtml) | 20 | -- | 100 | Lowers targets' Speed stats by 2 stages. |
+| [Counter](https://www.serebii.net/attackdex-champions/counter.shtml) | 20 | -- | 100 | The user retaliates to deal double the damage it took from an opponent's physical move during the turn this move is used. |
+| [Covet](https://www.serebii.net/attackdex-champions/covet.shtml) | 20 | 60 | 100 | If the user is not already holding an item it steals the target's held item. |
+| [Crabhammer](https://www.serebii.net/attackdex-champions/crabhammer.shtml) | 12 | 100 | 95 | This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Cross Chop](https://www.serebii.net/attackdex-champions/crosschop.shtml) | 8 | 100 | 80 | This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Cross Poison](https://www.serebii.net/attackdex-champions/crosspoison.shtml) | 20 | 70 | 100 | Has a 10% chance of poisoning the target. This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Crunch](https://www.serebii.net/attackdex-champions/crunch.shtml) | 16 | 80 | 100 | Has a 20% chance of lowering the target's Defense stat by 1 stage. |
+| [Crush Claw](https://www.serebii.net/attackdex-champions/crushclaw.shtml) | 12 | 75 | 95 | Has a 50% chance of lowering the target's Defense stat by 1 stage. |
+| [Curse](https://www.serebii.net/attackdex-champions/curse.shtml) | 12 | -- | 101 | Ghost-type: The user loses 1/2 of its max HP to give the target the Cursed status.Non-Ghost-type: Lowers the user's Speed stat by 1 stage and boosts its Attack and Defense stats by 1 stage. |
+| [Dark Pulse](https://www.serebii.net/attackdex-champions/darkpulse.shtml) | 16 | 80 | 100 | Has a 20% chance of making the target flinch. |
+| [Darkest Lariat](https://www.serebii.net/attackdex-champions/darkestlariat.shtml) | 12 | 85 | 100 | This move ignores the target's stat changes when dealing damage. |
+| [Dazzling Gleam](https://www.serebii.net/attackdex-champions/dazzlinggleam.shtml) | 12 | 80 | 100 |
+| [Decorate](https://www.serebii.net/attackdex-champions/decorate.shtml) | 16 | -- | 101 | Boosts the target's Attack and Sp. Atk stats by 2 stages. |
+| [Defog](https://www.serebii.net/attackdex-champions/defog.shtml) | 16 | -- | 101 | Lowers the target's evasiveness by 1 stage. Removes statuses such as Reflect Spikes and Safeguard as well as any terrain. |
+| [Destiny Bond](https://www.serebii.net/attackdex-champions/destinybond.shtml) | 8 | -- | 101 | The user gains the Destiny Bound status. This move fails if used in succession. |
+| [Detect](https://www.serebii.net/attackdex-champions/detect.shtml) | 8 | -- | 101 | The user protects itself from incoming moves for the turn. With each consecutive use this move's chance of success becomes 1/3 of what it was before. |
+| [Dig](https://www.serebii.net/attackdex-champions/dig.shtml) | 12 | 80 | 100 | The user gains the Underground status on the turn this move is used then attacks on the following turn. |
+| [Dire Claw](https://www.serebii.net/attackdex-champions/direclaw.shtml) | 16 | 80 | 100 | Has a 30% chance of leaving the target poisoned paralyzed or asleep. |
+| [Disable](https://www.serebii.net/attackdex-champions/disable.shtml) | 20 | -- | 100 | Gives the target the Move Disabled status for 4 turns. |
+| [Discharge](https://www.serebii.net/attackdex-champions/discharge.shtml) | 16 | 80 | 100 | Has a 30% chance of paralyzing targets. |
+| [Dive](https://www.serebii.net/attackdex-champions/dive.shtml) | 12 | 80 | 100 | The user gains the Submerged status on the turn this move is used then attacks on the following turn. |
+| [Double Hit](https://www.serebii.net/attackdex-champions/doublehit.shtml) | 12 | 35 | 90 | The user attacks twice in a row. |
+| [Double Team](https://www.serebii.net/attackdex-champions/doubleteam.shtml) | 16 | -- | 101 | Boosts the user's evasiveness by 1 stage. |
+| [Double-Edge](https://www.serebii.net/attackdex-champions/double-edge.shtml) | 16 | 120 | 100 | The user takes 1/3 of the damage dealt by this move. |
+| [Draco Meteor](https://www.serebii.net/attackdex-champions/dracometeor.shtml) | 8 | 130 | 90 | Lowers the user's Sp. Atk stat by 2 stages. |
+| [Dragon Cheer](https://www.serebii.net/attackdex-champions/dragoncheer.shtml) | 16 | -- | 101 | Gives allies a Critical-Hit Ratio Boost. Dragon types receive a 2-stage boost. All other types receive a 1-stage boost. |
+| [Dragon Claw](https://www.serebii.net/attackdex-champions/dragonclaw.shtml) | 16 | 80 | 100 |
+| [Dragon Dance](https://www.serebii.net/attackdex-champions/dragondance.shtml) | 20 | -- | 101 | Boosts the user's Attack and Speed stats by 1 stage. |
+| [Dragon Darts](https://www.serebii.net/attackdex-champions/dragondarts.shtml) | 12 | 50 | 100 | The user attacks twice in a row. If there are 2 opposing Pokémon each of them is attacked once. |
+| [Dragon Pulse](https://www.serebii.net/attackdex-champions/dragonpulse.shtml) | 12 | 85 | 100 |
+| [Dragon Rush](https://www.serebii.net/attackdex-champions/dragonrush.shtml) | 12 | 100 | 75 | Has a 20% chance of making the target flinch. If the target has the Minimized status this move's power is doubled and it will be sure to hit. |
+| [Dragon Tail](https://www.serebii.net/attackdex-champions/dragontail.shtml) | 12 | 60 | 90 | If there are other Pokémon in the target's party that can switch into battle the target is forced to switch out of battle and is replaced by one of those Pokémon at random. |
+| [Drain Punch](https://www.serebii.net/attackdex-champions/drainpunch.shtml) | 12 | 75 | 100 | The user's HP is restored by 1/2 of the damage dealt by this move. |
+| [Draining Kiss](https://www.serebii.net/attackdex-champions/drainingkiss.shtml) | 12 | 50 | 100 | The user's HP is restored by 3/4 of the damage dealt by this move. |
+| [Drill Peck](https://www.serebii.net/attackdex-champions/drillpeck.shtml) | 20 | 80 | 100 |
+| [Drill Run](https://www.serebii.net/attackdex-champions/drillrun.shtml) | 12 | 80 | 95 | This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Dual Wingbeat](https://www.serebii.net/attackdex-champions/dualwingbeat.shtml) | 12 | 40 | 90 | The user attacks twice in a row. |
+| [Dynamic Punch](https://www.serebii.net/attackdex-champions/dynamicpunch.shtml) | 8 | 100 | 50 | Confuses the target. |
+| [Earth Power](https://www.serebii.net/attackdex-champions/earthpower.shtml) | 12 | 90 | 100 | Has a 10% chance of lowering the target's Sp. Def stat by 1 stage. |
+| [Earthquake](https://www.serebii.net/attackdex-champions/earthquake.shtml) | 12 | 100 | 100 | This move's power is doubled against targets that have the Underground status. When Grassy Terrain is active this move's power is halved. |
+| [Eerie Impulse](https://www.serebii.net/attackdex-champions/eerieimpulse.shtml) | 16 | -- | 100 | Lowers the target's Sp. Atk stat by 2 stages. |
+| [Eerie Spell](https://www.serebii.net/attackdex-champions/eeriespell.shtml) | 8 | 80 | 100 | Removes 3 PP from the move last used by the target. |
+| [Electric Terrain](https://www.serebii.net/attackdex-champions/electricterrain.shtml) | 12 | -- | 101 | Turns the entire field into Electric Terrain for 5 turns. |
+| [Electrify](https://www.serebii.net/attackdex-champions/electrify.shtml) | 20 | -- | 101 | If this move hits the target before it uses a move its move becomes Electric type for that turn. |
+| [Electro Ball](https://www.serebii.net/attackdex-champions/electroball.shtml) | 12 | -- | 100 | The higher the user's Speed stat compared to the target's the greater this move's power (ranging between 40 and 150). |
+| [Electro Shot](https://www.serebii.net/attackdex-champions/electroshot.shtml) | 12 | 130 | 100 | The user gains the Charging status on the turn this move is used then attacks on the following turn. In rain the user does not gain the Charging status and can attack immediately. The user's Sp. Atk stat is boosted by 1 stage on the turn this move is used. |
+| [Electroweb](https://www.serebii.net/attackdex-champions/electroweb.shtml) | 16 | 55 | 95 | Lowers targets' Speed stats by 1 stage. |
+| [Encore](https://www.serebii.net/attackdex-champions/encore.shtml) | 8 | -- | 100 | Gives the target the Encore status. |
+| [Endeavor](https://www.serebii.net/attackdex-champions/endeavor.shtml) | 8 | -- | 100 | Deals damage to the target equal to its remaining HP minus the user's remaining HP. This move fails if the target's HP is the same as or lower than the user's. |
+| [Endure](https://www.serebii.net/attackdex-champions/endure.shtml) | 12 | -- | 101 | During the turn this move is used if the user takes damage from a move that would knock it out it will endure the hit with 1 HP. With each consecutive use this move's chance of success becomes 1/3 of what it was before. |
+| [Energy Ball](https://www.serebii.net/attackdex-champions/energyball.shtml) | 12 | 90 | 100 | Has a 10% chance of lowering the target's Sp. Def stat by 1 stage. |
+| [Entrainment](https://www.serebii.net/attackdex-champions/entrainment.shtml) | 16 | -- | 100 | Changes the target's Ability to be the same as the user's. |
+| [Eruption](https://www.serebii.net/attackdex-champions/eruption.shtml) | 8 | 150 | 100 | The less HP the user has left the lower this move's power (ranging between 1 and 150). |
+| [Expanding Force](https://www.serebii.net/attackdex-champions/expandingforce.shtml) | 12 | 80 | 100 | If the user is under the effect of Psychic Terrain this move's power is boosted by 50% and its range extends to all opponents. |
+| [Explosion](https://www.serebii.net/attackdex-champions/explosion.shtml) | 8 | 250 | 100 | The user faints upon using this move. |
+| [Extrasensory](https://www.serebii.net/attackdex-champions/extrasensory.shtml) | 20 | 80 | 100 | Has a 10% chance of making the target flinch. |
+| [Extreme Speed](https://www.serebii.net/attackdex-champions/extremespeed.shtml) | 8 | 80 | 100 |
+| [Facade](https://www.serebii.net/attackdex-champions/facade.shtml) | 20 | 70 | 100 | This move's power is doubled if the user is poisoned badly poisoned burned or paralyzed. Although this move is a physical move the damage it deals is not halved when the user is burned. |
+| [Fairy Lock](https://www.serebii.net/attackdex-champions/fairylock.shtml) | 12 | -- | 101 | Gives all Pokémon on the field the Fairy Locked status. |
+| [Fake Out](https://www.serebii.net/attackdex-champions/fakeout.shtml) | 12 | 40 | 100 | Makes the target flinch. This move fails unless it is the first move used by the user after it enters a battle. |
+| [Fake Tears](https://www.serebii.net/attackdex-champions/faketears.shtml) | 20 | -- | 100 | Lowers the target's Sp. Def stat by 2 stages. |
+| [Feather Dance](https://www.serebii.net/attackdex-champions/featherdance.shtml) | 16 | -- | 100 | Lowers the target's Attack stat by 2 stages. |
+| [Feint](https://www.serebii.net/attackdex-champions/feint.shtml) | 12 | 30 | 100 | This move can hit a target using a move such as Protect or Detect and removes the effects of those moves. |
+| [Fell Stinger](https://www.serebii.net/attackdex-champions/fellstinger.shtml) | 20 | 50 | 100 | Boosts the user's Attack stat by 3 stages if this move knocks out the target. |
+| [Fickle Beam](https://www.serebii.net/attackdex-champions/ficklebeam.shtml) | 8 | 80 | 100 | This move has a 30% chance of its power being doubled. |
+| [Fiery Dance](https://www.serebii.net/attackdex-champions/fierydance.shtml) | 12 | 80 | 100 | Has a 50% chance of boosting the user's Sp. Atk stat by 1 stage. |
+| [Final Gambit](https://www.serebii.net/attackdex-champions/finalgambit.shtml) | 8 | -- | 100 | The user faints. This move deals damage to the target equal to the user's remaining HP at the time this move was used. |
+| [Fire Blast](https://www.serebii.net/attackdex-champions/fireblast.shtml) | 8 | 110 | 85 | Has a 10% chance of burning the target. |
+| [Fire Fang](https://www.serebii.net/attackdex-champions/firefang.shtml) | 16 | 65 | 95 | Has a 10% chance of burning the target and a 10% chance of making the target flinch. |
+| [Fire Lash](https://www.serebii.net/attackdex-champions/firelash.shtml) | 16 | 90 | 100 | Lowers the target's Defense stat by 1 stage. |
+| [Fire Punch](https://www.serebii.net/attackdex-champions/firepunch.shtml) | 16 | 75 | 100 | Has a 10% chance of burning the target. |
+| [Fire Spin](https://www.serebii.net/attackdex-champions/firespin.shtml) | 16 | 35 | 85 | Gives the target the Bound status. |
+| [First Impression](https://www.serebii.net/attackdex-champions/firstimpression.shtml) | 12 | 100 | 100 | This move fails unless it is the first move used by the user after it enters a battle. |
+| [Fissure](https://www.serebii.net/attackdex-champions/fissure.shtml) | 8 | -- | 30 | Knocks out the target. The accuracy of this move is fixed at 30%. |
+| [Flail](https://www.serebii.net/attackdex-champions/flail.shtml) | 16 | -- | 100 | The less HP the user has left the greater this move's power (ranging between 20 and 200). |
+| [Flame Charge](https://www.serebii.net/attackdex-champions/flamecharge.shtml) | 20 | 50 | 100 | Boosts the user's Speed stat by 1 stage. |
+| [Flamethrower](https://www.serebii.net/attackdex-champions/flamethrower.shtml) | 16 | 90 | 100 | Has a 10% chance of burning the target. |
+| [Flare Blitz](https://www.serebii.net/attackdex-champions/flareblitz.shtml) | 16 | 120 | 100 | Has a 10% chance of burning the target. Cures the user of being frozen. The user also takes 1/3 of the damage dealt by this move. |
+| [Flash Cannon](https://www.serebii.net/attackdex-champions/flashcannon.shtml) | 12 | 80 | 100 | Has a 10% chance of lowering the target's Sp. Def stat by 1 stage. |
+| [Flatter](https://www.serebii.net/attackdex-champions/flatter.shtml) | 16 | -- | 100 | Boosts the target's Sp. Atk stat by 1 stage and confuses it. |
+| [Fling](https://www.serebii.net/attackdex-champions/fling.shtml) | 12 | -- | 100 | This move's power and effects depend on the user's held item. The held item is lost after this move is used. |
+| [Flip Turn](https://www.serebii.net/attackdex-champions/flipturn.shtml) | 20 | 60 | 100 | After attacking the user switches out of battle to be replaced by another party Pokémon. |
+| [Flower Trick](https://www.serebii.net/attackdex-champions/flowertrick.shtml) | 12 | 70 | 101 | This move never misses and is always a critical hit. |
+| [Fly](https://www.serebii.net/attackdex-champions/fly.shtml) | 16 | 90 | 95 | The user gains the Sky-High status on the turn this move is used then attacks on the following turn. |
+| [Flying Press](https://www.serebii.net/attackdex-champions/flyingpress.shtml) | 12 | 100 | 95 | The damage dealt by this move is calculated by combining the effectiveness of the move's own type with that of the Flying type. If the target has the Minimized status this move's power is doubled and it will be sure to hit. |
+| [Focus Blast](https://www.serebii.net/attackdex-champions/focusblast.shtml) | 8 | 120 | 70 | Has a 10% chance of lowering the target's Sp. Def stat by 1 stage. |
+| [Focus Energy](https://www.serebii.net/attackdex-champions/focusenergy.shtml) | 20 | -- | 101 | The user gains a 2-stage Critical-Hit Ratio Boost. |
+| [Focus Punch](https://www.serebii.net/attackdex-champions/focuspunch.shtml) | 20 | 150 | 100 | This move fails if the user has already taken damage from a move in the same turn. |
+| [Follow Me](https://www.serebii.net/attackdex-champions/followme.shtml) | 20 | -- | 101 | The user redirects opponents' moves toward itself. This effect works only on single-target moves. |
+| [Forest's Curse](https://www.serebii.net/attackdex-champions/forest'scurse.shtml) | 20 | -- | 100 | Gives the target the Forest Cursed status. |
+| [Foul Play](https://www.serebii.net/attackdex-champions/foulplay.shtml) | 16 | 95 | 100 | The damage dealt by this move is calculated using the target's Attack stat instead of the user's Attack stat. |
+| [Freeze-Dry](https://www.serebii.net/attackdex-champions/freeze-dry.shtml) | 20 | 70 | 100 | This move is also super effective against Water-type Pokémon. |
+| [Frenzy Plant](https://www.serebii.net/attackdex-champions/frenzyplant.shtml) | 8 | 150 | 90 | The user gains the Recharging status on the turn after this move is used. |
+| [Frost Breath](https://www.serebii.net/attackdex-champions/frostbreath.shtml) | 12 | 60 | 90 | Always a critical hit. |
+| [Future Sight](https://www.serebii.net/attackdex-champions/futuresight.shtml) | 12 | 120 | 100 | Gives the target's spot the Future Attack status. |
+| [Gastro Acid](https://www.serebii.net/attackdex-champions/gastroacid.shtml) | 12 | -- | 100 | Gives the target the No Ability status. |
+| [Giga Drain](https://www.serebii.net/attackdex-champions/gigadrain.shtml) | 12 | 75 | 100 | The user's HP is restored by 1/2 of the damage dealt by this move. |
+| [Giga Impact](https://www.serebii.net/attackdex-champions/gigaimpact.shtml) | 8 | 150 | 90 | The user gains the Recharging status on the turn after this move is used. |
+| [Gigaton Hammer](https://www.serebii.net/attackdex-champions/gigatonhammer.shtml) | 8 | 160 | 100 | This move can't be used twice in a row. |
+| [Glare](https://www.serebii.net/attackdex-champions/glare.shtml) | 20 | -- | 100 | Paralyzes the target. |
+| [Grass Knot](https://www.serebii.net/attackdex-champions/grassknot.shtml) | 20 | -- | 100 | The heavier the target the greater this move's power (ranging between 20 and 120). |
+| [Grassy Glide](https://www.serebii.net/attackdex-champions/grassyglide.shtml) | 20 | 55 | 100 | If the user is under the effect of Grassy Terrain this move's priority becomes +1. |
+| [Grassy Terrain](https://www.serebii.net/attackdex-champions/grassyterrain.shtml) | 12 | -- | 101 | Turns the entire field into Grassy Terrain for 5 turns. |
+| [Grav Apple](https://www.serebii.net/attackdex-champions/gravapple.shtml) | 12 | 90 | 100 | Lowers the target's Defense stat by 1 stage. This move's power is boosted by 50% when the Gravity status is active. |
+| [Gravity](https://www.serebii.net/attackdex-champions/gravity.shtml) | 8 | -- | 101 | Gives the entire field the Gravity status for 5 turns. |
+| [Growth](https://www.serebii.net/attackdex-champions/growth.shtml) | 20 | -- | 101 | Boosts the user's Attack and Sp. Atk stats by 1 stage. In harsh sunlight these stats will be boosted by 2 stages instead. |
+| [Guard Split](https://www.serebii.net/attackdex-champions/guardsplit.shtml) | 12 | -- | 101 | The user adds its Defense stat to the target's Defense stat then splits the total in half for them to share. It does the same with each of their Sp. Def stats. |
+| [Guard Swap](https://www.serebii.net/attackdex-champions/guardswap.shtml) | 12 | -- | 101 | The user swaps the changes to its Defense and Sp. Def stats with the changes to the target's Defense and Sp. Def stats. |
+| [Guillotine](https://www.serebii.net/attackdex-champions/guillotine.shtml) | 8 | -- | 30 | Knocks out the target. The accuracy of this move is fixed at 30%. |
+| [Gunk Shot](https://www.serebii.net/attackdex-champions/gunkshot.shtml) | 8 | 120 | 80 | Has a 30% chance of poisoning the target. |
+| [Gyro Ball](https://www.serebii.net/attackdex-champions/gyroball.shtml) | 8 | -- | 100 | The lower the user's Speed stat compared to the target's the greater this move's power (ranging between 1 and 150). |
+| [Hammer Arm](https://www.serebii.net/attackdex-champions/hammerarm.shtml) | 12 | 100 | 90 | Lowers the user's Speed stat by 1 stage. |
+| [Hard Press](https://www.serebii.net/attackdex-champions/hardpress.shtml) | 12 | -- | 100 | The more HP the target has left the greater this move's power (ranging between 1 and 100). |
+| [Haze](https://www.serebii.net/attackdex-champions/haze.shtml) | 20 | -- | 101 | Eliminates every stat change on the entire field. |
+| [Head Smash](https://www.serebii.net/attackdex-champions/headsmash.shtml) | 8 | 150 | 80 | The user takes 1/2 of the damage dealt by this move. |
+| [Headlong Rush](https://www.serebii.net/attackdex-champions/headlongrush.shtml) | 8 | 120 | 100 | Lowers the user's Defense and Sp. Def stats by 1 stage. |
+| [Heal Bell](https://www.serebii.net/attackdex-champions/healbell.shtml) | 8 | -- | 101 | The user cures the status conditions of all the Pokémon in its party including itself as well as its allies. |
+| [Heal Pulse](https://www.serebii.net/attackdex-champions/healpulse.shtml) | 12 | -- | 101 | Restores 1/2 of the target's max HP. |
+| [Healing Wish](https://www.serebii.net/attackdex-champions/healingwish.shtml) | 12 | -- | 101 | The user faints. The Pokémon taking its place will have its HP fully restored and its status conditions cured. |
+| [Heat Crash](https://www.serebii.net/attackdex-champions/heatcrash.shtml) | 12 | -- | 100 | The more the user outweighs the target the greater this move's power (ranging between 40 and 120). If the target has the Minimized status this move's power is doubled and it will be sure to hit. |
+| [Heat Wave](https://www.serebii.net/attackdex-champions/heatwave.shtml) | 12 | 95 | 90 | Has a 10% chance of burning targets. |
+| [Heavy Slam](https://www.serebii.net/attackdex-champions/heavyslam.shtml) | 12 | -- | 100 | The more the user outweighs the target the greater this move's power (ranging between 40 and 120). If the target has the Minimized status this move's power is doubled and it will be sure to hit. |
+| [Helping Hand](https://www.serebii.net/attackdex-champions/helpinghand.shtml) | 20 | -- | 101 | Boosts the power of an ally's move by 50% during the turn this move is used. |
+| [Hex](https://www.serebii.net/attackdex-champions/hex.shtml) | 12 | 65 | 100 | This move's power is doubled if the target has a status condition. |
+| [High Horsepower](https://www.serebii.net/attackdex-champions/highhorsepower.shtml) | 12 | 95 | 95 |
+| [High Jump Kick](https://www.serebii.net/attackdex-champions/highjumpkick.shtml) | 12 | 130 | 90 | If this move misses or fails the user takes damage equal to 1/2 of its max HP. |
+| [Horn Drill](https://www.serebii.net/attackdex-champions/horndrill.shtml) | 8 | -- | 30 | Knocks out the target. The accuracy of this move is fixed at 30%. |
+| [Horn Leech](https://www.serebii.net/attackdex-champions/hornleech.shtml) | 12 | 75 | 100 | The user's HP is restored by 1/2 of the damage dealt by this move. |
+| [Howl](https://www.serebii.net/attackdex-champions/howl.shtml) | 20 | -- | 101 | Boosts the Attack stats of the user and its allies by 1 stage. |
+| [Hurricane](https://www.serebii.net/attackdex-champions/hurricane.shtml) | 12 | 110 | 70 | Has a 30% chance of confusing the target. This move never misses in rain and can hit a target that has the Sky-High status. |
+| [Hydro Cannon](https://www.serebii.net/attackdex-champions/hydrocannon.shtml) | 8 | 150 | 90 | The user gains the Recharging status on the turn after this move is used. |
+| [Hydro Pump](https://www.serebii.net/attackdex-champions/hydropump.shtml) | 8 | 110 | 80 |
+| [Hyper Beam](https://www.serebii.net/attackdex-champions/hyperbeam.shtml) | 8 | 150 | 90 | The user gains the Recharging status on the turn after this move is used. |
+| [Hyper Voice](https://www.serebii.net/attackdex-champions/hypervoice.shtml) | 12 | 90 | 100 |
+| [Hypnosis](https://www.serebii.net/attackdex-champions/hypnosis.shtml) | 20 | -- | 60 | Puts the target to sleep. |
+| [Ice Beam](https://www.serebii.net/attackdex-champions/icebeam.shtml) | 12 | 90 | 100 | Has a 10% chance of freezing the target. |
+| [Ice Fang](https://www.serebii.net/attackdex-champions/icefang.shtml) | 16 | 65 | 95 | Has a 10% chance of freezing the target and a 10% chance of making the target flinch. |
+| [Ice Hammer](https://www.serebii.net/attackdex-champions/icehammer.shtml) | 12 | 100 | 90 | Lowers the user's Speed stat by 1 stage. |
+| [Ice Punch](https://www.serebii.net/attackdex-champions/icepunch.shtml) | 16 | 75 | 100 | Has a 10% chance of freezing the target. |
+| [Ice Shard](https://www.serebii.net/attackdex-champions/iceshard.shtml) | 20 | 40 | 100 |
+| [Ice Spinner](https://www.serebii.net/attackdex-champions/icespinner.shtml) | 16 | 80 | 100 | Removes any terrain. |
+| [Icicle Crash](https://www.serebii.net/attackdex-champions/iciclecrash.shtml) | 12 | 85 | 90 | Has a 30% chance of making the target flinch. |
+| [Icicle Spear](https://www.serebii.net/attackdex-champions/iciclespear.shtml) | 20 | 25 | 100 | The user attacks 2 to 5 times in a row. |
+| [Icy Wind](https://www.serebii.net/attackdex-champions/icywind.shtml) | 16 | 55 | 95 | Lowers targets' Speed stats by 1 stage. |
+| [Imprison](https://www.serebii.net/attackdex-champions/imprison.shtml) | 12 | -- | 101 | The user gains the Sealing Off status. |
+| [Infernal Parade](https://www.serebii.net/attackdex-champions/infernalparade.shtml) | 16 | 65 | 100 | Has a 30% chance of burning the target. This move's power is doubled if the target has a status condition. |
+| [Inferno](https://www.serebii.net/attackdex-champions/inferno.shtml) | 8 | 100 | 50 | Burns the target. |
+| [Infestation](https://www.serebii.net/attackdex-champions/infestation.shtml) | 20 | 20 | 100 | Gives the target the Bound status. |
+| [Ingrain](https://www.serebii.net/attackdex-champions/ingrain.shtml) | 20 | -- | 101 | The user gains the Ingrained status. |
+| [Instruct](https://www.serebii.net/attackdex-champions/instruct.shtml) | 16 | -- | 101 | The user makes the target reuse the last move it used. |
+| [Iron Defense](https://www.serebii.net/attackdex-champions/irondefense.shtml) | 16 | -- | 101 | Boosts the user's Defense stat by 2 stages. |
+| [Iron Head](https://www.serebii.net/attackdex-champions/ironhead.shtml) | 16 | 80 | 100 | Has a 20% chance of making the target flinch. |
+| [Iron Tail](https://www.serebii.net/attackdex-champions/irontail.shtml) | 16 | 100 | 75 | Has a 30% chance of lowering the target's Defense stat by 1 stage. |
+| [Jet Punch](https://www.serebii.net/attackdex-champions/jetpunch.shtml) | 16 | 60 | 100 |
+| [King's Shield](https://www.serebii.net/attackdex-champions/king'sshield.shtml) | 8 | -- | 101 | The user protects itself from incoming attacks for the turn and changes into its Shield Forme. Any attackers that use contact moves against the user during this turn will have their Attack stats lowered by 1 stage. With each consecutive use this move's chance of success becomes 1/3 of what it was before. |
+| [Knock Off](https://www.serebii.net/attackdex-champions/knockoff.shtml) | 20 | 65 | 100 | This move's power is boosted by 50% if the target is holding an item. Causes the target to lose its held item. |
+| [Kowtow Cleave](https://www.serebii.net/attackdex-champions/kowtowcleave.shtml) | 12 | 85 | 101 | This move never misses. |
+| [Lash Out](https://www.serebii.net/attackdex-champions/lashout.shtml) | 8 | 75 | 100 | This move's power is doubled if the user's stats were lowered during the turn this move is used. |
+| [Last Resort](https://www.serebii.net/attackdex-champions/lastresort.shtml) | 8 | 140 | 100 | This move fails unless the user has already used all the other moves it knows. |
+| [Last Respects](https://www.serebii.net/attackdex-champions/lastrespects.shtml) | 12 | 50 | 100 | This move's power is increased by 50 for each time that a Pokémon in the user's party has fainted. |
+| [Lava Plume](https://www.serebii.net/attackdex-champions/lavaplume.shtml) | 16 | 80 | 100 | Has a 30% chance of burning targets. |
+| [Leaf Blade](https://www.serebii.net/attackdex-champions/leafblade.shtml) | 16 | 90 | 100 | This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Leaf Storm](https://www.serebii.net/attackdex-champions/leafstorm.shtml) | 8 | 130 | 90 | Lowers the user's Sp. Atk stat by 2 stages. |
+| [Leech Life](https://www.serebii.net/attackdex-champions/leechlife.shtml) | 12 | 80 | 100 | The user's HP is restored by 1/2 of the damage dealt by this move. |
+| [Leech Seed](https://www.serebii.net/attackdex-champions/leechseed.shtml) | 12 | -- | 90 | Gives the target the Leech Seeded status. |
+| [Life Dew](https://www.serebii.net/attackdex-champions/lifedew.shtml) | 12 | -- | 101 | Restores 1/4 of the max HP of the user and its allies. |
+| [Light Screen](https://www.serebii.net/attackdex-champions/lightscreen.shtml) | 20 | -- | 101 | Gives the user's side the Light Screen status for 5 turns. |
+| [Light of Ruin](https://www.serebii.net/attackdex-champions/lightofruin.shtml) | 8 | 140 | 90 | The user takes 1/2 of the damage dealt by this move. |
+| [Liquidation](https://www.serebii.net/attackdex-champions/liquidation.shtml) | 12 | 85 | 100 | Has a 20% chance of lowering the target's Defense stat by 1 stage. |
+| [Lock-On](https://www.serebii.net/attackdex-champions/lock-on.shtml) | 8 | -- | 101 | The user gains the Locked On status. |
+| [Low Kick](https://www.serebii.net/attackdex-champions/lowkick.shtml) | 20 | -- | 100 | The heavier the target the greater this move's power (ranging between 20 and 120). |
+| [Low Sweep](https://www.serebii.net/attackdex-champions/lowsweep.shtml) | 20 | 65 | 100 | Lowers the target's Speed stat by 1 stage. |
+| [Lumina Crash](https://www.serebii.net/attackdex-champions/luminacrash.shtml) | 12 | 80 | 100 | Lowers the target's Sp. Def stat by 2 stages. |
+| [Lunge](https://www.serebii.net/attackdex-champions/lunge.shtml) | 16 | 80 | 100 | Lowers the target's Attack stat by 1 stage. |
+| [Mach Punch](https://www.serebii.net/attackdex-champions/machpunch.shtml) | 20 | 40 | 100 |
+| [Magic Powder](https://www.serebii.net/attackdex-champions/magicpowder.shtml) | 20 | -- | 100 | Changes the target's type to Psychic. |
+| [Magic Room](https://www.serebii.net/attackdex-champions/magicroom.shtml) | 12 | -- | 101 | Gives the entire field the Magic Room status for 5 turns. |
+| [Magnet Rise](https://www.serebii.net/attackdex-champions/magnetrise.shtml) | 12 | -- | 101 | The user gains the Magnet Rise status. |
+| [Magnetic Flux](https://www.serebii.net/attackdex-champions/magneticflux.shtml) | 20 | -- | 101 | If the user or its allies have the Plus Ability or the Minus Ability their Defense and Sp. Def stats are boosted by 1 stage. |
+| [Matcha Gotcha](https://www.serebii.net/attackdex-champions/matchagotcha.shtml) | 16 | 80 | 90 | Has a 20% chance of burning targets. The user's HP is restored by 1/2 of the damage dealt by this move. |
+| [Mean Look](https://www.serebii.net/attackdex-champions/meanlook.shtml) | 8 | -- | 101 | Gives the target the Can't Escape status. |
+| [Mega Kick](https://www.serebii.net/attackdex-champions/megakick.shtml) | 8 | 120 | 75 |
+| [Megahorn](https://www.serebii.net/attackdex-champions/megahorn.shtml) | 12 | 120 | 85 |
+| [Memento](https://www.serebii.net/attackdex-champions/memento.shtml) | 12 | -- | 100 | Lowers the target's Attack and Sp. Atk stats by 2 stages. The user faints upon using this move. |
+| [Metal Burst](https://www.serebii.net/attackdex-champions/metalburst.shtml) | 12 | -- | 100 | The user retaliates to deal 150% of the damage it took from an opponent's move during the turn this move is used. |
+| [Metal Sound](https://www.serebii.net/attackdex-champions/metalsound.shtml) | 20 | -- | 85 | Lowers the target's Sp. Def stat by 2 stages. |
+| [Meteor Beam](https://www.serebii.net/attackdex-champions/meteorbeam.shtml) | 12 | 120 | 90 | The user gains the Charging status on the turn this move is used then attacks on the following turn. The user's Sp. Atk stat is boosted by 1 stage on the turn this move is used. |
+| [Meteor Mash](https://www.serebii.net/attackdex-champions/meteormash.shtml) | 12 | 90 | 90 | Has a 20% chance of boosting the user's Attack stat by 1 stage. |
+| [Milk Drink](https://www.serebii.net/attackdex-champions/milkdrink.shtml) | 8 | -- | 101 | Restores 1/2 of the user's max HP. |
+| [Minimize](https://www.serebii.net/attackdex-champions/minimize.shtml) | 12 | -- | 101 | Boosts the user's evasiveness by 2 stages. The user gains the Minimized status. |
+| [Mirror Coat](https://www.serebii.net/attackdex-champions/mirrorcoat.shtml) | 20 | -- | 100 | The user retaliates to deal double the damage it took from an opponent's special move during the turn this move is used. |
+| [Misty Explosion](https://www.serebii.net/attackdex-champions/mistyexplosion.shtml) | 8 | 100 | 100 | If the user is under the effect of Misty Terrain this move's power is boosted by 50%. The user faints upon using this move. |
+| [Misty Terrain](https://www.serebii.net/attackdex-champions/mistyterrain.shtml) | 12 | -- | 101 | Turns the entire field into Misty Terrain for 5 turns. |
+| [Moonblast](https://www.serebii.net/attackdex-champions/moonblast.shtml) | 16 | 95 | 100 | Has a 10% chance of lowering the target's Sp. Atk stat by 1 stage. |
+| [Moonlight](https://www.serebii.net/attackdex-champions/moonlight.shtml) | 8 | -- | 101 | Restores 1/2 of the user's max HP. In harsh sunlight 2/3 of its max HP will be restored instead. In all other weather conditions 1/4 of its max HP will be restored instead. |
+| [Morning Sun](https://www.serebii.net/attackdex-champions/morningsun.shtml) | 8 | -- | 101 | Restores 1/2 of the user's max HP. In harsh sunlight 2/3 of its max HP will be restored instead. In all other weather conditions 1/4 of its max HP will be restored instead. |
+| [Mortal Spin](https://www.serebii.net/attackdex-champions/mortalspin.shtml) | 16 | 30 | 100 | Removes the Bound and Leech Seeded statuses from the user and removes the Sticky Web Stealth Rock Spikes and Toxic Spikes statuses from the user's side. Poisons targets. |
+| [Mountain Gale](https://www.serebii.net/attackdex-champions/mountaingale.shtml) | 12 | 120 | 85 | Has a 30% chance of making the target flinch. |
+| [Mud Shot](https://www.serebii.net/attackdex-champions/mudshot.shtml) | 16 | 55 | 95 | Lowers the target's Speed stat by 1 stage. |
+| [Mud-Slap](https://www.serebii.net/attackdex-champions/mud-slap.shtml) | 12 | 20 | 100 | Lowers the target's accuracy by 1 stage. |
+| [Muddy Water](https://www.serebii.net/attackdex-champions/muddywater.shtml) | 12 | 90 | 85 | Has a 30% chance of lowering targets' accuracy by 1 stage. |
+| [Mystical Fire](https://www.serebii.net/attackdex-champions/mysticalfire.shtml) | 12 | 75 | 100 | Lowers the target's Sp. Atk stat by 1 stage. |
+| [Nasty Plot](https://www.serebii.net/attackdex-champions/nastyplot.shtml) | 20 | -- | 101 | Boosts the user's Sp. Atk stat by 2 stages. |
+| [Night Daze](https://www.serebii.net/attackdex-champions/nightdaze.shtml) | 12 | 90 | 95 | Has a 40% chance of lowering the target's accuracy by 1 stage. |
+| [Night Shade](https://www.serebii.net/attackdex-champions/nightshade.shtml) | 16 | -- | 100 | Deals 50 HP of damage. |
+| [Night Slash](https://www.serebii.net/attackdex-champions/nightslash.shtml) | 20 | 70 | 100 | This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Noble Roar](https://www.serebii.net/attackdex-champions/nobleroar.shtml) | 20 | -- | 100 | Lowers the target's Attack and Sp. Atk stats by 1 stage. |
+| [Nuzzle](https://www.serebii.net/attackdex-champions/nuzzle.shtml) | 20 | 20 | 100 | Paralyzes the target. |
+| [Outrage](https://www.serebii.net/attackdex-champions/outrage.shtml) | 12 | 120 | 100 | The user gains the Rampaging status. |
+| [Overheat](https://www.serebii.net/attackdex-champions/overheat.shtml) | 8 | 130 | 90 | Lowers the user's Sp. Atk stat by 2 stages. |
+| [Pain Split](https://www.serebii.net/attackdex-champions/painsplit.shtml) | 20 | -- | 101 | The user adds its remaining HP to the target's remaining HP then splits the total in half for them to share. |
+| [Parabolic Charge](https://www.serebii.net/attackdex-champions/paraboliccharge.shtml) | 20 | 65 | 100 | The user's HP is restored by 1/2 of the damage dealt by this move. |
+| [Parting Shot](https://www.serebii.net/attackdex-champions/partingshot.shtml) | 20 | -- | 100 | Lowers the target's Attack and Sp. Atk stats by 1 stage. The user then switches out of battle to be replaced by another party Pokémon. |
+| [Payback](https://www.serebii.net/attackdex-champions/payback.shtml) | 12 | 50 | 100 | This move's power is doubled if the user attacks after the target. |
+| [Perish Song](https://www.serebii.net/attackdex-champions/perishsong.shtml) | 8 | -- | 101 | Gives all Pokémon on the field the Perishing status. |
+| [Petal Blizzard](https://www.serebii.net/attackdex-champions/petalblizzard.shtml) | 16 | 90 | 100 |
+| [Petal Dance](https://www.serebii.net/attackdex-champions/petaldance.shtml) | 12 | 120 | 100 | The user gains the Rampaging status. |
+| [Phantom Force](https://www.serebii.net/attackdex-champions/phantomforce.shtml) | 12 | 90 | 100 | The user gains the Concealed status on the turn this move is used then attacks on the following turn. This move can hit a target using a move such as Protect or Detect and removes the effects of those moves. |
+| [Pin Missile](https://www.serebii.net/attackdex-champions/pinmissile.shtml) | 20 | 25 | 95 | The user attacks 2 to 5 times in a row. |
+| [Play Rough](https://www.serebii.net/attackdex-champions/playrough.shtml) | 12 | 90 | 90 | Has a 10% chance of lowering the target's Attack stat by 1 stage. |
+| [Pluck](https://www.serebii.net/attackdex-champions/pluck.shtml) | 20 | 60 | 100 | If the target is holding a Berry the user eats that Berry and gains its effect. |
+| [Poison Fang](https://www.serebii.net/attackdex-champions/poisonfang.shtml) | 16 | 50 | 100 | Has a 50% chance of badly poisoning the target. |
+| [Poison Jab](https://www.serebii.net/attackdex-champions/poisonjab.shtml) | 20 | 80 | 100 | Has a 30% chance of poisoning the target. |
+| [Poison Powder](https://www.serebii.net/attackdex-champions/poisonpowder.shtml) | 20 | -- | 75 | Poisons the target. |
+| [Pollen Puff](https://www.serebii.net/attackdex-champions/pollenpuff.shtml) | 16 | 90 | 100 | When used on an ally this move restores 1/2 of its max HP instead of dealing damage. |
+| [Poltergeist](https://www.serebii.net/attackdex-champions/poltergeist.shtml) | 8 | 110 | 90 | This move fails if the target isn't holding an item. |
+| [Population Bomb](https://www.serebii.net/attackdex-champions/populationbomb.shtml) | 12 | 20 | 90 | The user attacks 1 to 10 times in a row. The attack ends if the user misses. |
+| [Pounce](https://www.serebii.net/attackdex-champions/pounce.shtml) | 20 | 50 | 100 | Lowers the target's Speed stat by 1 stage. |
+| [Power Gem](https://www.serebii.net/attackdex-champions/powergem.shtml) | 20 | 80 | 100 |
+| [Power Shift](https://www.serebii.net/attackdex-champions/powershift.shtml) | 12 | -- | 101 | The user gains the Atk/Def Swapped status. |
+| [Power Split](https://www.serebii.net/attackdex-champions/powersplit.shtml) | 12 | -- | 101 | The user adds its Attack stat to the target's Attack stat then splits the total in half for them to share. It does the same with each of their Sp. Atk stats. |
+| [Power Swap](https://www.serebii.net/attackdex-champions/powerswap.shtml) | 12 | -- | 101 | The user swaps the changes to its Attack and Sp. Atk stats with the changes to the target's Attack and Sp. Atk stats. |
+| [Power Trick](https://www.serebii.net/attackdex-champions/powertrick.shtml) | 12 | -- | 101 | The user gains the Atk/Def Swapped status. |
+| [Power Trip](https://www.serebii.net/attackdex-champions/powertrip.shtml) | 12 | 20 | 100 | This move's power is increased by 20 for each stage that the user's stats have been boosted. |
+| [Power Whip](https://www.serebii.net/attackdex-champions/powerwhip.shtml) | 12 | 120 | 85 |
+| [Protect](https://www.serebii.net/attackdex-champions/protect.shtml) | 8 | -- | 101 | The user protects itself from incoming moves for the turn. With each consecutive use this move's chance of success becomes 1/3 of what it was before. |
+| [Psych Up](https://www.serebii.net/attackdex-champions/psychup.shtml) | 12 | -- | 101 | The user copies the target's stat changes. |
+| [Psychic](https://www.serebii.net/attackdex-champions/psychic.shtml) | 12 | 90 | 100 | Has a 10% chance of lowering the target's Sp. Def stat by 1 stage. |
+| [Psychic Fangs](https://www.serebii.net/attackdex-champions/psychicfangs.shtml) | 12 | 85 | 100 | Removes the Light Screen Reflect and Aurora Veil statuses on the target's side. |
+| [Psychic Noise](https://www.serebii.net/attackdex-champions/psychicnoise.shtml) | 12 | 75 | 100 | Gives the target the Healing Prevented status for 2 turns. |
+| [Psychic Terrain](https://www.serebii.net/attackdex-champions/psychicterrain.shtml) | 12 | -- | 101 | Turns the entire field into Psychic Terrain for 5 turns. |
+| [Psycho Cut](https://www.serebii.net/attackdex-champions/psychocut.shtml) | 20 | 70 | 100 | This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Psyshield Bash](https://www.serebii.net/attackdex-champions/psyshieldbash.shtml) | 12 | 90 | 90 | Boosts the user's Defense stat by 1 stage. |
+| [Psyshock](https://www.serebii.net/attackdex-champions/psyshock.shtml) | 12 | 80 | 100 | This is a special move but the damage it deals is calculated using the target's Defense stat. |
+| [Quash](https://www.serebii.net/attackdex-champions/quash.shtml) | 16 | -- | 100 | Causes the target to move last in the turn. |
+| [Quick Attack](https://www.serebii.net/attackdex-champions/quickattack.shtml) | 20 | 40 | 100 |
+| [Quick Guard](https://www.serebii.net/attackdex-champions/quickguard.shtml) | 16 | -- | 101 | The user protects itself and its allies from priority moves for the turn. |
+| [Quiver Dance](https://www.serebii.net/attackdex-champions/quiverdance.shtml) | 20 | -- | 101 | Boosts the user's Sp. Atk Sp. Def and Speed stats by 1 stage. |
+| [Rage Powder](https://www.serebii.net/attackdex-champions/ragepowder.shtml) | 20 | -- | 101 | The user redirects opponents' moves toward itself. This effect works only on single-target moves. |
+| [Raging Bull](https://www.serebii.net/attackdex-champions/ragingbull.shtml) | 12 | 90 | 100 | Removes the Light Screen Reflect and Aurora Veil statuses on the target's side. This move's type depends on the user's form. |
+| [Raging Fury](https://www.serebii.net/attackdex-champions/ragingfury.shtml) | 12 | 120 | 100 | The user gains the Rampaging status. |
+| [Rain Dance](https://www.serebii.net/attackdex-champions/raindance.shtml) | 8 | -- | 101 | Summons rain for 5 turns. |
+| [Rapid Spin](https://www.serebii.net/attackdex-champions/rapidspin.shtml) | 20 | 50 | 100 | Removes the Bound and Leech Seeded statuses from the user and removes the Sticky Web Stealth Rock Spikes and Toxic Spikes statuses from the user's side. Boosts the user's Speed stat by 1 stage. |
+| [Razor Shell](https://www.serebii.net/attackdex-champions/razorshell.shtml) | 12 | 75 | 95 | Has a 50% chance of lowering the target's Defense stat by 1 stage. |
+| [Recover](https://www.serebii.net/attackdex-champions/recover.shtml) | 8 | -- | 101 | Restores 1/2 of the user's max HP. |
+| [Recycle](https://www.serebii.net/attackdex-champions/recycle.shtml) | 12 | -- | 101 | Regenerates the last held item that the user consumed. The user then holds this item once more. |
+| [Reflect](https://www.serebii.net/attackdex-champions/reflect.shtml) | 20 | -- | 101 | Gives the user's side the Reflect status for 5 turns. |
+| [Reflect Type](https://www.serebii.net/attackdex-champions/reflecttype.shtml) | 16 | -- | 101 | The user becomes the same type or types as the target. |
+| [Rest](https://www.serebii.net/attackdex-champions/rest.shtml) | 8 | -- | 101 | Fully restores the user's HP and cures any status conditions. The user falls asleep for 2 turns. This move fails if the user's HP is full. |
+| [Reversal](https://www.serebii.net/attackdex-champions/reversal.shtml) | 16 | -- | 100 | The less HP the user has left the greater this move's power (ranging between 20 and 200). |
+| [Rising Voltage](https://www.serebii.net/attackdex-champions/risingvoltage.shtml) | 20 | 70 | 100 | This move's power is doubled if the target is under the effect of Electric Terrain. |
+| [Roar](https://www.serebii.net/attackdex-champions/roar.shtml) | 20 | -- | 101 | If there are other Pokémon in the target's party that can switch into battle the target is forced to switch out of battle and is replaced by one of those Pokémon at random. |
+| [Rock Blast](https://www.serebii.net/attackdex-champions/rockblast.shtml) | 12 | 25 | 90 | The user attacks 2 to 5 times in a row. |
+| [Rock Polish](https://www.serebii.net/attackdex-champions/rockpolish.shtml) | 20 | -- | 101 | Boosts the user's Speed stat by 2 stages. |
+| [Rock Slide](https://www.serebii.net/attackdex-champions/rockslide.shtml) | 12 | 75 | 90 | Has a 30% chance of making targets flinch. |
+| [Rock Tomb](https://www.serebii.net/attackdex-champions/rocktomb.shtml) | 16 | 60 | 95 | Lowers the target's Speed stat by 1 stage. |
+| [Rock Wrecker](https://www.serebii.net/attackdex-champions/rockwrecker.shtml) | 8 | 150 | 90 | The user gains the Recharging status on the turn after this move is used. |
+| [Role Play](https://www.serebii.net/attackdex-champions/roleplay.shtml) | 12 | -- | 101 | Changes the user's Ability to be the same as the target's. |
+| [Roost](https://www.serebii.net/attackdex-champions/roost.shtml) | 8 | -- | 101 | Restores 1/2 of the user's max HP. If the user is a Flying type it will lose the Flying type for the turn. |
+| [Round](https://www.serebii.net/attackdex-champions/round.shtml) | 16 | 60 | 100 | If multiple Pokémon use this move in the same turn the second user onward will act immediately after the first and the power of the second Round onward will be doubled. |
+| [Sacred Sword](https://www.serebii.net/attackdex-champions/sacredsword.shtml) | 16 | 90 | 100 | This move ignores the target's stat changes when dealing damage. |
+| [Safeguard](https://www.serebii.net/attackdex-champions/safeguard.shtml) | 20 | -- | 101 | Gives the user's side the Safeguard status for 5 turns. |
+| [Salt Cure](https://www.serebii.net/attackdex-champions/saltcure.shtml) | 16 | 40 | 100 | Gives the target the Salt Cured status. |
+| [Sand Tomb](https://www.serebii.net/attackdex-champions/sandtomb.shtml) | 16 | 35 | 85 | Gives the target the Bound status. |
+| [Sandstorm](https://www.serebii.net/attackdex-champions/sandstorm.shtml) | 8 | -- | 101 | Summons a sandstorm for 5 turns. |
+| [Scald](https://www.serebii.net/attackdex-champions/scald.shtml) | 16 | 80 | 100 | Has a 30% chance of burning the target. Cures the user and target of being frozen. |
+| [Scale Shot](https://www.serebii.net/attackdex-champions/scaleshot.shtml) | 20 | 25 | 90 | The user attacks 2 to 5 times in a row. This move lowers the user's Defense stat by 1 stage and boosts its Speed stat by 1 stage. |
+| [Scary Face](https://www.serebii.net/attackdex-champions/scaryface.shtml) | 12 | -- | 100 | Lowers the target's Speed stat by 2 stages. |
+| [Scorching Sands](https://www.serebii.net/attackdex-champions/scorchingsands.shtml) | 12 | 70 | 100 | Has a 30% chance of burning the target. Cures the user and target of being frozen. |
+| [Screech](https://www.serebii.net/attackdex-champions/screech.shtml) | 20 | -- | 85 | Lowers the target's Defense stat by 2 stages. |
+| [Seed Bomb](https://www.serebii.net/attackdex-champions/seedbomb.shtml) | 16 | 80 | 100 |
+| [Seismic Toss](https://www.serebii.net/attackdex-champions/seismictoss.shtml) | 20 | -- | 100 | Deals 50 HP of damage. |
+| [Self-Destruct](https://www.serebii.net/attackdex-champions/self-destruct.shtml) | 8 | 200 | 100 | The user faints upon using this move. |
+| [Shadow Ball](https://www.serebii.net/attackdex-champions/shadowball.shtml) | 16 | 80 | 100 | Has a 20% chance of lowering the target's Sp. Def stat by 1 stage. |
+| [Shadow Claw](https://www.serebii.net/attackdex-champions/shadowclaw.shtml) | 16 | 70 | 100 | This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Shadow Punch](https://www.serebii.net/attackdex-champions/shadowpunch.shtml) | 20 | 60 | 101 | This move never misses. |
+| [Shadow Sneak](https://www.serebii.net/attackdex-champions/shadowsneak.shtml) | 20 | 40 | 100 |
+| [Shed Tail](https://www.serebii.net/attackdex-champions/shedtail.shtml) | 12 | -- | 101 | The user loses 1/2 of its max HP to create a substitute then switches out of battle to be replaced by another party Pokémon. The substitute will be hit by moves instead of that Pokémon and it will vanish when it takes damage equal to 1/4 of the user's max HP. |
+| [Sheer Cold](https://www.serebii.net/attackdex-champions/sheercold.shtml) | 8 | -- | 30 | Knocks out the target. This move does not affect Ice types. The accuracy of this move is fixed at 30%. If used by Pokémon other than Ice types the accuracy of this move is 20%. |
+| [Shell Side Arm](https://www.serebii.net/attackdex-champions/shellsidearm.shtml) | 12 | 90 | 100 | Has a 20% chance of poisoning the target. Becomes a physical move if that will deal more damage. |
+| [Shell Smash](https://www.serebii.net/attackdex-champions/shellsmash.shtml) | 16 | -- | 101 | Lowers the user's Defense and Sp. Def stats by 1 stage and boosts its Attack Sp. Atk and Speed stats by 2 stages. |
+| [Shelter](https://www.serebii.net/attackdex-champions/shelter.shtml) | 12 | -- | 101 | Boosts the user's Defense stat by 2 stages. |
+| [Simple Beam](https://www.serebii.net/attackdex-champions/simplebeam.shtml) | 16 | -- | 100 | Changes the target's Ability to Simple. |
+| [Sing](https://www.serebii.net/attackdex-champions/sing.shtml) | 16 | -- | 55 | Puts the target to sleep. |
+| [Skill Swap](https://www.serebii.net/attackdex-champions/skillswap.shtml) | 12 | -- | 101 | The user and the target swap their Abilities. |
+| [Skitter Smack](https://www.serebii.net/attackdex-champions/skittersmack.shtml) | 12 | 70 | 90 | Lowers the target's Sp. Atk stat by 1 stage. |
+| [Sky Attack](https://www.serebii.net/attackdex-champions/skyattack.shtml) | 8 | 140 | 90 | The user gains the Charging status on the turn this move is used then attacks on the following turn. This move has a 30% chance of making the target flinch and it has a 1-stage Critical-Hit Ratio Boost. |
+| [Slack Off](https://www.serebii.net/attackdex-champions/slackoff.shtml) | 8 | -- | 101 | Restores 1/2 of the user's max HP. |
+| [Sleep Powder](https://www.serebii.net/attackdex-champions/sleeppowder.shtml) | 16 | -- | 75 | Puts the target to sleep. |
+| [Sleep Talk](https://www.serebii.net/attackdex-champions/sleeptalk.shtml) | 12 | -- | 101 | Can be used only if the user is asleep. The user uses one of the other moves it knows at random. |
+| [Sludge Bomb](https://www.serebii.net/attackdex-champions/sludgebomb.shtml) | 12 | 90 | 100 | Has a 30% chance of poisoning the target. |
+| [Sludge Wave](https://www.serebii.net/attackdex-champions/sludgewave.shtml) | 12 | 95 | 100 | Has a 10% chance of poisoning targets. |
+| [Smack Down](https://www.serebii.net/attackdex-champions/smackdown.shtml) | 16 | 50 | 100 | If the target is off the ground it gains the Landed status. This move can hit a target that has the Sky-High status. |
+| [Smart Strike](https://www.serebii.net/attackdex-champions/smartstrike.shtml) | 12 | 70 | 101 | This move never misses. |
+| [Snap Trap](https://www.serebii.net/attackdex-champions/snaptrap.shtml) | 16 | 35 | 100 | Gives the target the Bound status. |
+| [Snarl](https://www.serebii.net/attackdex-champions/snarl.shtml) | 16 | 55 | 95 | Lowers targets' Sp. Atk stats by 1 stage. |
+| [Snore](https://www.serebii.net/attackdex-champions/snore.shtml) | 16 | 50 | 100 | Can be used only if the user is asleep. Has a 30% chance of making the target flinch. |
+| [Snowscape](https://www.serebii.net/attackdex-champions/snowscape.shtml) | 8 | -- | 101 | Summons snow for 5 turns. |
+| [Soak](https://www.serebii.net/attackdex-champions/soak.shtml) | 20 | -- | 100 | Changes the target's type to Water. |
+| [Soft-Boiled](https://www.serebii.net/attackdex-champions/soft-boiled.shtml) | 8 | -- | 101 | Restores 1/2 of the user's max HP. |
+| [Solar Beam](https://www.serebii.net/attackdex-champions/solarbeam.shtml) | 12 | 120 | 100 | The user gains the Charging status on the turn this move is used then attacks on the following turn. In harsh sunlight the user does not gain the Charging status and can attack immediately. This move's power is halved in any other weather condition. |
+| [Solar Blade](https://www.serebii.net/attackdex-champions/solarblade.shtml) | 12 | 125 | 100 | The user gains the Charging status on the turn this move is used then attacks on the following turn. In harsh sunlight the user does not gain the Charging status and can attack immediately. This move's power is halved in any other weather condition. |
+| [Sparkling Aria](https://www.serebii.net/attackdex-champions/sparklingaria.shtml) | 12 | 90 | 100 | Cures targets of their burns. |
+| [Speed Swap](https://www.serebii.net/attackdex-champions/speedswap.shtml) | 12 | -- | 101 | The user and the target swap their Speed stats. |
+| [Spicy Extract](https://www.serebii.net/attackdex-champions/spicyextract.shtml) | 16 | -- | 101 | Lowers the target's Defense stat by 2 stages and boosts its Attack stat by 2 stages. |
+| [Spikes](https://www.serebii.net/attackdex-champions/spikes.shtml) | 20 | -- | 101 | Gives the opponent's side the Spikes status. |
+| [Spiky Shield](https://www.serebii.net/attackdex-champions/spikyshield.shtml) | 8 | -- | 101 | The user protects itself from incoming moves for the turn. Any attackers that use contact moves against the user during this turn take damage equal to 1/8 of their max HP. With each consecutive use this move's chance of success becomes 1/3 of what it was before. |
+| [Spirit Shackle](https://www.serebii.net/attackdex-champions/spiritshackle.shtml) | 12 | 90 | 100 | Gives the target the Can't Escape status. |
+| [Spit Up](https://www.serebii.net/attackdex-champions/spitup.shtml) | 12 | -- | 100 | The higher the user's Stockpiling level the greater this move's power (ranging between 100 and 300). This move fails unless the user has the Stockpiling status. |
+| [Spite](https://www.serebii.net/attackdex-champions/spite.shtml) | 12 | -- | 100 | Removes 4 PP from the move last used by the target. |
+| [Spore](https://www.serebii.net/attackdex-champions/spore.shtml) | 16 | -- | 100 | Puts the target to sleep. |
+| [Stealth Rock](https://www.serebii.net/attackdex-champions/stealthrock.shtml) | 20 | -- | 101 | Gives the opponent's side the Stealth Rock status. |
+| [Steel Beam](https://www.serebii.net/attackdex-champions/steelbeam.shtml) | 8 | 140 | 95 | After attacking the user takes damage equal to 1/2 of its max HP. |
+| [Steel Roller](https://www.serebii.net/attackdex-champions/steelroller.shtml) | 8 | 130 | 100 | Removes any terrain. This move fails if there is no terrain on the field. |
+| [Steel Wing](https://www.serebii.net/attackdex-champions/steelwing.shtml) | 20 | 70 | 90 | Has a 10% chance of boosting the user's Defense stat by 1 stage. |
+| [Sticky Web](https://www.serebii.net/attackdex-champions/stickyweb.shtml) | 20 | -- | 101 | Gives the opponent's side the Sticky Web status. |
+| [Stockpile](https://www.serebii.net/attackdex-champions/stockpile.shtml) | 20 | -- | 101 | Boosts the user's Defense and Sp. Def stats by 1 stage. Raises the user's Stockpiling level by 1. Can be used up to 3 times. |
+| [Stomping Tantrum](https://www.serebii.net/attackdex-champions/stompingtantrum.shtml) | 12 | 75 | 100 | This move's power is doubled if the user couldn't act or its move missed or failed on the previous turn. |
+| [Stone Axe](https://www.serebii.net/attackdex-champions/stoneaxe.shtml) | 16 | 65 | 90 | Gives the opponent's side the Stealth Rock status. |
+| [Stone Edge](https://www.serebii.net/attackdex-champions/stoneedge.shtml) | 8 | 100 | 80 | This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Stored Power](https://www.serebii.net/attackdex-champions/storedpower.shtml) | 12 | 20 | 100 | This move's power is increased by 20 for each stage that the user's stats have been boosted. |
+| [Storm Throw](https://www.serebii.net/attackdex-champions/stormthrow.shtml) | 12 | 60 | 100 | Always a critical hit. |
+| [Strength Sap](https://www.serebii.net/attackdex-champions/strengthsap.shtml) | 12 | -- | 100 | Restores the user's HP by an amount equal to the target's Attack stat. Lowers the target's Attack stat by 1 stage. |
+| [String Shot](https://www.serebii.net/attackdex-champions/stringshot.shtml) | 20 | -- | 95 | Lowers targets' Speed stats by 2 stages. |
+| [Struggle](https://www.serebii.net/attackdex-champions/struggle.shtml) | 1 | 50 | 101 |
+| [Struggle Bug](https://www.serebii.net/attackdex-champions/strugglebug.shtml) | 20 | 50 | 100 | Lowers targets' Sp. Atk stats by 1 stage. |
+| [Stuff Cheeks](https://www.serebii.net/attackdex-champions/stuffcheeks.shtml) | 12 | -- | 101 | The user eats its held Berry and boosts its Defense stat by 2 stages. This move can't be used if the user is not holding a Berry. |
+| [Stun Spore](https://www.serebii.net/attackdex-champions/stunspore.shtml) | 20 | -- | 75 | Paralyzes the target. |
+| [Substitute](https://www.serebii.net/attackdex-champions/substitute.shtml) | 12 | -- | 101 | The user loses 1/4 of its max HP to create a substitute. The substitute will be hit by moves instead of the user and it will vanish when it takes damage equal to 1/4 of the user's max HP. |
+| [Sucker Punch](https://www.serebii.net/attackdex-champions/suckerpunch.shtml) | 8 | 70 | 100 | This move fails unless the target has chosen an attack and has not yet attacked during the turn this move is used. |
+| [Sunny Day](https://www.serebii.net/attackdex-champions/sunnyday.shtml) | 8 | -- | 101 | Summons harsh sunlight for 5 turns. |
+| [Super Fang](https://www.serebii.net/attackdex-champions/superfang.shtml) | 12 | -- | 90 | Deals damage to the target equal to 1/2 of its remaining HP. Deals 1 HP of damage to a target that has only 1 HP left. |
+| [Supercell Slam](https://www.serebii.net/attackdex-champions/supercellslam.shtml) | 16 | 100 | 95 | If this move misses or fails the user takes damage equal to 1/2 of its max HP. If the target has the Minimized status this move's power is doubled and it will be sure to hit. |
+| [Superpower](https://www.serebii.net/attackdex-champions/superpower.shtml) | 8 | 120 | 100 | Lowers the user's Attack and Defense stats by 1 stage. |
+| [Surf](https://www.serebii.net/attackdex-champions/surf.shtml) | 16 | 90 | 100 | This move's power is doubled against targets that have the Submerged status. |
+| [Swagger](https://www.serebii.net/attackdex-champions/swagger.shtml) | 16 | -- | 85 | Boosts the target's Attack stat by 2 stages and confuses it. |
+| [Swallow](https://www.serebii.net/attackdex-champions/swallow.shtml) | 12 | -- | 101 | The higher the user's Stockpiling level the more HP the user restores. Level 1 1/4 of the user's max HP is restored. Level 2 1/2 of the user's max HP is restored. Level 3 The user's HP is fully restored. This move fails unless the user has the Stockpiling status. |
+| [Sweet Kiss](https://www.serebii.net/attackdex-champions/sweetkiss.shtml) | 12 | -- | 75 | Confuses the target. |
+| [Sweet Scent](https://www.serebii.net/attackdex-champions/sweetscent.shtml) | 20 | -- | 100 | Lowers targets' evasiveness by 2 stages. |
+| [Switcheroo](https://www.serebii.net/attackdex-champions/switcheroo.shtml) | 12 | -- | 100 | The user and the target swap their held items. |
+| [Swords Dance](https://www.serebii.net/attackdex-champions/swordsdance.shtml) | 20 | -- | 101 | Boosts the user's Attack stat by 2 stages. |
+| [Synthesis](https://www.serebii.net/attackdex-champions/synthesis.shtml) | 8 | -- | 101 | Restores 1/2 of the user's max HP. In harsh sunlight 2/3 of its max HP will be restored instead. In all other weather conditions 1/4 of its max HP will be restored instead. |
+| [Syrup Bomb](https://www.serebii.net/attackdex-champions/syrupbomb.shtml) | 12 | 60 | 90 | Gives the target the Syrupy status for 3 turns. |
+| [Tail Slap](https://www.serebii.net/attackdex-champions/tailslap.shtml) | 12 | 25 | 85 | The user attacks 2 to 5 times in a row. |
+| [Tailwind](https://www.serebii.net/attackdex-champions/tailwind.shtml) | 16 | -- | 101 | Gives the user's side the Tailwind status for 4 turns. |
+| [Taunt](https://www.serebii.net/attackdex-champions/taunt.shtml) | 20 | -- | 100 | Gives the target the Taunted status. |
+| [Tearful Look](https://www.serebii.net/attackdex-champions/tearfullook.shtml) | 20 | -- | 101 | Lowers the target's Attack and Sp. Atk stats by 1 stage. This move ignores the target's evasiveness and can hit a target using a move such as Protect. |
+| [Teatime](https://www.serebii.net/attackdex-champions/teatime.shtml) | 12 | -- | 101 | Causes all Pokémon on the field to eat their held Berries. |
+| [Teeter Dance](https://www.serebii.net/attackdex-champions/teeterdance.shtml) | 20 | -- | 100 | Confuses all other Pokémon on the field. |
+| [Temper Flare](https://www.serebii.net/attackdex-champions/temperflare.shtml) | 12 | 75 | 100 | This move's power is doubled if the user couldn't act or its move missed or failed on the previous turn. |
+| [Terrain Pulse](https://www.serebii.net/attackdex-champions/terrainpulse.shtml) | 12 | 50 | 100 | This move's power is doubled if the user is under the effect of a terrain. This move's type depends on the terrain. |
+| [Thief](https://www.serebii.net/attackdex-champions/thief.shtml) | 20 | 60 | 100 | If the user is not already holding an item it steals the target's held item. |
+| [Thrash](https://www.serebii.net/attackdex-champions/thrash.shtml) | 12 | 120 | 100 | The user gains the Rampaging status. |
+| [Throat Chop](https://www.serebii.net/attackdex-champions/throatchop.shtml) | 16 | 80 | 100 | Gives the target the Throat Chopped status. |
+| [Thunder](https://www.serebii.net/attackdex-champions/thunder.shtml) | 12 | 110 | 70 | Has a 30% chance of paralyzing the target. This move never misses in rain and can hit a target that has the Sky-High status. |
+| [Thunder Fang](https://www.serebii.net/attackdex-champions/thunderfang.shtml) | 16 | 65 | 95 | Has a 10% chance of paralyzing the target and a 10% chance of making the target flinch. |
+| [Thunder Punch](https://www.serebii.net/attackdex-champions/thunderpunch.shtml) | 16 | 75 | 100 | Has a 10% chance of paralyzing the target. |
+| [Thunder Wave](https://www.serebii.net/attackdex-champions/thunderwave.shtml) | 20 | -- | 90 | Paralyzes the target. |
+| [Thunderbolt](https://www.serebii.net/attackdex-champions/thunderbolt.shtml) | 16 | 90 | 100 | Has a 10% chance of paralyzing the target. |
+| [Tickle](https://www.serebii.net/attackdex-champions/tickle.shtml) | 20 | -- | 100 | Lowers the target's Attack and Defense stats by 1 stage. |
+| [Tidy Up](https://www.serebii.net/attackdex-champions/tidyup.shtml) | 12 | -- | 101 | Removes the Sticky Web Stealth Rock Substitute Spikes and Toxic Spikes statuses from the entire field. Boosts the user's Attack and Speed stats by 1 stage. |
+| [Torch Song](https://www.serebii.net/attackdex-champions/torchsong.shtml) | 12 | 80 | 100 | Boosts the user's Sp. Atk stat by 1 stage. |
+| [Torment](https://www.serebii.net/attackdex-champions/torment.shtml) | 16 | -- | 100 | Gives the target the Unable to Repeat status. |
+| [Toxic](https://www.serebii.net/attackdex-champions/toxic.shtml) | 12 | -- | 90 | Badly poisons the target. If the user is a Poison type this move will never miss. |
+| [Toxic Spikes](https://www.serebii.net/attackdex-champions/toxicspikes.shtml) | 20 | -- | 101 | Gives the opponent's side the Toxic Spikes status. |
+| [Toxic Thread](https://www.serebii.net/attackdex-champions/toxicthread.shtml) | 20 | -- | 100 | Lowers the target's Speed stat by 2 stages and poisons it. |
+| [Trailblaze](https://www.serebii.net/attackdex-champions/trailblaze.shtml) | 20 | 50 | 100 | Boosts the user's Speed stat by 1 stage. |
+| [Transform](https://www.serebii.net/attackdex-champions/transform.shtml) | 12 | -- | 101 | The user transforms into a copy of the target. It also copies all of the target's stats apart from its HP. |
+| [Tri Attack](https://www.serebii.net/attackdex-champions/triattack.shtml) | 12 | 80 | 100 | Has a 20% chance of leaving the target burned frozen or paralyzed. |
+| [Trick](https://www.serebii.net/attackdex-champions/trick.shtml) | 12 | -- | 100 | The user and the target swap their held items. |
+| [Trick Room](https://www.serebii.net/attackdex-champions/trickroom.shtml) | 8 | -- | 101 | Gives the entire field the Trick Room status for 5 turns. |
+| [Trick-or-Treat](https://www.serebii.net/attackdex-champions/trick-or-treat.shtml) | 20 | -- | 100 | Gives the target the Trick-or-Treating status. |
+| [Triple Arrows](https://www.serebii.net/attackdex-champions/triplearrows.shtml) | 12 | 90 | 100 | Has a 50% chance of lowering the target's Defense stat by 1 stage and has a 30% chance of making the target flinch. This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Triple Axel](https://www.serebii.net/attackdex-champions/tripleaxel.shtml) | 12 | 20 | 90 | The user attacks 3 times in a row-first with a power of 20 then with a power of 40 then with a power of 60. The attack ends if the user misses. |
+| [Trop Kick](https://www.serebii.net/attackdex-champions/tropkick.shtml) | 16 | 85 | 100 | Lowers the target's Attack stat by 1 stage. |
+| [Twin Beam](https://www.serebii.net/attackdex-champions/twinbeam.shtml) | 12 | 40 | 100 | The user attacks twice in a row. |
+| [U-turn](https://www.serebii.net/attackdex-champions/u-turn.shtml) | 20 | 70 | 100 | After attacking the user switches out of battle to be replaced by another party Pokémon. |
+| [Upper Hand](https://www.serebii.net/attackdex-champions/upperhand.shtml) | 16 | 65 | 100 | Makes the target flinch. This move fails if the target isn't about to use a priority move. |
+| [Uproar](https://www.serebii.net/attackdex-champions/uproar.shtml) | 12 | 90 | 100 | The user gains the Uproar status. |
+| [Vacuum Wave](https://www.serebii.net/attackdex-champions/vacuumwave.shtml) | 20 | 40 | 100 |
+| [Venoshock](https://www.serebii.net/attackdex-champions/venoshock.shtml) | 12 | 65 | 100 | This move's power is doubled if the target is poisoned or badly poisoned. |
+| [Volt Switch](https://www.serebii.net/attackdex-champions/voltswitch.shtml) | 20 | 70 | 100 | After attacking the user switches out of battle to be replaced by another party Pokémon. |
+| [Volt Tackle](https://www.serebii.net/attackdex-champions/volttackle.shtml) | 16 | 120 | 100 | Has a 10% chance of paralyzing the target. The user also takes 1/3 of the damage dealt by this move. |
+| [Water Pulse](https://www.serebii.net/attackdex-champions/waterpulse.shtml) | 20 | 60 | 100 | Has a 20% chance of confusing the target. |
+| [Water Shuriken](https://www.serebii.net/attackdex-champions/watershuriken.shtml) | 20 | 15 | 100 | The user attacks 2 to 5 times in a row. |
+| [Water Spout](https://www.serebii.net/attackdex-champions/waterspout.shtml) | 8 | 150 | 100 | The less HP the user has left the lower this move's power (ranging between 1 and 150). |
+| [Waterfall](https://www.serebii.net/attackdex-champions/waterfall.shtml) | 16 | 80 | 100 | Has a 20% chance of making the target flinch. |
+| [Wave Crash](https://www.serebii.net/attackdex-champions/wavecrash.shtml) | 12 | 120 | 100 | The user takes 1/3 of the damage dealt by this move. |
+| [Weather Ball](https://www.serebii.net/attackdex-champions/weatherball.shtml) | 12 | 50 | 100 | When a weather condition is present this move's power is doubled and its type changes. Harsh sunlight Fire type. Rain Water type. Snow Ice type. Sandstorm Rock type. |
+| [Whirlpool](https://www.serebii.net/attackdex-champions/whirlpool.shtml) | 16 | 35 | 85 | Gives the target the Bound status. This move's power is doubled if the target has the Submerged status. |
+| [Whirlwind](https://www.serebii.net/attackdex-champions/whirlwind.shtml) | 20 | -- | 101 | If there are other Pokémon in the target's party that can switch into battle the target is forced to switch out of battle and is replaced by one of those Pokémon at random. |
+| [Wide Guard](https://www.serebii.net/attackdex-champions/wideguard.shtml) | 12 | -- | 101 | During the turn this move is used the user protects its side from moves that target all allies. |
+| [Wild Charge](https://www.serebii.net/attackdex-champions/wildcharge.shtml) | 16 | 90 | 100 | The user takes 1/4 of the damage dealt by this move. |
+| [Will-O-Wisp](https://www.serebii.net/attackdex-champions/will-o-wisp.shtml) | 16 | -- | 85 | Burns the target. |
+| [Wish](https://www.serebii.net/attackdex-champions/wish.shtml) | 12 | -- | 101 | Gives the user's spot the Wish status. |
+| [Wonder Room](https://www.serebii.net/attackdex-champions/wonderroom.shtml) | 12 | -- | 101 | Gives the entire field the Wonder Room status for 5 turns. |
+| [Wood Hammer](https://www.serebii.net/attackdex-champions/woodhammer.shtml) | 16 | 120 | 100 | The user takes 1/3 of the damage dealt by this move. |
+| [Worry Seed](https://www.serebii.net/attackdex-champions/worryseed.shtml) | 12 | -- | 100 | Changes the target's Ability to Insomnia. |
+| [Wrap](https://www.serebii.net/attackdex-champions/wrap.shtml) | 20 | 15 | 90 | Gives the target the Bound status. |
+| [X-Scissor](https://www.serebii.net/attackdex-champions/x-scissor.shtml) | 16 | 80 | 100 |
+| [Yawn](https://www.serebii.net/attackdex-champions/yawn.shtml) | 12 | -- | 101 | Makes the target drowsy. This move never misses. |
+| [Zap Cannon](https://www.serebii.net/attackdex-champions/zapcannon.shtml) | 8 | 120 | 50 | Paralyzes the target. |
+| [Zen Headbutt](https://www.serebii.net/attackdex-champions/zenheadbutt.shtml) | 16 | 80 | 90 | Has a 20% chance of making the target flinch. |

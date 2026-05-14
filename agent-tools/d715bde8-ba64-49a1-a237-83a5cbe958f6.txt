@@ -1,0 +1,321 @@
+Charizard - #006 - Serebii.net Pokédex
+
+| Kanto: 001 - 151 003 Venusaur 006 Charizard 009 Blastoise 015 Beedrill 018 Pidgeot 024 Arbok 025 Pikachu 026 Raichu 036 Clefable 038 Ninetales 059 Arcanine 065 Alakazam 068 Machamp 071 Victreebel 080 Slowbro 094 Gengar 115 Kangaskhan 121 Starmie 127 Pinsir 128 Tauros 130 Gyarados 132 Ditto 134 Vaporeon 135 Jolteon 136 Flareon 142 Aerodactyl 143 Snorlax 149 Dragonite | Johto: 152 - 251 154 Meganium 157 Typhlosion 160 Feraligatr 168 Ariados 181 Ampharos 184 Azumarill 186 Politoed 196 Espeon 197 Umbreon 199 Slowking 205 Forretress 208 Steelix 212 Scizor 214 Heracross 227 Skarmory 229 Houndoom 248 Tyranitar | Hoenn: 252-386 279 Pelipper 282 Gardevoir 302 Sableye 306 Aggron 308 Medicham 310 Manectric 319 Sharpedo 323 Camerupt 324 Torkoal 334 Altaria 350 Milotic 351 Castform 354 Banette 358 Chimecho 359 Absol 362 Glalie | Sinnoh: 387-493 389 Torterra 392 Infernape 395 Empoleon 405 Luxray 407 Roserade 409 Rampardos 411 Bastiodon 428 Lopunny 442 Spiritomb 445 Garchomp 448 Lucario 450 Hippowdon 454 Toxicroak 460 Abomasnow 461 Weavile 464 Rhyperior 470 Leafeon 471 Glaceon 472 Gliscor 473 Mamoswine 475 Gallade 478 Froslass 479 Rotom | Unova: 494-649 497 Serperior 500 Emboar 503 Samurott 505 Watchog 510 Liepard 512 Simisage 514 Simisear 516 Simipour 530 Excadrill 531 Audino 534 Conkeldurr 547 Whimsicott 553 Krookodile 563 Cofagrigus 569 Garbodor 571 Zoroark 579 Reuniclus 584 Vanilluxe 587 Emolga 609 Chandelure 614 Beartic 618 Stunfisk 623 Golurk 635 Hydreigon 637 Volcarona |
+| --- | --- | --- | --- | --- |
+| Kalos: 650-721 652 Chesnaught 655 Delphox 658 Greninja 660 Diggersby 663 Talonflame 666 Vivillon 670 Floette 671 Florges 675 Pangoro 676 Furfrou 678 Meowstic 681 Aegislash 683 Aromatisse 685 Slurpuff 693 Clawitzer 695 Heliolisk 697 Tyrantrum 699 Aurorus 700 Sylveon 701 Hawlucha 702 Dedenne 706 Goodra 707 Klefki 709 Trevenant 711 Gourgeist 713 Avalugg 715 Noivern | Alola: 722-809 724 Decidueye 727 Incineroar 730 Primarina 733 Toucannon 740 Crabominable 745 Lycanroc 748 Toxapex 750 Mudsdale 752 Araquanid 758 Salazzle 763 Tsareena 765 Oranguru 766 Passimian 778 Mimikyu 780 Drampa 784 Kommo-o | Galar/Hisui: 810-905 823 Corviknight 841 Flapple 842 Appletun 844 Sandaconda 855 Polteageist 858 Hatterene 866 Mr. Rime 867 Runerigus 869 Alcremie 877 Morpeko 887 Dragapult 899 Wyrdeer 900 Kleavor 902 Basculegion 903 Sneasler | Paldea: 906-1025 908 Meowscarada 911 Skeledirge 914 Quaquaval 925 Maushold 934 Garganacl 936 Armarouge 937 Ceruledge 939 Bellibolt 952 Scovillain 956 Espathra 959 Tinkaton 964 Palafin 968 Orthworm 970 Glimmora 981 Farigiraf 983 Kingambit 1013 Sinistcha 1018 Archaludon 1019 Hydrapple |
+
+| Pokédex: A - G Abomasnow Absol Aegislash Aerodactyl Aggron Alakazam Alcremie Altaria Ampharos Appletun Araquanid Arbok Arcanine Archaludon Ariados Armarouge Aromatisse Audino Aurorus Avalugg Azumarill Banette Basculegion Bastiodon Beartic Beedrill Bellibolt Blastoise Camerupt Castform Ceruledge Chandelure Charizard Chesnaught Chimecho Clawitzer Clefable Cofagrigus Conkeldurr Corviknight Crabominable Decidueye Dedenne Delphox Diggersby Ditto Dragapult Dragonite Drampa Emboar Emolga Empoleon Espathra Espeon Excadrill Farigiraf Feraligatr Flapple Flareon Floette Florges Forretress Froslass Furfrou Gallade Garbodor Garchomp Gardevoir Garganacl Gengar Glaceon Glalie Glimmora Gliscor Golurk Goodra Gourgeist Greninja Gyarados | Pokédex: H - R Hatterene Hawlucha Heliolisk Heracross Hippowdon Houndoom Hydrapple Hydreigon Incineroar Infernape Jolteon Kangaskhan Kingambit Kleavor Klefki Kommo-o Krookodile Leafeon Liepard Lopunny Lucario Luxray Lycanroc Machamp Mamoswine Manectric Maushold Medicham Meganium Meowscarada Meowstic Milotic Mimikyu Morpeko Mr. Rime Mudsdale Ninetales Noivern Oranguru Orthworm Palafin Pangoro Passimian Pelipper Pidgeot Pikachu Pinsir Politoed Polteageist Primarina Quaquaval Raichu Rampardos Reuniclus Rhyperior Roserade Rotom Runerigus | Pokédex: S - Z Sableye Salazzle Samurott Sandaconda Scizor Scovillain Serperior Sharpedo Simipour Simisage Simisear Sinistcha Skarmory Skeledirge Slowbro Slowking Slurpuff Sneasler Snorlax Spiritomb Starmie Steelix Stunfisk Sylveon Talonflame Tauros Tinkaton Torkoal Torterra Toucannon Toxapex Toxicroak Trevenant Tsareena Typhlosion Tyranitar Tyrantrum Umbreon Vanilluxe Vaporeon Venusaur Victreebel Vivillon Volcarona Watchog Weavile Whimsicott Wyrdeer Zoroark |
+| --- | --- | --- |
+
+# #006 Charizard
+
+| General | Location | Attacks | Stats | [Egg Moves](https://www.serebii.net/pokedex-champions/charizard/egg.shtml) |
+| --- | --- | --- | --- | --- |
+
+| Picture |
+| --- |
+
+| Japan: | Lizardonリザードン |
+| --- | --- |
+| French: | Dracaufeu |
+| German: | Glurak |
+| Korean: | 리자몽 |
+
+| National: | #006 |
+| --- | --- |
+
+| Male ♂: | 88% |
+| --- | --- |
+| Female ♀: | 12% |
+
+| Name | Other Names | No. | Gender Ratio | Type |
+| --- | --- | --- | --- | --- |
+| Charizard |
+| Classification | Height | Weight |
+| Flame Pokémon | 5'07" 1.7m | 199.5lbs 90.5kg |
+
+| Abilities: [Blaze](https://www.serebii.net/abilitydex/blaze.shtml)- [Solar Power](https://www.serebii.net/abilitydex/solarpower.shtml) |
+| --- |
+| [Blaze](https://www.serebii.net/abilitydex/blaze.shtml): When HP is below 1/3rd its maximum, power of Fire-type moves is increased by 50%. [Solar Power](https://www.serebii.net/abilitydex/solarpower.shtml): During sunshine, the Pokémon’s Special Attack raises to 1.5 times but HP decreases by 1/8th the maximum HP every turn. |
+
+## Weakness
+
+| *1 | *0.5 | *2 | *2 | *0.25 | *1 | *0.5 | *1 | *0 | *1 | *1 | *0.25 | *4 | *1 | *1 | *1 | *0.5 | *0.5 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Evolutionary Chain |
+| --- |
+
+### Standard Moves
+
+| Attack Name | Type | Cat. | Att. | Acc. | PP | Effect % |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Acrobatics](https://www.serebii.net/attackdex-champions/acrobatics.shtml) | 55 | 100 | 16 | -- |
+| This move's power is doubled if the user isn't holding an item. |
+| [Aerial Ace](https://www.serebii.net/attackdex-champions/aerialace.shtml) | 60 | 101 | 20 | -- |
+| This move never misses. |
+| [Air Cutter](https://www.serebii.net/attackdex-champions/aircutter.shtml) | 60 | 95 | 20 | -- |
+| This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Air Slash](https://www.serebii.net/attackdex-champions/airslash.shtml) | 75 | 95 | 16 | 30 |
+| Has a 30% chance of making the target flinch. |
+| [Ancient Power](https://www.serebii.net/attackdex-champions/ancientpower.shtml) | 60 | 100 | 8 | 10 |
+| Has a 10% chance of boosting the user's Attack Defense Sp. Atk Sp. Def and Speed stats by 1 stage. |
+| [Beat Up](https://www.serebii.net/attackdex-champions/beatup.shtml) | ?? | 100 | 12 | -- |
+| The target is attacked as many times as the number of Pokémon in the user's party. Pokémon that have fainted or have a status condition are not counted. This move's power is calculated based on the Attack stats of the party Pokémon. |
+| [Belly Drum](https://www.serebii.net/attackdex-champions/bellydrum.shtml) | -- | 101 | 12 | -- |
+| The user loses 1/2 of its max HP to boost its Attack stat to its sixth stage. This move fails if the user doesn't have enough remaining HP. |
+| [Bite](https://www.serebii.net/attackdex-champions/bite.shtml) | 60 | 100 | 20 | 30 |
+| Has a 30% chance of making the target flinch. |
+| [Blast Burn](https://www.serebii.net/attackdex-champions/blastburn.shtml) | 150 | 90 | 8 | -- |
+| The user gains the Recharging status on the turn after this move is used. |
+| [Body Slam](https://www.serebii.net/attackdex-champions/bodyslam.shtml) | 85 | 100 | 16 | 30 |
+| Has a 30% chance of paralyzing the target. If the target has the Minimized status this move's power is doubled and it will be sure to hit. |
+| [Breaking Swipe](https://www.serebii.net/attackdex-champions/breakingswipe.shtml) | 60 | 100 | 16 | -- |
+| Lowers targets' Attack stats by 1 stage. |
+| [Brick Break](https://www.serebii.net/attackdex-champions/brickbreak.shtml) | 75 | 100 | 16 | -- |
+| Removes the Light Screen Reflect and Aurora Veil statuses on the target's side. |
+| [Brutal Swing](https://www.serebii.net/attackdex-champions/brutalswing.shtml) | 60 | 100 | 20 | -- |
+| [Bulldoze](https://www.serebii.net/attackdex-champions/bulldoze.shtml) | 60 | 100 | 20 | -- |
+| Lowers targets' Speed stats by 1 stage. When Grassy Terrain is active this move's power is halved. |
+| [Counter](https://www.serebii.net/attackdex-champions/counter.shtml) | ?? | 100 | 20 | -- |
+| The user retaliates to deal double the damage it took from an opponent's physical move during the turn this move is used. |
+| [Crunch](https://www.serebii.net/attackdex-champions/crunch.shtml) | 80 | 100 | 16 | 20 |
+| Has a 20% chance of lowering the target's Defense stat by 1 stage. |
+| [Dig](https://www.serebii.net/attackdex-champions/dig.shtml) | 80 | 100 | 12 | -- |
+| The user gains the Underground status on the turn this move is used then attacks on the following turn. |
+| [Double-Edge](https://www.serebii.net/attackdex-champions/double-edge.shtml) | 120 | 100 | 16 | -- |
+| The user takes 1/3 of the damage dealt by this move. |
+| [Dragon Cheer](https://www.serebii.net/attackdex-champions/dragoncheer.shtml) | -- | 101 | 16 | -- |
+| Gives allies a Critical-Hit Ratio Boost. Dragon types receive a 2-stage boost. All other types receive a 1-stage boost. |
+| [Dragon Claw](https://www.serebii.net/attackdex-champions/dragonclaw.shtml) | 80 | 100 | 16 | -- |
+| [Dragon Dance](https://www.serebii.net/attackdex-champions/dragondance.shtml) | -- | 101 | 20 | -- |
+| Boosts the user's Attack and Speed stats by 1 stage. |
+| [Dragon Pulse](https://www.serebii.net/attackdex-champions/dragonpulse.shtml) | 85 | 100 | 12 | -- |
+| [Dragon Rush](https://www.serebii.net/attackdex-champions/dragonrush.shtml) | 100 | 75 | 12 | 20 |
+| Has a 20% chance of making the target flinch. If the target has the Minimized status this move's power is doubled and it will be sure to hit. |
+| [Dragon Tail](https://www.serebii.net/attackdex-champions/dragontail.shtml) | 60 | 90 | 12 | -- |
+| If there are other Pokémon in the target's party that can switch into battle the target is forced to switch out of battle and is replaced by one of those Pokémon at random. |
+| [Earthquake](https://www.serebii.net/attackdex-champions/earthquake.shtml) | 100 | 100 | 12 | -- |
+| This move's power is doubled against targets that have the Underground status. When Grassy Terrain is active this move's power is halved. |
+| [Endure](https://www.serebii.net/attackdex-champions/endure.shtml) | -- | 101 | 12 | -- |
+| During the turn this move is used if the user takes damage from a move that would knock it out it will endure the hit with 1 HP. With each consecutive use this move's chance of success becomes 1/3 of what it was before. |
+| [Facade](https://www.serebii.net/attackdex-champions/facade.shtml) | 70 | 100 | 20 | -- |
+| This move's power is doubled if the user is poisoned badly poisoned burned or paralyzed. Although this move is a physical move the damage it deals is not halved when the user is burned. |
+| [Fire Blast](https://www.serebii.net/attackdex-champions/fireblast.shtml) | 110 | 85 | 8 | 10 |
+| Has a 10% chance of burning the target. |
+| [Fire Fang](https://www.serebii.net/attackdex-champions/firefang.shtml) | 65 | 95 | 16 | 10 |
+| Has a 10% chance of burning the target and a 10% chance of making the target flinch. |
+| [Fire Punch](https://www.serebii.net/attackdex-champions/firepunch.shtml) | 75 | 100 | 16 | 10 |
+| Has a 10% chance of burning the target. |
+| [Fire Spin](https://www.serebii.net/attackdex-champions/firespin.shtml) | 35 | 85 | 16 | 100 |
+| Gives the target the Bound status. |
+| [Flame Charge](https://www.serebii.net/attackdex-champions/flamecharge.shtml) | 50 | 100 | 20 | -- |
+| Boosts the user's Speed stat by 1 stage. |
+| [Flamethrower](https://www.serebii.net/attackdex-champions/flamethrower.shtml) | 90 | 100 | 16 | 10 |
+| Has a 10% chance of burning the target. |
+| [Flare Blitz](https://www.serebii.net/attackdex-champions/flareblitz.shtml) | 120 | 100 | 16 | 10 |
+| Has a 10% chance of burning the target. Cures the user of being frozen. The user also takes 1/3 of the damage dealt by this move. |
+| [Fling](https://www.serebii.net/attackdex-champions/fling.shtml) | ?? | 100 | 12 | -- |
+| This move's power and effects depend on the user's held item. The held item is lost after this move is used. |
+| [Fly](https://www.serebii.net/attackdex-champions/fly.shtml) | 90 | 95 | 16 | -- |
+| The user gains the Sky-High status on the turn this move is used then attacks on the following turn. |
+| [Focus Blast](https://www.serebii.net/attackdex-champions/focusblast.shtml) | 120 | 70 | 8 | 10 |
+| Has a 10% chance of lowering the target's Sp. Def stat by 1 stage. |
+| [Focus Punch](https://www.serebii.net/attackdex-champions/focuspunch.shtml) | 150 | 100 | 20 | -- |
+| This move fails if the user has already taken damage from a move in the same turn. |
+| [Giga Impact](https://www.serebii.net/attackdex-champions/gigaimpact.shtml) | 150 | 90 | 8 | -- |
+| The user gains the Recharging status on the turn after this move is used. |
+| [Heat Crash](https://www.serebii.net/attackdex-champions/heatcrash.shtml) | ?? | 100 | 12 | -- |
+| The more the user outweighs the target the greater this move's power (ranging between 40 and 120). If the target has the Minimized status this move's power is doubled and it will be sure to hit. |
+| [Heat Wave](https://www.serebii.net/attackdex-champions/heatwave.shtml) | 95 | 90 | 12 | 10 |
+| Has a 10% chance of burning targets. |
+| [Helping Hand](https://www.serebii.net/attackdex-champions/helpinghand.shtml) | -- | 101 | 20 | -- |
+| Boosts the power of an ally's move by 50% during the turn this move is used. |
+| [Hurricane](https://www.serebii.net/attackdex-champions/hurricane.shtml) | 110 | 70 | 12 | 30 |
+| Has a 30% chance of confusing the target. This move never misses in rain and can hit a target that has the Sky-High status. |
+| [Hyper Beam](https://www.serebii.net/attackdex-champions/hyperbeam.shtml) | 150 | 90 | 8 | -- |
+| The user gains the Recharging status on the turn after this move is used. |
+| [Inferno](https://www.serebii.net/attackdex-champions/inferno.shtml) | 100 | 50 | 8 | 100 |
+| Burns the target. |
+| [Iron Tail](https://www.serebii.net/attackdex-champions/irontail.shtml) | 100 | 75 | 16 | 30 |
+| Has a 30% chance of lowering the target's Defense stat by 1 stage. |
+| [Mega Kick](https://www.serebii.net/attackdex-champions/megakick.shtml) | 120 | 75 | 8 | -- |
+| [Outrage](https://www.serebii.net/attackdex-champions/outrage.shtml) | 120 | 100 | 12 | -- |
+| The user gains the Rampaging status. |
+| [Overheat](https://www.serebii.net/attackdex-champions/overheat.shtml) | 130 | 90 | 8 | -- |
+| Lowers the user's Sp. Atk stat by 2 stages. |
+| [Protect](https://www.serebii.net/attackdex-champions/protect.shtml) | -- | 101 | 8 | -- |
+| The user protects itself from incoming moves for the turn. With each consecutive use this move's chance of success becomes 1/3 of what it was before. |
+| [Rest](https://www.serebii.net/attackdex-champions/rest.shtml) | -- | 101 | 8 | -- |
+| Fully restores the user's HP and cures any status conditions. The user falls asleep for 2 turns. This move fails if the user's HP is full. |
+| [Roar](https://www.serebii.net/attackdex-champions/roar.shtml) | -- | 101 | 20 | -- |
+| If there are other Pokémon in the target's party that can switch into battle the target is forced to switch out of battle and is replaced by one of those Pokémon at random. |
+| [Rock Slide](https://www.serebii.net/attackdex-champions/rockslide.shtml) | 75 | 90 | 12 | 30 |
+| Has a 30% chance of making targets flinch. |
+| [Rock Tomb](https://www.serebii.net/attackdex-champions/rocktomb.shtml) | 60 | 95 | 16 | -- |
+| Lowers the target's Speed stat by 1 stage. |
+| [Roost](https://www.serebii.net/attackdex-champions/roost.shtml) | -- | 101 | 8 | -- |
+| Restores 1/2 of the user's max HP. If the user is a Flying type it will lose the Flying type for the turn. |
+| [Round](https://www.serebii.net/attackdex-champions/round.shtml) | 60 | 100 | 16 | -- |
+| If multiple Pokémon use this move in the same turn the second user onward will act immediately after the first and the power of the second Round onward will be doubled. |
+| [Sandstorm](https://www.serebii.net/attackdex-champions/sandstorm.shtml) | -- | 101 | 8 | -- |
+| Summons a sandstorm for 5 turns. |
+| [Scale Shot](https://www.serebii.net/attackdex-champions/scaleshot.shtml) | 25 | 90 | 20 | -- |
+| The user attacks 2 to 5 times in a row. This move lowers the user's Defense stat by 1 stage and boosts its Speed stat by 1 stage. |
+| [Scary Face](https://www.serebii.net/attackdex-champions/scaryface.shtml) | -- | 100 | 12 | -- |
+| Lowers the target's Speed stat by 2 stages. |
+| [Scorching Sands](https://www.serebii.net/attackdex-champions/scorchingsands.shtml) | 70 | 100 | 12 | 30 |
+| Has a 30% chance of burning the target. Cures the user and target of being frozen. |
+| [Shadow Claw](https://www.serebii.net/attackdex-champions/shadowclaw.shtml) | 70 | 100 | 16 | -- |
+| This move has a 1-stage Critical-Hit Ratio Boost. |
+| [Sleep Talk](https://www.serebii.net/attackdex-champions/sleeptalk.shtml) | -- | 101 | 12 | -- |
+| Can be used only if the user is asleep. The user uses one of the other moves it knows at random. |
+| [Snore](https://www.serebii.net/attackdex-champions/snore.shtml) | 50 | 100 | 16 | 30 |
+| Can be used only if the user is asleep. Has a 30% chance of making the target flinch. |
+| [Solar Beam](https://www.serebii.net/attackdex-champions/solarbeam.shtml) | 120 | 100 | 12 | -- |
+| The user gains the Charging status on the turn this move is used then attacks on the following turn. In harsh sunlight the user does not gain the Charging status and can attack immediately. This move's power is halved in any other weather condition. |
+| [Steel Wing](https://www.serebii.net/attackdex-champions/steelwing.shtml) | 70 | 90 | 20 | 10 |
+| Has a 10% chance of boosting the user's Defense stat by 1 stage. |
+| [Substitute](https://www.serebii.net/attackdex-champions/substitute.shtml) | -- | 101 | 12 | -- |
+| The user loses 1/4 of its max HP to create a substitute. The substitute will be hit by moves instead of the user and it will vanish when it takes damage equal to 1/4 of the user's max HP. |
+| [Sunny Day](https://www.serebii.net/attackdex-champions/sunnyday.shtml) | -- | 101 | 8 | -- |
+| Summons harsh sunlight for 5 turns. |
+| [Swords Dance](https://www.serebii.net/attackdex-champions/swordsdance.shtml) | -- | 101 | 20 | -- |
+| Boosts the user's Attack stat by 2 stages. |
+| [Temper Flare](https://www.serebii.net/attackdex-champions/temperflare.shtml) | 75 | 100 | 12 | -- |
+| This move's power is doubled if the user couldn't act or its move missed or failed on the previous turn. |
+| [Thunder Punch](https://www.serebii.net/attackdex-champions/thunderpunch.shtml) | 75 | 100 | 16 | 10 |
+| Has a 10% chance of paralyzing the target. |
+| [Weather Ball](https://www.serebii.net/attackdex-champions/weatherball.shtml) | 50 | 100 | 12 | -- |
+| When a weather condition is present this move's power is doubled and its type changes. Harsh sunlight Fire type. Rain Water type. Snow Ice type. Sandstorm Rock type. |
+| [Will-O-Wisp](https://www.serebii.net/attackdex-champions/will-o-wisp.shtml) | -- | 85 | 16 | -- |
+| Burns the target. |
+
+## Stats
+
+| HP | Attack | Defense | Sp. Attack | Sp. Defense | Speed |
+| --- | --- | --- | --- | --- | --- |
+| Base Stats - Total: 534 | 78 | 84 | 78 | 109 | 85 | 100 |
+| Max StatsHindering Nature | Standard | 153 - 185 | 93 - 122 | 88 - 117 | 116 - 144 | 94 - 123 | 108 - 136 |
+| Max StatsNeutral Nature | Standard | 153 - 185 | 104 - 136 | 98 - 130 | 129 - 161 | 105 - 137 | 120 - 152 |
+| Max StatsBeneficial Nature | Standard | 153 - 185 | 114 - 149 | 107 - 143 | 141 - 177 | 115 - 150 | 132 - 167 |
+
+78
+
+84
+
+78
+
+100
+
+85
+
+109
+
+---
+
+### Mega Charizard X
+
+| Picture |
+| --- |
+
+| Japan: | Mega Rizardonメガリザードン |
+| --- | --- |
+| French: | Mega Dracaufeu |
+| German: | Mega -Glurak |
+| Korean: | 메가리자몽 |
+
+| National: | #006 |
+| --- | --- |
+
+| Name | Other Names | No. | Type |
+| --- | --- | --- | --- |
+| Mega Charizard |
+| Classification | Height | Weight | Capture Rate |
+| Flame Pokémon | 5'07" 1.7m | 243.6lbs 110.5kg |
+
+| Abilities: [Tough Claws](https://www.serebii.net/abilitydex/toughclaws.shtml) |
+| --- |
+| [Tough Claws](https://www.serebii.net/abilitydex/toughclaws.shtml): Increases the power of moves that make physical contact by 30% |
+
+| Damage Taken |
+| --- |
+| *1 | *0.25 | *1 | *0.5 | *0.25 | *1 | *1 | *1 | *2 | *1 | *1 | *0.5 | *2 | *1 | *2 | *1 | *0.5 | *1 |
+
+## Stats -
+
+| HP | Attack | Defense | Sp. Attack | Sp. Defense | Speed |
+| --- | --- | --- | --- | --- | --- |
+| Base Stats - Total: 634 | 78 | 130 | 111 | 130 | 85 | 100 |
+| Max StatsHindering Nature | Standard | 153 - 185 | 135 - 163 | 117 - 146 | 135 - 163 | 94 - 123 | 108 - 136 |
+| Max StatsNeutral Nature | Standard | 153 - 185 | 150 - 182 | 131 - 163 | 150 - 182 | 105 - 137 | 120 - 152 |
+| Max StatsBeneficial Nature | Standard | 153 - 185 | 165 - 200 | 144 - 179 | 165 - 200 | 115 - 150 | 132 - 167 |
+
+78
+
+130
+
+111
+
+100
+
+85
+
+130
+
+---
+
+### Mega Charizard Y
+
+| Picture |
+| --- |
+
+| Japan: | Mega Rizardonメガリザードン |
+| --- | --- |
+| French: | Mega Dracaufeu |
+| German: | Mega -Glurak |
+| Korean: | 메가리자몽 |
+
+| National: | #006 |
+| --- | --- |
+
+| Name | Other Names | No. | Type |
+| --- | --- | --- | --- |
+| Mega Charizard |
+| Classification | Height | Weight | Capture Rate |
+| Flame Pokémon | 5'07" 1.7m | 221.6lbs 100.5kg |
+
+| Abilities: [Drought](https://www.serebii.net/abilitydex/drought.shtml) |
+| --- |
+| [Drought](https://www.serebii.net/abilitydex/drought.shtml): Weather changes to Intense Sunshine when the Pokémon enters the battle. As of X & Y, this lasts 5 turns. |
+
+| Damage Taken |
+| --- |
+| *1 | *0.5 | *2 | *2 | *0.25 | *1 | *0.5 | *1 | *0 | *1 | *1 | *0.25 | *4 | *1 | *1 | *1 | *0.5 | *0.5 |
+
+## Stats -
+
+| HP | Attack | Defense | Sp. Attack | Sp. Defense | Speed |
+| --- | --- | --- | --- | --- | --- |
+| Base Stats - Total: 634 | 78 | 104 | 78 | 159 | 115 | 100 |
+| Max StatsHindering Nature | Standard | 153 - 185 | 111 - 140 | 88 - 117 | 161 - 189 | 121 - 150 | 108 - 136 |
+| Max StatsNeutral Nature | Standard | 153 - 185 | 124 - 156 | 98 - 130 | 179 - 211 | 135 - 167 | 120 - 152 |
+| Max StatsBeneficial Nature | Standard | 153 - 185 | 136 - 171 | 107 - 143 | 196 - 232 | 148 - 183 | 132 - 167 |
+
+78
+
+104
+
+78
+
+100
+
+115
+
+159
+
+| <--- |
+| --- |
+
+| ---> |
+| --- |

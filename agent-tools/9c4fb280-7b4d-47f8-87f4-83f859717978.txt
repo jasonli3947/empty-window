@@ -1,0 +1,638 @@
+Damage Calculator | Pokemon Champions｜Game8
+
+## What can you do as a free member?
+
+### Create your free account today and unlock all our premium features and tools to enhance your gaming experience.
+
+### Create your free account today and save articles to your watchlist and get notified when they're updated with new information.
+
+### Create your free account today and save your favorite games for quick access later, synced across all your devices.
+
+### By creating a Game8 account and logging in, you'll receive instant notifications when someone replies to your posts.
+
+### By creating a Game8 account and logging in, you can make use of convenient features in the comments section, such as rating and sorting comments.
+
+### By creating a Game8 account and logging in, you can access Premium articles that are exclusively available to members.
+
+### Site Interface
+
+Guest
+
+Free Member
+
+Article Watchlist
+
+Game Bookmarks
+
+Cross-device Sync
+
+Light/Dark Theme Toggle
+
+User Profiles
+
+Direct Feedback
+
+Comment Rating
+
+Premium Articles
+
+### Game Tools
+
+Guest
+
+Free Member
+
+Interactive Map Access
+
+Interactive Map Pins
+
+Interactive Map Comments
+
+Interactive Map Pins Cross-Device
+
+Check List
+
+Event Choice Checker
+
+Deck Builder Cross-Device
+
+Message Board Notification
+
+Message Board Cross-Device
+
+Build Planner
+
+Stat Calculator
+
+Diagnostic Tool
+
+Weapon/Armor Wishlist
+
+Want more information? [Learn more](https://game8.co/members?utm_source=game8&utm_medium=gamewiki_header&utm_campaign=learnmore_click&utm_content=membership_modal)
+
+- [Game8](https://game8.co/)
+- [Pokemon Champions Walkthrough & Guides Wiki](https://game8.co/games/Pokemon-Champions)
+- Damage Calculator
+
+Pokemon Champions
+
+# Damage Calculator
+
+Add to Watchlist (3)
+
+[Pokemon Champions Walkthrough Team](https://x.com/Game8_Pokemon)
+
+Last updated on: April 29, 2026 12:41 AM
+
+This is Game8's Damage Calculator for Pokemon Champions. Check how much damage each move will deal against any Pokemon, with a built-in Speed Checker and compatibility with our Team Builder!
+
+| Tools & Shareables |
+| --- |
+| Damage Calculator | [Team Builder](https://game8.co/games/Pokemon-Champions/archives/591900) | [Team Sharing Board](https://game8.co/games/Pokemon-Champions/archives/591902) |
+
+List of Contents
+
+- Damage Calculator
+- How to Use
+- Related Guides
+
+## Damage Calculator
+
+## How to Use the Damage Calculator
+
+Click Select or Load for the Attacker and Defender to choose the Pokemon.
+
+---
+
+Add up to 4 moves for the Attacker.
+
+---
+
+You can swap between the Attacker and Defender by clicking the Swap Icon , and their moves and other data will be retained when you swap back!
+
+Update the Stats for the Attacker and Defender.
+
+---
+
+For the Nature Modifier, select 1.1x if the stat has a Beneficial Nature, or 0.9x if the stat has a Hindering Nature.
+
+---
+
+Update the Ability, Held Item, and other Conditions for the Attacker and Defender.
+
+---
+
+Some Abilities like Huge Power will update the calculations when set.
+
+---
+
+If needed, update the Screen and Recurring Damage for the Defender.
+
+---
+
+Reference the Speed Comparison to see which Pokemon will move first.
+
+---
+
+Check your finalized Damage Result.
+
+---
+
+The green section of the Damage Result shows the remaining HP, while the empty (gray) section shows how much damage has been dealt.
+
+---
+
+Click To Add to stack multiple attacks.
+
+---
+
+Copy the Share link to save and send your results.
+
+---
+
+| Step | Instructions | 1 | Select will allow you to choose any Pokemon from a list.Load will allow you to import a Pokemon from the [Team Builder](https://game8.co/games/Pokemon-Champions/archives/591900), with its moves and stats already set. |
+| --- | --- | --- | --- |
+| 2 |
+| 3 | Note that Stat Changes will not affect the stat value listed, but they will affect the Damage result. |
+| 4 | Some of the Item types are summarized into labels: ・Select Type-enhancing item for all 20% boost items like Charcoal, Dragon Claw, etc.・Select Damage-reducing Berry for Berries that reduce super-effective damage like Rindo Berry, Occa Berry, etc. |
+| 5 | Most effects on the field which add or reduce damage are applied here. |
+| 6 | If needed, update the Environment section to add Weather and Terrain effects. |
+| 7 | If you don't know your opponent's stats, try checking which stat combinations outspeed your Pokemon to estimate your risk of moving last. |
+| 8 | You can also specify a Critical Hit or a Double Battle. In Double Battles, moves which hit both opponents will deal 2/3x of their normal damage. |
+| 9 | This will allow you to check the damage across multiple turns and see the combined result. You can even swap Attackers across turns! |
+| 10 | You can save the URL to re-check a result later on, or send it to others to show how you crunched the numbers in your builds. |
+
+## Pokemon Champions Related Guides
+
+[Pokemon Champions Wiki Top](https://game8.co/games/Pokemon-Champions)
+
+### Pokemon Champions Guides by Category
+
+### Recommended Guides
+
+| Tier Lists | [Best Pokemon Tier List](https://game8.co/games/Pokemon-Champions/archives/592465) | [Doubles Tier List](https://game8.co/games/Pokemon-Champions/archives/593883) |
+| --- | --- | --- |
+| [Mega Tier List](https://game8.co/games/Pokemon-Champions/archives/593897) | [Best Items Tier List](https://game8.co/games/Pokemon-Champions/archives/593922) |
+| General Guides | [Pokemon HOME Transfer Guide](https://game8.co/games/Pokemon-Champions/archives/591859) | [Best Starter Pokemon to Choose First](https://game8.co/games/Pokemon-Champions/archives/592056) |
+| [Reroll Guide: Best Pokemon to Reroll](https://game8.co/games/Pokemon-Champions/archives/592486) | [List of Changes from Previous Games](https://game8.co/games/Pokemon-Champions/archives/593893) |
+| [Ranked Battles Guide](https://game8.co/games/Pokemon-Champions/archives/588870) | [List of All Mega Stones](https://game8.co/games/Pokemon-Champions/archives/588885) |
+| [Best Pokemon to Recruit](https://game8.co/games/Pokemon-Champions/archives/594176) | [List of Pokemon Titles](https://game8.co/games/Pokemon-Champions/archives/594313) |
+| [List of All Achievements](https://game8.co/games/Pokemon-Champions/archives/595881) | [Usage Stats and Battle Data](https://game8.co/games/Pokemon-Champions/archives/595375) |
+
+### Tools and Shareables
+
+| Damage Calculator | [Team Builder](https://game8.co/games/Pokemon-Champions/archives/Builder) |
+| --- | --- |
+| [Team Sharing Board](https://game8.co/games/Pokemon-Champions/archives/Team-Share) | [Tier List Maker](https://game8.co/games/Pokemon-Champions/archives/594356) |
+| [Private Battles Board](https://game8.co/games/Pokemon-Champions/archives/595958) | - |
+
+## Comment
+
+10 Anonymous about 5 hours
+
+Excuse me two things i noticed on the damage Calculator: Aegislash moves are not fully shown and the move psyshock is not contributing on attacking the defense stat.
+
+5 Anonymous 15 days
+
+>>3 We found an issue with our calculation for STAB damage; this has been resolved. I hope this cleared up your issue with the calculator, but please let us know if you find any other issues! Thank you!
+
+[See more comments (10 Comments)](https://game8.co/games/Pokemon-Champions/archives/592005/comments)
+
+Share:
+
+## Author
+
+[Pokemon Champions Walkthrough TeamThis article was created by Game8's elite team of writers and gamers.](https://x.com/Game8_Pokemon)
+
+[Follow Game8 Pokemon on X for daily tips, guides, and news!](https://x.com/Game8_Pokemon)
+
+Close
+
+Close
+
+Leave feedback(Login required)
+
+[Pokemon Champions Walkthrough & Guides Wiki](https://game8.co/games/Pokemon-Champions)
+
+Damage Calculator
+
+Please participate in our siteimprovement survey 05/2026
+
+Would you assist inimproving Game8's site?
+
+&times
+
+This survey will take about 1 minute.Your answers will help us to improve our website.
+
+We are listening to our users' valuable opinions and discussing how to act on them.
+
+The information collected through this survey will be used for the purpose of improving our services. In addition, the information will only be disclosed a part of a statistic in a format that will not allow identification of personal information.
+
+Begin Survey
+
+Not Now
+
+&times
+
+Please rate each item regarding Game8.co's Advertisements.
+
+Amount of Ads
+
+Very Dissatisfied
+
+Somewhat Dissatisfied
+
+Fine
+
+Somewhat Satisfied
+
+Highly Satisfied
+
+Placement of Ads
+
+Timing of Ad Display
+
+Ad Loading Speed
+
+Safeness of Ads
+
+Content of Ads
+
+&times
+
+Please rate each item regarding Game8.co's Quality of Articles.
+
+Amount of information
+
+Very Dissatisfied
+
+Somewhat Dissatisfied
+
+Fine
+
+Somewhat Satisfied
+
+Highly Satisfied
+
+Frequency of updates
+
+Speed of new information
+
+Accuracy of articles
+
+Understandibility of articles
+
+Readability of sentences
+
+&times
+
+Please rate each item regarding Game8.co's Usability of the Site.
+
+Ease of finding information
+
+Very Dissatisfied
+
+Somewhat Dissatisfied
+
+Fine
+
+Somewhat Satisfied
+
+Highly Satisfied
+
+Loading Speed
+
+Use of Color
+
+Font Size
+
+Visibility of Images
+
+Easy to Understand Layout
+
+&times
+
+Please rate each item regarding Game8.co's Message Boards, Comments.
+
+Ease of Writing
+
+Very Dissatisfied
+
+Somewhat Dissatisfied
+
+Fine
+
+Somewhat Satisfied
+
+Highly Satisfied
+
+Readability
+
+Ease in Finding Information
+
+Comment Quality
+
+Comment Quantity
+
+Admin Response
+
+&times
+
+Please rate each item regarding Game8.co's Site's new design.
+
+Please rate our site's new design
+
+Very Dissatisfied
+
+Somewhat Dissatisfied
+
+Fine
+
+Somewhat Satisfied
+
+Highly Satisfied
+
+Do you think that the website's design change makes the site easier to use?
+
+Has the new design made it easier for you to find information on the site?
+
+Has the new design improved the overall visual appeal of the site?
+
+How would you rate your overall satisfaction with the new design of the site?
+
+&times
+
+How likely are you to recommend Game8 to someone you know?
+
+Very Unlikely
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Very Likely
+
+---
+
+If you have other opinions regarding potential improvement to the website, please share them with us. We would appreciate your honest opinion.
+
+Note: This is a free response section, so you can proceed without entering anything.Note: Please be sure not to enter any kind of personal information into your response.
+
+&times
+
+Thank You
+
+&times
+
+Thank you for participating in our survey! Your answers will help us to improve the quality of our website and services.We hope you continue to make use of Game8.
+
+Close
+
+[For other opinions or comments, go here.](https://game8.co/contacts)
+
+## Rankings
+
+- 1 [Incineroar Movesets and Best Builds](https://game8.co/games/Pokemon-Champions/archives/592493)
+- 2 [Doubles Tier List for Ranked Bat...](https://game8.co/games/Pokemon-Champions/archives/593883)
+- 3 [Movesets and Best Builds](https://game8.co/games/Pokemon-Champions/archives/592129)
+- 4 [Skeledirge Movesets and Best Builds](https://game8.co/games/Pokemon-Champions/archives/595509)
+- 5 [Primarina Movesets and Best Builds](https://game8.co/games/Pokemon-Champions/archives/594011)
+- [See more](https://game8.co/games/Pokemon-Champions/ranking)
+
+- 1 [Team Sharing Board](https://game8.co/games/Pokemon-Champions/archives/591902)
+- 2 [Tier List Maker](https://game8.co/games/Pokemon-Champions/archives/594356)
+
+## Gaming News
+
+[Mongil: Star Dive Review](https://game8.co/articles/reviews/10481)
+
+- [Neverness to Everness Launch Giveaways, Free Pulls, and E...](https://game8.co/articles/latest/neverness-to-everness-launch-giveaways-free-pulls-and-events-in-detail)
+- [Neverness to Everness (NTE) Review](https://game8.co/articles/reviews/neverness-to-everness-review)
+- [Heroes of Might and Magic: Olden Era Review [Early Access]](https://game8.co/articles/reviews/heroes-of-might-and-magic-olden-era-review-early-access)
+- [More Gaming News](https://game8.co/articles)
+
+## Popular Games
+
+- [Neverness to Everness (NTE) Walkthrough & Guides Wiki](https://game8.co/games/Neverness-to-Everness)
+- [Genshin Impact Walkthrough & Guides Wiki](https://game8.co/games/Genshin-Impact)
+- [Honkai: Star Rail Walkthrough & Guides Wiki](https://game8.co/games/Honkai-Star-Rail)
+- [Wuthering Waves Walkthrough & Guides Wiki](https://game8.co/games/Wuthering-Waves)
+- [Pokemon TCG Pocket (PTCGP) Strategies & Guides Wiki](https://game8.co/games/Pokemon-TCG-Pocket)
+- [Umamusume: Pretty Derby Walkthrough & Guides Wiki](https://game8.co/games/Umamusume-Pretty-Derby)
+- [Diablo 4: Lord of Hatred Walkthrough & Guides Wiki](https://game8.co/games/Diablo-4)
+- [Crimson Desert Walkthrough & Guides Wiki](https://game8.co/games/Crimson-Desert)
+- [Zenless Zone Zero Walkthrough & Guides Wiki](https://game8.co/games/Zenless-Zone-Zero)
+- [Tomodachi Life: Living the Dream Walkthrough & Guides Wiki](https://game8.co/games/Tomodachi-Life-Living-the-Dream)
+
+## Recommended Games
+
+- [Diablo 4: Lord of Hatred Walkthrough & Guides Wiki](https://game8.co/games/Diablo-4)
+- [Fire Emblem Heroes (FEH) Walkthrough & Guides Wiki](https://game8.co/games/fire-emblem-heroes)
+- [Super Smash Bros. Ultimate Walkthrough & Guides Wiki](https://game8.co/games/Super-Smash-Bros-Ultimate)
+- [Pokemon Brilliant Diamond and Shining Pearl (BDSP) Walkthrough & Guides Wiki](https://game8.co/games/Pokemon-Brilliant-Diamond-Shining-Pearl)
+- [Persona 3 Reload Walkthrough & Guides Wiki](https://game8.co/games/Persona-3-Reload)
+- [Elden Ring Shadow of the Erdtree Walkthrough & Guides Wiki](https://game8.co/games/Elden-Ring)
+- [Cyberpunk 2077: Ultimate Edition Walkthrough & Guides Wiki](https://game8.co/games/Cyberpunk-2077)
+- [The Legend of Zelda: Tears of the Kingdom Walkthrough & Guides Wiki](https://game8.co/games/Zelda-Tears-of-the-Kingdom)
+- [Monster Hunter World Walkthrough & Guides Wiki](https://game8.co/games/Monster-Hunter-World)
+- [Yu-Gi-Oh! Master Duel Walkthrough & Guides Wiki](https://game8.co/games/Yu-Gi-Oh-Master-Duel)
+
+## All rights reserved
+
+©2025 Pokémon. ©1995–2025 Nintendo / Creatures Inc. / GAME FREAK inc. TM, ®, and character names are trademarks of Nintendo.The copyrights of videos of games used in our content and other intellectual property rights belong to the provider of the game.The contents we provide on this site were created personally by members of the Game8 editorial department.We refuse the right to reuse or repost content taken without our permission such as data or images to other sites.
+
+[Pokemon Champions Walkthrough & Guides Wiki](https://game8.co/games/Pokemon-Champions) Bookmark(161)
+
+Popular Articles
+
+Popular Articles
+
+Quick Access
+
+Guide Index
+
+### Recommended Guides
+
+- [Ranked Battles](https://game8.co/games/Pokemon-Champions/archives/588870)
+- [How to Transfer Pokemon With Pokemon HOME](https://game8.co/games/Pokemon-Champions/archives/591859)
+- [Best Pokemon to Recruit First](https://game8.co/games/Pokemon-Champions/archives/592056)
+- [Best Pokemon Tier List](https://game8.co/games/Pokemon-Champions/archives/592465)
+- [Doubles Tier List for Ranked Battles](https://game8.co/games/Pokemon-Champions/archives/593883)
+- [Best Mega Pokemon Tier List](https://game8.co/games/Pokemon-Champions/archives/593897)
+- [Reroll Guide: Best Pokemon to Reroll](https://game8.co/games/Pokemon-Champions/archives/592486)
+- [List of Changes from Previous Games](https://game8.co/games/Pokemon-Champions/archives/593893)
+- [Best Items Tier List](https://game8.co/games/Pokemon-Champions/archives/593922)
+- [List of All Mega Stones](https://game8.co/games/Pokemon-Champions/archives/588885)
+- [List of All Achievements](https://game8.co/games/Pokemon-Champions/archives/595881)
+- [List of Pokemon Titles](https://game8.co/games/Pokemon-Champions/archives/594313)
+- [Best Pokemon to Recruit](https://game8.co/games/Pokemon-Champions/archives/594176)
+- [Usage Stats and Battle Data (Top 20)](https://game8.co/games/Pokemon-Champions/archives/595375)
+
+### All Pokemon
+
+- [List of Available Pokemon](https://game8.co/games/Pokemon-Champions/archives/501889)
+
+#### By Type
+
+#### By Generation
+
+#### Other Pokemon Guides
+
+- [List of Pokemon by Base Stats](https://game8.co/games/Pokemon-Champions/archives/593888)
+- [List of Pokemon by Speed Stat](https://game8.co/games/Pokemon-Champions/archives/594190)
+
+### Movesets and Best Builds
+
+### Teams
+
+- [Best Teams for Ranked Battle](https://game8.co/games/Pokemon-Champions/archives/593949)
+- [All Replica Team Codes (Master Ball Rank)](https://game8.co/games/Pokemon-Champions/archives/594181)
+- [Best Rain Team](https://game8.co/games/Pokemon-Champions/archives/594143)
+- [Best Sun Team](https://game8.co/games/Pokemon-Champions/archives/594157)
+- [Best Sand Team](https://game8.co/games/Pokemon-Champions/archives/594353)
+- [Best Snow Team](https://game8.co/games/Pokemon-Champions/archives/594354)
+- [Best Doubles Hyper Offense Team](https://game8.co/games/Pokemon-Champions/archives/594747)
+- [Best Doubles Balance Team](https://game8.co/games/Pokemon-Champions/archives/595940)
+- [Best Doubles Perish Trap Team](https://game8.co/games/Pokemon-Champions/archives/596198)
+- [Best Trick Room Teams](https://game8.co/games/Pokemon-Champions/archives/594400)
+- [Best Singles Stall Teams](https://game8.co/games/Pokemon-Champions/archives/595456)
+- [Best Singles Hyper Offense Teams](https://game8.co/games/Pokemon-Champions/archives/596263)
+- [Best Singles Balance Teams](https://game8.co/games/Pokemon-Champions/archives/596629)
+
+### Tips and Tricks
+
+- [Beginner's Guide to Pokemon Champions](https://game8.co/games/Pokemon-Champions/archives/588876)
+- [Pokemon Home Connectivity and Features](https://game8.co/games/Pokemon-Champions/archives/501825)
+- [Confirmed Battle Mechanics](https://game8.co/games/Pokemon-Champions/archives/501898)
+- [How to Train Pokemon](https://game8.co/games/Pokemon-Champions/archives/538682)
+- [What Are Stat Points?](https://game8.co/games/Pokemon-Champions/archives/538683)
+- [Stat Alignment Explained](https://game8.co/games/Pokemon-Champions/archives/538687)
+- [What are Victory Points](https://game8.co/games/Pokemon-Champions/archives/538688)
+- [Available Battle Modes](https://game8.co/games/Pokemon-Champions/archives/589237)
+- [Battle Formats Guide](https://game8.co/games/Pokemon-Champions/archives/588873)
+- [Pokemon Recruitment Guide](https://game8.co/games/Pokemon-Champions/archives/589339)
+- [How to Obtain Pokemon](https://game8.co/games/Pokemon-Champions/archives/589274)
+- [How to Prepare for Pokemon Champions](https://game8.co/games/Pokemon-Champions/archives/590873)
+- [Priority Brackets Explained](https://game8.co/games/Pokemon-Champions/archives/591716)
+- [Pokemon Type Chart](https://game8.co/games/Pokemon-Champions/archives/591745)
+- [Should You Buy the Starter Pack?](https://game8.co/games/Pokemon-Champions/archives/592044)
+- [How to Set Nicknames](https://game8.co/games/Pokemon-Champions/archives/592080)
+- [What Are Base Stats?](https://game8.co/games/Pokemon-Champions/archives/592485)
+- [How to Equip Mega Stones](https://game8.co/games/Pokemon-Champions/archives/592489)
+- [How to Change Your Name and Gender](https://game8.co/games/Pokemon-Champions/archives/593717)
+- [Are There IVs?](https://game8.co/games/Pokemon-Champions/archives/593716)
+- [How to Get and Use Training Tickets](https://game8.co/games/Pokemon-Champions/archives/593815)
+- [How to Get and Use Teammate Tickets](https://game8.co/games/Pokemon-Champions/archives/593894)
+- [How to Use Quick Coupons](https://game8.co/games/Pokemon-Champions/archives/593812)
+- [Should You Buy the Premium Battle Pass?](https://game8.co/games/Pokemon-Champions/archives/593892)
+- [Should You Buy the Annual Membership?](https://game8.co/games/Pokemon-Champions/archives/593900)
+- [Best Items to Buy from the Shop](https://game8.co/games/Pokemon-Champions/archives/593891)
+- [What is Extremely Effective and Mostly Ineffective?](https://game8.co/games/Pokemon-Champions/archives/593903)
+- [All Daily Tasks and Activities](https://game8.co/games/Pokemon-Champions/archives/593904)
+- [How to Increase Box Size](https://game8.co/games/Pokemon-Champions/archives/593902)
+- [How to Change Moves](https://game8.co/games/Pokemon-Champions/archives/593920)
+- [Can You Play Offline?](https://game8.co/games/Pokemon-Champions/archives/593947)
+- [Are There Eggs and Egg Moves?](https://game8.co/games/Pokemon-Champions/archives/593977)
+- [How to Battle with Friends](https://game8.co/games/Pokemon-Champions/archives/594001)
+- [How to Release Pokemon From Your Box](https://game8.co/games/Pokemon-Champions/archives/594057)
+- [What to Do First](https://game8.co/games/Pokemon-Champions/archives/594061)
+- [When to Switch in Battle?](https://game8.co/games/Pokemon-Champions/archives/594028)
+- [All Weather Conditions Explained](https://game8.co/games/Pokemon-Champions/archives/594098)
+- [Is Pokemon Champions Pay to Win?](https://game8.co/games/Pokemon-Champions/archives/594133)
+- [Tips For Pokemon Selection](https://game8.co/games/Pokemon-Champions/archives/594128)
+- [How to Increase Critical Hit Chance](https://game8.co/games/Pokemon-Champions/archives/594137)
+- [All Status Conditions and Effects Explained](https://game8.co/games/Pokemon-Champions/archives/594084)
+- [What is STAB?](https://game8.co/games/Pokemon-Champions/archives/games/Pokemon-Champions/archives/594138)
+- [Can You Change Pokemon Forms?](https://game8.co/games/Pokemon-Champions/archives/594151)
+- [All Terrains and Their Effects](https://game8.co/games/Pokemon-Champions/archives/594155)
+- [How to Get Pokemon in Unique Poke Balls](https://game8.co/games/Pokemon-Champions/archives/594165)
+- [How to Change Settings](https://game8.co/games/Pokemon-Champions/archives/594156)
+- [How to Block Players](https://game8.co/games/Pokemon-Champions/archives/594336)
+- [Glossary of Battle Terms and Explanation](https://game8.co/games/Pokemon-Champions/archives/594160)
+- [How to Use Affinity Tickets](https://game8.co/games/Pokemon-Champions/archives/595768)
+- [How to Get to Champion Tier](https://game8.co/games/Pokemon-Champions/archives/595948)
+- [How to Display Trainer Titles](https://game8.co/games/Pokemon-Champions/archives/594029)
+- [How to Build Battle Teams](https://game8.co/games/Pokemon-Champions/archives/595507)
+- [How to Understand the Meta](https://game8.co/games/Pokemon-Champions/archives/596154)
+- [All Battle Timers and Time Limits](https://game8.co/games/Pokemon-Champions/archives/games/Pokemon-Champions/archives/596247)
+- [Should You Use Auto Team Build?](https://game8.co/games/Pokemon-Champions/archives/594164)
+
+### Moves
+
+- [List of All Moves](https://game8.co/games/Pokemon-Champions/archives/590397)
+
+#### By Category
+
+#### By Type
+
+#### By Characteristic
+
+### Abilities
+
+#### Ability Guides
+
+- [New Abilities](https://game8.co/games/Pokemon-Champions/archives/589171)
+- [All Legends Z-A Mega Evolution Abilities](https://game8.co/games/Pokemon-Champions/archives/593733)
+
+### Items
+
+### Character Customization
+
+### Mega Evolutions
+
+- [List of All Mega Evolutions](https://game8.co/games/Pokemon-Champions/archives/592472)
+
+### Mystery Gifts
+
+- [List of Mystery Gifts](https://game8.co/games/Pokemon-Champions/archives/592095)
+- [Machamp Mystery Gift Code](https://game8.co/games/Pokemon-Champions/archives/592096)
+
+### Events
+
+- [List of Events and Online Competitions](https://game8.co/games/Pokemon-Champions/archives/596103)
+- [Mega Stones Collaboration Event](https://game8.co/games/Pokemon-Champions/archives/583609)
+- [Dragonite Early Download Bonus](https://game8.co/games/Pokemon-Champions/archives/583611)
+- [Warm-Up Challenge Event](https://game8.co/games/Pokemon-Champions/archives/592167)
+- [2026 Global Challenge](https://game8.co/games/Pokemon-Champions/archives/596171)
+
+### Latest News
+
+- [Latest News](https://game8.co/games/Pokemon-Champions/archives/588872)
+- [Pokemon Champions Release Date](https://game8.co/games/Pokemon-Champions/archives/583595)
+- [Pokemon World Championships 2026](https://game8.co/games/Pokemon-Champions/archives/544574)
+- [Coming to Switch and Mobile](https://game8.co/games/Pokemon-Champions/archives/501848)
+- [Shiny Pokemon Confirmed](https://game8.co/games/Pokemon-Champions/archives/583603)
+- [Season 1 Battle Pass Rewards](https://game8.co/games/Pokemon-Champions/archives/589174)
+- [List of In-Game Purchases](https://game8.co/games/Pokemon-Champions/archives/589314)
+- [Do You Need Nintendo Switch Online?](https://game8.co/games/Pokemon-Champions/archives/592054)
+- [Can You Play Pokemon Champions on PC?](https://game8.co/games/Pokemon-Champions/archives/592177)
+- [Pokemon Champions Mobile Release Date](https://game8.co/games/Pokemon-Champions/archives/592380)
+- [Can You Trade Pokemon?](https://game8.co/games/Pokemon-Champions/archives/592379)
+- [Is Pokemon Champions Free to Play?](https://game8.co/games/Pokemon-Champions/archives/592094)
+- [When Will Maintenance End?](https://game8.co/games/Pokemon-Champions/archives/593739)
+- [All Known Bugs and Fixes](https://game8.co/games/Pokemon-Champions/archives/593898)
+- [Switch 1 and Switch 2 Version Differences](https://game8.co/games/Pokemon-Champions/archives/594294)
+- [Version 1.0.3 Update and Patch Notes](https://game8.co/games/Pokemon-Champions/archives/596301)
+- [List of All Special Roster Recruits](https://game8.co/games/Pokemon-Champions/archives/596759)
+
+### Other Pokemon Wikis
+
+### Japanese Wiki (日本語版)

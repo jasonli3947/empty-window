@@ -1,0 +1,1690 @@
+Pokemon Champions Moves - All Battle Moves
+
+Stats Pokémon Champions
+
+[Tired of searching for everything while playing ARC Raiders? From items to event timers and the marketplace — find it all on OP.GG.](https://op.gg/arc-raiders/marketplace)
+
+Stats
+
+---
+
+Contact Us [Help Center](https://help.op.gg/hc/en-us)
+
+EN
+
+Sign in
+
+# Moves
+
+Explore all moves in Pokemon Champions. Find move details including type, power, accuracy, and effects.
+
+AllPhysicalSpecialStatus
+
+Bug Dark Dragon Electric Fairy Fighting Fire Flying Ghost Grass Ground Ice Normal Poison Psychic Rock Steel Water
+
+Table View
+
+332 Moves
+
+### Accelerock
+
+[RockPhysicalPower: 40Acc: 100%PP: 20The user smashes into the target at high speed. This move always goes first.](https://op.gg/pokemon-champions/moves/accelerock)
+
+### Acid Armor
+
+[PoisonStatusPower: —Acc: —PP: 20The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.](https://op.gg/pokemon-champions/moves/acid-armor)
+
+### Acid Spray
+
+[PoisonSpecialPower: 40Acc: 100%PP: 20The user spits fluid that works to melt the target. This harshly lowers the target’s Sp. Def stat.](https://op.gg/pokemon-champions/moves/acid-spray)
+
+### Acrobatics
+
+[FlyingPhysicalPower: 55Acc: 100%PP: 16The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.](https://op.gg/pokemon-champions/moves/acrobatics)
+
+### Aerial Ace
+
+[FlyingPhysicalPower: 60Acc: —PP: 20The user confounds the target with speed, then slashes. This attack never misses.](https://op.gg/pokemon-champions/moves/aerial-ace)
+
+### Agility
+
+[PsychicStatusPower: —Acc: —PP: 20The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.](https://op.gg/pokemon-champions/moves/agility)
+
+### Air Cutter
+
+[FlyingSpecialPower: 60Acc: 95%PP: 20The user launches razor-like wind to slash opposing Pokémon. Critical hits land more easily.](https://op.gg/pokemon-champions/moves/air-cutter)
+
+### Air Slash
+
+[FlyingSpecialPower: 75Acc: 95%PP: 16The user attacks with a blade of air that slices even the sky. This may also make the target flinch.](https://op.gg/pokemon-champions/moves/air-slash)
+
+### Amnesia
+
+[PsychicStatusPower: —Acc: —PP: 20The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.](https://op.gg/pokemon-champions/moves/amnesia)
+
+### Ancient Power
+
+[RockSpecialPower: 60Acc: 100%PP: 8The user attacks with a prehistoric power. This may also raise all the user’s stats at once.](https://op.gg/pokemon-champions/moves/ancient-power)
+
+### Aqua Jet
+
+[WaterPhysicalPower: 40Acc: 100%PP: 20The user lunges at the target at a speed that makes it almost invisible. This move always goes first.](https://op.gg/pokemon-champions/moves/aqua-jet)
+
+### Aqua Ring
+
+[WaterStatusPower: —Acc: —PP: 20The user envelops itself in a veil made of water. It regains some HP every turn.](https://op.gg/pokemon-champions/moves/aqua-ring)
+
+### Aqua Tail
+
+[WaterPhysicalPower: 90Acc: 90%PP: 12The user attacks by swinging its tail as if it were a vicious wave in a raging storm.](https://op.gg/pokemon-champions/moves/aqua-tail)
+
+### Aura Sphere
+
+[FightingSpecialPower: 80Acc: —PP: 20The user lets loose a blast of aura power from deep within its body at the target. This attack never misses.](https://op.gg/pokemon-champions/moves/aura-sphere)
+
+### Aurora Beam
+
+[IceSpecialPower: 65Acc: 100%PP: 20The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.](https://op.gg/pokemon-champions/moves/aurora-beam)
+
+### Aurora Veil
+
+[IceStatusPower: —Acc: —PP: 20This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm.](https://op.gg/pokemon-champions/moves/aurora-veil)
+
+### Avalanche
+
+[IcePhysicalPower: 60Acc: 100%PP: 12The power of this attack move is doubled if the user has been hurt by the target in the same turn.](https://op.gg/pokemon-champions/moves/avalanche)
+
+### Baby-Doll Eyes
+
+[FairyStatusPower: —Acc: 100%PP: 20The user stares at the target with its baby-doll eyes, which lowers the target’s Attack stat. This move always goes first.](https://op.gg/pokemon-champions/moves/baby-doll-eyes)
+
+### Bite
+
+[DarkPhysicalPower: 60Acc: 100%PP: 20The target is bitten with viciously sharp fangs. This may also make the target flinch.](https://op.gg/pokemon-champions/moves/bite)
+
+### Blaze Kick
+
+[FirePhysicalPower: 85Acc: 90%PP: 12The user launches a kick that lands a critical hit more easily. This may also leave the target with a burn.](https://op.gg/pokemon-champions/moves/blaze-kick)
+
+### Blizzard
+
+[IceSpecialPower: 110Acc: 70%PP: 8A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.](https://op.gg/pokemon-champions/moves/blizzard)
+
+### Body Press
+
+[FightingPhysicalPower: 80Acc: 100%PP: 12The user attacks by slamming its body into the target. The higher the user’s Defense, the more damage it can inflict on the target.](https://op.gg/pokemon-champions/moves/body-press)
+
+### Body Slam
+
+[NormalPhysicalPower: 85Acc: 100%PP: 16The user drops onto the target with its full body weight. This may also leave the target with paralysis.](https://op.gg/pokemon-champions/moves/body-slam)
+
+### Brave Bird
+
+[FlyingPhysicalPower: 120Acc: 100%PP: 16The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot.](https://op.gg/pokemon-champions/moves/brave-bird)
+
+### Brick Break
+
+[FightingPhysicalPower: 75Acc: 100%PP: 16The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect.](https://op.gg/pokemon-champions/moves/brick-break)
+
+### Brine
+
+[WaterSpecialPower: 65Acc: 100%PP: 12If the target’s HP is half or less, this attack will hit with double the power.](https://op.gg/pokemon-champions/moves/brine)
+
+### Brutal Swing
+
+[DarkPhysicalPower: 60Acc: 100%PP: 20The user swings its body around violently to inflict damage on everything in its vicinity.](https://op.gg/pokemon-champions/moves/brutal-swing)
+
+### Bubble Beam
+
+[WaterSpecialPower: 65Acc: 100%PP: 20A spray of bubbles is forcefully ejected at the target. This may also lower the target’s Speed stat.](https://op.gg/pokemon-champions/moves/bubble-beam)
+
+### Bug Bite
+
+[BugPhysicalPower: 60Acc: 100%PP: 20The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.](https://op.gg/pokemon-champions/moves/bug-bite)
+
+### Bug Buzz
+
+[BugSpecialPower: 90Acc: 100%PP: 12The user generates a damaging sound wave by vibration. This may also lower the target’s Sp. Def stat.](https://op.gg/pokemon-champions/moves/bug-buzz)
+
+### Bulk Up
+
+[FightingStatusPower: —Acc: —PP: 20The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats.](https://op.gg/pokemon-champions/moves/bulk-up)
+
+### Bulldoze
+
+[GroundPhysicalPower: 60Acc: 100%PP: 20The user strikes everything around it by stomping down on the ground. This lowers the Speed stats of those hit.](https://op.gg/pokemon-champions/moves/bulldoze)
+
+### Bullet Punch
+
+[SteelPhysicalPower: 40Acc: 100%PP: 20The user strikes the target with tough punches as fast as bullets. This move always goes first.](https://op.gg/pokemon-champions/moves/bullet-punch)
+
+### Bullet Seed
+
+[GrassPhysicalPower: 25Acc: 100%PP: 20The user forcefully shoots seeds at the target two to five times in a row.](https://op.gg/pokemon-champions/moves/bullet-seed)
+
+### Calm Mind
+
+[PsychicStatusPower: —Acc: —PP: 20The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.](https://op.gg/pokemon-champions/moves/calm-mind)
+
+### Charge
+
+[ElectricStatusPower: —Acc: —PP: 20The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.](https://op.gg/pokemon-champions/moves/charge)
+
+### Charge Beam
+
+[ElectricSpecialPower: 50Acc: 90%PP: 12The user attacks the target with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.](https://op.gg/pokemon-champions/moves/charge-beam)
+
+### Charm
+
+[FairyStatusPower: —Acc: 100%PP: 20The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target’s Attack stat.](https://op.gg/pokemon-champions/moves/charm)
+
+### Close Combat
+
+[FightingPhysicalPower: 120Acc: 100%PP: 8The user fights the target up close without guarding itself. This also lowers the user’s Defense and Sp. Def stats.](https://op.gg/pokemon-champions/moves/close-combat)
+
+### Coil
+
+[PoisonStatusPower: —Acc: —PP: 20The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.](https://op.gg/pokemon-champions/moves/coil)
+
+### Confuse Ray
+
+[GhostStatusPower: —Acc: 100%PP: 12The target is exposed to a sinister ray that triggers confusion.](https://op.gg/pokemon-champions/moves/confuse-ray)
+
+### Confusion
+
+[PsychicSpecialPower: 50Acc: 100%PP: 20The target is hit by a weak telekinetic force. This may also confuse the target.](https://op.gg/pokemon-champions/moves/confusion)
+
+### Cotton Guard
+
+[GrassStatusPower: —Acc: —PP: 12The user protects itself by wrapping its body in soft cotton, which drastically raises the user’s Defense stat.](https://op.gg/pokemon-champions/moves/cotton-guard)
+
+### Crabhammer
+
+[WaterPhysicalPower: 100Acc: 90%PP: 12The target is hammered with a large pincer. Critical hits land more easily.](https://op.gg/pokemon-champions/moves/crabhammer)
+
+### Cross Chop
+
+[FightingPhysicalPower: 100Acc: 80%PP: 8The user delivers a double chop with its forearms crossed. Critical hits land more easily.](https://op.gg/pokemon-champions/moves/cross-chop)
+
+### Cross Poison
+
+[PoisonPhysicalPower: 70Acc: 100%PP: 20A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.](https://op.gg/pokemon-champions/moves/cross-poison)
+
+### Crunch
+
+[DarkPhysicalPower: 80Acc: 100%PP: 16The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.](https://op.gg/pokemon-champions/moves/crunch)
+
+### Curse
+
+[GhostStatusPower: —Acc: —PP: 12A move that works differently for the Ghost type than for all other types.](https://op.gg/pokemon-champions/moves/curse)
+
+### Dark Pulse
+
+[DarkSpecialPower: 80Acc: 100%PP: 16The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.](https://op.gg/pokemon-champions/moves/dark-pulse)
+
+### Dazzling Gleam
+
+[FairySpecialPower: 80Acc: 100%PP: 12The user damages opposing Pokémon by emitting a powerful flash.](https://op.gg/pokemon-champions/moves/dazzling-gleam)
+
+### Disable
+
+[NormalStatusPower: —Acc: 100%PP: 20For four turns, this move prevents the target from using the move it last used.](https://op.gg/pokemon-champions/moves/disable)
+
+### Discharge
+
+[ElectricSpecialPower: 80Acc: 100%PP: 16The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.](https://op.gg/pokemon-champions/moves/discharge)
+
+### Double Hit
+
+[NormalPhysicalPower: 35Acc: 90%PP: 12The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row.](https://op.gg/pokemon-champions/moves/double-hit)
+
+### Double Kick
+
+[FightingPhysicalPower: 30Acc: 100%PP: 20The target is quickly kicked twice in succession using both feet.](https://op.gg/pokemon-champions/moves/double-kick)
+
+### Double Team
+
+[NormalStatusPower: —Acc: —PP: 16By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.](https://op.gg/pokemon-champions/moves/double-team)
+
+### Draco Meteor
+
+[DragonSpecialPower: 130Acc: 90%PP: 8Comets are summoned down from the sky onto the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.](https://op.gg/pokemon-champions/moves/draco-meteor)
+
+### Dragon Breath
+
+[DragonSpecialPower: 60Acc: 100%PP: 20The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.](https://op.gg/pokemon-champions/moves/dragon-breath)
+
+### Dragon Claw
+
+[DragonPhysicalPower: 80Acc: 100%PP: 16The user slashes the target with huge sharp claws.](https://op.gg/pokemon-champions/moves/dragon-claw)
+
+### Dragon Dance
+
+[DragonStatusPower: —Acc: —PP: 20The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.](https://op.gg/pokemon-champions/moves/dragon-dance)
+
+### Dragon Pulse
+
+[DragonSpecialPower: 85Acc: 100%PP: 12The target is attacked with a shock wave generated by the user’s gaping mouth.](https://op.gg/pokemon-champions/moves/dragon-pulse)
+
+### Dragon Rush
+
+[DragonPhysicalPower: 100Acc: 75%PP: 12The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.](https://op.gg/pokemon-champions/moves/dragon-rush)
+
+### Dragon Tail
+
+[DragonPhysicalPower: 60Acc: 90%PP: 12The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.](https://op.gg/pokemon-champions/moves/dragon-tail)
+
+### Drain Punch
+
+[FightingPhysicalPower: 75Acc: 100%PP: 12An energy-draining punch. The user’s HP is restored by half the damage taken by the target.](https://op.gg/pokemon-champions/moves/drain-punch)
+
+### Draining Kiss
+
+[FairySpecialPower: 50Acc: 100%PP: 12The user steals the target’s HP with a kiss. The user’s HP is restored by over half of the damage taken by the target.](https://op.gg/pokemon-champions/moves/draining-kiss)
+
+### Dream Eater
+
+[PsychicSpecialPower: 100Acc: 100%PP: 16The user eats the dreams of a sleeping target. The user’s HP is restored by half the damage taken by the target.](https://op.gg/pokemon-champions/moves/dream-eater)
+
+### Drill Peck
+
+[FlyingPhysicalPower: 80Acc: 100%PP: 20A corkscrewing attack that strikes the target with a sharp beak acting as a drill.](https://op.gg/pokemon-champions/moves/drill-peck)
+
+### Drill Run
+
+[GroundPhysicalPower: 80Acc: 95%PP: 12The user crashes into its target while rotating its body like a drill. Critical hits land more easily.](https://op.gg/pokemon-champions/moves/drill-run)
+
+### Dual Wingbeat
+
+[FlyingPhysicalPower: 40Acc: 90%PP: 12The user slams the target with its wings. The target is hit twice in a row.](https://op.gg/pokemon-champions/moves/dual-wingbeat)
+
+### Earth Power
+
+[GroundSpecialPower: 90Acc: 100%PP: 12The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def stat.](https://op.gg/pokemon-champions/moves/earth-power)
+
+### Earthquake
+
+[GroundPhysicalPower: 100Acc: 100%PP: 12The user sets off an earthquake that strikes every Pokémon around it.](https://op.gg/pokemon-champions/moves/earthquake)
+
+### Electro Ball
+
+[ElectricSpecialPower: —Acc: 100%PP: 12The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.](https://op.gg/pokemon-champions/moves/electro-ball)
+
+### Ember
+
+[FireSpecialPower: 40Acc: 100%PP: 20The target is attacked with small flames. This may also leave the target with a burn.](https://op.gg/pokemon-champions/moves/ember)
+
+### Encore
+
+[NormalStatusPower: —Acc: 100%PP: 8The user compels the target to keep using the move it encored for three turns.](https://op.gg/pokemon-champions/moves/encore)
+
+### Energy Ball
+
+[GrassSpecialPower: 90Acc: 100%PP: 12The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def stat.](https://op.gg/pokemon-champions/moves/energy-ball)
+
+### Extrasensory
+
+[PsychicSpecialPower: 80Acc: 100%PP: 20The user attacks with an odd, unseeable power. This may also make the target flinch.](https://op.gg/pokemon-champions/moves/extrasensory)
+
+### Extreme Speed
+
+[NormalPhysicalPower: 80Acc: 100%PP: 8The user charges the target at blinding speed. This move always goes first.](https://op.gg/pokemon-champions/moves/extreme-speed)
+
+### Facade
+
+[NormalPhysicalPower: 70Acc: 100%PP: 20This attack move doubles its power if the user is poisoned, burned, or paralyzed.](https://op.gg/pokemon-champions/moves/facade)
+
+### Fake Out
+
+[NormalPhysicalPower: 40Acc: 100%PP: 12This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle.](https://op.gg/pokemon-champions/moves/fake-out)
+
+### Fake Tears
+
+[DarkStatusPower: —Acc: 100%PP: 20The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.](https://op.gg/pokemon-champions/moves/fake-tears)
+
+### Feather Dance
+
+[FlyingStatusPower: —Acc: 100%PP: 16The user covers the target’s body with a mass of down that harshly lowers its Attack stat.](https://op.gg/pokemon-champions/moves/feather-dance)
+
+### Fire Blast
+
+[FireSpecialPower: 110Acc: 85%PP: 8The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.](https://op.gg/pokemon-champions/moves/fire-blast)
+
+### Fire Fang
+
+[FirePhysicalPower: 65Acc: 95%PP: 16The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.](https://op.gg/pokemon-champions/moves/fire-fang)
+
+### Fire Punch
+
+[FirePhysicalPower: 75Acc: 100%PP: 16The target is punched with a fiery fist. This may also leave the target with a burn.](https://op.gg/pokemon-champions/moves/fire-punch)
+
+### Fire Spin
+
+[FireSpecialPower: 35Acc: 85%PP: 16The target becomes trapped within a fierce vortex of fire that rages for four to five turns.](https://op.gg/pokemon-champions/moves/fire-spin)
+
+### Flame Charge
+
+[FirePhysicalPower: 50Acc: 100%PP: 20Cloaking itself in flame, the user attacks the target. Then, building up more power, the user raises its Speed stat.](https://op.gg/pokemon-champions/moves/flame-charge)
+
+### Flame Wheel
+
+[FirePhysicalPower: 60Acc: 100%PP: 20The user cloaks itself in fire and charges at the target. This may also leave the target with a burn.](https://op.gg/pokemon-champions/moves/flame-wheel)
+
+### Flamethrower
+
+[FireSpecialPower: 90Acc: 100%PP: 16The target is scorched with an intense blast of fire. This may also leave the target with a burn.](https://op.gg/pokemon-champions/moves/flamethrower)
+
+### Flare Blitz
+
+[FirePhysicalPower: 120Acc: 100%PP: 16The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This attack may leave the target with a burn.](https://op.gg/pokemon-champions/moves/flare-blitz)
+
+### Flash Cannon
+
+[SteelSpecialPower: 80Acc: 100%PP: 12The user gathers all its light energy and releases it all at once. This may also lower the target’s Sp. Def stat.](https://op.gg/pokemon-champions/moves/flash-cannon)
+
+### Flip Turn
+
+[WaterPhysicalPower: 60Acc: 100%PP: 20After making its attack, the user rushes back to switch places with a party Pokémon in waiting.](https://op.gg/pokemon-champions/moves/flip-turn)
+
+### Fly
+
+[FlyingPhysicalPower: 90Acc: 95%PP: 16The user flies up into the sky and then strikes its target on the next turn.](https://op.gg/pokemon-champions/moves/fly)
+
+### Focus Blast
+
+[FightingSpecialPower: 120Acc: 70%PP: 8The user heightens its mental focus and unleashes its power. This may also lower the target’s Sp. Def stat.](https://op.gg/pokemon-champions/moves/focus-blast)
+
+### Focus Energy
+
+[NormalStatusPower: —Acc: —PP: 20The user takes a deep breath and focuses so that critical hits land more easily.](https://op.gg/pokemon-champions/moves/focus-energy)
+
+### Follow Me
+
+[NormalStatusPower: —Acc: —PP: 20The user draws attention to itself, making all targets take aim only at the user.](https://op.gg/pokemon-champions/moves/follow-me)
+
+### Foul Play
+
+[DarkPhysicalPower: 95Acc: 100%PP: 16The user turns the target’s power against it. The higher the target’s Attack stat, the greater the damage it deals.](https://op.gg/pokemon-champions/moves/foul-play)
+
+### Freeze-Dry
+
+[IceSpecialPower: 70Acc: 100%PP: 20The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.](https://op.gg/pokemon-champions/moves/freeze-dry)
+
+### Fury Attack
+
+[NormalPhysicalPower: 15Acc: 85%PP: 20The target is jabbed repeatedly with a horn or beak two to five times in a row.](https://op.gg/pokemon-champions/moves/fury-attack)
+
+### Fury Cutter
+
+[BugPhysicalPower: 40Acc: 95%PP: 20The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.](https://op.gg/pokemon-champions/moves/fury-cutter)
+
+### Future Sight
+
+[PsychicSpecialPower: 120Acc: 100%PP: 12Two turns after this move is used, a hunk of psychic energy attacks the target.](https://op.gg/pokemon-champions/moves/future-sight)
+
+### Giga Drain
+
+[GrassSpecialPower: 75Acc: 100%PP: 12A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.](https://op.gg/pokemon-champions/moves/giga-drain)
+
+### Giga Impact
+
+[NormalPhysicalPower: 150Acc: 90%PP: 8The user charges at the target using every bit of its power. The user can’t move on the next turn.](https://op.gg/pokemon-champions/moves/giga-impact)
+
+### Grass Knot
+
+[GrassSpecialPower: —Acc: 100%PP: 20The user snares the target with grass and trips it. The heavier the target, the greater the move’s power.](https://op.gg/pokemon-champions/moves/grass-knot)
+
+### Grassy Glide
+
+[GrassPhysicalPower: 55Acc: 100%PP: 20Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain.](https://op.gg/pokemon-champions/moves/grassy-glide)
+
+### Grav Apple
+
+[GrassPhysicalPower: 80Acc: 100%PP: 12The user inflicts damage by dropping an apple from high above. This also lowers the target’s Defense stat.](https://op.gg/pokemon-champions/moves/grav-apple)
+
+### Growl
+
+[NormalStatusPower: —Acc: 100%PP: 20The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.](https://op.gg/pokemon-champions/moves/growl)
+
+### Growth
+
+[NormalStatusPower: —Acc: —PP: 20The user’s body grows all at once, raising the Attack and Sp. Atk stats.](https://op.gg/pokemon-champions/moves/growth)
+
+### Gunk Shot
+
+[PoisonPhysicalPower: 120Acc: 80%PP: 8The user shoots filthy garbage at the target to attack. This may also poison the target.](https://op.gg/pokemon-champions/moves/gunk-shot)
+
+### Gust
+
+[FlyingSpecialPower: 40Acc: 100%PP: 20A gust of wind is whipped up by wings and launched at the target to inflict damage.](https://op.gg/pokemon-champions/moves/gust)
+
+### Gyro Ball
+
+[SteelPhysicalPower: —Acc: 100%PP: 8The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.](https://op.gg/pokemon-champions/moves/gyro-ball)
+
+### Hail
+
+[IceStatusPower: —Acc: —PP: 12The user summons a hailstorm lasting five turns. It damages all Pokémon except Ice types.](https://op.gg/pokemon-champions/moves/hail)
+
+### Hammer Arm
+
+[FightingPhysicalPower: 100Acc: 90%PP: 12The user swings and hits with its strong, heavy fist. It lowers the user’s Speed, however.](https://op.gg/pokemon-champions/moves/hammer-arm)
+
+### Harden
+
+[NormalStatusPower: —Acc: —PP: 20The user stiffens all the muscles in its body to raise its Defense stat.](https://op.gg/pokemon-champions/moves/harden)
+
+### Headbutt
+
+[NormalPhysicalPower: 70Acc: 100%PP: 16The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.](https://op.gg/pokemon-champions/moves/headbutt)
+
+### Heal Bell
+
+[NormalStatusPower: —Acc: —PP: 8The user makes a soothing bell chime to heal the status conditions of all the party Pokémon.](https://op.gg/pokemon-champions/moves/heal-bell)
+
+### Heal Pulse
+
+[PsychicStatusPower: —Acc: —PP: 12The user emits a healing pulse that restores the target’s HP by up to half of its max HP.](https://op.gg/pokemon-champions/moves/heal-pulse)
+
+### Heat Wave
+
+[FireSpecialPower: 95Acc: 90%PP: 12The user attacks by exhaling hot breath on opposing Pokémon. This may also leave those Pokémon with a burn.](https://op.gg/pokemon-champions/moves/heat-wave)
+
+### Heavy Slam
+
+[SteelPhysicalPower: —Acc: 100%PP: 12The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power.](https://op.gg/pokemon-champions/moves/heavy-slam)
+
+### Helping Hand
+
+[NormalStatusPower: —Acc: —PP: 20The user assists an ally by boosting the power of that ally’s attack.](https://op.gg/pokemon-champions/moves/helping-hand)
+
+### Hex
+
+[GhostSpecialPower: 65Acc: 100%PP: 12This relentless attack does massive damage to a target affected by status conditions.](https://op.gg/pokemon-champions/moves/hex)
+
+### High Horsepower
+
+[GroundPhysicalPower: 95Acc: 95%PP: 12The user fiercely attacks the target using its entire body.](https://op.gg/pokemon-champions/moves/high-horsepower)
+
+### High Jump Kick
+
+[FightingPhysicalPower: 130Acc: 90%PP: 12The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead.](https://op.gg/pokemon-champions/moves/high-jump-kick)
+
+### Horn Attack
+
+[NormalPhysicalPower: 65Acc: 100%PP: 20The target is jabbed with a sharply pointed horn to inflict damage.](https://op.gg/pokemon-champions/moves/horn-attack)
+
+### Howl
+
+[NormalStatusPower: —Acc: —PP: 20The user howls loudly to raise the spirit of itself and allies. This raises their Attack stats.](https://op.gg/pokemon-champions/moves/howl)
+
+### Hurricane
+
+[FlyingSpecialPower: 110Acc: 70%PP: 12The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.](https://op.gg/pokemon-champions/moves/hurricane)
+
+### Hydro Pump
+
+[WaterSpecialPower: 110Acc: 80%PP: 8The target is blasted by a huge volume of water launched under great pressure.](https://op.gg/pokemon-champions/moves/hydro-pump)
+
+### Hyper Beam
+
+[NormalSpecialPower: 150Acc: 90%PP: 8The target is attacked with a powerful beam. The user can’t move on the next turn.](https://op.gg/pokemon-champions/moves/hyper-beam)
+
+### Hyper Fang
+
+[NormalPhysicalPower: 80Acc: 90%PP: 16The user bites hard on the target with its sharp front fangs. This may also make the target flinch.](https://op.gg/pokemon-champions/moves/hyper-fang)
+
+### Hyper Voice
+
+[NormalSpecialPower: 90Acc: 100%PP: 12The user lets loose a horribly echoing shout with the power to inflict damage.](https://op.gg/pokemon-champions/moves/hyper-voice)
+
+### Hypnosis
+
+[PsychicStatusPower: —Acc: 60%PP: 20The user employs hypnotic suggestion to make the target fall into a deep sleep.](https://op.gg/pokemon-champions/moves/hypnosis)
+
+### Ice Beam
+
+[IceSpecialPower: 90Acc: 100%PP: 12The target is struck with an icy-cold beam of energy. This may also leave the target frozen.](https://op.gg/pokemon-champions/moves/ice-beam)
+
+### Ice Fang
+
+[IcePhysicalPower: 65Acc: 95%PP: 16The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.](https://op.gg/pokemon-champions/moves/ice-fang)
+
+### Ice Punch
+
+[IcePhysicalPower: 75Acc: 100%PP: 16The target is punched with an icy fist. This may also leave the target frozen.](https://op.gg/pokemon-champions/moves/ice-punch)
+
+### Ice Shard
+
+[IcePhysicalPower: 40Acc: 100%PP: 20The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.](https://op.gg/pokemon-champions/moves/ice-shard)
+
+### Ice Spinner
+
+[IcePhysicalPower: 80Acc: 100%PP: 16The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain.](https://op.gg/pokemon-champions/moves/ice-spinner)
+
+### Icicle Crash
+
+[IcePhysicalPower: 85Acc: 90%PP: 12The user attacks by harshly dropping large icicles onto the target. This may also make the target flinch.](https://op.gg/pokemon-champions/moves/icicle-crash)
+
+### Icicle Spear
+
+[IcePhysicalPower: 25Acc: 100%PP: 20The user launches sharp icicles at the target two to five times in a row.](https://op.gg/pokemon-champions/moves/icicle-spear)
+
+### Icy Wind
+
+[IceSpecialPower: 55Acc: 95%PP: 16The user attacks with a gust of chilled air. This also lowers opposing Pokémon’s Speed stats.](https://op.gg/pokemon-champions/moves/icy-wind)
+
+### Imprison
+
+[PsychicStatusPower: —Acc: —PP: 12If opposing Pokémon know any move also known by the user, they are prevented from using it.](https://op.gg/pokemon-champions/moves/imprison)
+
+### Inferno
+
+[FireSpecialPower: 100Acc: 50%PP: 8The user attacks by engulfing the target in an intense fire. This leaves the target with a burn.](https://op.gg/pokemon-champions/moves/inferno)
+
+### Iron Defense
+
+[SteelStatusPower: —Acc: —PP: 16The user hardens its body’s surface like iron, sharply raising its Defense stat.](https://op.gg/pokemon-champions/moves/iron-defense)
+
+### Iron Head
+
+[SteelPhysicalPower: 80Acc: 100%PP: 16The user slams the target with its steel-hard head. This may also make the target flinch.](https://op.gg/pokemon-champions/moves/iron-head)
+
+### Iron Tail
+
+[SteelPhysicalPower: 100Acc: 75%PP: 16The target is slammed with a steel-hard tail. This may also lower the target’s Defense stat.](https://op.gg/pokemon-champions/moves/iron-tail)
+
+### Knock Off
+
+[DarkPhysicalPower: 65Acc: 100%PP: 20The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.](https://op.gg/pokemon-champions/moves/knock-off)
+
+### Leaf Blade
+
+[GrassPhysicalPower: 90Acc: 100%PP: 16The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily.](https://op.gg/pokemon-champions/moves/leaf-blade)
+
+### Leaf Storm
+
+[GrassSpecialPower: 130Acc: 90%PP: 8The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.](https://op.gg/pokemon-champions/moves/leaf-storm)
+
+### Leaf Tornado
+
+[GrassSpecialPower: 65Acc: 90%PP: 12The user attacks its target by encircling it in sharp leaves. This attack may also lower the target’s accuracy.](https://op.gg/pokemon-champions/moves/leaf-tornado)
+
+### Leech Life
+
+[BugPhysicalPower: 80Acc: 100%PP: 12The user drains the target’s blood. The user’s HP is restored by half the damage taken by the target.](https://op.gg/pokemon-champions/moves/leech-life)
+
+### Leech Seed
+
+[GrassStatusPower: —Acc: 90%PP: 12A seed is planted on the target. It steals some HP from the target every turn.](https://op.gg/pokemon-champions/moves/leech-seed)
+
+### Leer
+
+[NormalStatusPower: —Acc: 100%PP: 20The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.](https://op.gg/pokemon-champions/moves/leer)
+
+### Lick
+
+[GhostPhysicalPower: 30Acc: 100%PP: 20The target is licked with a long tongue, causing damage. This may also leave the target with paralysis.](https://op.gg/pokemon-champions/moves/lick)
+
+### Life Dew
+
+[WaterStatusPower: —Acc: —PP: 12The user scatters mysterious water around and restores the HP of itself and its ally Pokémon in the battle.](https://op.gg/pokemon-champions/moves/life-dew)
+
+### Light Screen
+
+[PsychicStatusPower: —Acc: —PP: 20A wondrous wall of light is put up to reduce damage from special attacks for five turns.](https://op.gg/pokemon-champions/moves/light-screen)
+
+### Liquidation
+
+[WaterPhysicalPower: 85Acc: 100%PP: 12The user slams into the target using a full-force blast of water. This may also lower the target’s Defense stat.](https://op.gg/pokemon-champions/moves/liquidation)
+
+### Low Kick
+
+[FightingPhysicalPower: —Acc: 100%PP: 20A powerful low kick that makes the target fall over. The heavier the target, the greater the move’s power.](https://op.gg/pokemon-champions/moves/low-kick)
+
+### Low Sweep
+
+[FightingPhysicalPower: 65Acc: 100%PP: 20The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat.](https://op.gg/pokemon-champions/moves/low-sweep)
+
+### Lunge
+
+[BugPhysicalPower: 80Acc: 100%PP: 16The user makes a lunge at the target, attacking with full force. This also lowers the target’s Attack stat.](https://op.gg/pokemon-champions/moves/lunge)
+
+### Mach Punch
+
+[FightingPhysicalPower: 40Acc: 100%PP: 20The user throws a punch at blinding speed. This move always goes first.](https://op.gg/pokemon-champions/moves/mach-punch)
+
+### Magic Coat
+
+[PsychicStatusPower: —Acc: —PP: 16Moves like Leech Seed and moves that inflict status conditions are blocked by a barrier and reflected back to the user of those moves.](https://op.gg/pokemon-champions/moves/magic-coat)
+
+### Magical Leaf
+
+[GrassSpecialPower: 60Acc: —PP: 20The user scatters curious leaves that chase the target. This attack never misses.](https://op.gg/pokemon-champions/moves/magical-leaf)
+
+### Magnet Rise
+
+[ElectricStatusPower: —Acc: —PP: 12The user levitates using electrically generated magnetism for five turns.](https://op.gg/pokemon-champions/moves/magnet-rise)
+
+### Mega Drain
+
+[GrassSpecialPower: 40Acc: 100%PP: 16A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.](https://op.gg/pokemon-champions/moves/mega-drain)
+
+### Mega Kick
+
+[NormalPhysicalPower: 120Acc: 75%PP: 8The target is attacked by a kick launched with muscle-packed power.](https://op.gg/pokemon-champions/moves/mega-kick)
+
+### Mega Punch
+
+[NormalPhysicalPower: 80Acc: 85%PP: 20The target is slugged by a punch thrown with muscle-packed power.](https://op.gg/pokemon-champions/moves/mega-punch)
+
+### Megahorn
+
+[BugPhysicalPower: 120Acc: 85%PP: 12Using its tough and impressive horn, the user rams into the target with no letup.](https://op.gg/pokemon-champions/moves/megahorn)
+
+### Metal Claw
+
+[SteelPhysicalPower: 50Acc: 95%PP: 20The target is raked with steel claws. This may also raise the user’s Attack stat.](https://op.gg/pokemon-champions/moves/metal-claw)
+
+### Meteor Mash
+
+[SteelPhysicalPower: 90Acc: 90%PP: 12The target is hit with a hard punch fired like a meteor. This may also raise the user’s Attack stat.](https://op.gg/pokemon-champions/moves/meteor-mash)
+
+### Minimize
+
+[NormalStatusPower: —Acc: —PP: 12The user compresses its body to make itself look smaller, which sharply raises its evasiveness.](https://op.gg/pokemon-champions/moves/minimize)
+
+### Misty Terrain
+
+[FairyStatusPower: —Acc: —PP: 12This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.](https://op.gg/pokemon-champions/moves/misty-terrain)
+
+### Moonblast
+
+[FairySpecialPower: 95Acc: 100%PP: 16Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.](https://op.gg/pokemon-champions/moves/moonblast)
+
+### Moonlight
+
+[FairyStatusPower: —Acc: —PP: 8The user restores its own HP. The amount of HP regained varies with the weather.](https://op.gg/pokemon-champions/moves/moonlight)
+
+### Morning Sun
+
+[NormalStatusPower: —Acc: —PP: 8The user restores its own HP. The amount of HP regained varies with the weather.](https://op.gg/pokemon-champions/moves/morning-sun)
+
+### Mud Shot
+
+[GroundSpecialPower: 55Acc: 95%PP: 16The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.](https://op.gg/pokemon-champions/moves/mud-shot)
+
+### Mud-Slap
+
+[GroundSpecialPower: 20Acc: 100%PP: 12The user hurls mud in the target’s face to inflict damage and lower its accuracy.](https://op.gg/pokemon-champions/moves/mud-slap)
+
+### Muddy Water
+
+[WaterSpecialPower: 90Acc: 85%PP: 12The user attacks by shooting muddy water at opposing Pokémon. This may also lower their accuracy.](https://op.gg/pokemon-champions/moves/muddy-water)
+
+### Nasty Plot
+
+[DarkStatusPower: —Acc: —PP: 20The user stimulates its brain by thinking bad thoughts. This sharply raises the user’s Sp. Atk stat.](https://op.gg/pokemon-champions/moves/nasty-plot)
+
+### Night Daze
+
+[DarkSpecialPower: 85Acc: 95%PP: 12The user lets loose a pitch-black shock wave at its target. This may also lower the target’s accuracy.](https://op.gg/pokemon-champions/moves/night-daze)
+
+### Night Shade
+
+[GhostSpecialPower: —Acc: 100%PP: 16The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.](https://op.gg/pokemon-champions/moves/night-shade)
+
+### Night Slash
+
+[DarkPhysicalPower: 70Acc: 100%PP: 16The user slashes the target the instant an opportunity arises. Critical hits land more easily.](https://op.gg/pokemon-champions/moves/night-slash)
+
+### Outrage
+
+[DragonPhysicalPower: 120Acc: 100%PP: 12The user rampages and attacks for two to three turns. The user then becomes confused.](https://op.gg/pokemon-champions/moves/outrage)
+
+### Overheat
+
+[FireSpecialPower: 130Acc: 90%PP: 8The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.](https://op.gg/pokemon-champions/moves/overheat)
+
+### Pain Split
+
+[NormalStatusPower: —Acc: —PP: 20The user adds its HP to the target’s HP, then equally shares the combined HP with the target.](https://op.gg/pokemon-champions/moves/pain-split)
+
+### Peck
+
+[FlyingPhysicalPower: 35Acc: 100%PP: 20The target is jabbed with a sharply pointed beak or horn.](https://op.gg/pokemon-champions/moves/peck)
+
+### Petal Blizzard
+
+[GrassPhysicalPower: 90Acc: 100%PP: 16The user stirs up a violent petal blizzard and attacks everything around it.](https://op.gg/pokemon-champions/moves/petal-blizzard)
+
+### Petal Dance
+
+[GrassSpecialPower: 120Acc: 100%PP: 12The user attacks the target by scattering petals for two to three turns. The user then becomes confused.](https://op.gg/pokemon-champions/moves/petal-dance)
+
+### Phantom Force
+
+[GhostPhysicalPower: 90Acc: 100%PP: 12The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.](https://op.gg/pokemon-champions/moves/phantom-force)
+
+### Pin Missile
+
+[BugPhysicalPower: 25Acc: 95%PP: 20Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.](https://op.gg/pokemon-champions/moves/pin-missile)
+
+### Play Rough
+
+[FairyPhysicalPower: 90Acc: 90%PP: 12The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.](https://op.gg/pokemon-champions/moves/play-rough)
+
+### Poison Fang
+
+[PoisonPhysicalPower: 50Acc: 100%PP: 16The user bites the target with toxic fangs. This may also leave the target badly poisoned.](https://op.gg/pokemon-champions/moves/poison-fang)
+
+### Poison Gas
+
+[PoisonStatusPower: —Acc: 90%PP: 20A cloud of poison gas is sprayed in the face of opposing Pokémon, poisoning those it hits.](https://op.gg/pokemon-champions/moves/poison-gas)
+
+### Poison Jab
+
+[PoisonPhysicalPower: 80Acc: 100%PP: 20The target is stabbed with a tentacle, arm, or the like steeped in poison. This may also poison the target.](https://op.gg/pokemon-champions/moves/poison-jab)
+
+### Poison Powder
+
+[PoisonStatusPower: —Acc: 75%PP: 20The user scatters a cloud of poisonous dust that poisons the target.](https://op.gg/pokemon-champions/moves/poison-powder)
+
+### Poison Sting
+
+[PoisonPhysicalPower: 15Acc: 100%PP: 20The user stabs the target with a poisonous stinger. This may also poison the target.](https://op.gg/pokemon-champions/moves/poison-sting)
+
+### Pollen Puff
+
+[BugSpecialPower: 90Acc: 100%PP: 16The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead.](https://op.gg/pokemon-champions/moves/pollen-puff)
+
+### Pound
+
+[NormalPhysicalPower: 40Acc: 100%PP: 20The target is physically pounded with a long tail, a foreleg, or the like.](https://op.gg/pokemon-champions/moves/pound)
+
+### Powder Snow
+
+[IceSpecialPower: 40Acc: 100%PP: 20The user attacks with a chilling gust of powdery snow. This may also freeze opposing Pokémon.](https://op.gg/pokemon-champions/moves/powder-snow)
+
+### Power Gem
+
+[RockSpecialPower: 80Acc: 100%PP: 20The user attacks with a ray of light that sparkles as if it were made of gemstones.](https://op.gg/pokemon-champions/moves/power-gem)
+
+### Power Whip
+
+[GrassPhysicalPower: 120Acc: 85%PP: 12The user violently whirls its vines, tentacles, or the like to harshly lash the target.](https://op.gg/pokemon-champions/moves/power-whip)
+
+### Protect
+
+[NormalStatusPower: —Acc: —PP: 12This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.](https://op.gg/pokemon-champions/moves/protect)
+
+### Psybeam
+
+[PsychicSpecialPower: 65Acc: 100%PP: 20The target is attacked with a peculiar ray. This may also leave the target confused.](https://op.gg/pokemon-champions/moves/psybeam)
+
+### Psychic
+
+[PsychicSpecialPower: 90Acc: 100%PP: 12The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.](https://op.gg/pokemon-champions/moves/psychic)
+
+### Psychic Terrain
+
+[PsychicStatusPower: —Acc: —PP: 12This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.](https://op.gg/pokemon-champions/moves/psychic-terrain)
+
+### Psyshock
+
+[PsychicSpecialPower: 80Acc: 100%PP: 12The user materializes an odd psychic wave to attack the target. This attack does physical damage.](https://op.gg/pokemon-champions/moves/psyshock)
+
+### Quash
+
+[DarkStatusPower: —Acc: 100%PP: 16The user suppresses the target and makes its move go last.](https://op.gg/pokemon-champions/moves/quash)
+
+### Quick Attack
+
+[NormalPhysicalPower: 40Acc: 100%PP: 20The user lunges at the target at a speed that makes it almost invisible. This move always goes first.](https://op.gg/pokemon-champions/moves/quick-attack)
+
+### Rage Powder
+
+[BugStatusPower: —Acc: —PP: 20The user scatters a cloud of irritating powder to draw attention to itself. Opposing Pokémon aim only at the user.](https://op.gg/pokemon-champions/moves/rage-powder)
+
+### Rain Dance
+
+[WaterStatusPower: —Acc: —PP: 8The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves.](https://op.gg/pokemon-champions/moves/rain-dance)
+
+### Rapid Spin
+
+[NormalPhysicalPower: 50Acc: 100%PP: 20A spin attack that can also eliminate such moves as Bind, Wrap, and Leech Seed. This also raises the user’s Speed stat.](https://op.gg/pokemon-champions/moves/rapid-spin)
+
+### Razor Leaf
+
+[GrassPhysicalPower: 55Acc: 95%PP: 20Sharp-edged leaves are launched to slash at opposing Pokémon. Critical hits land more easily.](https://op.gg/pokemon-champions/moves/razor-leaf)
+
+### Recover
+
+[NormalStatusPower: —Acc: —PP: 8Restoring its own cells, the user restores its own HP by half of its max HP.](https://op.gg/pokemon-champions/moves/recover)
+
+### Reflect
+
+[PsychicStatusPower: —Acc: —PP: 20A wondrous wall of light is put up to reduce damage from physical attacks for five turns.](https://op.gg/pokemon-champions/moves/reflect)
+
+### Rest
+
+[PsychicStatusPower: —Acc: —PP: 8The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.](https://op.gg/pokemon-champions/moves/rest)
+
+### Roar
+
+[NormalStatusPower: —Acc: —PP: 20The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.](https://op.gg/pokemon-champions/moves/roar)
+
+### Rock Blast
+
+[RockPhysicalPower: 25Acc: 90%PP: 12The user hurls hard rocks at the target. Two to five rocks are launched in a row.](https://op.gg/pokemon-champions/moves/rock-blast)
+
+### Rock Polish
+
+[RockStatusPower: —Acc: —PP: 20The user polishes its body to reduce drag. This sharply raises the Speed stat.](https://op.gg/pokemon-champions/moves/rock-polish)
+
+### Rock Slide
+
+[RockPhysicalPower: 75Acc: 90%PP: 12Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.](https://op.gg/pokemon-champions/moves/rock-slide)
+
+### Rock Throw
+
+[RockPhysicalPower: 50Acc: 90%PP: 16The user picks up and throws a small rock at the target to attack.](https://op.gg/pokemon-champions/moves/rock-throw)
+
+### Rock Tomb
+
+[RockPhysicalPower: 60Acc: 95%PP: 16Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.](https://op.gg/pokemon-champions/moves/rock-tomb)
+
+### Roost
+
+[FlyingStatusPower: —Acc: —PP: 12The user lands and rests its body. This move restores the user’s HP by up to half of its max HP.](https://op.gg/pokemon-champions/moves/roost)
+
+### Safeguard
+
+[NormalStatusPower: —Acc: —PP: 20The user creates a protective field that prevents status conditions for five turns.](https://op.gg/pokemon-champions/moves/safeguard)
+
+### Sand Attack
+
+[GroundStatusPower: —Acc: 100%PP: 16Sand is hurled in the target’s face, reducing the target’s accuracy.](https://op.gg/pokemon-champions/moves/sand-attack)
+
+### Sandstorm
+
+[RockStatusPower: —Acc: —PP: 12A five-turn sandstorm is summoned to hurt all combatants except Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types.](https://op.gg/pokemon-champions/moves/sandstorm)
+
+### Scald
+
+[WaterSpecialPower: 80Acc: 100%PP: 16The user shoots boiling hot water at its target. This may also leave the target with a burn.](https://op.gg/pokemon-champions/moves/scald)
+
+### Scary Face
+
+[NormalStatusPower: —Acc: 100%PP: 12The user frightens the target with a scary face to harshly lower its Speed stat.](https://op.gg/pokemon-champions/moves/scary-face)
+
+### Scratch
+
+[NormalPhysicalPower: 40Acc: 100%PP: 20Hard, pointed, sharp claws rake the target to inflict damage.](https://op.gg/pokemon-champions/moves/scratch)
+
+### Screech
+
+[NormalStatusPower: —Acc: 85%PP: 20An earsplitting screech harshly lowers the target’s Defense stat.](https://op.gg/pokemon-champions/moves/screech)
+
+### Seed Bomb
+
+[GrassPhysicalPower: 80Acc: 100%PP: 16The user slams a barrage of hard-shelled seeds down on the target from above.](https://op.gg/pokemon-champions/moves/seed-bomb)
+
+### Seismic Toss
+
+[FightingPhysicalPower: —Acc: 100%PP: 20The target is thrown using the power of gravity. It inflicts damage equal to the user’s level.](https://op.gg/pokemon-champions/moves/seismic-toss)
+
+### Self-Destruct
+
+[NormalPhysicalPower: 200Acc: 100%PP: 8The user attacks everything around it by causing an explosion. The user faints upon using this move.](https://op.gg/pokemon-champions/moves/self-destruct)
+
+### Shadow Ball
+
+[GhostSpecialPower: 80Acc: 100%PP: 16The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.](https://op.gg/pokemon-champions/moves/shadow-ball)
+
+### Shadow Claw
+
+[GhostPhysicalPower: 70Acc: 100%PP: 16The user slashes with a sharp claw made from shadows. Critical hits land more easily.](https://op.gg/pokemon-champions/moves/shadow-claw)
+
+### Shadow Punch
+
+[GhostPhysicalPower: 60Acc: —PP: 20The user throws a punch from the shadows. This attack never misses.](https://op.gg/pokemon-champions/moves/shadow-punch)
+
+### Shadow Sneak
+
+[GhostPhysicalPower: 40Acc: 100%PP: 20The user extends its shadow and attacks the target from behind. This move always goes first.](https://op.gg/pokemon-champions/moves/shadow-sneak)
+
+### Shell Smash
+
+[NormalStatusPower: —Acc: —PP: 16The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats.](https://op.gg/pokemon-champions/moves/shell-smash)
+
+### Signal Beam
+
+[BugSpecialPower: 75Acc: 100%PP: 16This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered.](https://op.gg/pokemon-champions/moves/signal-beam)
+
+### Silver Wind
+
+[BugSpecialPower: 60Acc: 100%PP: 8This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered.](https://op.gg/pokemon-champions/moves/silver-wind)
+
+### Sing
+
+[NormalStatusPower: —Acc: 55%PP: 16A soothing lullaby is sung in a calming voice that puts the target into a deep slumber.](https://op.gg/pokemon-champions/moves/sing)
+
+### Skull Bash
+
+[NormalPhysicalPower: 130Acc: 100%PP: 12The user tucks in its head to raise its Defense stat on the first turn, then rams the target on the next turn.](https://op.gg/pokemon-champions/moves/skull-bash)
+
+### Sky Attack
+
+[FlyingPhysicalPower: 140Acc: 90%PP: 8A second-turn attack move where critical hits land more easily. This may also make the target flinch.](https://op.gg/pokemon-champions/moves/sky-attack)
+
+### Slack Off
+
+[NormalStatusPower: —Acc: —PP: 12The user slacks off, restoring its own HP by up to half of its max HP.](https://op.gg/pokemon-champions/moves/slack-off)
+
+### Slam
+
+[NormalPhysicalPower: 80Acc: 75%PP: 20The target is slammed with a long tail, vines, or the like to inflict damage.](https://op.gg/pokemon-champions/moves/slam)
+
+### Slash
+
+[NormalPhysicalPower: 70Acc: 100%PP: 20The target is attacked with a slash of claws or blades. Critical hits land more easily.](https://op.gg/pokemon-champions/moves/slash)
+
+### Sleep Powder
+
+[GrassStatusPower: —Acc: 75%PP: 16The user scatters a big cloud of sleep-inducing dust around the target.](https://op.gg/pokemon-champions/moves/sleep-powder)
+
+### Sleep Talk
+
+[NormalStatusPower: —Acc: —PP: 12While it is asleep, the user randomly uses one of the moves it knows.](https://op.gg/pokemon-champions/moves/sleep-talk)
+
+### Sludge
+
+[PoisonSpecialPower: 65Acc: 100%PP: 20Unsanitary sludge is hurled at the target. This may also poison the target.](https://op.gg/pokemon-champions/moves/sludge)
+
+### Sludge Bomb
+
+[PoisonSpecialPower: 90Acc: 100%PP: 12Unsanitary sludge is hurled at the target. This may also poison the target.](https://op.gg/pokemon-champions/moves/sludge-bomb)
+
+### Sludge Wave
+
+[PoisonSpecialPower: 95Acc: 100%PP: 12The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit.](https://op.gg/pokemon-champions/moves/sludge-wave)
+
+### Smart Strike
+
+[SteelPhysicalPower: 70Acc: —PP: 12The user stabs the target with a sharp horn. This attack never misses.](https://op.gg/pokemon-champions/moves/smart-strike)
+
+### Smog
+
+[PoisonSpecialPower: 30Acc: 70%PP: 20The target is attacked with a discharge of filthy gases. This may also poison the target.](https://op.gg/pokemon-champions/moves/smog)
+
+### Smokescreen
+
+[NormalStatusPower: —Acc: 100%PP: 20The user releases an obscuring cloud of smoke or ink. This lowers the target’s accuracy.](https://op.gg/pokemon-champions/moves/smokescreen)
+
+### Snarl
+
+[DarkSpecialPower: 55Acc: 95%PP: 16The user yells as if it’s ranting about something, which lowers the Sp. Atk stats of opposing Pokémon.](https://op.gg/pokemon-champions/moves/snarl)
+
+### Snore
+
+[NormalSpecialPower: 50Acc: 100%PP: 16This attack can be used only if the user is asleep. The harsh noise may also make the target flinch.](https://op.gg/pokemon-champions/moves/snore)
+
+### Soft-Boiled
+
+[NormalStatusPower: —Acc: —PP: 8The user restores its own HP by up to half of its max HP.](https://op.gg/pokemon-champions/moves/soft-boiled)
+
+### Solar Beam
+
+[GrassSpecialPower: 120Acc: 100%PP: 12In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.](https://op.gg/pokemon-champions/moves/solar-beam)
+
+### Solar Blade
+
+[GrassPhysicalPower: 125Acc: 100%PP: 12In this two-turn attack, the user gathers light and fills a blade with the light’s energy, attacking the target on the next turn.](https://op.gg/pokemon-champions/moves/solar-blade)
+
+### Spark
+
+[ElectricPhysicalPower: 65Acc: 100%PP: 20The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.](https://op.gg/pokemon-champions/moves/spark)
+
+### Spikes
+
+[GroundStatusPower: —Acc: —PP: 20The user lays a trap of spikes at the opposing team’s feet. The trap hurts Pokémon that switch into battle.](https://op.gg/pokemon-champions/moves/spikes)
+
+### Spirit Break
+
+[FairyPhysicalPower: 75Acc: 100%PP: 16The user attacks the target with so much force that it could break the target’s spirit. This also lowers the target’s Sp. Atk stat.](https://op.gg/pokemon-champions/moves/spirit-break)
+
+### Spite
+
+[GhostStatusPower: —Acc: 100%PP: 12The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.](https://op.gg/pokemon-champions/moves/spite)
+
+### Stealth Rock
+
+[RockStatusPower: —Acc: —PP: 20The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle.](https://op.gg/pokemon-champions/moves/stealth-rock)
+
+### Steel Wing
+
+[SteelPhysicalPower: 70Acc: 90%PP: 20The target is hit with wings of steel. This may also raise the user’s Defense stat.](https://op.gg/pokemon-champions/moves/steel-wing)
+
+### Sticky Web
+
+[BugStatusPower: —Acc: —PP: 20The user weaves a sticky net around the opposing team, which lowers their Speed stats upon switching into battle.](https://op.gg/pokemon-champions/moves/sticky-web)
+
+### Stockpile
+
+[NormalStatusPower: —Acc: —PP: 20The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.](https://op.gg/pokemon-champions/moves/stockpile)
+
+### Stomp
+
+[NormalPhysicalPower: 65Acc: 100%PP: 20The target is stomped with a big foot. This may also make the target flinch.](https://op.gg/pokemon-champions/moves/stomp)
+
+### Stone Edge
+
+[RockPhysicalPower: 100Acc: 80%PP: 8The user stabs the target from below with sharpened stones. Critical hits land more easily.](https://op.gg/pokemon-champions/moves/stone-edge)
+
+### Stored Power
+
+[PsychicSpecialPower: 20Acc: 100%PP: 12The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.](https://op.gg/pokemon-champions/moves/stored-power)
+
+### Strength
+
+[NormalPhysicalPower: 80Acc: 100%PP: 16The target is slugged with a punch thrown at maximum power.](https://op.gg/pokemon-champions/moves/strength)
+
+### Stun Spore
+
+[GrassStatusPower: —Acc: 75%PP: 20The user scatters a cloud of numbing powder that paralyzes the target.](https://op.gg/pokemon-champions/moves/stun-spore)
+
+### Submission
+
+[FightingPhysicalPower: 80Acc: 80%PP: 20The user grabs the target and recklessly dives for the ground. This also damages the user a little.](https://op.gg/pokemon-champions/moves/submission)
+
+### Substitute
+
+[NormalStatusPower: —Acc: —PP: 12The user creates a substitute for itself using some of its HP. The substitute serves as the user’s decoy.](https://op.gg/pokemon-champions/moves/substitute)
+
+### Sucker Punch
+
+[DarkPhysicalPower: 70Acc: 100%PP: 8This move enables the user to attack first. This move fails if the target is not readying an attack.](https://op.gg/pokemon-champions/moves/sucker-punch)
+
+### Sunny Day
+
+[FireStatusPower: —Acc: —PP: 8The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves.](https://op.gg/pokemon-champions/moves/sunny-day)
+
+### Super Fang
+
+[NormalPhysicalPower: —Acc: 90%PP: 12The user chomps hard on the target with its sharp front fangs. This cuts the target’s HP in half.](https://op.gg/pokemon-champions/moves/super-fang)
+
+### Superpower
+
+[FightingPhysicalPower: 120Acc: 100%PP: 8The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.](https://op.gg/pokemon-champions/moves/superpower)
+
+### Supersonic
+
+[NormalStatusPower: —Acc: 55%PP: 20The user generates odd sound waves from its body that confuse the target.](https://op.gg/pokemon-champions/moves/supersonic)
+
+### Surf
+
+[WaterSpecialPower: 90Acc: 100%PP: 16The user attacks everything around it by swamping its surroundings with a giant wave.](https://op.gg/pokemon-champions/moves/surf)
+
+### Swagger
+
+[NormalStatusPower: —Acc: 85%PP: 16The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.](https://op.gg/pokemon-champions/moves/swagger)
+
+### Swallow
+
+[NormalStatusPower: —Acc: —PP: 12The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.](https://op.gg/pokemon-champions/moves/swallow)
+
+### Sweet Kiss
+
+[FairyStatusPower: —Acc: 75%PP: 12The user kisses the target with a sweet, angelic cuteness that causes confusion.](https://op.gg/pokemon-champions/moves/sweet-kiss)
+
+### Sweet Scent
+
+[NormalStatusPower: —Acc: 100%PP: 20A sweet scent that harshly lowers opposing Pokémon’s evasiveness.](https://op.gg/pokemon-champions/moves/sweet-scent)
+
+### Swift
+
+[NormalSpecialPower: 60Acc: —PP: 20Star-shaped rays are shot at opposing Pokémon. This attack never misses.](https://op.gg/pokemon-champions/moves/swift)
+
+### Swords Dance
+
+[NormalStatusPower: —Acc: —PP: 20A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat.](https://op.gg/pokemon-champions/moves/swords-dance)
+
+### Synthesis
+
+[GrassStatusPower: —Acc: —PP: 8The user restores its own HP. The amount of HP regained varies with the weather.](https://op.gg/pokemon-champions/moves/synthesis)
+
+### Tackle
+
+[NormalPhysicalPower: 40Acc: 100%PP: 20A physical attack in which the user charges and slams into the target with its whole body.](https://op.gg/pokemon-champions/moves/tackle)
+
+### Tail Glow
+
+[BugStatusPower: —Acc: —PP: 20This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered.](https://op.gg/pokemon-champions/moves/tail-glow)
+
+### Tail Slap
+
+[NormalPhysicalPower: 25Acc: 85%PP: 12The user attacks by striking the target with its hard tail. It hits the target two to five times in a row.](https://op.gg/pokemon-champions/moves/tail-slap)
+
+### Tail Whip
+
+[NormalStatusPower: —Acc: 100%PP: 20The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stats.](https://op.gg/pokemon-champions/moves/tail-whip)
+
+### Tailwind
+
+[FlyingStatusPower: —Acc: —PP: 16The user whips up a turbulent whirlwind that ups the Speed stats of the user and its allies for four turns.](https://op.gg/pokemon-champions/moves/tailwind)
+
+### Take Down
+
+[NormalPhysicalPower: 90Acc: 85%PP: 20A reckless, full-body charge attack for slamming into the target. This also damages the user a little.](https://op.gg/pokemon-champions/moves/take-down)
+
+### Taunt
+
+[DarkStatusPower: —Acc: 100%PP: 20The target is taunted into a rage that allows it to use only attack moves for three turns.](https://op.gg/pokemon-champions/moves/taunt)
+
+### Tearful Look
+
+[NormalStatusPower: —Acc: —PP: 20The user gets teary eyed to make the target lose its combative spirit. This lowers the target’s Attack and Sp. Atk stats.](https://op.gg/pokemon-champions/moves/tearful-look)
+
+### Thief
+
+[DarkPhysicalPower: 60Acc: 100%PP: 20The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item.](https://op.gg/pokemon-champions/moves/thief)
+
+### Thrash
+
+[NormalPhysicalPower: 120Acc: 100%PP: 12The user rampages and attacks for two to three turns. The user then becomes confused.](https://op.gg/pokemon-champions/moves/thrash)
+
+### Thunder
+
+[ElectricSpecialPower: 110Acc: 70%PP: 12A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.](https://op.gg/pokemon-champions/moves/thunder)
+
+### Thunder Fang
+
+[ElectricPhysicalPower: 65Acc: 95%PP: 16The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.](https://op.gg/pokemon-champions/moves/thunder-fang)
+
+### Thunder Punch
+
+[ElectricPhysicalPower: 75Acc: 100%PP: 16The target is punched with an electrified fist. This may also leave the target with paralysis.](https://op.gg/pokemon-champions/moves/thunder-punch)
+
+### Thunder Shock
+
+[ElectricSpecialPower: 40Acc: 100%PP: 20A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.](https://op.gg/pokemon-champions/moves/thunder-shock)
+
+### Thunder Wave
+
+[ElectricStatusPower: —Acc: 90%PP: 20The user launches a weak jolt of electricity that paralyzes the target.](https://op.gg/pokemon-champions/moves/thunder-wave)
+
+### Thunderbolt
+
+[ElectricSpecialPower: 90Acc: 100%PP: 16A strong electric blast crashes down on the target. This may also leave the target with paralysis.](https://op.gg/pokemon-champions/moves/thunderbolt)
+
+### Tickle
+
+[NormalStatusPower: —Acc: 100%PP: 20The user tickles the target into laughing, reducing its Attack and Defense stats.](https://op.gg/pokemon-champions/moves/tickle)
+
+### Torment
+
+[DarkStatusPower: —Acc: 100%PP: 16The user torments and enrages the target, making it incapable of using the same move twice in a row.](https://op.gg/pokemon-champions/moves/torment)
+
+### Toxic
+
+[PoisonStatusPower: —Acc: 90%PP: 12A move that leaves the target badly poisoned. Its poison damage worsens every turn.](https://op.gg/pokemon-champions/moves/toxic)
+
+### Toxic Spikes
+
+[PoisonStatusPower: —Acc: —PP: 20The user lays a trap of poison spikes at the feet of the opposing team. The spikes will poison opposing Pokémon that switch into battle.](https://op.gg/pokemon-champions/moves/toxic-spikes)
+
+### Tri Attack
+
+[NormalSpecialPower: 80Acc: 100%PP: 12The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target.](https://op.gg/pokemon-champions/moves/tri-attack)
+
+### Trick
+
+[PsychicStatusPower: —Acc: 100%PP: 12The user catches the target off guard and swaps its held item with its own.](https://op.gg/pokemon-champions/moves/trick)
+
+### Trick Room
+
+[PsychicStatusPower: —Acc: —PP: 8The user creates a bizarre area in which slower Pokémon get to move first for five turns.](https://op.gg/pokemon-champions/moves/trick-room)
+
+### Triple Axel
+
+[IcePhysicalPower: 20Acc: 90%PP: 12A consecutive three-kick attack that becomes more powerful with each successful hit.](https://op.gg/pokemon-champions/moves/triple-axel)
+
+### Twineedle
+
+[BugPhysicalPower: 25Acc: 100%PP: 20This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered.](https://op.gg/pokemon-champions/moves/twineedle)
+
+### U-turn
+
+[BugPhysicalPower: 70Acc: 100%PP: 20After making its attack, the user rushes back to switch places with a party Pokémon in waiting.](https://op.gg/pokemon-champions/moves/u-turn)
+
+### Uproar
+
+[NormalSpecialPower: 90Acc: 100%PP: 12The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep.](https://op.gg/pokemon-champions/moves/uproar)
+
+### Venoshock
+
+[PoisonSpecialPower: 65Acc: 100%PP: 12The user drenches the target in a special poisonous liquid. This move’s power is doubled if the target is poisoned.](https://op.gg/pokemon-champions/moves/venoshock)
+
+### Vine Whip
+
+[GrassPhysicalPower: 45Acc: 100%PP: 20The target is struck with slender, whiplike vines to inflict damage.](https://op.gg/pokemon-champions/moves/vine-whip)
+
+### Volt Switch
+
+[ElectricSpecialPower: 70Acc: 100%PP: 20After making its attack, the user rushes back to switch places with a party Pokémon in waiting.](https://op.gg/pokemon-champions/moves/volt-switch)
+
+### Water Gun
+
+[WaterSpecialPower: 40Acc: 100%PP: 20The target is blasted with a forceful shot of water.](https://op.gg/pokemon-champions/moves/water-gun)
+
+### Water Pulse
+
+[WaterSpecialPower: 60Acc: 100%PP: 20The user attacks the target with a pulsing blast of water. This may also confuse the target.](https://op.gg/pokemon-champions/moves/water-pulse)
+
+### Water Spout
+
+[WaterSpecialPower: 150Acc: 100%PP: 8The user spouts water to damage opposing Pokémon. The lower the user’s HP, the lower the move’s power.](https://op.gg/pokemon-champions/moves/water-spout)
+
+### Waterfall
+
+[WaterPhysicalPower: 80Acc: 100%PP: 16The user charges at the target and may make it flinch.](https://op.gg/pokemon-champions/moves/waterfall)
+
+### Weather Ball
+
+[NormalSpecialPower: 50Acc: 100%PP: 12This attack move varies in power and type depending on the weather.](https://op.gg/pokemon-champions/moves/weather-ball)
+
+### Whirlpool
+
+[WaterSpecialPower: 35Acc: 85%PP: 16The user traps the target in a violent swirling whirlpool for four to five turns.](https://op.gg/pokemon-champions/moves/whirlpool)
+
+### Whirlwind
+
+[NormalStatusPower: —Acc: —PP: 20The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.](https://op.gg/pokemon-champions/moves/whirlwind)
+
+### Wide Guard
+
+[RockStatusPower: —Acc: —PP: 12The user and its allies are protected from wide-ranging attacks for one turn.](https://op.gg/pokemon-champions/moves/wide-guard)
+
+### Wild Charge
+
+[ElectricPhysicalPower: 90Acc: 100%PP: 16The user shrouds itself in electricity and smashes into its target. This also damages the user a little.](https://op.gg/pokemon-champions/moves/wild-charge)
+
+### Will-O-Wisp
+
+[FireStatusPower: —Acc: 85%PP: 16The user shoots a sinister flame at the target to inflict a burn.](https://op.gg/pokemon-champions/moves/will-o-wisp)
+
+### Wing Attack
+
+[FlyingPhysicalPower: 60Acc: 100%PP: 20The target is struck with large, imposing wings spread wide to inflict damage.](https://op.gg/pokemon-champions/moves/wing-attack)
+
+### Wish
+
+[NormalStatusPower: —Acc: —PP: 12One turn after this move is used, the user’s or its replacement’s HP is restored by half the user’s max HP.](https://op.gg/pokemon-champions/moves/wish)
+
+### Withdraw
+
+[WaterStatusPower: —Acc: —PP: 20The user withdraws its body into its hard shell, raising its Defense stat.](https://op.gg/pokemon-champions/moves/withdraw)
+
+### Wood Hammer
+
+[GrassPhysicalPower: 120Acc: 100%PP: 16The user slams its rugged body into the target to attack. This also damages the user quite a lot.](https://op.gg/pokemon-champions/moves/wood-hammer)
+
+### Work Up
+
+[NormalStatusPower: —Acc: —PP: 20The user is roused, and its Attack and Sp. Atk stats increase.](https://op.gg/pokemon-champions/moves/work-up)
+
+### Worry Seed
+
+[GrassStatusPower: —Acc: 100%PP: 12A seed that causes worry is planted on the target. It prevents sleep by making the target’s Ability Insomnia.](https://op.gg/pokemon-champions/moves/worry-seed)
+
+### Wrap
+
+[NormalPhysicalPower: 15Acc: 90%PP: 20A long body, vines, or the like are used to wrap and squeeze the target for four to five turns.](https://op.gg/pokemon-champions/moves/wrap)
+
+### X-Scissor
+
+[BugPhysicalPower: 80Acc: 100%PP: 16The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.](https://op.gg/pokemon-champions/moves/x-scissor)
+
+### Yawn
+
+[NormalStatusPower: —Acc: —PP: 12The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.](https://op.gg/pokemon-champions/moves/yawn)
+
+### Zen Headbutt
+
+[PsychicPhysicalPower: 80Acc: 90%PP: 16The user focuses its willpower to its head and attacks the target. This may also make the target flinch.](https://op.gg/pokemon-champions/moves/zen-headbutt)
+
+| Name | Type | Category | Power | Acc | PP | Effect |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Accelerock](https://op.gg/pokemon-champions/moves/accelerock) | Rock | Physical | 40 | 100% | 20 | The user smashes into the target at high speed. This move always goes first. |
+| [Acid Armor](https://op.gg/pokemon-champions/moves/acid-armor) | Poison | Status | — | — | 20 | The user alters its cellular structure to liquefy itself, sharply raising its Defense stat. |
+| [Acid Spray](https://op.gg/pokemon-champions/moves/acid-spray) | Poison | Special | 40 | 100% | 20 | The user spits fluid that works to melt the target. This harshly lowers the target’s Sp. Def stat. |
+| [Acrobatics](https://op.gg/pokemon-champions/moves/acrobatics) | Flying | Physical | 55 | 100% | 16 | The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage. |
+| [Aerial Ace](https://op.gg/pokemon-champions/moves/aerial-ace) | Flying | Physical | 60 | — | 20 | The user confounds the target with speed, then slashes. This attack never misses. |
+| [Agility](https://op.gg/pokemon-champions/moves/agility) | Psychic | Status | — | — | 20 | The user relaxes and lightens its body to move faster. This sharply raises the Speed stat. |
+| [Air Cutter](https://op.gg/pokemon-champions/moves/air-cutter) | Flying | Special | 60 | 95% | 20 | The user launches razor-like wind to slash opposing Pokémon. Critical hits land more easily. |
+| [Air Slash](https://op.gg/pokemon-champions/moves/air-slash) | Flying | Special | 75 | 95% | 16 | The user attacks with a blade of air that slices even the sky. This may also make the target flinch. |
+| [Amnesia](https://op.gg/pokemon-champions/moves/amnesia) | Psychic | Status | — | — | 20 | The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat. |
+| [Ancient Power](https://op.gg/pokemon-champions/moves/ancient-power) | Rock | Special | 60 | 100% | 8 | The user attacks with a prehistoric power. This may also raise all the user’s stats at once. |
+| [Aqua Jet](https://op.gg/pokemon-champions/moves/aqua-jet) | Water | Physical | 40 | 100% | 20 | The user lunges at the target at a speed that makes it almost invisible. This move always goes first. |
+| [Aqua Ring](https://op.gg/pokemon-champions/moves/aqua-ring) | Water | Status | — | — | 20 | The user envelops itself in a veil made of water. It regains some HP every turn. |
+| [Aqua Tail](https://op.gg/pokemon-champions/moves/aqua-tail) | Water | Physical | 90 | 90% | 12 | The user attacks by swinging its tail as if it were a vicious wave in a raging storm. |
+| [Aura Sphere](https://op.gg/pokemon-champions/moves/aura-sphere) | Fighting | Special | 80 | — | 20 | The user lets loose a blast of aura power from deep within its body at the target. This attack never misses. |
+| [Aurora Beam](https://op.gg/pokemon-champions/moves/aurora-beam) | Ice | Special | 65 | 100% | 20 | The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat. |
+| [Aurora Veil](https://op.gg/pokemon-champions/moves/aurora-veil) | Ice | Status | — | — | 20 | This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm. |
+| [Avalanche](https://op.gg/pokemon-champions/moves/avalanche) | Ice | Physical | 60 | 100% | 12 | The power of this attack move is doubled if the user has been hurt by the target in the same turn. |
+| [Baby-Doll Eyes](https://op.gg/pokemon-champions/moves/baby-doll-eyes) | Fairy | Status | — | 100% | 20 | The user stares at the target with its baby-doll eyes, which lowers the target’s Attack stat. This move always goes first. |
+| [Bite](https://op.gg/pokemon-champions/moves/bite) | Dark | Physical | 60 | 100% | 20 | The target is bitten with viciously sharp fangs. This may also make the target flinch. |
+| [Blaze Kick](https://op.gg/pokemon-champions/moves/blaze-kick) | Fire | Physical | 85 | 90% | 12 | The user launches a kick that lands a critical hit more easily. This may also leave the target with a burn. |
+| [Blizzard](https://op.gg/pokemon-champions/moves/blizzard) | Ice | Special | 110 | 70% | 8 | A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen. |
+| [Body Press](https://op.gg/pokemon-champions/moves/body-press) | Fighting | Physical | 80 | 100% | 12 | The user attacks by slamming its body into the target. The higher the user’s Defense, the more damage it can inflict on the target. |
+| [Body Slam](https://op.gg/pokemon-champions/moves/body-slam) | Normal | Physical | 85 | 100% | 16 | The user drops onto the target with its full body weight. This may also leave the target with paralysis. |
+| [Brave Bird](https://op.gg/pokemon-champions/moves/brave-bird) | Flying | Physical | 120 | 100% | 16 | The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot. |
+| [Brick Break](https://op.gg/pokemon-champions/moves/brick-break) | Fighting | Physical | 75 | 100% | 16 | The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect. |
+| [Brine](https://op.gg/pokemon-champions/moves/brine) | Water | Special | 65 | 100% | 12 | If the target’s HP is half or less, this attack will hit with double the power. |
+| [Brutal Swing](https://op.gg/pokemon-champions/moves/brutal-swing) | Dark | Physical | 60 | 100% | 20 | The user swings its body around violently to inflict damage on everything in its vicinity. |
+| [Bubble Beam](https://op.gg/pokemon-champions/moves/bubble-beam) | Water | Special | 65 | 100% | 20 | A spray of bubbles is forcefully ejected at the target. This may also lower the target’s Speed stat. |
+| [Bug Bite](https://op.gg/pokemon-champions/moves/bug-bite) | Bug | Physical | 60 | 100% | 20 | The user bites the target. If the target is holding a Berry, the user eats it and gains its effect. |
+| [Bug Buzz](https://op.gg/pokemon-champions/moves/bug-buzz) | Bug | Special | 90 | 100% | 12 | The user generates a damaging sound wave by vibration. This may also lower the target’s Sp. Def stat. |
+| [Bulk Up](https://op.gg/pokemon-champions/moves/bulk-up) | Fighting | Status | — | — | 20 | The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats. |
+| [Bulldoze](https://op.gg/pokemon-champions/moves/bulldoze) | Ground | Physical | 60 | 100% | 20 | The user strikes everything around it by stomping down on the ground. This lowers the Speed stats of those hit. |
+| [Bullet Punch](https://op.gg/pokemon-champions/moves/bullet-punch) | Steel | Physical | 40 | 100% | 20 | The user strikes the target with tough punches as fast as bullets. This move always goes first. |
+| [Bullet Seed](https://op.gg/pokemon-champions/moves/bullet-seed) | Grass | Physical | 25 | 100% | 20 | The user forcefully shoots seeds at the target two to five times in a row. |
+| [Calm Mind](https://op.gg/pokemon-champions/moves/calm-mind) | Psychic | Status | — | — | 20 | The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats. |
+| [Charge](https://op.gg/pokemon-champions/moves/charge) | Electric | Status | — | — | 20 | The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat. |
+| [Charge Beam](https://op.gg/pokemon-champions/moves/charge-beam) | Electric | Special | 50 | 90% | 12 | The user attacks the target with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat. |
+| [Charm](https://op.gg/pokemon-champions/moves/charm) | Fairy | Status | — | 100% | 20 | The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target’s Attack stat. |
+| [Close Combat](https://op.gg/pokemon-champions/moves/close-combat) | Fighting | Physical | 120 | 100% | 8 | The user fights the target up close without guarding itself. This also lowers the user’s Defense and Sp. Def stats. |
+| [Coil](https://op.gg/pokemon-champions/moves/coil) | Poison | Status | — | — | 20 | The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy. |
+| [Confuse Ray](https://op.gg/pokemon-champions/moves/confuse-ray) | Ghost | Status | — | 100% | 12 | The target is exposed to a sinister ray that triggers confusion. |
+| [Confusion](https://op.gg/pokemon-champions/moves/confusion) | Psychic | Special | 50 | 100% | 20 | The target is hit by a weak telekinetic force. This may also confuse the target. |
+| [Cotton Guard](https://op.gg/pokemon-champions/moves/cotton-guard) | Grass | Status | — | — | 12 | The user protects itself by wrapping its body in soft cotton, which drastically raises the user’s Defense stat. |
+| [Crabhammer](https://op.gg/pokemon-champions/moves/crabhammer) | Water | Physical | 100 | 90% | 12 | The target is hammered with a large pincer. Critical hits land more easily. |
+| [Cross Chop](https://op.gg/pokemon-champions/moves/cross-chop) | Fighting | Physical | 100 | 80% | 8 | The user delivers a double chop with its forearms crossed. Critical hits land more easily. |
+| [Cross Poison](https://op.gg/pokemon-champions/moves/cross-poison) | Poison | Physical | 70 | 100% | 20 | A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily. |
+| [Crunch](https://op.gg/pokemon-champions/moves/crunch) | Dark | Physical | 80 | 100% | 16 | The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat. |
+| [Curse](https://op.gg/pokemon-champions/moves/curse) | Ghost | Status | — | — | 12 | A move that works differently for the Ghost type than for all other types. |
+| [Dark Pulse](https://op.gg/pokemon-champions/moves/dark-pulse) | Dark | Special | 80 | 100% | 16 | The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch. |
+| [Dazzling Gleam](https://op.gg/pokemon-champions/moves/dazzling-gleam) | Fairy | Special | 80 | 100% | 12 | The user damages opposing Pokémon by emitting a powerful flash. |
+| [Disable](https://op.gg/pokemon-champions/moves/disable) | Normal | Status | — | 100% | 20 | For four turns, this move prevents the target from using the move it last used. |
+| [Discharge](https://op.gg/pokemon-champions/moves/discharge) | Electric | Special | 80 | 100% | 16 | The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis. |
+| [Double Hit](https://op.gg/pokemon-champions/moves/double-hit) | Normal | Physical | 35 | 90% | 12 | The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row. |
+| [Double Kick](https://op.gg/pokemon-champions/moves/double-kick) | Fighting | Physical | 30 | 100% | 20 | The target is quickly kicked twice in succession using both feet. |
+| [Double Team](https://op.gg/pokemon-champions/moves/double-team) | Normal | Status | — | — | 16 | By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. |
+| [Draco Meteor](https://op.gg/pokemon-champions/moves/draco-meteor) | Dragon | Special | 130 | 90% | 8 | Comets are summoned down from the sky onto the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat. |
+| [Dragon Breath](https://op.gg/pokemon-champions/moves/dragon-breath) | Dragon | Special | 60 | 100% | 20 | The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis. |
+| [Dragon Claw](https://op.gg/pokemon-champions/moves/dragon-claw) | Dragon | Physical | 80 | 100% | 16 | The user slashes the target with huge sharp claws. |
+| [Dragon Dance](https://op.gg/pokemon-champions/moves/dragon-dance) | Dragon | Status | — | — | 20 | The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats. |
+| [Dragon Pulse](https://op.gg/pokemon-champions/moves/dragon-pulse) | Dragon | Special | 85 | 100% | 12 | The target is attacked with a shock wave generated by the user’s gaping mouth. |
+| [Dragon Rush](https://op.gg/pokemon-champions/moves/dragon-rush) | Dragon | Physical | 100 | 75% | 12 | The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch. |
+| [Dragon Tail](https://op.gg/pokemon-champions/moves/dragon-tail) | Dragon | Physical | 60 | 90% | 12 | The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon. |
+| [Drain Punch](https://op.gg/pokemon-champions/moves/drain-punch) | Fighting | Physical | 75 | 100% | 12 | An energy-draining punch. The user’s HP is restored by half the damage taken by the target. |
+| [Draining Kiss](https://op.gg/pokemon-champions/moves/draining-kiss) | Fairy | Special | 50 | 100% | 12 | The user steals the target’s HP with a kiss. The user’s HP is restored by over half of the damage taken by the target. |
+| [Dream Eater](https://op.gg/pokemon-champions/moves/dream-eater) | Psychic | Special | 100 | 100% | 16 | The user eats the dreams of a sleeping target. The user’s HP is restored by half the damage taken by the target. |
+| [Drill Peck](https://op.gg/pokemon-champions/moves/drill-peck) | Flying | Physical | 80 | 100% | 20 | A corkscrewing attack that strikes the target with a sharp beak acting as a drill. |
+| [Drill Run](https://op.gg/pokemon-champions/moves/drill-run) | Ground | Physical | 80 | 95% | 12 | The user crashes into its target while rotating its body like a drill. Critical hits land more easily. |
+| [Dual Wingbeat](https://op.gg/pokemon-champions/moves/dual-wingbeat) | Flying | Physical | 40 | 90% | 12 | The user slams the target with its wings. The target is hit twice in a row. |
+| [Earth Power](https://op.gg/pokemon-champions/moves/earth-power) | Ground | Special | 90 | 100% | 12 | The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def stat. |
+| [Earthquake](https://op.gg/pokemon-champions/moves/earthquake) | Ground | Physical | 100 | 100% | 12 | The user sets off an earthquake that strikes every Pokémon around it. |
+| [Electro Ball](https://op.gg/pokemon-champions/moves/electro-ball) | Electric | Special | — | 100% | 12 | The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power. |
+| [Ember](https://op.gg/pokemon-champions/moves/ember) | Fire | Special | 40 | 100% | 20 | The target is attacked with small flames. This may also leave the target with a burn. |
+| [Encore](https://op.gg/pokemon-champions/moves/encore) | Normal | Status | — | 100% | 8 | The user compels the target to keep using the move it encored for three turns. |
+| [Energy Ball](https://op.gg/pokemon-champions/moves/energy-ball) | Grass | Special | 90 | 100% | 12 | The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def stat. |
+| [Extrasensory](https://op.gg/pokemon-champions/moves/extrasensory) | Psychic | Special | 80 | 100% | 20 | The user attacks with an odd, unseeable power. This may also make the target flinch. |
+| [Extreme Speed](https://op.gg/pokemon-champions/moves/extreme-speed) | Normal | Physical | 80 | 100% | 8 | The user charges the target at blinding speed. This move always goes first. |
+| [Facade](https://op.gg/pokemon-champions/moves/facade) | Normal | Physical | 70 | 100% | 20 | This attack move doubles its power if the user is poisoned, burned, or paralyzed. |
+| [Fake Out](https://op.gg/pokemon-champions/moves/fake-out) | Normal | Physical | 40 | 100% | 12 | This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle. |
+| [Fake Tears](https://op.gg/pokemon-champions/moves/fake-tears) | Dark | Status | — | 100% | 20 | The user feigns crying to fluster the target, harshly lowering its Sp. Def stat. |
+| [Feather Dance](https://op.gg/pokemon-champions/moves/feather-dance) | Flying | Status | — | 100% | 16 | The user covers the target’s body with a mass of down that harshly lowers its Attack stat. |
+| [Fire Blast](https://op.gg/pokemon-champions/moves/fire-blast) | Fire | Special | 110 | 85% | 8 | The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn. |
+| [Fire Fang](https://op.gg/pokemon-champions/moves/fire-fang) | Fire | Physical | 65 | 95% | 16 | The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn. |
+| [Fire Punch](https://op.gg/pokemon-champions/moves/fire-punch) | Fire | Physical | 75 | 100% | 16 | The target is punched with a fiery fist. This may also leave the target with a burn. |
+| [Fire Spin](https://op.gg/pokemon-champions/moves/fire-spin) | Fire | Special | 35 | 85% | 16 | The target becomes trapped within a fierce vortex of fire that rages for four to five turns. |
+| [Flame Charge](https://op.gg/pokemon-champions/moves/flame-charge) | Fire | Physical | 50 | 100% | 20 | Cloaking itself in flame, the user attacks the target. Then, building up more power, the user raises its Speed stat. |
+| [Flame Wheel](https://op.gg/pokemon-champions/moves/flame-wheel) | Fire | Physical | 60 | 100% | 20 | The user cloaks itself in fire and charges at the target. This may also leave the target with a burn. |
+| [Flamethrower](https://op.gg/pokemon-champions/moves/flamethrower) | Fire | Special | 90 | 100% | 16 | The target is scorched with an intense blast of fire. This may also leave the target with a burn. |
+| [Flare Blitz](https://op.gg/pokemon-champions/moves/flare-blitz) | Fire | Physical | 120 | 100% | 16 | The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This attack may leave the target with a burn. |
+| [Flash Cannon](https://op.gg/pokemon-champions/moves/flash-cannon) | Steel | Special | 80 | 100% | 12 | The user gathers all its light energy and releases it all at once. This may also lower the target’s Sp. Def stat. |
+| [Flip Turn](https://op.gg/pokemon-champions/moves/flip-turn) | Water | Physical | 60 | 100% | 20 | After making its attack, the user rushes back to switch places with a party Pokémon in waiting. |
+| [Fly](https://op.gg/pokemon-champions/moves/fly) | Flying | Physical | 90 | 95% | 16 | The user flies up into the sky and then strikes its target on the next turn. |
+| [Focus Blast](https://op.gg/pokemon-champions/moves/focus-blast) | Fighting | Special | 120 | 70% | 8 | The user heightens its mental focus and unleashes its power. This may also lower the target’s Sp. Def stat. |
+| [Focus Energy](https://op.gg/pokemon-champions/moves/focus-energy) | Normal | Status | — | — | 20 | The user takes a deep breath and focuses so that critical hits land more easily. |
+| [Follow Me](https://op.gg/pokemon-champions/moves/follow-me) | Normal | Status | — | — | 20 | The user draws attention to itself, making all targets take aim only at the user. |
+| [Foul Play](https://op.gg/pokemon-champions/moves/foul-play) | Dark | Physical | 95 | 100% | 16 | The user turns the target’s power against it. The higher the target’s Attack stat, the greater the damage it deals. |
+| [Freeze-Dry](https://op.gg/pokemon-champions/moves/freeze-dry) | Ice | Special | 70 | 100% | 20 | The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types. |
+| [Fury Attack](https://op.gg/pokemon-champions/moves/fury-attack) | Normal | Physical | 15 | 85% | 20 | The target is jabbed repeatedly with a horn or beak two to five times in a row. |
+| [Fury Cutter](https://op.gg/pokemon-champions/moves/fury-cutter) | Bug | Physical | 40 | 95% | 20 | The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession. |
+| [Future Sight](https://op.gg/pokemon-champions/moves/future-sight) | Psychic | Special | 120 | 100% | 12 | Two turns after this move is used, a hunk of psychic energy attacks the target. |
+| [Giga Drain](https://op.gg/pokemon-champions/moves/giga-drain) | Grass | Special | 75 | 100% | 12 | A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target. |
+| [Giga Impact](https://op.gg/pokemon-champions/moves/giga-impact) | Normal | Physical | 150 | 90% | 8 | The user charges at the target using every bit of its power. The user can’t move on the next turn. |
+| [Grass Knot](https://op.gg/pokemon-champions/moves/grass-knot) | Grass | Special | — | 100% | 20 | The user snares the target with grass and trips it. The heavier the target, the greater the move’s power. |
+| [Grassy Glide](https://op.gg/pokemon-champions/moves/grassy-glide) | Grass | Physical | 55 | 100% | 20 | Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain. |
+| [Grav Apple](https://op.gg/pokemon-champions/moves/grav-apple) | Grass | Physical | 80 | 100% | 12 | The user inflicts damage by dropping an apple from high above. This also lowers the target’s Defense stat. |
+| [Growl](https://op.gg/pokemon-champions/moves/growl) | Normal | Status | — | 100% | 20 | The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats. |
+| [Growth](https://op.gg/pokemon-champions/moves/growth) | Normal | Status | — | — | 20 | The user’s body grows all at once, raising the Attack and Sp. Atk stats. |
+| [Gunk Shot](https://op.gg/pokemon-champions/moves/gunk-shot) | Poison | Physical | 120 | 80% | 8 | The user shoots filthy garbage at the target to attack. This may also poison the target. |
+| [Gust](https://op.gg/pokemon-champions/moves/gust) | Flying | Special | 40 | 100% | 20 | A gust of wind is whipped up by wings and launched at the target to inflict damage. |
+| [Gyro Ball](https://op.gg/pokemon-champions/moves/gyro-ball) | Steel | Physical | — | 100% | 8 | The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power. |
+| [Hail](https://op.gg/pokemon-champions/moves/hail) | Ice | Status | — | — | 12 | The user summons a hailstorm lasting five turns. It damages all Pokémon except Ice types. |
+| [Hammer Arm](https://op.gg/pokemon-champions/moves/hammer-arm) | Fighting | Physical | 100 | 90% | 12 | The user swings and hits with its strong, heavy fist. It lowers the user’s Speed, however. |
+| [Harden](https://op.gg/pokemon-champions/moves/harden) | Normal | Status | — | — | 20 | The user stiffens all the muscles in its body to raise its Defense stat. |
+| [Headbutt](https://op.gg/pokemon-champions/moves/headbutt) | Normal | Physical | 70 | 100% | 16 | The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch. |
+| [Heal Bell](https://op.gg/pokemon-champions/moves/heal-bell) | Normal | Status | — | — | 8 | The user makes a soothing bell chime to heal the status conditions of all the party Pokémon. |
+| [Heal Pulse](https://op.gg/pokemon-champions/moves/heal-pulse) | Psychic | Status | — | — | 12 | The user emits a healing pulse that restores the target’s HP by up to half of its max HP. |
+| [Heat Wave](https://op.gg/pokemon-champions/moves/heat-wave) | Fire | Special | 95 | 90% | 12 | The user attacks by exhaling hot breath on opposing Pokémon. This may also leave those Pokémon with a burn. |
+| [Heavy Slam](https://op.gg/pokemon-champions/moves/heavy-slam) | Steel | Physical | — | 100% | 12 | The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power. |
+| [Helping Hand](https://op.gg/pokemon-champions/moves/helping-hand) | Normal | Status | — | — | 20 | The user assists an ally by boosting the power of that ally’s attack. |
+| [Hex](https://op.gg/pokemon-champions/moves/hex) | Ghost | Special | 65 | 100% | 12 | This relentless attack does massive damage to a target affected by status conditions. |
+| [High Horsepower](https://op.gg/pokemon-champions/moves/high-horsepower) | Ground | Physical | 95 | 95% | 12 | The user fiercely attacks the target using its entire body. |
+| [High Jump Kick](https://op.gg/pokemon-champions/moves/high-jump-kick) | Fighting | Physical | 130 | 90% | 12 | The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead. |
+| [Horn Attack](https://op.gg/pokemon-champions/moves/horn-attack) | Normal | Physical | 65 | 100% | 20 | The target is jabbed with a sharply pointed horn to inflict damage. |
+| [Howl](https://op.gg/pokemon-champions/moves/howl) | Normal | Status | — | — | 20 | The user howls loudly to raise the spirit of itself and allies. This raises their Attack stats. |
+| [Hurricane](https://op.gg/pokemon-champions/moves/hurricane) | Flying | Special | 110 | 70% | 12 | The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target. |
+| [Hydro Pump](https://op.gg/pokemon-champions/moves/hydro-pump) | Water | Special | 110 | 80% | 8 | The target is blasted by a huge volume of water launched under great pressure. |
+| [Hyper Beam](https://op.gg/pokemon-champions/moves/hyper-beam) | Normal | Special | 150 | 90% | 8 | The target is attacked with a powerful beam. The user can’t move on the next turn. |
+| [Hyper Fang](https://op.gg/pokemon-champions/moves/hyper-fang) | Normal | Physical | 80 | 90% | 16 | The user bites hard on the target with its sharp front fangs. This may also make the target flinch. |
+| [Hyper Voice](https://op.gg/pokemon-champions/moves/hyper-voice) | Normal | Special | 90 | 100% | 12 | The user lets loose a horribly echoing shout with the power to inflict damage. |
+| [Hypnosis](https://op.gg/pokemon-champions/moves/hypnosis) | Psychic | Status | — | 60% | 20 | The user employs hypnotic suggestion to make the target fall into a deep sleep. |
+| [Ice Beam](https://op.gg/pokemon-champions/moves/ice-beam) | Ice | Special | 90 | 100% | 12 | The target is struck with an icy-cold beam of energy. This may also leave the target frozen. |
+| [Ice Fang](https://op.gg/pokemon-champions/moves/ice-fang) | Ice | Physical | 65 | 95% | 16 | The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen. |
+| [Ice Punch](https://op.gg/pokemon-champions/moves/ice-punch) | Ice | Physical | 75 | 100% | 16 | The target is punched with an icy fist. This may also leave the target frozen. |
+| [Ice Shard](https://op.gg/pokemon-champions/moves/ice-shard) | Ice | Physical | 40 | 100% | 20 | The user flash-freezes chunks of ice and hurls them at the target. This move always goes first. |
+| [Ice Spinner](https://op.gg/pokemon-champions/moves/ice-spinner) | Ice | Physical | 80 | 100% | 16 | The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain. |
+| [Icicle Crash](https://op.gg/pokemon-champions/moves/icicle-crash) | Ice | Physical | 85 | 90% | 12 | The user attacks by harshly dropping large icicles onto the target. This may also make the target flinch. |
+| [Icicle Spear](https://op.gg/pokemon-champions/moves/icicle-spear) | Ice | Physical | 25 | 100% | 20 | The user launches sharp icicles at the target two to five times in a row. |
+| [Icy Wind](https://op.gg/pokemon-champions/moves/icy-wind) | Ice | Special | 55 | 95% | 16 | The user attacks with a gust of chilled air. This also lowers opposing Pokémon’s Speed stats. |
+| [Imprison](https://op.gg/pokemon-champions/moves/imprison) | Psychic | Status | — | — | 12 | If opposing Pokémon know any move also known by the user, they are prevented from using it. |
+| [Inferno](https://op.gg/pokemon-champions/moves/inferno) | Fire | Special | 100 | 50% | 8 | The user attacks by engulfing the target in an intense fire. This leaves the target with a burn. |
+| [Iron Defense](https://op.gg/pokemon-champions/moves/iron-defense) | Steel | Status | — | — | 16 | The user hardens its body’s surface like iron, sharply raising its Defense stat. |
+| [Iron Head](https://op.gg/pokemon-champions/moves/iron-head) | Steel | Physical | 80 | 100% | 16 | The user slams the target with its steel-hard head. This may also make the target flinch. |
+| [Iron Tail](https://op.gg/pokemon-champions/moves/iron-tail) | Steel | Physical | 100 | 75% | 16 | The target is slammed with a steel-hard tail. This may also lower the target’s Defense stat. |
+| [Knock Off](https://op.gg/pokemon-champions/moves/knock-off) | Dark | Physical | 65 | 100% | 20 | The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item. |
+| [Leaf Blade](https://op.gg/pokemon-champions/moves/leaf-blade) | Grass | Physical | 90 | 100% | 16 | The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily. |
+| [Leaf Storm](https://op.gg/pokemon-champions/moves/leaf-storm) | Grass | Special | 130 | 90% | 8 | The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat. |
+| [Leaf Tornado](https://op.gg/pokemon-champions/moves/leaf-tornado) | Grass | Special | 65 | 90% | 12 | The user attacks its target by encircling it in sharp leaves. This attack may also lower the target’s accuracy. |
+| [Leech Life](https://op.gg/pokemon-champions/moves/leech-life) | Bug | Physical | 80 | 100% | 12 | The user drains the target’s blood. The user’s HP is restored by half the damage taken by the target. |
+| [Leech Seed](https://op.gg/pokemon-champions/moves/leech-seed) | Grass | Status | — | 90% | 12 | A seed is planted on the target. It steals some HP from the target every turn. |
+| [Leer](https://op.gg/pokemon-champions/moves/leer) | Normal | Status | — | 100% | 20 | The user gives opposing Pokémon an intimidating leer that lowers the Defense stat. |
+| [Lick](https://op.gg/pokemon-champions/moves/lick) | Ghost | Physical | 30 | 100% | 20 | The target is licked with a long tongue, causing damage. This may also leave the target with paralysis. |
+| [Life Dew](https://op.gg/pokemon-champions/moves/life-dew) | Water | Status | — | — | 12 | The user scatters mysterious water around and restores the HP of itself and its ally Pokémon in the battle. |
+| [Light Screen](https://op.gg/pokemon-champions/moves/light-screen) | Psychic | Status | — | — | 20 | A wondrous wall of light is put up to reduce damage from special attacks for five turns. |
+| [Liquidation](https://op.gg/pokemon-champions/moves/liquidation) | Water | Physical | 85 | 100% | 12 | The user slams into the target using a full-force blast of water. This may also lower the target’s Defense stat. |
+| [Low Kick](https://op.gg/pokemon-champions/moves/low-kick) | Fighting | Physical | — | 100% | 20 | A powerful low kick that makes the target fall over. The heavier the target, the greater the move’s power. |
+| [Low Sweep](https://op.gg/pokemon-champions/moves/low-sweep) | Fighting | Physical | 65 | 100% | 20 | The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat. |
+| [Lunge](https://op.gg/pokemon-champions/moves/lunge) | Bug | Physical | 80 | 100% | 16 | The user makes a lunge at the target, attacking with full force. This also lowers the target’s Attack stat. |
+| [Mach Punch](https://op.gg/pokemon-champions/moves/mach-punch) | Fighting | Physical | 40 | 100% | 20 | The user throws a punch at blinding speed. This move always goes first. |
+| [Magic Coat](https://op.gg/pokemon-champions/moves/magic-coat) | Psychic | Status | — | — | 16 | Moves like Leech Seed and moves that inflict status conditions are blocked by a barrier and reflected back to the user of those moves. |
+| [Magical Leaf](https://op.gg/pokemon-champions/moves/magical-leaf) | Grass | Special | 60 | — | 20 | The user scatters curious leaves that chase the target. This attack never misses. |
+| [Magnet Rise](https://op.gg/pokemon-champions/moves/magnet-rise) | Electric | Status | — | — | 12 | The user levitates using electrically generated magnetism for five turns. |
+| [Mega Drain](https://op.gg/pokemon-champions/moves/mega-drain) | Grass | Special | 40 | 100% | 16 | A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target. |
+| [Mega Kick](https://op.gg/pokemon-champions/moves/mega-kick) | Normal | Physical | 120 | 75% | 8 | The target is attacked by a kick launched with muscle-packed power. |
+| [Mega Punch](https://op.gg/pokemon-champions/moves/mega-punch) | Normal | Physical | 80 | 85% | 20 | The target is slugged by a punch thrown with muscle-packed power. |
+| [Megahorn](https://op.gg/pokemon-champions/moves/megahorn) | Bug | Physical | 120 | 85% | 12 | Using its tough and impressive horn, the user rams into the target with no letup. |
+| [Metal Claw](https://op.gg/pokemon-champions/moves/metal-claw) | Steel | Physical | 50 | 95% | 20 | The target is raked with steel claws. This may also raise the user’s Attack stat. |
+| [Meteor Mash](https://op.gg/pokemon-champions/moves/meteor-mash) | Steel | Physical | 90 | 90% | 12 | The target is hit with a hard punch fired like a meteor. This may also raise the user’s Attack stat. |
+| [Minimize](https://op.gg/pokemon-champions/moves/minimize) | Normal | Status | — | — | 12 | The user compresses its body to make itself look smaller, which sharply raises its evasiveness. |
+| [Misty Terrain](https://op.gg/pokemon-champions/moves/misty-terrain) | Fairy | Status | — | — | 12 | This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns. |
+| [Moonblast](https://op.gg/pokemon-champions/moves/moonblast) | Fairy | Special | 95 | 100% | 16 | Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat. |
+| [Moonlight](https://op.gg/pokemon-champions/moves/moonlight) | Fairy | Status | — | — | 8 | The user restores its own HP. The amount of HP regained varies with the weather. |
+| [Morning Sun](https://op.gg/pokemon-champions/moves/morning-sun) | Normal | Status | — | — | 8 | The user restores its own HP. The amount of HP regained varies with the weather. |
+| [Mud Shot](https://op.gg/pokemon-champions/moves/mud-shot) | Ground | Special | 55 | 95% | 16 | The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat. |
+| [Mud-Slap](https://op.gg/pokemon-champions/moves/mud-slap) | Ground | Special | 20 | 100% | 12 | The user hurls mud in the target’s face to inflict damage and lower its accuracy. |
+| [Muddy Water](https://op.gg/pokemon-champions/moves/muddy-water) | Water | Special | 90 | 85% | 12 | The user attacks by shooting muddy water at opposing Pokémon. This may also lower their accuracy. |
+| [Nasty Plot](https://op.gg/pokemon-champions/moves/nasty-plot) | Dark | Status | — | — | 20 | The user stimulates its brain by thinking bad thoughts. This sharply raises the user’s Sp. Atk stat. |
+| [Night Daze](https://op.gg/pokemon-champions/moves/night-daze) | Dark | Special | 85 | 95% | 12 | The user lets loose a pitch-black shock wave at its target. This may also lower the target’s accuracy. |
+| [Night Shade](https://op.gg/pokemon-champions/moves/night-shade) | Ghost | Special | — | 100% | 16 | The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level. |
+| [Night Slash](https://op.gg/pokemon-champions/moves/night-slash) | Dark | Physical | 70 | 100% | 16 | The user slashes the target the instant an opportunity arises. Critical hits land more easily. |
+| [Outrage](https://op.gg/pokemon-champions/moves/outrage) | Dragon | Physical | 120 | 100% | 12 | The user rampages and attacks for two to three turns. The user then becomes confused. |
+| [Overheat](https://op.gg/pokemon-champions/moves/overheat) | Fire | Special | 130 | 90% | 8 | The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat. |
+| [Pain Split](https://op.gg/pokemon-champions/moves/pain-split) | Normal | Status | — | — | 20 | The user adds its HP to the target’s HP, then equally shares the combined HP with the target. |
+| [Peck](https://op.gg/pokemon-champions/moves/peck) | Flying | Physical | 35 | 100% | 20 | The target is jabbed with a sharply pointed beak or horn. |
+| [Petal Blizzard](https://op.gg/pokemon-champions/moves/petal-blizzard) | Grass | Physical | 90 | 100% | 16 | The user stirs up a violent petal blizzard and attacks everything around it. |
+| [Petal Dance](https://op.gg/pokemon-champions/moves/petal-dance) | Grass | Special | 120 | 100% | 12 | The user attacks the target by scattering petals for two to three turns. The user then becomes confused. |
+| [Phantom Force](https://op.gg/pokemon-champions/moves/phantom-force) | Ghost | Physical | 90 | 100% | 12 | The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself. |
+| [Pin Missile](https://op.gg/pokemon-champions/moves/pin-missile) | Bug | Physical | 25 | 95% | 20 | Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row. |
+| [Play Rough](https://op.gg/pokemon-champions/moves/play-rough) | Fairy | Physical | 90 | 90% | 12 | The user plays rough with the target and attacks it. This may also lower the target’s Attack stat. |
+| [Poison Fang](https://op.gg/pokemon-champions/moves/poison-fang) | Poison | Physical | 50 | 100% | 16 | The user bites the target with toxic fangs. This may also leave the target badly poisoned. |
+| [Poison Gas](https://op.gg/pokemon-champions/moves/poison-gas) | Poison | Status | — | 90% | 20 | A cloud of poison gas is sprayed in the face of opposing Pokémon, poisoning those it hits. |
+| [Poison Jab](https://op.gg/pokemon-champions/moves/poison-jab) | Poison | Physical | 80 | 100% | 20 | The target is stabbed with a tentacle, arm, or the like steeped in poison. This may also poison the target. |
+| [Poison Powder](https://op.gg/pokemon-champions/moves/poison-powder) | Poison | Status | — | 75% | 20 | The user scatters a cloud of poisonous dust that poisons the target. |
+| [Poison Sting](https://op.gg/pokemon-champions/moves/poison-sting) | Poison | Physical | 15 | 100% | 20 | The user stabs the target with a poisonous stinger. This may also poison the target. |
+| [Pollen Puff](https://op.gg/pokemon-champions/moves/pollen-puff) | Bug | Special | 90 | 100% | 16 | The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead. |
+| [Pound](https://op.gg/pokemon-champions/moves/pound) | Normal | Physical | 40 | 100% | 20 | The target is physically pounded with a long tail, a foreleg, or the like. |
+| [Powder Snow](https://op.gg/pokemon-champions/moves/powder-snow) | Ice | Special | 40 | 100% | 20 | The user attacks with a chilling gust of powdery snow. This may also freeze opposing Pokémon. |
+| [Power Gem](https://op.gg/pokemon-champions/moves/power-gem) | Rock | Special | 80 | 100% | 20 | The user attacks with a ray of light that sparkles as if it were made of gemstones. |
+| [Power Whip](https://op.gg/pokemon-champions/moves/power-whip) | Grass | Physical | 120 | 85% | 12 | The user violently whirls its vines, tentacles, or the like to harshly lash the target. |
+| [Protect](https://op.gg/pokemon-champions/moves/protect) | Normal | Status | — | — | 12 | This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. |
+| [Psybeam](https://op.gg/pokemon-champions/moves/psybeam) | Psychic | Special | 65 | 100% | 20 | The target is attacked with a peculiar ray. This may also leave the target confused. |
+| [Psychic](https://op.gg/pokemon-champions/moves/psychic) | Psychic | Special | 90 | 100% | 12 | The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat. |
+| [Psychic Terrain](https://op.gg/pokemon-champions/moves/psychic-terrain) | Psychic | Status | — | — | 12 | This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns. |
+| [Psyshock](https://op.gg/pokemon-champions/moves/psyshock) | Psychic | Special | 80 | 100% | 12 | The user materializes an odd psychic wave to attack the target. This attack does physical damage. |
+| [Quash](https://op.gg/pokemon-champions/moves/quash) | Dark | Status | — | 100% | 16 | The user suppresses the target and makes its move go last. |
+| [Quick Attack](https://op.gg/pokemon-champions/moves/quick-attack) | Normal | Physical | 40 | 100% | 20 | The user lunges at the target at a speed that makes it almost invisible. This move always goes first. |
+| [Rage Powder](https://op.gg/pokemon-champions/moves/rage-powder) | Bug | Status | — | — | 20 | The user scatters a cloud of irritating powder to draw attention to itself. Opposing Pokémon aim only at the user. |
+| [Rain Dance](https://op.gg/pokemon-champions/moves/rain-dance) | Water | Status | — | — | 8 | The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves. |
+| [Rapid Spin](https://op.gg/pokemon-champions/moves/rapid-spin) | Normal | Physical | 50 | 100% | 20 | A spin attack that can also eliminate such moves as Bind, Wrap, and Leech Seed. This also raises the user’s Speed stat. |
+| [Razor Leaf](https://op.gg/pokemon-champions/moves/razor-leaf) | Grass | Physical | 55 | 95% | 20 | Sharp-edged leaves are launched to slash at opposing Pokémon. Critical hits land more easily. |
+| [Recover](https://op.gg/pokemon-champions/moves/recover) | Normal | Status | — | — | 8 | Restoring its own cells, the user restores its own HP by half of its max HP. |
+| [Reflect](https://op.gg/pokemon-champions/moves/reflect) | Psychic | Status | — | — | 20 | A wondrous wall of light is put up to reduce damage from physical attacks for five turns. |
+| [Rest](https://op.gg/pokemon-champions/moves/rest) | Psychic | Status | — | — | 8 | The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions. |
+| [Roar](https://op.gg/pokemon-champions/moves/roar) | Normal | Status | — | — | 20 | The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon. |
+| [Rock Blast](https://op.gg/pokemon-champions/moves/rock-blast) | Rock | Physical | 25 | 90% | 12 | The user hurls hard rocks at the target. Two to five rocks are launched in a row. |
+| [Rock Polish](https://op.gg/pokemon-champions/moves/rock-polish) | Rock | Status | — | — | 20 | The user polishes its body to reduce drag. This sharply raises the Speed stat. |
+| [Rock Slide](https://op.gg/pokemon-champions/moves/rock-slide) | Rock | Physical | 75 | 90% | 12 | Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch. |
+| [Rock Throw](https://op.gg/pokemon-champions/moves/rock-throw) | Rock | Physical | 50 | 90% | 16 | The user picks up and throws a small rock at the target to attack. |
+| [Rock Tomb](https://op.gg/pokemon-champions/moves/rock-tomb) | Rock | Physical | 60 | 95% | 16 | Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement. |
+| [Roost](https://op.gg/pokemon-champions/moves/roost) | Flying | Status | — | — | 12 | The user lands and rests its body. This move restores the user’s HP by up to half of its max HP. |
+| [Safeguard](https://op.gg/pokemon-champions/moves/safeguard) | Normal | Status | — | — | 20 | The user creates a protective field that prevents status conditions for five turns. |
+| [Sand Attack](https://op.gg/pokemon-champions/moves/sand-attack) | Ground | Status | — | 100% | 16 | Sand is hurled in the target’s face, reducing the target’s accuracy. |
+| [Sandstorm](https://op.gg/pokemon-champions/moves/sandstorm) | Rock | Status | — | — | 12 | A five-turn sandstorm is summoned to hurt all combatants except Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types. |
+| [Scald](https://op.gg/pokemon-champions/moves/scald) | Water | Special | 80 | 100% | 16 | The user shoots boiling hot water at its target. This may also leave the target with a burn. |
+| [Scary Face](https://op.gg/pokemon-champions/moves/scary-face) | Normal | Status | — | 100% | 12 | The user frightens the target with a scary face to harshly lower its Speed stat. |
+| [Scratch](https://op.gg/pokemon-champions/moves/scratch) | Normal | Physical | 40 | 100% | 20 | Hard, pointed, sharp claws rake the target to inflict damage. |
+| [Screech](https://op.gg/pokemon-champions/moves/screech) | Normal | Status | — | 85% | 20 | An earsplitting screech harshly lowers the target’s Defense stat. |
+| [Seed Bomb](https://op.gg/pokemon-champions/moves/seed-bomb) | Grass | Physical | 80 | 100% | 16 | The user slams a barrage of hard-shelled seeds down on the target from above. |
+| [Seismic Toss](https://op.gg/pokemon-champions/moves/seismic-toss) | Fighting | Physical | — | 100% | 20 | The target is thrown using the power of gravity. It inflicts damage equal to the user’s level. |
+| [Self-Destruct](https://op.gg/pokemon-champions/moves/self-destruct) | Normal | Physical | 200 | 100% | 8 | The user attacks everything around it by causing an explosion. The user faints upon using this move. |
+| [Shadow Ball](https://op.gg/pokemon-champions/moves/shadow-ball) | Ghost | Special | 80 | 100% | 16 | The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat. |
+| [Shadow Claw](https://op.gg/pokemon-champions/moves/shadow-claw) | Ghost | Physical | 70 | 100% | 16 | The user slashes with a sharp claw made from shadows. Critical hits land more easily. |
+| [Shadow Punch](https://op.gg/pokemon-champions/moves/shadow-punch) | Ghost | Physical | 60 | — | 20 | The user throws a punch from the shadows. This attack never misses. |
+| [Shadow Sneak](https://op.gg/pokemon-champions/moves/shadow-sneak) | Ghost | Physical | 40 | 100% | 20 | The user extends its shadow and attacks the target from behind. This move always goes first. |
+| [Shell Smash](https://op.gg/pokemon-champions/moves/shell-smash) | Normal | Status | — | — | 16 | The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats. |
+| [Signal Beam](https://op.gg/pokemon-champions/moves/signal-beam) | Bug | Special | 75 | 100% | 16 | This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. |
+| [Silver Wind](https://op.gg/pokemon-champions/moves/silver-wind) | Bug | Special | 60 | 100% | 8 | This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. |
+| [Sing](https://op.gg/pokemon-champions/moves/sing) | Normal | Status | — | 55% | 16 | A soothing lullaby is sung in a calming voice that puts the target into a deep slumber. |
+| [Skull Bash](https://op.gg/pokemon-champions/moves/skull-bash) | Normal | Physical | 130 | 100% | 12 | The user tucks in its head to raise its Defense stat on the first turn, then rams the target on the next turn. |
+| [Sky Attack](https://op.gg/pokemon-champions/moves/sky-attack) | Flying | Physical | 140 | 90% | 8 | A second-turn attack move where critical hits land more easily. This may also make the target flinch. |
+| [Slack Off](https://op.gg/pokemon-champions/moves/slack-off) | Normal | Status | — | — | 12 | The user slacks off, restoring its own HP by up to half of its max HP. |
+| [Slam](https://op.gg/pokemon-champions/moves/slam) | Normal | Physical | 80 | 75% | 20 | The target is slammed with a long tail, vines, or the like to inflict damage. |
+| [Slash](https://op.gg/pokemon-champions/moves/slash) | Normal | Physical | 70 | 100% | 20 | The target is attacked with a slash of claws or blades. Critical hits land more easily. |
+| [Sleep Powder](https://op.gg/pokemon-champions/moves/sleep-powder) | Grass | Status | — | 75% | 16 | The user scatters a big cloud of sleep-inducing dust around the target. |
+| [Sleep Talk](https://op.gg/pokemon-champions/moves/sleep-talk) | Normal | Status | — | — | 12 | While it is asleep, the user randomly uses one of the moves it knows. |
+| [Sludge](https://op.gg/pokemon-champions/moves/sludge) | Poison | Special | 65 | 100% | 20 | Unsanitary sludge is hurled at the target. This may also poison the target. |
+| [Sludge Bomb](https://op.gg/pokemon-champions/moves/sludge-bomb) | Poison | Special | 90 | 100% | 12 | Unsanitary sludge is hurled at the target. This may also poison the target. |
+| [Sludge Wave](https://op.gg/pokemon-champions/moves/sludge-wave) | Poison | Special | 95 | 100% | 12 | The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit. |
+| [Smart Strike](https://op.gg/pokemon-champions/moves/smart-strike) | Steel | Physical | 70 | — | 12 | The user stabs the target with a sharp horn. This attack never misses. |
+| [Smog](https://op.gg/pokemon-champions/moves/smog) | Poison | Special | 30 | 70% | 20 | The target is attacked with a discharge of filthy gases. This may also poison the target. |
+| [Smokescreen](https://op.gg/pokemon-champions/moves/smokescreen) | Normal | Status | — | 100% | 20 | The user releases an obscuring cloud of smoke or ink. This lowers the target’s accuracy. |
+| [Snarl](https://op.gg/pokemon-champions/moves/snarl) | Dark | Special | 55 | 95% | 16 | The user yells as if it’s ranting about something, which lowers the Sp. Atk stats of opposing Pokémon. |
+| [Snore](https://op.gg/pokemon-champions/moves/snore) | Normal | Special | 50 | 100% | 16 | This attack can be used only if the user is asleep. The harsh noise may also make the target flinch. |
+| [Soft-Boiled](https://op.gg/pokemon-champions/moves/soft-boiled) | Normal | Status | — | — | 8 | The user restores its own HP by up to half of its max HP. |
+| [Solar Beam](https://op.gg/pokemon-champions/moves/solar-beam) | Grass | Special | 120 | 100% | 12 | In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn. |
+| [Solar Blade](https://op.gg/pokemon-champions/moves/solar-blade) | Grass | Physical | 125 | 100% | 12 | In this two-turn attack, the user gathers light and fills a blade with the light’s energy, attacking the target on the next turn. |
+| [Spark](https://op.gg/pokemon-champions/moves/spark) | Electric | Physical | 65 | 100% | 20 | The user throws an electrically charged tackle at the target. This may also leave the target with paralysis. |
+| [Spikes](https://op.gg/pokemon-champions/moves/spikes) | Ground | Status | — | — | 20 | The user lays a trap of spikes at the opposing team’s feet. The trap hurts Pokémon that switch into battle. |
+| [Spirit Break](https://op.gg/pokemon-champions/moves/spirit-break) | Fairy | Physical | 75 | 100% | 16 | The user attacks the target with so much force that it could break the target’s spirit. This also lowers the target’s Sp. Atk stat. |
+| [Spite](https://op.gg/pokemon-champions/moves/spite) | Ghost | Status | — | 100% | 12 | The user unleashes its grudge on the move last used by the target by cutting 4 PP from it. |
+| [Stealth Rock](https://op.gg/pokemon-champions/moves/stealth-rock) | Rock | Status | — | — | 20 | The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle. |
+| [Steel Wing](https://op.gg/pokemon-champions/moves/steel-wing) | Steel | Physical | 70 | 90% | 20 | The target is hit with wings of steel. This may also raise the user’s Defense stat. |
+| [Sticky Web](https://op.gg/pokemon-champions/moves/sticky-web) | Bug | Status | — | — | 20 | The user weaves a sticky net around the opposing team, which lowers their Speed stats upon switching into battle. |
+| [Stockpile](https://op.gg/pokemon-champions/moves/stockpile) | Normal | Status | — | — | 20 | The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times. |
+| [Stomp](https://op.gg/pokemon-champions/moves/stomp) | Normal | Physical | 65 | 100% | 20 | The target is stomped with a big foot. This may also make the target flinch. |
+| [Stone Edge](https://op.gg/pokemon-champions/moves/stone-edge) | Rock | Physical | 100 | 80% | 8 | The user stabs the target from below with sharpened stones. Critical hits land more easily. |
+| [Stored Power](https://op.gg/pokemon-champions/moves/stored-power) | Psychic | Special | 20 | 100% | 12 | The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power. |
+| [Strength](https://op.gg/pokemon-champions/moves/strength) | Normal | Physical | 80 | 100% | 16 | The target is slugged with a punch thrown at maximum power. |
+| [Stun Spore](https://op.gg/pokemon-champions/moves/stun-spore) | Grass | Status | — | 75% | 20 | The user scatters a cloud of numbing powder that paralyzes the target. |
+| [Submission](https://op.gg/pokemon-champions/moves/submission) | Fighting | Physical | 80 | 80% | 20 | The user grabs the target and recklessly dives for the ground. This also damages the user a little. |
+| [Substitute](https://op.gg/pokemon-champions/moves/substitute) | Normal | Status | — | — | 12 | The user creates a substitute for itself using some of its HP. The substitute serves as the user’s decoy. |
+| [Sucker Punch](https://op.gg/pokemon-champions/moves/sucker-punch) | Dark | Physical | 70 | 100% | 8 | This move enables the user to attack first. This move fails if the target is not readying an attack. |
+| [Sunny Day](https://op.gg/pokemon-champions/moves/sunny-day) | Fire | Status | — | — | 8 | The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves. |
+| [Super Fang](https://op.gg/pokemon-champions/moves/super-fang) | Normal | Physical | — | 90% | 12 | The user chomps hard on the target with its sharp front fangs. This cuts the target’s HP in half. |
+| [Superpower](https://op.gg/pokemon-champions/moves/superpower) | Fighting | Physical | 120 | 100% | 8 | The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats. |
+| [Supersonic](https://op.gg/pokemon-champions/moves/supersonic) | Normal | Status | — | 55% | 20 | The user generates odd sound waves from its body that confuse the target. |
+| [Surf](https://op.gg/pokemon-champions/moves/surf) | Water | Special | 90 | 100% | 16 | The user attacks everything around it by swamping its surroundings with a giant wave. |
+| [Swagger](https://op.gg/pokemon-champions/moves/swagger) | Normal | Status | — | 85% | 16 | The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat. |
+| [Swallow](https://op.gg/pokemon-champions/moves/swallow) | Normal | Status | — | — | 12 | The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP. |
+| [Sweet Kiss](https://op.gg/pokemon-champions/moves/sweet-kiss) | Fairy | Status | — | 75% | 12 | The user kisses the target with a sweet, angelic cuteness that causes confusion. |
+| [Sweet Scent](https://op.gg/pokemon-champions/moves/sweet-scent) | Normal | Status | — | 100% | 20 | A sweet scent that harshly lowers opposing Pokémon’s evasiveness. |
+| [Swift](https://op.gg/pokemon-champions/moves/swift) | Normal | Special | 60 | — | 20 | Star-shaped rays are shot at opposing Pokémon. This attack never misses. |
+| [Swords Dance](https://op.gg/pokemon-champions/moves/swords-dance) | Normal | Status | — | — | 20 | A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat. |
+| [Synthesis](https://op.gg/pokemon-champions/moves/synthesis) | Grass | Status | — | — | 8 | The user restores its own HP. The amount of HP regained varies with the weather. |
+| [Tackle](https://op.gg/pokemon-champions/moves/tackle) | Normal | Physical | 40 | 100% | 20 | A physical attack in which the user charges and slams into the target with its whole body. |
+| [Tail Glow](https://op.gg/pokemon-champions/moves/tail-glow) | Bug | Status | — | — | 20 | This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. |
+| [Tail Slap](https://op.gg/pokemon-champions/moves/tail-slap) | Normal | Physical | 25 | 85% | 12 | The user attacks by striking the target with its hard tail. It hits the target two to five times in a row. |
+| [Tail Whip](https://op.gg/pokemon-champions/moves/tail-whip) | Normal | Status | — | 100% | 20 | The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stats. |
+| [Tailwind](https://op.gg/pokemon-champions/moves/tailwind) | Flying | Status | — | — | 16 | The user whips up a turbulent whirlwind that ups the Speed stats of the user and its allies for four turns. |
+| [Take Down](https://op.gg/pokemon-champions/moves/take-down) | Normal | Physical | 90 | 85% | 20 | A reckless, full-body charge attack for slamming into the target. This also damages the user a little. |
+| [Taunt](https://op.gg/pokemon-champions/moves/taunt) | Dark | Status | — | 100% | 20 | The target is taunted into a rage that allows it to use only attack moves for three turns. |
+| [Tearful Look](https://op.gg/pokemon-champions/moves/tearful-look) | Normal | Status | — | — | 20 | The user gets teary eyed to make the target lose its combative spirit. This lowers the target’s Attack and Sp. Atk stats. |
+| [Thief](https://op.gg/pokemon-champions/moves/thief) | Dark | Physical | 60 | 100% | 20 | The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item. |
+| [Thrash](https://op.gg/pokemon-champions/moves/thrash) | Normal | Physical | 120 | 100% | 12 | The user rampages and attacks for two to three turns. The user then becomes confused. |
+| [Thunder](https://op.gg/pokemon-champions/moves/thunder) | Electric | Special | 110 | 70% | 12 | A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis. |
+| [Thunder Fang](https://op.gg/pokemon-champions/moves/thunder-fang) | Electric | Physical | 65 | 95% | 16 | The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis. |
+| [Thunder Punch](https://op.gg/pokemon-champions/moves/thunder-punch) | Electric | Physical | 75 | 100% | 16 | The target is punched with an electrified fist. This may also leave the target with paralysis. |
+| [Thunder Shock](https://op.gg/pokemon-champions/moves/thunder-shock) | Electric | Special | 40 | 100% | 20 | A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis. |
+| [Thunder Wave](https://op.gg/pokemon-champions/moves/thunder-wave) | Electric | Status | — | 90% | 20 | The user launches a weak jolt of electricity that paralyzes the target. |
+| [Thunderbolt](https://op.gg/pokemon-champions/moves/thunderbolt) | Electric | Special | 90 | 100% | 16 | A strong electric blast crashes down on the target. This may also leave the target with paralysis. |
+| [Tickle](https://op.gg/pokemon-champions/moves/tickle) | Normal | Status | — | 100% | 20 | The user tickles the target into laughing, reducing its Attack and Defense stats. |
+| [Torment](https://op.gg/pokemon-champions/moves/torment) | Dark | Status | — | 100% | 16 | The user torments and enrages the target, making it incapable of using the same move twice in a row. |
+| [Toxic](https://op.gg/pokemon-champions/moves/toxic) | Poison | Status | — | 90% | 12 | A move that leaves the target badly poisoned. Its poison damage worsens every turn. |
+| [Toxic Spikes](https://op.gg/pokemon-champions/moves/toxic-spikes) | Poison | Status | — | — | 20 | The user lays a trap of poison spikes at the feet of the opposing team. The spikes will poison opposing Pokémon that switch into battle. |
+| [Tri Attack](https://op.gg/pokemon-champions/moves/tri-attack) | Normal | Special | 80 | 100% | 12 | The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target. |
+| [Trick](https://op.gg/pokemon-champions/moves/trick) | Psychic | Status | — | 100% | 12 | The user catches the target off guard and swaps its held item with its own. |
+| [Trick Room](https://op.gg/pokemon-champions/moves/trick-room) | Psychic | Status | — | — | 8 | The user creates a bizarre area in which slower Pokémon get to move first for five turns. |
+| [Triple Axel](https://op.gg/pokemon-champions/moves/triple-axel) | Ice | Physical | 20 | 90% | 12 | A consecutive three-kick attack that becomes more powerful with each successful hit. |
+| [Twineedle](https://op.gg/pokemon-champions/moves/twineedle) | Bug | Physical | 25 | 100% | 20 | This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. |
+| [U-turn](https://op.gg/pokemon-champions/moves/u-turn) | Bug | Physical | 70 | 100% | 20 | After making its attack, the user rushes back to switch places with a party Pokémon in waiting. |
+| [Uproar](https://op.gg/pokemon-champions/moves/uproar) | Normal | Special | 90 | 100% | 12 | The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep. |
+| [Venoshock](https://op.gg/pokemon-champions/moves/venoshock) | Poison | Special | 65 | 100% | 12 | The user drenches the target in a special poisonous liquid. This move’s power is doubled if the target is poisoned. |
+| [Vine Whip](https://op.gg/pokemon-champions/moves/vine-whip) | Grass | Physical | 45 | 100% | 20 | The target is struck with slender, whiplike vines to inflict damage. |
+| [Volt Switch](https://op.gg/pokemon-champions/moves/volt-switch) | Electric | Special | 70 | 100% | 20 | After making its attack, the user rushes back to switch places with a party Pokémon in waiting. |
+| [Water Gun](https://op.gg/pokemon-champions/moves/water-gun) | Water | Special | 40 | 100% | 20 | The target is blasted with a forceful shot of water. |
+| [Water Pulse](https://op.gg/pokemon-champions/moves/water-pulse) | Water | Special | 60 | 100% | 20 | The user attacks the target with a pulsing blast of water. This may also confuse the target. |
+| [Water Spout](https://op.gg/pokemon-champions/moves/water-spout) | Water | Special | 150 | 100% | 8 | The user spouts water to damage opposing Pokémon. The lower the user’s HP, the lower the move’s power. |
+| [Waterfall](https://op.gg/pokemon-champions/moves/waterfall) | Water | Physical | 80 | 100% | 16 | The user charges at the target and may make it flinch. |
+| [Weather Ball](https://op.gg/pokemon-champions/moves/weather-ball) | Normal | Special | 50 | 100% | 12 | This attack move varies in power and type depending on the weather. |
+| [Whirlpool](https://op.gg/pokemon-champions/moves/whirlpool) | Water | Special | 35 | 85% | 16 | The user traps the target in a violent swirling whirlpool for four to five turns. |
+| [Whirlwind](https://op.gg/pokemon-champions/moves/whirlwind) | Normal | Status | — | — | 20 | The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon. |
+| [Wide Guard](https://op.gg/pokemon-champions/moves/wide-guard) | Rock | Status | — | — | 12 | The user and its allies are protected from wide-ranging attacks for one turn. |
+| [Wild Charge](https://op.gg/pokemon-champions/moves/wild-charge) | Electric | Physical | 90 | 100% | 16 | The user shrouds itself in electricity and smashes into its target. This also damages the user a little. |
+| [Will-O-Wisp](https://op.gg/pokemon-champions/moves/will-o-wisp) | Fire | Status | — | 85% | 16 | The user shoots a sinister flame at the target to inflict a burn. |
+| [Wing Attack](https://op.gg/pokemon-champions/moves/wing-attack) | Flying | Physical | 60 | 100% | 20 | The target is struck with large, imposing wings spread wide to inflict damage. |
+| [Wish](https://op.gg/pokemon-champions/moves/wish) | Normal | Status | — | — | 12 | One turn after this move is used, the user’s or its replacement’s HP is restored by half the user’s max HP. |
+| [Withdraw](https://op.gg/pokemon-champions/moves/withdraw) | Water | Status | — | — | 20 | The user withdraws its body into its hard shell, raising its Defense stat. |
+| [Wood Hammer](https://op.gg/pokemon-champions/moves/wood-hammer) | Grass | Physical | 120 | 100% | 16 | The user slams its rugged body into the target to attack. This also damages the user quite a lot. |
+| [Work Up](https://op.gg/pokemon-champions/moves/work-up) | Normal | Status | — | — | 20 | The user is roused, and its Attack and Sp. Atk stats increase. |
+| [Worry Seed](https://op.gg/pokemon-champions/moves/worry-seed) | Grass | Status | — | 100% | 12 | A seed that causes worry is planted on the target. It prevents sleep by making the target’s Ability Insomnia. |
+| [Wrap](https://op.gg/pokemon-champions/moves/wrap) | Normal | Physical | 15 | 90% | 20 | A long body, vines, or the like are used to wrap and squeeze the target for four to five turns. |
+| [X-Scissor](https://op.gg/pokemon-champions/moves/x-scissor) | Bug | Physical | 80 | 100% | 16 | The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors. |
+| [Yawn](https://op.gg/pokemon-champions/moves/yawn) | Normal | Status | — | — | 12 | The user lets loose a huge yawn that lulls the target into falling asleep on the next turn. |
+| [Zen Headbutt](https://op.gg/pokemon-champions/moves/zen-headbutt) | Psychic | Physical | 80 | 90% | 16 | The user focuses its willpower to its head and attacks the target. This may also make the target flinch. |

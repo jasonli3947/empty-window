@@ -1,0 +1,40 @@
+name: FamilyLedger
+options:
+  minimumXcodeGenVersion: 2.38.0
+settings:
+  base:
+    PRODUCT_BUNDLE_IDENTIFIER: com.example.familyledger
+    SWIFT_VERSION: 5.10
+targets:
+  FamilyLedgerApp:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - FamilyLedgerApp
+    info:
+      path: FamilyLedgerApp/Info.plist
+      properties:
+        UILaunchScreen: {}
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+    entitlements:
+      path: FamilyLedgerApp/FamilyLedgerApp.entitlements
+      properties:
+        com.apple.developer.icloud-services:
+          - CloudKit
+        com.apple.developer.icloud-container-identifiers:
+          - iCloud.com.example.familyledger
+        com.apple.developer.ubiquity-container-identifiers:
+          - iCloud.com.example.familyledger
+        com.apple.security.application-groups:
+          - group.com.example.familyledger
+    dependencies: []
+  FamilyLedgerTests:
+    type: bundle.unit-test
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - FamilyLedgerTests
+    dependencies:
+      - target: FamilyLedgerApp

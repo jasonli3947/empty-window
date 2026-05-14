@@ -1,0 +1,3377 @@
+Serebii.net Pokédex - Top 300 Attack Pokémon
+
+Serebii.net Pokédex - Top 300 Attack Pokémon
+[![Serebii.net Header](https://www.serebii.net/Banner.jpg)](https://www.serebii.net/)
+* [![](https://www.serebii.net/hidden/2019-04/burger.svg)](#lbar)
+*
+* [![](https://www.serebii.net/hidden/2019-04/burger.svg)](#rbar)
+|[Gen IX Dex|[Gen VIII Dex|[Gen VII Dex|[Gen VI Dex|[Gen V Dex|
+|[Gen IV Dex|[Gen III Dex|[Gen II Dex|[Gen I Dex|
+|[![Hit Points](https://www.serebii.net/pokedex-dp/hp.gif)](https://www.serebii.net/pokedex-champions/stat/hp.shtml)|[![Attack](https://www.serebii.net/pokedex-dp/attack.gif)](https://www.serebii.net/pokedex-champions/stat/attack.shtml)|[![Defense](https://www.serebii.net/pokedex-dp/defense.gif)](https://www.serebii.net/pokedex-champions/stat/defense.shtml)|[![Speed](https://www.serebii.net/pokedex-dp/speed.gif)](https://www.serebii.net/pokedex-champions/stat/speed.shtml)|[![Special Attack](https://www.serebii.net/pokedex-dp/spattack.gif)](https://www.serebii.net/pokedex-champions/stat/sp-attack.shtml)|[![Special Defense](https://www.serebii.net/pokedex-dp/spdef.gif)](https://www.serebii.net/pokedex-champions/stat/sp-defense.shtml)|[![All Totals](https://www.serebii.net/pokedex-dp/total.gif)](https://www.serebii.net/pokedex-champions/stat/all.shtml)|[![Back to the Pok�dex](https://www.serebii.net/pokedex-dp/pokedex.gif)](https://www.serebii.net/pokedex-champions/)|
+|
+Nat No.
+|
+Pic
+|
+Name
+|
+Type
+|
+Abilities
+|
+Base Stat
+|
+Maximum Attack Stat
+|
+|HP|Att|Def|S.Att|S.Def|Spd|
+|
+#214
+||[![](https://www.serebii.net/pokedex-champions/icon/214-m.png)](https://www.serebii.net/pokedex-champions/heracross/)|
+|
+[Heracross](https://www.serebii.net/pokedex-champions/heracross/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Skill Link](https://www.serebii.net/abilitydex/skilllink.shtml) |80|**185**|115|40|105|75|
+515
+|
+#445
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/445-m.png)](https://www.serebii.net/pokedex-champions/garchomp/)|
+|
+[Garchomp](https://www.serebii.net/pokedex-champions/garchomp/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml) [![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml)
+|
+[Sand Force](https://www.serebii.net/abilitydex/sandforce.shtml) |108|**170**|115|120|95|92|
+482
+|
+#409
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/409.png)](https://www.serebii.net/pokedex-champions/rampardos/)|
+|
+[Rampardos](https://www.serebii.net/pokedex-champions/rampardos/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml)
+|
+[Mold Breaker](https://www.serebii.net/abilitydex/moldbreaker.shtml)
+[Sheer Force](https://www.serebii.net/abilitydex/sheerforce.shtml)|97|**165**|60|65|50|58|
+471
+|
+#354
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/354-m.png)](https://www.serebii.net/pokedex-champions/banette/)|
+|
+[Banette](https://www.serebii.net/pokedex-champions/banette/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Prankster](https://www.serebii.net/abilitydex/prankster.shtml) |64|**165**|75|93|83|75|
+471
+|
+#475
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/475-m.png)](https://www.serebii.net/pokedex-champions/gallade/)|
+|
+[Gallade](https://www.serebii.net/pokedex-champions/gallade/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Inner Focus](https://www.serebii.net/abilitydex/innerfocus.shtml) |68|**165**|95|65|115|110|
+471
+|
+#530
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/530-m.png)](https://www.serebii.net/pokedex-champions/excadrill/)|
+|
+[Excadrill](https://www.serebii.net/pokedex-champions/excadrill/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Piercing Drill](https://www.serebii.net/abilitydex/piercingdrill.shtml) |110|**165**|100|65|65|103|
+471
+|
+#248
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/248-m.png)](https://www.serebii.net/pokedex-champions/tyranitar/)|
+|
+[Tyranitar](https://www.serebii.net/pokedex-champions/tyranitar/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Sand Stream](https://www.serebii.net/abilitydex/sandstream.shtml) |100|**164**|150|95|120|71|
+469
+|
+#160
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/160-m.png)](https://www.serebii.net/pokedex-champions/feraligatr/)|
+|
+[Feraligatr](https://www.serebii.net/pokedex-champions/feraligatr/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Dragonize](https://www.serebii.net/abilitydex/dragonize.shtml) |85|**160**|125|89|93|78|
+460
+|
+#964
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/964-h.png)](https://www.serebii.net/pokedex-champions/palafin/)|
+|
+[Palafin](https://www.serebii.net/pokedex-champions/palafin/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Zero to Hero](https://www.serebii.net/abilitydex/zerotohero.shtml) |100|**160**|97|106|87|100|
+460
+|
+#623
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/623-m.png)](https://www.serebii.net/pokedex-champions/golurk/)|
+|
+[Golurk](https://www.serebii.net/pokedex-champions/golurk/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Unseen Fist](https://www.serebii.net/abilitydex/unseenfist.shtml) |89|**159**|105|70|105|55|
+458
+|
+#740
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/740-m.png)](https://www.serebii.net/pokedex-champions/crabominable/)|
+|
+[Crabominable](https://www.serebii.net/pokedex-champions/crabominable/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml) [![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml)
+|
+[Iron Fist](https://www.serebii.net/abilitydex/ironfist.shtml) |97|**157**|122|62|107|33|
+454
+|
+#127
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/127-m.png)](https://www.serebii.net/pokedex-champions/pinsir/)|
+|
+[Pinsir](https://www.serebii.net/pokedex-champions/pinsir/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Aerilate](https://www.serebii.net/abilitydex/aerilate.shtml) |65|**155**|120|65|90|105|
+449
+|
+#130
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/130-m.png)](https://www.serebii.net/pokedex-champions/gyarados/)|
+|
+[Gyarados](https://www.serebii.net/pokedex-champions/gyarados/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Mold Breaker](https://www.serebii.net/abilitydex/moldbreaker.shtml) |95|**155**|109|70|130|81|
+449
+|
+#015
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/015-m.png)](https://www.serebii.net/pokedex-champions/beedrill/)|
+|
+[Beedrill](https://www.serebii.net/pokedex-champions/beedrill/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Adaptability](https://www.serebii.net/abilitydex/adaptability.shtml) |65|**150**|40|15|80|145|
+438
+|
+#212
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/212-m.png)](https://www.serebii.net/pokedex-champions/scizor/)|
+|
+[Scizor](https://www.serebii.net/pokedex-champions/scizor/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Technician](https://www.serebii.net/abilitydex/technician.shtml) |70|**150**|140|65|100|75|
+438
+|
+#359
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/359-m.png)](https://www.serebii.net/pokedex-champions/absol/)|
+|
+[Absol](https://www.serebii.net/pokedex-champions/absol/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Magic Bounce](https://www.serebii.net/abilitydex/magicbounce.shtml) |65|**150**|60|115|60|115|
+438
+|
+#500
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/500-m.png)](https://www.serebii.net/pokedex-champions/emboar/)|
+|
+[Emboar](https://www.serebii.net/pokedex-champions/emboar/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Mold Breaker](https://www.serebii.net/abilitydex/moldbreaker.shtml) |110|**148**|75|110|110|75|
+434
+|
+#448
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/448-m.png)](https://www.serebii.net/pokedex-champions/lucario/)|
+|
+[Lucario](https://www.serebii.net/pokedex-champions/lucario/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Adaptability](https://www.serebii.net/abilitydex/adaptability.shtml) |70|**145**|88|140|70|112|
+427
+|
+#464
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/464.png)](https://www.serebii.net/pokedex-champions/rhyperior/)|
+|
+[Rhyperior](https://www.serebii.net/pokedex-champions/rhyperior/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml) [![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml)
+|
+[Lightning Rod](https://www.serebii.net/abilitydex/lightningrod.shtml)
+[Solid Rock](https://www.serebii.net/abilitydex/solidrock.shtml)
+[Reckless](https://www.serebii.net/abilitydex/reckless.shtml)|115|**140**|130|55|55|40|
+416
+|
+#534
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/534.png)](https://www.serebii.net/pokedex-champions/conkeldurr/)|
+|
+[Conkeldurr](https://www.serebii.net/pokedex-champions/conkeldurr/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Guts](https://www.serebii.net/abilitydex/guts.shtml)
+[Sheer Force](https://www.serebii.net/abilitydex/sheerforce.shtml)
+[Iron Fist](https://www.serebii.net/abilitydex/ironfist.shtml)|105|**140**|95|55|65|45|
+416
+|
+#227
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/227-m.png)](https://www.serebii.net/pokedex-champions/skarmory/)|
+|
+[Skarmory](https://www.serebii.net/pokedex-champions/skarmory/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Stalwart](https://www.serebii.net/abilitydex/stalwart.shtml) |65|**140**|110|40|100|110|
+416
+|
+#306
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/306-m.png)](https://www.serebii.net/pokedex-champions/aggron/)|
+|
+[Aggron](https://www.serebii.net/pokedex-champions/aggron/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Filter](https://www.serebii.net/abilitydex/filter.shtml) |70|**140**|230|60|80|50|
+416
+|
+#319
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/319-m.png)](https://www.serebii.net/pokedex-champions/sharpedo/)|
+|
+[Sharpedo](https://www.serebii.net/pokedex-champions/sharpedo/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Strong Jaw](https://www.serebii.net/abilitydex/strongjaw.shtml) |70|**140**|70|110|65|105|
+416
+|
+#681
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/681-b.png)](https://www.serebii.net/pokedex-champions/aegislash/)|
+|
+[Aegislash](https://www.serebii.net/pokedex-champions/aegislash/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Stance Change](https://www.serebii.net/abilitydex/stancechange.shtml) |60|**140**|50|140|50|60|
+416
+|
+#952
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/952-m.png)](https://www.serebii.net/pokedex-champions/scovillain/)|
+|
+[Scovillain](https://www.serebii.net/pokedex-champions/scovillain/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Spicy Spray](https://www.serebii.net/abilitydex/spicyspray.shtml) |65|**138**|85|138|85|75|
+412
+|
+#652
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/652-m.png)](https://www.serebii.net/pokedex-champions/chesnaught/)|
+|
+[Chesnaught](https://www.serebii.net/pokedex-champions/chesnaught/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Bulletproof](https://www.serebii.net/abilitydex/bulletproof.shtml) |88|**137**|172|74|115|44|
+410
+|
+#701
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/701-m.png)](https://www.serebii.net/pokedex-champions/hawlucha/)|
+|
+[Hawlucha](https://www.serebii.net/pokedex-champions/hawlucha/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[No Guard](https://www.serebii.net/abilitydex/noguard.shtml) |78|**137**|100|74|93|118|
+410
+|
+#428
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/428-m.png)](https://www.serebii.net/pokedex-champions/lopunny/)|
+|
+[Lopunny](https://www.serebii.net/pokedex-champions/lopunny/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Scrappy](https://www.serebii.net/abilitydex/scrappy.shtml) |65|**136**|94|54|96|135|
+408
+|
+#530
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/530.png)](https://www.serebii.net/pokedex-champions/excadrill/)|
+|
+[Excadrill](https://www.serebii.net/pokedex-champions/excadrill/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Sand Rush](https://www.serebii.net/abilitydex/sandrush.shtml)
+[Sand Force](https://www.serebii.net/abilitydex/sandforce.shtml)
+[Mold Breaker](https://www.serebii.net/abilitydex/moldbreaker.shtml)|110|**135**|60|50|65|88|
+405
+|
+#900
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/900.png)](https://www.serebii.net/pokedex-champions/kleavor/)|
+|
+[Kleavor](https://www.serebii.net/pokedex-champions/kleavor/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml) [![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml)
+|
+[Swarm](https://www.serebii.net/abilitydex/swarm.shtml)
+[Sheer Force](https://www.serebii.net/abilitydex/sheerforce.shtml)
+[Sharpness](https://www.serebii.net/abilitydex/sharpness.shtml)|70|**135**|95|45|70|85|
+405
+|
+#983
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/983.png)](https://www.serebii.net/pokedex-champions/kingambit/)|
+|
+[Kingambit](https://www.serebii.net/pokedex-champions/kingambit/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Defiant](https://www.serebii.net/abilitydex/defiant.shtml)
+[Supreme Overlord](https://www.serebii.net/abilitydex/supremeoverlord.shtml)
+[Pressure](https://www.serebii.net/abilitydex/pressure.shtml)|100|**135**|120|60|85|50|
+405
+|
+#142
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/142-m.png)](https://www.serebii.net/pokedex-champions/aerodactyl/)|
+|
+[Aerodactyl](https://www.serebii.net/pokedex-champions/aerodactyl/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Tough Claws](https://www.serebii.net/abilitydex/toughclaws.shtml) |80|**135**|85|70|95|150|
+405
+|
+#149
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/149.png)](https://www.serebii.net/pokedex-champions/dragonite/)|
+|
+[Dragonite](https://www.serebii.net/pokedex-champions/dragonite/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Inner Focus](https://www.serebii.net/abilitydex/innerfocus.shtml)
+[Multiscale](https://www.serebii.net/abilitydex/multiscale.shtml)|91|**134**|95|100|100|80|
+403
+|
+#248
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/248.png)](https://www.serebii.net/pokedex-champions/tyranitar/)|
+|
+[Tyranitar](https://www.serebii.net/pokedex-champions/tyranitar/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Sand Stream](https://www.serebii.net/abilitydex/sandstream.shtml)
+[Unnerve](https://www.serebii.net/abilitydex/unnerve.shtml)|100|**134**|110|95|100|61|
+403
+|
+#740
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/740.png)](https://www.serebii.net/pokedex-champions/crabominable/)|
+|
+[Crabominable](https://www.serebii.net/pokedex-champions/crabominable/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml) [![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml)
+|
+[Hyper Cutter](https://www.serebii.net/abilitydex/hypercutter.shtml)
+[Iron Fist](https://www.serebii.net/abilitydex/ironfist.shtml)
+[Anger Point](https://www.serebii.net/abilitydex/angerpoint.shtml)|97|**132**|77|62|67|43|
+399
+|
+#460
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/460-m.png)](https://www.serebii.net/pokedex-champions/abomasnow/)|
+|
+[Abomasnow](https://www.serebii.net/pokedex-champions/abomasnow/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml)
+|
+[Snow Warning](https://www.serebii.net/abilitydex/snowwarning.shtml) |90|**132**|105|132|105|30|
+399
+|
+#068
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/068.png)](https://www.serebii.net/pokedex-champions/machamp/)|
+|
+[Machamp](https://www.serebii.net/pokedex-champions/machamp/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Guts](https://www.serebii.net/abilitydex/guts.shtml)
+[No Guard](https://www.serebii.net/abilitydex/noguard.shtml)
+[Steadfast](https://www.serebii.net/abilitydex/steadfast.shtml)|90|**130**|80|65|85|55|
+394
+|
+#136
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/136.png)](https://www.serebii.net/pokedex-champions/flareon/)|
+|
+[Flareon](https://www.serebii.net/pokedex-champions/flareon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Flash Fire](https://www.serebii.net/abilitydex/flashfire.shtml)
+[Guts](https://www.serebii.net/abilitydex/guts.shtml)|65|**130**|60|95|110|65|
+394
+|
+#212
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/212.png)](https://www.serebii.net/pokedex-champions/scizor/)|
+|
+[Scizor](https://www.serebii.net/pokedex-champions/scizor/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Swarm](https://www.serebii.net/abilitydex/swarm.shtml)
+[Technician](https://www.serebii.net/abilitydex/technician.shtml)
+[Light Metal](https://www.serebii.net/abilitydex/lightmetal.shtml)|70|**130**|100|55|80|65|
+394
+|
+#359
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/359.png)](https://www.serebii.net/pokedex-champions/absol/)|
+|
+[Absol](https://www.serebii.net/pokedex-champions/absol/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Pressure](https://www.serebii.net/abilitydex/pressure.shtml)
+[Super Luck](https://www.serebii.net/abilitydex/superluck.shtml)
+[Justified](https://www.serebii.net/abilitydex/justified.shtml)|65|**130**|60|75|60|75|
+394
+|
+#445
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/445.png)](https://www.serebii.net/pokedex-champions/garchomp/)|
+|
+[Garchomp](https://www.serebii.net/pokedex-champions/garchomp/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml) [![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml)
+|
+[Sand Veil](https://www.serebii.net/abilitydex/sandveil.shtml)
+[Rough Skin](https://www.serebii.net/abilitydex/roughskin.shtml)|108|**130**|95|80|85|102|
+394
+|
+#473
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/473.png)](https://www.serebii.net/pokedex-champions/mamoswine/)|
+|
+[Mamoswine](https://www.serebii.net/pokedex-champions/mamoswine/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml) [![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml)
+|
+[Oblivious](https://www.serebii.net/abilitydex/oblivious.shtml)
+[Snow Cloak](https://www.serebii.net/abilitydex/snowcloak.shtml)
+[Thick Fat](https://www.serebii.net/abilitydex/thickfat.shtml)|110|**130**|80|70|60|80|
+394
+|
+#614
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/614.png)](https://www.serebii.net/pokedex-champions/beartic/)|
+|
+[Beartic](https://www.serebii.net/pokedex-champions/beartic/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml)
+|
+[Snow Cloak](https://www.serebii.net/abilitydex/snowcloak.shtml)
+[Slush Rush](https://www.serebii.net/abilitydex/slushrush.shtml)
+[Swift Swim](https://www.serebii.net/abilitydex/swiftswim.shtml)|95|**130**|80|70|80|50|
+394
+|
+#903
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/903.png)](https://www.serebii.net/pokedex-champions/sneasler/)|
+|
+[Sneasler](https://www.serebii.net/pokedex-champions/sneasler/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Pressure](https://www.serebii.net/abilitydex/pressure.shtml)
+[Unburden](https://www.serebii.net/abilitydex/unburden.shtml)
+[Poison Touch](https://www.serebii.net/abilitydex/poisontouch.shtml)|80|**130**|60|40|80|120|
+394
+|
+#006
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/006-mx.png)](https://www.serebii.net/pokedex-champions/charizard/)|
+|
+[Charizard](https://www.serebii.net/pokedex-champions/charizard/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Tough Claws](https://www.serebii.net/abilitydex/toughclaws.shtml) |78|**130**|111|130|85|100|
+394
+|
+#713
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/713-h.png)](https://www.serebii.net/pokedex-champions/avalugg/)|
+|
+[Avalugg](https://www.serebii.net/pokedex-champions/avalugg/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml) [![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml)
+|
+[Strong Jaw](https://www.serebii.net/abilitydex/strongjaw.shtml)
+[Ice Body](https://www.serebii.net/abilitydex/icebody.shtml)
+[Sturdy](https://www.serebii.net/abilitydex/sturdy.shtml)|95|**127**|184|34|36|38|
+388
+|
+#127
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/127.png)](https://www.serebii.net/pokedex-champions/pinsir/)|
+|
+[Pinsir](https://www.serebii.net/pokedex-champions/pinsir/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml)
+|
+[Hyper Cutter](https://www.serebii.net/abilitydex/hypercutter.shtml)
+[Mold Breaker](https://www.serebii.net/abilitydex/moldbreaker.shtml)
+[Moxie](https://www.serebii.net/abilitydex/moxie.shtml)|65|**125**|100|55|70|85|
+383
+|
+#130
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/130.png)](https://www.serebii.net/pokedex-champions/gyarados/)|
+|
+[Gyarados](https://www.serebii.net/pokedex-champions/gyarados/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml)
+[Moxie](https://www.serebii.net/abilitydex/moxie.shtml)|95|**125**|79|60|100|81|
+383
+|
+#214
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/214.png)](https://www.serebii.net/pokedex-champions/heracross/)|
+|
+[Heracross](https://www.serebii.net/pokedex-champions/heracross/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Swarm](https://www.serebii.net/abilitydex/swarm.shtml)
+[Guts](https://www.serebii.net/abilitydex/guts.shtml)
+[Moxie](https://www.serebii.net/abilitydex/moxie.shtml)|80|**125**|75|40|95|85|
+383
+|
+#475
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/475.png)](https://www.serebii.net/pokedex-champions/gallade/)|
+|
+[Gallade](https://www.serebii.net/pokedex-champions/gallade/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Steadfast](https://www.serebii.net/abilitydex/steadfast.shtml)
+[Sharpness](https://www.serebii.net/abilitydex/sharpness.shtml)
+[Justified](https://www.serebii.net/abilitydex/justified.shtml)|68|**125**|65|65|115|80|
+383
+|
+#750
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/750.png)](https://www.serebii.net/pokedex-champions/mudsdale/)|
+|
+[Mudsdale](https://www.serebii.net/pokedex-champions/mudsdale/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml)
+|
+[Own Tempo](https://www.serebii.net/abilitydex/owntempo.shtml)
+[Stamina](https://www.serebii.net/abilitydex/stamina.shtml)
+[Inner Focus](https://www.serebii.net/abilitydex/innerfocus.shtml)|100|**125**|100|55|85|35|
+383
+|
+#937
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/937.png)](https://www.serebii.net/pokedex-champions/ceruledge/)|
+|
+[Ceruledge](https://www.serebii.net/pokedex-champions/ceruledge/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Flash Fire](https://www.serebii.net/abilitydex/flashfire.shtml)
+[Weak Armor](https://www.serebii.net/abilitydex/weakarmor.shtml)|75|**125**|80|60|100|85|
+383
+|
+#071
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/071-m.png)](https://www.serebii.net/pokedex-champions/victreebel/)|
+|
+[Victreebel](https://www.serebii.net/pokedex-champions/victreebel/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Innards Out](https://www.serebii.net/abilitydex/innardsout.shtml) |80|**125**|85|135|95|70|
+383
+|
+#115
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/115-m.png)](https://www.serebii.net/pokedex-champions/kangaskhan/)|
+|
+[Kangaskhan](https://www.serebii.net/pokedex-champions/kangaskhan/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Parental Bond](https://www.serebii.net/abilitydex/parentalbond.shtml) |105|**125**|100|60|100|100|
+383
+|
+#208
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/208-m.png)](https://www.serebii.net/pokedex-champions/steelix/)|
+|
+[Steelix](https://www.serebii.net/pokedex-champions/steelix/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml) [![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml)
+|
+[Sand Force](https://www.serebii.net/abilitydex/sandforce.shtml) |75|**125**|230|55|95|30|
+383
+|
+#658
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/658-m.png)](https://www.serebii.net/pokedex-champions/greninja/)|
+|
+[Greninja](https://www.serebii.net/pokedex-champions/greninja/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Protean](https://www.serebii.net/abilitydex/protean.shtml) |72|**125**|77|133|81|142|
+383
+|
+#623
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/623.png)](https://www.serebii.net/pokedex-champions/golurk/)|
+|
+[Golurk](https://www.serebii.net/pokedex-champions/golurk/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Iron Fist](https://www.serebii.net/abilitydex/ironfist.shtml)
+[Klutz](https://www.serebii.net/abilitydex/klutz.shtml)
+[No Guard](https://www.serebii.net/abilitydex/noguard.shtml)|89|**124**|80|55|80|55|
+381
+|
+#675
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/675.png)](https://www.serebii.net/pokedex-champions/pangoro/)|
+|
+[Pangoro](https://www.serebii.net/pokedex-champions/pangoro/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Iron Fist](https://www.serebii.net/abilitydex/ironfist.shtml)
+[Mold Breaker](https://www.serebii.net/abilitydex/moldbreaker.shtml)
+[Scrappy](https://www.serebii.net/abilitydex/scrappy.shtml)|95|**124**|78|69|71|58|
+381
+|
+#149
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/149-m.png)](https://www.serebii.net/pokedex-champions/dragonite/)|
+|
+[Dragonite](https://www.serebii.net/pokedex-champions/dragonite/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Multiscale](https://www.serebii.net/abilitydex/multiscale.shtml) |91|**124**|115|145|125|100|
+381
+|
+#500
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/500.png)](https://www.serebii.net/pokedex-champions/emboar/)|
+|
+[Emboar](https://www.serebii.net/pokedex-champions/emboar/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Blaze](https://www.serebii.net/abilitydex/blaze.shtml)
+[Reckless](https://www.serebii.net/abilitydex/reckless.shtml)|110|**123**|65|100|65|65|
+379
+|
+#697
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/697.png)](https://www.serebii.net/pokedex-champions/tyrantrum/)|
+|
+[Tyrantrum](https://www.serebii.net/pokedex-champions/tyrantrum/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Strong Jaw](https://www.serebii.net/abilitydex/strongjaw.shtml)
+[Rock Head](https://www.serebii.net/abilitydex/rockhead.shtml)|82|**121**|119|69|59|71|
+375
+|
+#319
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/319.png)](https://www.serebii.net/pokedex-champions/sharpedo/)|
+|
+[Sharpedo](https://www.serebii.net/pokedex-champions/sharpedo/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Rough Skin](https://www.serebii.net/abilitydex/roughskin.shtml)
+[Speed Boost](https://www.serebii.net/abilitydex/speedboost.shtml)|70|**120**|40|95|40|95|
+372
+|
+#405
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/405.png)](https://www.serebii.net/pokedex-champions/luxray/)|
+|
+[Luxray](https://www.serebii.net/pokedex-champions/luxray/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml)
+|
+[Rivalry](https://www.serebii.net/abilitydex/rivalry.shtml)
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml)
+[Guts](https://www.serebii.net/abilitydex/guts.shtml)|80|**120**|79|95|79|70|
+372
+|
+#461
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/461.png)](https://www.serebii.net/pokedex-champions/weavile/)|
+|
+[Weavile](https://www.serebii.net/pokedex-champions/weavile/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml) [![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml)
+|
+[Pressure](https://www.serebii.net/abilitydex/pressure.shtml)
+[Pickpocket](https://www.serebii.net/abilitydex/pickpocket.shtml)|70|**120**|65|45|85|125|
+372
+|
+#733
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/733.png)](https://www.serebii.net/pokedex-champions/toucannon/)|
+|
+[Toucannon](https://www.serebii.net/pokedex-champions/toucannon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Keen Eye](https://www.serebii.net/abilitydex/keeneye.shtml)
+[Skill Link](https://www.serebii.net/abilitydex/skilllink.shtml)
+[Sheer Force](https://www.serebii.net/abilitydex/sheerforce.shtml)|80|**120**|75|75|75|60|
+372
+|
+#763
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/763.png)](https://www.serebii.net/pokedex-champions/tsareena/)|
+|
+[Tsareena](https://www.serebii.net/pokedex-champions/tsareena/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml)
+|
+[Leaf Guard](https://www.serebii.net/abilitydex/leafguard.shtml)
+[Queenly Majesty](https://www.serebii.net/abilitydex/queenlymajesty.shtml)
+[Sweet Veil](https://www.serebii.net/abilitydex/sweetveil.shtml)|72|**120**|98|50|98|72|
+372
+|
+#766
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/766.png)](https://www.serebii.net/pokedex-champions/passimian/)|
+|
+[Passimian](https://www.serebii.net/pokedex-champions/passimian/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Receiver](https://www.serebii.net/abilitydex/receiver.shtml)
+[Defiant](https://www.serebii.net/abilitydex/defiant.shtml)|100|**120**|90|40|60|80|
+372
+|
+#887
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/887.png)](https://www.serebii.net/pokedex-champions/dragapult/)|
+|
+[Dragapult](https://www.serebii.net/pokedex-champions/dragapult/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Clear Body](https://www.serebii.net/abilitydex/clearbody.shtml)
+[Infiltrator](https://www.serebii.net/abilitydex/infiltrator.shtml)
+[Cursed Body](https://www.serebii.net/abilitydex/cursedbody.shtml)|88|**120**|75|100|75|142|
+372
+|
+#914
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/914.png)](https://www.serebii.net/pokedex-champions/quaquaval/)|
+|
+[Quaquaval](https://www.serebii.net/pokedex-champions/quaquaval/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Torrent](https://www.serebii.net/abilitydex/torrent.shtml)
+[Moxie](https://www.serebii.net/abilitydex/moxie.shtml)|85|**120**|80|85|75|85|
+372
+|
+#323
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/323-m.png)](https://www.serebii.net/pokedex-champions/camerupt/)|
+|
+[Camerupt](https://www.serebii.net/pokedex-champions/camerupt/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml)
+|
+[Sheer Force](https://www.serebii.net/abilitydex/sheerforce.shtml) |70|**120**|100|145|105|20|
+372
+|
+#362
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/362-m.png)](https://www.serebii.net/pokedex-champions/glalie/)|
+|
+[Glalie](https://www.serebii.net/pokedex-champions/glalie/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml)
+|
+[Refrigerate](https://www.serebii.net/abilitydex/refrigerate.shtml) |80|**120**|80|120|80|100|
+372
+|
+#553
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/553.png)](https://www.serebii.net/pokedex-champions/krookodile/)|
+|
+[Krookodile](https://www.serebii.net/pokedex-champions/krookodile/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml)
+[Moxie](https://www.serebii.net/abilitydex/moxie.shtml)
+[Anger Point](https://www.serebii.net/abilitydex/angerpoint.shtml)|95|**117**|80|65|70|92|
+366
+|
+#713
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/713.png)](https://www.serebii.net/pokedex-champions/avalugg/)|
+|
+[Avalugg](https://www.serebii.net/pokedex-champions/avalugg/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml)
+|
+[Own Tempo](https://www.serebii.net/abilitydex/owntempo.shtml)
+[Ice Body](https://www.serebii.net/abilitydex/icebody.shtml)
+[Sturdy](https://www.serebii.net/abilitydex/sturdy.shtml)|95|**117**|184|44|46|28|
+366
+|
+#745
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/745-d.png)](https://www.serebii.net/pokedex-champions/lycanroc/)|
+|
+[Lycanroc](https://www.serebii.net/pokedex-champions/lycanroc/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml)
+|
+[Tough Claws](https://www.serebii.net/abilitydex/toughclaws.shtml) |75|**117**|65|55|65|110|
+366
+|
+#354
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/354.png)](https://www.serebii.net/pokedex-champions/banette/)|
+|
+[Banette](https://www.serebii.net/pokedex-champions/banette/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Insomnia](https://www.serebii.net/abilitydex/insomnia.shtml)
+[Frisk](https://www.serebii.net/abilitydex/frisk.shtml)
+[Cursed Body](https://www.serebii.net/abilitydex/cursedbody.shtml)|64|**115**|65|83|63|65|
+361
+|
+#727
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/727.png)](https://www.serebii.net/pokedex-champions/incineroar/)|
+|
+[Incineroar](https://www.serebii.net/pokedex-champions/incineroar/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Blaze](https://www.serebii.net/abilitydex/blaze.shtml)
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml)|95|**115**|90|80|90|60|
+361
+|
+#745
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/745.png)](https://www.serebii.net/pokedex-champions/lycanroc/)|
+|
+[Lycanroc](https://www.serebii.net/pokedex-champions/lycanroc/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml)
+|
+[Keen Eye](https://www.serebii.net/abilitydex/keeneye.shtml)
+[Sand Rush](https://www.serebii.net/abilitydex/sandrush.shtml)
+[Steadfast](https://www.serebii.net/abilitydex/steadfast.shtml)|75|**115**|65|55|65|112|
+361
+|
+#059
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/059-h.png)](https://www.serebii.net/pokedex-champions/arcanine/)|
+|
+[Arcanine](https://www.serebii.net/pokedex-champions/arcanine/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml)
+|
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml)
+[Flash Fire](https://www.serebii.net/abilitydex/flashfire.shtml)
+[Rock Head](https://www.serebii.net/abilitydex/rockhead.shtml)|95|**115**|80|95|80|90|
+361
+|
+#745
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/745-m.png)](https://www.serebii.net/pokedex-champions/lycanroc/)|
+|
+[Lycanroc](https://www.serebii.net/pokedex-champions/lycanroc/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml)
+|
+[Keen Eye](https://www.serebii.net/abilitydex/keeneye.shtml)
+[Vital Spirit](https://www.serebii.net/abilitydex/vitalspirit.shtml)
+[No Guard](https://www.serebii.net/abilitydex/noguard.shtml)|85|**115**|75|55|75|82|
+361
+|
+#450
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/450.png)](https://www.serebii.net/pokedex-champions/hippowdon/)|
+|
+[Hippowdon](https://www.serebii.net/pokedex-champions/hippowdon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml)
+|
+[Sand Stream](https://www.serebii.net/abilitydex/sandstream.shtml)
+[Sand Force](https://www.serebii.net/abilitydex/sandforce.shtml)|108|**112**|118|68|72|47|
+355
+|
+#902
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/902.png)](https://www.serebii.net/pokedex-champions/basculegion/)|
+|
+[Basculegion](https://www.serebii.net/pokedex-champions/basculegion/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Swift Swim](https://www.serebii.net/abilitydex/swiftswim.shtml)
+[Adaptability](https://www.serebii.net/abilitydex/adaptability.shtml)
+[Mold Breaker](https://www.serebii.net/abilitydex/moldbreaker.shtml)|120|**112**|65|80|75|78|
+355
+|
+#724
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/724-h.png)](https://www.serebii.net/pokedex-champions/decidueye/)|
+|
+[Decidueye](https://www.serebii.net/pokedex-champions/decidueye/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Overgrow](https://www.serebii.net/abilitydex/overgrow.shtml)
+[Scrappy](https://www.serebii.net/abilitydex/scrappy.shtml)|88|**112**|80|95|95|60|
+355
+|
+#059
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/059.png)](https://www.serebii.net/pokedex-champions/arcanine/)|
+|
+[Arcanine](https://www.serebii.net/pokedex-champions/arcanine/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml)
+[Flash Fire](https://www.serebii.net/abilitydex/flashfire.shtml)
+[Justified](https://www.serebii.net/abilitydex/justified.shtml)|90|**110**|80|100|80|95|
+350
+|
+#143
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/143.png)](https://www.serebii.net/pokedex-champions/snorlax/)|
+|
+[Snorlax](https://www.serebii.net/pokedex-champions/snorlax/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Immunity](https://www.serebii.net/abilitydex/immunity.shtml)
+[Thick Fat](https://www.serebii.net/abilitydex/thickfat.shtml)
+[Gluttony](https://www.serebii.net/abilitydex/gluttony.shtml)|160|**110**|65|65|110|30|
+350
+|
+#306
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/306.png)](https://www.serebii.net/pokedex-champions/aggron/)|
+|
+[Aggron](https://www.serebii.net/pokedex-champions/aggron/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml) [![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml)
+|
+[Sturdy](https://www.serebii.net/abilitydex/sturdy.shtml)
+[Rock Head](https://www.serebii.net/abilitydex/rockhead.shtml)
+[Heavy Metal](https://www.serebii.net/abilitydex/heavymetal.shtml)|70|**110**|180|60|60|50|
+350
+|
+#448
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/448.png)](https://www.serebii.net/pokedex-champions/lucario/)|
+|
+[Lucario](https://www.serebii.net/pokedex-champions/lucario/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Steadfast](https://www.serebii.net/abilitydex/steadfast.shtml)
+[Inner Focus](https://www.serebii.net/abilitydex/innerfocus.shtml)
+[Justified](https://www.serebii.net/abilitydex/justified.shtml)|70|**110**|70|115|70|90|
+350
+|
+#470
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/470.png)](https://www.serebii.net/pokedex-champions/leafeon/)|
+|
+[Leafeon](https://www.serebii.net/pokedex-champions/leafeon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml)
+|
+[Leaf Guard](https://www.serebii.net/abilitydex/leafguard.shtml)
+[Chlorophyll](https://www.serebii.net/abilitydex/chlorophyll.shtml)|65|**110**|130|60|65|95|
+350
+|
+#709
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/709.png)](https://www.serebii.net/pokedex-champions/trevenant/)|
+|
+[Trevenant](https://www.serebii.net/pokedex-champions/trevenant/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml) [![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml)
+|
+[Natural Cure](https://www.serebii.net/abilitydex/naturalcure.shtml)
+[Frisk](https://www.serebii.net/abilitydex/frisk.shtml)
+[Harvest](https://www.serebii.net/abilitydex/harvest.shtml)|85|**110**|76|65|82|56|
+350
+|
+#784
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/784.png)](https://www.serebii.net/pokedex-champions/kommo-o/)|
+|
+[Kommo-o](https://www.serebii.net/pokedex-champions/kommo-o/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Bulletproof](https://www.serebii.net/abilitydex/bulletproof.shtml)
+[Soundproof](https://www.serebii.net/abilitydex/soundproof.shtml)
+[Overcoat](https://www.serebii.net/abilitydex/overcoat.shtml)|75|**110**|125|100|105|85|
+350
+|
+#841
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/841.png)](https://www.serebii.net/pokedex-champions/flapple/)|
+|
+[Flapple](https://www.serebii.net/pokedex-champions/flapple/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Ripen](https://www.serebii.net/abilitydex/ripen.shtml)
+[Gluttony](https://www.serebii.net/abilitydex/gluttony.shtml)
+[Hustle](https://www.serebii.net/abilitydex/hustle.shtml)|70|**110**|80|95|60|70|
+350
+|
+#908
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/908.png)](https://www.serebii.net/pokedex-champions/meowscarada/)|
+|
+[Meowscarada](https://www.serebii.net/pokedex-champions/meowscarada/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Overgrow](https://www.serebii.net/abilitydex/overgrow.shtml)
+[Protean](https://www.serebii.net/abilitydex/protean.shtml)|76|**110**|70|81|70|123|
+350
+|
+#128
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/128-p.png)](https://www.serebii.net/pokedex-champions/tauros/)|
+|
+[Tauros](https://www.serebii.net/pokedex-champions/tauros/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml)
+[Anger Point](https://www.serebii.net/abilitydex/angerpoint.shtml)
+[Cud Chew](https://www.serebii.net/abilitydex/cudchew.shtml)|75|**110**|105|30|70|100|
+350
+|
+#128
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/128-b.png)](https://www.serebii.net/pokedex-champions/tauros/)|
+|
+[Tauros](https://www.serebii.net/pokedex-champions/tauros/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml) [![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml)
+[Anger Point](https://www.serebii.net/abilitydex/angerpoint.shtml)
+[Cud Chew](https://www.serebii.net/abilitydex/cudchew.shtml)|75|**110**|105|30|70|100|
+350
+|
+#128
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/128-a.png)](https://www.serebii.net/pokedex-champions/tauros/)|
+|
+[Tauros](https://www.serebii.net/pokedex-champions/tauros/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml) [![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml)
+[Anger Point](https://www.serebii.net/abilitydex/angerpoint.shtml)
+[Cud Chew](https://www.serebii.net/abilitydex/cudchew.shtml)|75|**110**|105|30|70|100|
+350
+|
+#334
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/334-m.png)](https://www.serebii.net/pokedex-champions/altaria/)|
+|
+[Altaria](https://www.serebii.net/pokedex-champions/altaria/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Pixilate](https://www.serebii.net/abilitydex/pixilate.shtml) |75|**110**|110|110|105|80|
+350
+|
+#389
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/389.png)](https://www.serebii.net/pokedex-champions/torterra/)|
+|
+[Torterra](https://www.serebii.net/pokedex-champions/torterra/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml)
+|
+[Overgrow](https://www.serebii.net/abilitydex/overgrow.shtml)
+[Shell Armor](https://www.serebii.net/abilitydex/shellarmor.shtml)|95|**109**|105|75|85|56|
+348
+|
+#952
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/952.png)](https://www.serebii.net/pokedex-champions/scovillain/)|
+|
+[Scovillain](https://www.serebii.net/pokedex-champions/scovillain/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Chlorophyll](https://www.serebii.net/abilitydex/chlorophyll.shtml)
+[Insomnia](https://www.serebii.net/abilitydex/insomnia.shtml)
+[Moody](https://www.serebii.net/abilitydex/moody.shtml)|65|**108**|65|108|65|75|
+346
+|
+#503
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/503-h.png)](https://www.serebii.net/pokedex-champions/samurott/)|
+|
+[Samurott](https://www.serebii.net/pokedex-champions/samurott/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Torrent](https://www.serebii.net/abilitydex/torrent.shtml)
+[Sharpness](https://www.serebii.net/abilitydex/sharpness.shtml)|90|**108**|80|100|65|85|
+346
+|
+#652
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/652.png)](https://www.serebii.net/pokedex-champions/chesnaught/)|
+|
+[Chesnaught](https://www.serebii.net/pokedex-champions/chesnaught/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Overgrow](https://www.serebii.net/abilitydex/overgrow.shtml)
+[Bulletproof](https://www.serebii.net/abilitydex/bulletproof.shtml)|88|**107**|122|74|75|64|
+344
+|
+#724
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/724.png)](https://www.serebii.net/pokedex-champions/decidueye/)|
+|
+[Decidueye](https://www.serebii.net/pokedex-champions/decidueye/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Overgrow](https://www.serebii.net/abilitydex/overgrow.shtml)
+[Long Reach](https://www.serebii.net/abilitydex/longreach.shtml)|78|**107**|75|100|100|70|
+344
+|
+#844
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/844.png)](https://www.serebii.net/pokedex-champions/sandaconda/)|
+|
+[Sandaconda](https://www.serebii.net/pokedex-champions/sandaconda/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml)
+|
+[Sand Spit](https://www.serebii.net/abilitydex/sandspit.shtml)
+[Shed Skin](https://www.serebii.net/abilitydex/shedskin.shtml)
+[Sand Veil](https://www.serebii.net/abilitydex/sandveil.shtml)|72|**107**|125|65|70|71|
+344
+|
+#454
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/454.png)](https://www.serebii.net/pokedex-champions/toxicroak/)|
+|
+[Toxicroak](https://www.serebii.net/pokedex-champions/toxicroak/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Anticipation](https://www.serebii.net/abilitydex/anticipation.shtml)
+[Dry Skin](https://www.serebii.net/abilitydex/dryskin.shtml)
+[Poison Touch](https://www.serebii.net/abilitydex/poisontouch.shtml)|83|**106**|65|86|65|85|
+342
+|
+#071
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/071.png)](https://www.serebii.net/pokedex-champions/victreebel/)|
+|
+[Victreebel](https://www.serebii.net/pokedex-champions/victreebel/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Chlorophyll](https://www.serebii.net/abilitydex/chlorophyll.shtml)
+[Gluttony](https://www.serebii.net/abilitydex/gluttony.shtml)|80|**105**|65|100|70|70|
+339
+|
+#142
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/142.png)](https://www.serebii.net/pokedex-champions/aerodactyl/)|
+|
+[Aerodactyl](https://www.serebii.net/pokedex-champions/aerodactyl/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Rock Head](https://www.serebii.net/abilitydex/rockhead.shtml)
+[Pressure](https://www.serebii.net/abilitydex/pressure.shtml)
+[Unnerve](https://www.serebii.net/abilitydex/unnerve.shtml)|80|**105**|65|60|75|130|
+339
+|
+#160
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/160.png)](https://www.serebii.net/pokedex-champions/feraligatr/)|
+|
+[Feraligatr](https://www.serebii.net/pokedex-champions/feraligatr/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Torrent](https://www.serebii.net/abilitydex/torrent.shtml)
+[Sheer Force](https://www.serebii.net/abilitydex/sheerforce.shtml)|85|**105**|100|79|83|78|
+339
+|
+#571
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/571.png)](https://www.serebii.net/pokedex-champions/zoroark/)|
+|
+[Zoroark](https://www.serebii.net/pokedex-champions/zoroark/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Illusion](https://www.serebii.net/abilitydex/illusion.shtml) |60|**105**|60|120|60|105|
+339
+|
+#635
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/635.png)](https://www.serebii.net/pokedex-champions/hydreigon/)|
+|
+[Hydreigon](https://www.serebii.net/pokedex-champions/hydreigon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Levitate](https://www.serebii.net/abilitydex/levitate.shtml) |92|**105**|90|125|90|98|
+339
+|
+#899
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/899.png)](https://www.serebii.net/pokedex-champions/wyrdeer/)|
+|
+[Wyrdeer](https://www.serebii.net/pokedex-champions/wyrdeer/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml)
+[Frisk](https://www.serebii.net/abilitydex/frisk.shtml)
+[Sap Sipper](https://www.serebii.net/abilitydex/sapsipper.shtml)|103|**105**|72|105|75|65|
+339
+|
+#1018
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/1018.png)](https://www.serebii.net/pokedex-champions/archaludon/)|
+|
+[Archaludon](https://www.serebii.net/pokedex-champions/archaludon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Stamina](https://www.serebii.net/abilitydex/stamina.shtml)
+[Sturdy](https://www.serebii.net/abilitydex/sturdy.shtml)
+[Stalwart](https://www.serebii.net/abilitydex/stalwart.shtml)|90|**105**|130|125|65|85|
+339
+|
+#392
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/392.png)](https://www.serebii.net/pokedex-champions/infernape/)|
+|
+[Infernape](https://www.serebii.net/pokedex-champions/infernape/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml)
+|
+[Blaze](https://www.serebii.net/abilitydex/blaze.shtml)
+[Iron Fist](https://www.serebii.net/abilitydex/ironfist.shtml)|76|**104**|71|104|71|108|
+337
+|
+#006
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/006-my.png)](https://www.serebii.net/pokedex-champions/charizard/)|
+|
+[Charizard](https://www.serebii.net/pokedex-champions/charizard/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Drought](https://www.serebii.net/abilitydex/drought.shtml) |78|**104**|78|159|115|100|
+337
+|
+#009
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/009-m.png)](https://www.serebii.net/pokedex-champions/blastoise/)|
+|
+[Blastoise](https://www.serebii.net/pokedex-champions/blastoise/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Mega Launcher](https://www.serebii.net/abilitydex/megalauncher.shtml) |79|**103**|120|135|115|78|
+335
+|
+#128
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/128.png)](https://www.serebii.net/pokedex-champions/tauros/)|
+|
+[Tauros](https://www.serebii.net/pokedex-champions/tauros/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml)
+[Anger Point](https://www.serebii.net/abilitydex/angerpoint.shtml)
+[Sheer Force](https://www.serebii.net/abilitydex/sheerforce.shtml)|75|**100**|95|40|70|110|
+328
+|
+#323
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/323.png)](https://www.serebii.net/pokedex-champions/camerupt/)|
+|
+[Camerupt](https://www.serebii.net/pokedex-champions/camerupt/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml)
+|
+[Magma Armor](https://www.serebii.net/abilitydex/magmaarmor.shtml)
+[Solid Rock](https://www.serebii.net/abilitydex/solidrock.shtml)
+[Anger Point](https://www.serebii.net/abilitydex/angerpoint.shtml)|70|**100**|70|105|75|40|
+328
+|
+#503
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/503.png)](https://www.serebii.net/pokedex-champions/samurott/)|
+|
+[Samurott](https://www.serebii.net/pokedex-champions/samurott/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Torrent](https://www.serebii.net/abilitydex/torrent.shtml)
+[Shell Armor](https://www.serebii.net/abilitydex/shellarmor.shtml)|95|**100**|85|108|70|70|
+328
+|
+#706
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/706.png)](https://www.serebii.net/pokedex-champions/goodra/)|
+|
+[Goodra](https://www.serebii.net/pokedex-champions/goodra/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Sap Sipper](https://www.serebii.net/abilitydex/sapsipper.shtml)
+[Hydration](https://www.serebii.net/abilitydex/hydration.shtml)
+[Gooey](https://www.serebii.net/abilitydex/gooey.shtml)|90|**100**|70|110|150|80|
+328
+|
+#934
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/934.png)](https://www.serebii.net/pokedex-champions/garganacl/)|
+|
+[Garganacl](https://www.serebii.net/pokedex-champions/garganacl/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml)
+|
+[Purifying Salt](https://www.serebii.net/abilitydex/purifyingsalt.shtml)
+[Sturdy](https://www.serebii.net/abilitydex/sturdy.shtml)
+[Clear Body](https://www.serebii.net/abilitydex/clearbody.shtml)|100|**100**|130|45|90|35|
+328
+|
+#003
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/003-m.png)](https://www.serebii.net/pokedex-champions/venusaur/)|
+|
+[Venusaur](https://www.serebii.net/pokedex-champions/venusaur/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Thick Fat](https://www.serebii.net/abilitydex/thickfat.shtml) |80|**100**|123|122|120|80|
+328
+|
+#080
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/080-g.png)](https://www.serebii.net/pokedex-champions/slowbro/)|
+|
+[Slowbro](https://www.serebii.net/pokedex-champions/slowbro/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Quick Draw](https://www.serebii.net/abilitydex/quickdraw.shtml)
+[Own Tempo](https://www.serebii.net/abilitydex/owntempo.shtml)
+[Regenerator](https://www.serebii.net/abilitydex/regenerator.shtml)|95|**100**|95|100|70|30|
+328
+|
+#121
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/121-m.png)](https://www.serebii.net/pokedex-champions/starmie/)|
+|
+[Starmie](https://www.serebii.net/pokedex-champions/starmie/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Huge Power](https://www.serebii.net/abilitydex/hugepower.shtml) |60|**100**|105|130|105|120|
+328
+|
+#308
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/308-m.png)](https://www.serebii.net/pokedex-champions/medicham/)|
+|
+[Medicham](https://www.serebii.net/pokedex-champions/medicham/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Pure Power](https://www.serebii.net/abilitydex/purepower.shtml) |60|**100**|85|80|85|100|
+328
+|
+#571
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/571-h.png)](https://www.serebii.net/pokedex-champions/zoroark/)|
+|
+[Zoroark](https://www.serebii.net/pokedex-champions/zoroark/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Illusion](https://www.serebii.net/abilitydex/illusion.shtml) |55|**100**|60|125|60|110|
+328
+|
+#706
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/706-h.png)](https://www.serebii.net/pokedex-champions/goodra/)|
+|
+[Goodra](https://www.serebii.net/pokedex-champions/goodra/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Sap Sipper](https://www.serebii.net/abilitydex/sapsipper.shtml)
+[Shell Armor](https://www.serebii.net/abilitydex/shellarmor.shtml)
+[Gooey](https://www.serebii.net/abilitydex/gooey.shtml)|80|**100**|100|110|150|60|
+328
+|
+#711
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/711-h.png)](https://www.serebii.net/pokedex-champions/gourgeist/)|
+|
+[Gourgeist](https://www.serebii.net/pokedex-champions/gourgeist/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml) [![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml)
+|
+[Pickup](https://www.serebii.net/abilitydex/pickup.shtml)
+[Frisk](https://www.serebii.net/abilitydex/frisk.shtml)
+[Insomnia](https://www.serebii.net/abilitydex/insomnia.shtml)|85|**100**|122|58|75|54|
+328
+|
+#512
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/512.png)](https://www.serebii.net/pokedex-champions/simisage/)|
+|
+[Simisage](https://www.serebii.net/pokedex-champions/simisage/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml)
+|
+[Gluttony](https://www.serebii.net/abilitydex/gluttony.shtml)
+[Overgrow](https://www.serebii.net/abilitydex/overgrow.shtml)|75|**98**|63|98|63|101|
+324
+|
+#514
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/514.png)](https://www.serebii.net/pokedex-champions/simisear/)|
+|
+[Simisear](https://www.serebii.net/pokedex-champions/simisear/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Gluttony](https://www.serebii.net/abilitydex/gluttony.shtml)
+[Blaze](https://www.serebii.net/abilitydex/blaze.shtml)|75|**98**|63|98|63|101|
+324
+|
+#516
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/516.png)](https://www.serebii.net/pokedex-champions/simipour/)|
+|
+[Simipour](https://www.serebii.net/pokedex-champions/simipour/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Gluttony](https://www.serebii.net/abilitydex/gluttony.shtml)
+[Torrent](https://www.serebii.net/abilitydex/torrent.shtml)|75|**98**|63|98|63|101|
+324
+|
+#024
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/024.png)](https://www.serebii.net/pokedex-champions/arbok/)|
+|
+[Arbok](https://www.serebii.net/pokedex-champions/arbok/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml)
+[Shed Skin](https://www.serebii.net/abilitydex/shedskin.shtml)
+[Unnerve](https://www.serebii.net/abilitydex/unnerve.shtml)|60|**95**|69|65|79|80|
+317
+|
+#115
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/115.png)](https://www.serebii.net/pokedex-champions/kangaskhan/)|
+|
+[Kangaskhan](https://www.serebii.net/pokedex-champions/kangaskhan/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Early Bird](https://www.serebii.net/abilitydex/earlybird.shtml)
+[Scrappy](https://www.serebii.net/abilitydex/scrappy.shtml)
+[Inner Focus](https://www.serebii.net/abilitydex/innerfocus.shtml)|105|**95**|80|40|80|90|
+317
+|
+#472
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/472.png)](https://www.serebii.net/pokedex-champions/gliscor/)|
+|
+[Gliscor](https://www.serebii.net/pokedex-champions/gliscor/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Hyper Cutter](https://www.serebii.net/abilitydex/hypercutter.shtml)
+[Sand Veil](https://www.serebii.net/abilitydex/sandveil.shtml)
+[Poison Heal](https://www.serebii.net/abilitydex/poisonheal.shtml)|75|**95**|125|45|75|95|
+317
+|
+#569
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/569.png)](https://www.serebii.net/pokedex-champions/garbodor/)|
+|
+[Garbodor](https://www.serebii.net/pokedex-champions/garbodor/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Stench](https://www.serebii.net/abilitydex/stench.shtml)
+[Weak Armor](https://www.serebii.net/abilitydex/weakarmor.shtml)
+[Aftermath](https://www.serebii.net/abilitydex/aftermath.shtml)|80|**95**|82|60|82|75|
+317
+|
+#584
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/584.png)](https://www.serebii.net/pokedex-champions/vanilluxe/)|
+|
+[Vanilluxe](https://www.serebii.net/pokedex-champions/vanilluxe/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml)
+|
+[Ice Body](https://www.serebii.net/abilitydex/icebody.shtml)
+[Snow Warning](https://www.serebii.net/abilitydex/snowwarning.shtml)
+[Weak Armor](https://www.serebii.net/abilitydex/weakarmor.shtml)|71|**95**|85|110|95|79|
+317
+|
+#658
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/658.png)](https://www.serebii.net/pokedex-champions/greninja/)|
+|
+[Greninja](https://www.serebii.net/pokedex-champions/greninja/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Torrent](https://www.serebii.net/abilitydex/torrent.shtml)
+[Protean](https://www.serebii.net/abilitydex/protean.shtml)|72|**95**|67|103|71|122|
+317
+|
+#867
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/867.png)](https://www.serebii.net/pokedex-champions/runerigus/)|
+|
+[Runerigus](https://www.serebii.net/pokedex-champions/runerigus/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Wandering Spirit](https://www.serebii.net/abilitydex/wanderingspirit.shtml) |58|**95**|145|50|105|30|
+317
+|
+#877
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/877.png)](https://www.serebii.net/pokedex-champions/morpeko/)|
+|
+[Morpeko](https://www.serebii.net/pokedex-champions/morpeko/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Hunger Switch](https://www.serebii.net/abilitydex/hungerswitch.shtml) |58|**95**|58|70|58|97|
+317
+|
+#181
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/181-m.png)](https://www.serebii.net/pokedex-champions/ampharos/)|
+|
+[Ampharos](https://www.serebii.net/pokedex-champions/ampharos/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Mold Breaker](https://www.serebii.net/abilitydex/moldbreaker.shtml) |90|**95**|105|165|110|45|
+317
+|
+#711
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/711-l.png)](https://www.serebii.net/pokedex-champions/gourgeist/)|
+|
+[Gourgeist](https://www.serebii.net/pokedex-champions/gourgeist/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml) [![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml)
+|
+[Pickup](https://www.serebii.net/abilitydex/pickup.shtml)
+[Frisk](https://www.serebii.net/abilitydex/frisk.shtml)
+[Insomnia](https://www.serebii.net/abilitydex/insomnia.shtml)|75|**95**|122|58|75|69|
+317
+|
+#442
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/442.png)](https://www.serebii.net/pokedex-champions/spiritomb/)|
+|
+[Spiritomb](https://www.serebii.net/pokedex-champions/spiritomb/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml) [![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Pressure](https://www.serebii.net/abilitydex/pressure.shtml)
+[Infiltrator](https://www.serebii.net/abilitydex/infiltrator.shtml)|50|**92**|108|92|108|35|
+311
+|
+#460
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/460.png)](https://www.serebii.net/pokedex-champions/abomasnow/)|
+|
+[Abomasnow](https://www.serebii.net/pokedex-champions/abomasnow/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml)
+|
+[Snow Warning](https://www.serebii.net/abilitydex/snowwarning.shtml)
+[Soundproof](https://www.serebii.net/abilitydex/soundproof.shtml)|90|**92**|75|92|85|60|
+311
+|
+#701
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/701.png)](https://www.serebii.net/pokedex-champions/hawlucha/)|
+|
+[Hawlucha](https://www.serebii.net/pokedex-champions/hawlucha/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Limber](https://www.serebii.net/abilitydex/limber.shtml)
+[Unburden](https://www.serebii.net/abilitydex/unburden.shtml)
+[Mold Breaker](https://www.serebii.net/abilitydex/moldbreaker.shtml)|78|**92**|75|74|63|118|
+311
+|
+#154
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/154-m.png)](https://www.serebii.net/pokedex-champions/meganium/)|
+|
+[Meganium](https://www.serebii.net/pokedex-champions/meganium/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Mega Sol](https://www.serebii.net/abilitydex/megasol.shtml) |80|**92**|115|143|115|80|
+311
+|
+#902
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/902-f.png)](https://www.serebii.net/pokedex-champions/basculegion/)|
+|
+[Basculegion](https://www.serebii.net/pokedex-champions/basculegion/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Swift Swim](https://www.serebii.net/abilitydex/swiftswim.shtml)
+[Adaptability](https://www.serebii.net/abilitydex/adaptability.shtml)
+[Mold Breaker](https://www.serebii.net/abilitydex/moldbreaker.shtml)|120|**92**|65|100|75|78|
+311
+|
+#015
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/015.png)](https://www.serebii.net/pokedex-champions/beedrill/)|
+|
+[Beedrill](https://www.serebii.net/pokedex-champions/beedrill/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Swarm](https://www.serebii.net/abilitydex/swarm.shtml)
+[Sniper](https://www.serebii.net/abilitydex/sniper.shtml)|65|**90**|40|45|80|75|
+306
+|
+#026
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/026.png)](https://www.serebii.net/pokedex-champions/raichu/)|
+|
+[Raichu](https://www.serebii.net/pokedex-champions/raichu/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml)
+|
+[Static](https://www.serebii.net/abilitydex/static.shtml)
+[Lightning Rod](https://www.serebii.net/abilitydex/lightningrod.shtml)|60|**90**|55|90|80|110|
+306
+|
+#168
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/168.png)](https://www.serebii.net/pokedex-champions/ariados/)|
+|
+[Ariados](https://www.serebii.net/pokedex-champions/ariados/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Swarm](https://www.serebii.net/abilitydex/swarm.shtml)
+[Insomnia](https://www.serebii.net/abilitydex/insomnia.shtml)
+[Sniper](https://www.serebii.net/abilitydex/sniper.shtml)|70|**90**|70|60|70|40|
+306
+|
+#205
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/205.png)](https://www.serebii.net/pokedex-champions/forretress/)|
+|
+[Forretress](https://www.serebii.net/pokedex-champions/forretress/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Sturdy](https://www.serebii.net/abilitydex/sturdy.shtml)
+[Overcoat](https://www.serebii.net/abilitydex/overcoat.shtml)|75|**90**|140|60|60|40|
+306
+|
+#229
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/229.png)](https://www.serebii.net/pokedex-champions/houndoom/)|
+|
+[Houndoom](https://www.serebii.net/pokedex-champions/houndoom/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml) [![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Early Bird](https://www.serebii.net/abilitydex/earlybird.shtml)
+[Flash Fire](https://www.serebii.net/abilitydex/flashfire.shtml)
+[Unnerve](https://www.serebii.net/abilitydex/unnerve.shtml)|75|**90**|50|110|80|95|
+306
+|
+#711
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/711.png)](https://www.serebii.net/pokedex-champions/gourgeist/)|
+|
+[Gourgeist](https://www.serebii.net/pokedex-champions/gourgeist/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml) [![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml)
+|
+[Pickup](https://www.serebii.net/abilitydex/pickup.shtml)
+[Frisk](https://www.serebii.net/abilitydex/frisk.shtml)
+[Insomnia](https://www.serebii.net/abilitydex/insomnia.shtml)|65|**90**|122|58|75|84|
+306
+|
+#778
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/778.png)](https://www.serebii.net/pokedex-champions/mimikyu/)|
+|
+[Mimikyu](https://www.serebii.net/pokedex-champions/mimikyu/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Disguise](https://www.serebii.net/abilitydex/disguise.shtml) |55|**90**|80|50|105|96|
+306
+|
+#858
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/858.png)](https://www.serebii.net/pokedex-champions/hatterene/)|
+|
+[Hatterene](https://www.serebii.net/pokedex-champions/hatterene/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Healer](https://www.serebii.net/abilitydex/healer.shtml)
+[Anticipation](https://www.serebii.net/abilitydex/anticipation.shtml)
+[Magic Bounce](https://www.serebii.net/abilitydex/magicbounce.shtml)|57|**90**|95|136|103|29|
+306
+|
+#981
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/981.png)](https://www.serebii.net/pokedex-champions/farigiraf/)|
+|
+[Farigiraf](https://www.serebii.net/pokedex-champions/farigiraf/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Cud Chew](https://www.serebii.net/abilitydex/cudchew.shtml)
+[Armor Tail](https://www.serebii.net/abilitydex/armortail.shtml)
+[Sap Sipper](https://www.serebii.net/abilitydex/sapsipper.shtml)|120|**90**|70|110|70|60|
+306
+|
+#229
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/229-m.png)](https://www.serebii.net/pokedex-champions/houndoom/)|
+|
+[Houndoom](https://www.serebii.net/pokedex-champions/houndoom/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml) [![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Solar Power](https://www.serebii.net/abilitydex/solarpower.shtml) |75|**90**|90|140|90|115|
+306
+|
+#970
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/970-m.png)](https://www.serebii.net/pokedex-champions/glimmora/)|
+|
+[Glimmora](https://www.serebii.net/pokedex-champions/glimmora/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Adaptability](https://www.serebii.net/abilitydex/adaptability.shtml) |83|**90**|105|150|96|101|
+306
+|
+#510
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/510.png)](https://www.serebii.net/pokedex-champions/liepard/)|
+|
+[Liepard](https://www.serebii.net/pokedex-champions/liepard/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Limber](https://www.serebii.net/abilitydex/limber.shtml)
+[Unburden](https://www.serebii.net/abilitydex/unburden.shtml)
+[Prankster](https://www.serebii.net/abilitydex/prankster.shtml)|64|**88**|50|88|50|106|
+302
+|
+#823
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/823.png)](https://www.serebii.net/pokedex-champions/corviknight/)|
+|
+[Corviknight](https://www.serebii.net/pokedex-champions/corviknight/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Pressure](https://www.serebii.net/abilitydex/pressure.shtml)
+[Unnerve](https://www.serebii.net/abilitydex/unnerve.shtml)
+[Mirror Armor](https://www.serebii.net/abilitydex/mirrorarmor.shtml)|98|**87**|105|53|85|67|
+300
+|
+#395
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/395.png)](https://www.serebii.net/pokedex-champions/empoleon/)|
+|
+[Empoleon](https://www.serebii.net/pokedex-champions/empoleon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Torrent](https://www.serebii.net/abilitydex/torrent.shtml)
+[Competitive](https://www.serebii.net/abilitydex/competitive.shtml)|84|**86**|88|111|101|60|
+298
+|
+#208
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/208.png)](https://www.serebii.net/pokedex-champions/steelix/)|
+|
+[Steelix](https://www.serebii.net/pokedex-champions/steelix/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml) [![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml)
+|
+[Rock Head](https://www.serebii.net/abilitydex/rockhead.shtml)
+[Sturdy](https://www.serebii.net/abilitydex/sturdy.shtml)
+[Sheer Force](https://www.serebii.net/abilitydex/sheerforce.shtml)|75|**85**|200|55|65|30|
+295
+|
+#324
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/324.png)](https://www.serebii.net/pokedex-champions/torkoal/)|
+|
+[Torkoal](https://www.serebii.net/pokedex-champions/torkoal/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[White Smoke](https://www.serebii.net/abilitydex/whitesmoke.shtml)
+[Drought](https://www.serebii.net/abilitydex/drought.shtml)
+[Shell Armor](https://www.serebii.net/abilitydex/shellarmor.shtml)|70|**85**|140|85|70|20|
+295
+|
+#505
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/505.png)](https://www.serebii.net/pokedex-champions/watchog/)|
+|
+[Watchog](https://www.serebii.net/pokedex-champions/watchog/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Illuminate](https://www.serebii.net/abilitydex/illuminate.shtml)
+[Keen Eye](https://www.serebii.net/abilitydex/keeneye.shtml)
+[Analytic](https://www.serebii.net/abilitydex/analytic.shtml)|60|**85**|69|60|69|77|
+295
+|
+#842
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/842.png)](https://www.serebii.net/pokedex-champions/appletun/)|
+|
+[Appletun](https://www.serebii.net/pokedex-champions/appletun/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Ripen](https://www.serebii.net/abilitydex/ripen.shtml)
+[Gluttony](https://www.serebii.net/abilitydex/gluttony.shtml)
+[Thick Fat](https://www.serebii.net/abilitydex/thickfat.shtml)|110|**85**|80|100|80|30|
+295
+|
+#866
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/866.png)](https://www.serebii.net/pokedex-champions/mr.rime/)|
+|
+[Mr. Rime](https://www.serebii.net/pokedex-champions/mr.rime/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Tangled Feet](https://www.serebii.net/abilitydex/tangledfeet.shtml)
+[Screen Cleaner](https://www.serebii.net/abilitydex/screencleaner.shtml)
+[Ice Body](https://www.serebii.net/abilitydex/icebody.shtml)|80|**85**|75|110|100|70|
+295
+|
+#968
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/968.png)](https://www.serebii.net/pokedex-champions/orthworm/)|
+|
+[Orthworm](https://www.serebii.net/pokedex-champions/orthworm/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Earth Eater](https://www.serebii.net/abilitydex/eartheater.shtml)
+[Sand Veil](https://www.serebii.net/abilitydex/sandveil.shtml)|70|**85**|145|60|55|65|
+295
+|
+#026
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/026-a.png)](https://www.serebii.net/pokedex-champions/raichu/)|
+|
+[Raichu](https://www.serebii.net/pokedex-champions/raichu/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Surge Surfer](https://www.serebii.net/abilitydex/surgesurfer.shtml) |60|**85**|50|95|85|110|
+295
+|
+#282
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/282-m.png)](https://www.serebii.net/pokedex-champions/gardevoir/)|
+|
+[Gardevoir](https://www.serebii.net/pokedex-champions/gardevoir/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Pixilate](https://www.serebii.net/abilitydex/pixilate.shtml) |68|**85**|65|165|135|100|
+295
+|
+#302
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/302-m.png)](https://www.serebii.net/pokedex-champions/sableye/)|
+|
+[Sableye](https://www.serebii.net/pokedex-champions/sableye/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Magic Bounce](https://www.serebii.net/abilitydex/magicbounce.shtml) |50|**85**|125|85|115|20|
+295
+|
+#670
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/670-m.png)](https://www.serebii.net/pokedex-champions/floette/)|
+|
+[Floette](https://www.serebii.net/pokedex-champions/floette/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Fairy Aura](https://www.serebii.net/abilitydex/fairyaura.shtml) |74|**85**|87|155|148|102|
+295
+|
+#711
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/711-s.png)](https://www.serebii.net/pokedex-champions/gourgeist/)|
+|
+[Gourgeist](https://www.serebii.net/pokedex-champions/gourgeist/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml) [![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml)
+|
+[Pickup](https://www.serebii.net/abilitydex/pickup.shtml)
+[Frisk](https://www.serebii.net/abilitydex/frisk.shtml)
+[Insomnia](https://www.serebii.net/abilitydex/insomnia.shtml)|55|**85**|122|58|75|99|
+295
+|
+#780
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/780-m.png)](https://www.serebii.net/pokedex-champions/drampa/)|
+|
+[Drampa](https://www.serebii.net/pokedex-champions/drampa/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Berserk](https://www.serebii.net/abilitydex/berserk.shtml) |78|**85**|110|160|116|36|
+295
+|
+#006
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/006.png)](https://www.serebii.net/pokedex-champions/charizard/)|
+|
+[Charizard](https://www.serebii.net/pokedex-champions/charizard/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Blaze](https://www.serebii.net/abilitydex/blaze.shtml)
+[Solar Power](https://www.serebii.net/abilitydex/solarpower.shtml)|78|**84**|78|109|85|100|
+293
+|
+#157
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/157.png)](https://www.serebii.net/pokedex-champions/typhlosion/)|
+|
+[Typhlosion](https://www.serebii.net/pokedex-champions/typhlosion/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Blaze](https://www.serebii.net/abilitydex/blaze.shtml)
+[Flash Fire](https://www.serebii.net/abilitydex/flashfire.shtml)|78|**84**|78|109|85|100|
+293
+|
+#157
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/157-h.png)](https://www.serebii.net/pokedex-champions/typhlosion/)|
+|
+[Typhlosion](https://www.serebii.net/pokedex-champions/typhlosion/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Blaze](https://www.serebii.net/abilitydex/blaze.shtml)
+[Frisk](https://www.serebii.net/abilitydex/frisk.shtml)|73|**84**|78|119|85|95|
+293
+|
+#009
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/009.png)](https://www.serebii.net/pokedex-champions/blastoise/)|
+|
+[Blastoise](https://www.serebii.net/pokedex-champions/blastoise/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Torrent](https://www.serebii.net/abilitydex/torrent.shtml)
+[Rain Dish](https://www.serebii.net/abilitydex/raindish.shtml)|79|**83**|100|85|105|78|
+291
+|
+#003
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/003.png)](https://www.serebii.net/pokedex-champions/venusaur/)|
+|
+[Venusaur](https://www.serebii.net/pokedex-champions/venusaur/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Overgrow](https://www.serebii.net/abilitydex/overgrow.shtml)
+[Chlorophyll](https://www.serebii.net/abilitydex/chlorophyll.shtml)|80|**82**|83|100|100|80|
+289
+|
+#154
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/154.png)](https://www.serebii.net/pokedex-champions/meganium/)|
+|
+[Meganium](https://www.serebii.net/pokedex-champions/meganium/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml)
+|
+[Overgrow](https://www.serebii.net/abilitydex/overgrow.shtml)
+[Leaf Guard](https://www.serebii.net/abilitydex/leafguard.shtml)|80|**82**|100|83|100|80|
+289
+|
+#663
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/663.png)](https://www.serebii.net/pokedex-champions/talonflame/)|
+|
+[Talonflame](https://www.serebii.net/pokedex-champions/talonflame/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Flame Body](https://www.serebii.net/abilitydex/flamebody.shtml)
+[Gale Wings](https://www.serebii.net/abilitydex/galewings.shtml)|78|**81**|71|74|69|126|
+287
+|
+#618
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/618-g.png)](https://www.serebii.net/pokedex-champions/stunfisk/)|
+|
+[Stunfisk](https://www.serebii.net/pokedex-champions/stunfisk/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Mimicry](https://www.serebii.net/abilitydex/mimicry.shtml) |109|**81**|99|66|84|32|
+287
+|
+#018
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/018.png)](https://www.serebii.net/pokedex-champions/pidgeot/)|
+|
+[Pidgeot](https://www.serebii.net/pokedex-champions/pidgeot/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Keen Eye](https://www.serebii.net/abilitydex/keeneye.shtml)
+[Tangled Feet](https://www.serebii.net/abilitydex/tangledfeet.shtml)
+[Big Pecks](https://www.serebii.net/abilitydex/bigpecks.shtml)|83|**80**|75|70|70|101|
+284
+|
+#227
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/227.png)](https://www.serebii.net/pokedex-champions/skarmory/)|
+|
+[Skarmory](https://www.serebii.net/pokedex-champions/skarmory/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Keen Eye](https://www.serebii.net/abilitydex/keeneye.shtml)
+[Sturdy](https://www.serebii.net/abilitydex/sturdy.shtml)
+[Weak Armor](https://www.serebii.net/abilitydex/weakarmor.shtml)|65|**80**|140|40|70|70|
+284
+|
+#362
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/362.png)](https://www.serebii.net/pokedex-champions/glalie/)|
+|
+[Glalie](https://www.serebii.net/pokedex-champions/glalie/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml)
+|
+[Inner Focus](https://www.serebii.net/abilitydex/innerfocus.shtml)
+[Ice Body](https://www.serebii.net/abilitydex/icebody.shtml)
+[Moody](https://www.serebii.net/abilitydex/moody.shtml)|80|**80**|80|80|80|80|
+284
+|
+#478
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/478.png)](https://www.serebii.net/pokedex-champions/froslass/)|
+|
+[Froslass](https://www.serebii.net/pokedex-champions/froslass/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Snow Cloak](https://www.serebii.net/abilitydex/snowcloak.shtml)
+[Cursed Body](https://www.serebii.net/abilitydex/cursedbody.shtml)|70|**80**|70|80|70|110|
+284
+|
+#676
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/676.png)](https://www.serebii.net/pokedex-champions/furfrou/)|
+|
+[Furfrou](https://www.serebii.net/pokedex-champions/furfrou/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Fur Coat](https://www.serebii.net/abilitydex/furcoat.shtml) |75|**80**|60|65|90|102|
+284
+|
+#685
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/685.png)](https://www.serebii.net/pokedex-champions/slurpuff/)|
+|
+[Slurpuff](https://www.serebii.net/pokedex-champions/slurpuff/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Sweet Veil](https://www.serebii.net/abilitydex/sweetveil.shtml)
+[Unburden](https://www.serebii.net/abilitydex/unburden.shtml)|82|**80**|86|85|75|72|
+284
+|
+#707
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/707.png)](https://www.serebii.net/pokedex-champions/klefki/)|
+|
+[Klefki](https://www.serebii.net/pokedex-champions/klefki/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Prankster](https://www.serebii.net/abilitydex/prankster.shtml)
+[Magician](https://www.serebii.net/abilitydex/magician.shtml)|57|**80**|91|80|87|75|
+284
+|
+#1019
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/1019.png)](https://www.serebii.net/pokedex-champions/hydrapple/)|
+|
+[Hydrapple](https://www.serebii.net/pokedex-champions/hydrapple/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Supersweet Syrup](https://www.serebii.net/abilitydex/supersweetsyrup.shtml)
+[Regenerator](https://www.serebii.net/abilitydex/regenerator.shtml)
+[Sticky Hold](https://www.serebii.net/abilitydex/stickyhold.shtml)|106|**80**|110|120|80|44|
+284
+|
+#018
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/018-m.png)](https://www.serebii.net/pokedex-champions/pidgeot/)|
+|
+[Pidgeot](https://www.serebii.net/pokedex-champions/pidgeot/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[No Guard](https://www.serebii.net/abilitydex/noguard.shtml) |83|**80**|80|135|80|121|
+284
+|
+#036
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/036-m.png)](https://www.serebii.net/pokedex-champions/clefable/)|
+|
+[Clefable](https://www.serebii.net/pokedex-champions/clefable/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Magic Bounce](https://www.serebii.net/abilitydex/magicbounce.shtml) |95|**80**|93|135|110|70|
+284
+|
+#478
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/478-m.png)](https://www.serebii.net/pokedex-champions/froslass/)|
+|
+[Froslass](https://www.serebii.net/pokedex-champions/froslass/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Snow Warning](https://www.serebii.net/abilitydex/snowwarning.shtml) |70|**80**|70|140|100|120|
+284
+|
+#699
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/699.png)](https://www.serebii.net/pokedex-champions/aurorus/)|
+|
+[Aurorus](https://www.serebii.net/pokedex-champions/aurorus/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml) [![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml)
+|
+[Refrigerate](https://www.serebii.net/abilitydex/refrigerate.shtml)
+[Snow Warning](https://www.serebii.net/abilitydex/snowwarning.shtml)|123|**77**|72|99|92|58|
+278
+|
+#038
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/038.png)](https://www.serebii.net/pokedex-champions/ninetales/)|
+|
+[Ninetales](https://www.serebii.net/pokedex-champions/ninetales/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Flash Fire](https://www.serebii.net/abilitydex/flashfire.shtml)
+[Drought](https://www.serebii.net/abilitydex/drought.shtml)|73|**76**|75|81|100|100|
+276
+|
+#428
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/428.png)](https://www.serebii.net/pokedex-champions/lopunny/)|
+|
+[Lopunny](https://www.serebii.net/pokedex-champions/lopunny/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Cute Charm](https://www.serebii.net/abilitydex/cutecharm.shtml)
+[Klutz](https://www.serebii.net/abilitydex/klutz.shtml)
+[Limber](https://www.serebii.net/abilitydex/limber.shtml)|65|**76**|84|54|96|105|
+276
+|
+#080
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/080.png)](https://www.serebii.net/pokedex-champions/slowbro/)|
+|
+[Slowbro](https://www.serebii.net/pokedex-champions/slowbro/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Oblivious](https://www.serebii.net/abilitydex/oblivious.shtml)
+[Own Tempo](https://www.serebii.net/abilitydex/owntempo.shtml)
+[Regenerator](https://www.serebii.net/abilitydex/regenerator.shtml)|95|**75**|110|100|80|30|
+273
+|
+#121
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/121.png)](https://www.serebii.net/pokedex-champions/starmie/)|
+|
+[Starmie](https://www.serebii.net/pokedex-champions/starmie/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Illuminate](https://www.serebii.net/abilitydex/illuminate.shtml)
+[Natural Cure](https://www.serebii.net/abilitydex/naturalcure.shtml)
+[Analytic](https://www.serebii.net/abilitydex/analytic.shtml)|60|**75**|85|100|85|115|
+273
+|
+#181
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/181.png)](https://www.serebii.net/pokedex-champions/ampharos/)|
+|
+[Ampharos](https://www.serebii.net/pokedex-champions/ampharos/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml)
+|
+[Static](https://www.serebii.net/abilitydex/static.shtml)
+[Plus](https://www.serebii.net/abilitydex/plus.shtml)|90|**75**|85|115|90|55|
+273
+|
+#186
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/186.png)](https://www.serebii.net/pokedex-champions/politoed/)|
+|
+[Politoed](https://www.serebii.net/pokedex-champions/politoed/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Water Absorb](https://www.serebii.net/abilitydex/waterabsorb.shtml)
+[Damp](https://www.serebii.net/abilitydex/damp.shtml)
+[Drizzle](https://www.serebii.net/abilitydex/drizzle.shtml)|90|**75**|75|90|100|70|
+273
+|
+#199
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/199.png)](https://www.serebii.net/pokedex-champions/slowking/)|
+|
+[Slowking](https://www.serebii.net/pokedex-champions/slowking/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Oblivious](https://www.serebii.net/abilitydex/oblivious.shtml)
+[Own Tempo](https://www.serebii.net/abilitydex/owntempo.shtml)
+[Regenerator](https://www.serebii.net/abilitydex/regenerator.shtml)|95|**75**|80|100|110|30|
+273
+|
+#302
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/302.png)](https://www.serebii.net/pokedex-champions/sableye/)|
+|
+[Sableye](https://www.serebii.net/pokedex-champions/sableye/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Keen Eye](https://www.serebii.net/abilitydex/keeneye.shtml)
+[Stall](https://www.serebii.net/abilitydex/stall.shtml)
+[Prankster](https://www.serebii.net/abilitydex/prankster.shtml)|50|**75**|75|65|65|50|
+273
+|
+#310
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/310.png)](https://www.serebii.net/pokedex-champions/manectric/)|
+|
+[Manectric](https://www.serebii.net/pokedex-champions/manectric/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml)
+|
+[Static](https://www.serebii.net/abilitydex/static.shtml)
+[Lightning Rod](https://www.serebii.net/abilitydex/lightningrod.shtml)
+[Minus](https://www.serebii.net/abilitydex/minus.shtml)|70|**75**|60|105|60|105|
+273
+|
+#497
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/497.png)](https://www.serebii.net/pokedex-champions/serperior/)|
+|
+[Serperior](https://www.serebii.net/pokedex-champions/serperior/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml)
+|
+[Overgrow](https://www.serebii.net/abilitydex/overgrow.shtml)
+[Contrary](https://www.serebii.net/abilitydex/contrary.shtml)|75|**75**|95|75|95|113|
+273
+|
+#587
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/587.png)](https://www.serebii.net/pokedex-champions/emolga/)|
+|
+[Emolga](https://www.serebii.net/pokedex-champions/emolga/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Static](https://www.serebii.net/abilitydex/static.shtml)
+[Motor Drive](https://www.serebii.net/abilitydex/motordrive.shtml)|55|**75**|60|75|60|103|
+273
+|
+#911
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/911.png)](https://www.serebii.net/pokedex-champions/skeledirge/)|
+|
+[Skeledirge](https://www.serebii.net/pokedex-champions/skeledirge/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Blaze](https://www.serebii.net/abilitydex/blaze.shtml)
+[Unaware](https://www.serebii.net/abilitydex/unaware.shtml)|104|**75**|100|110|75|66|
+273
+|
+#925
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/925.png)](https://www.serebii.net/pokedex-champions/maushold/)|
+|
+[Maushold](https://www.serebii.net/pokedex-champions/maushold/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Friend Guard](https://www.serebii.net/abilitydex/friendguard.shtml)
+[Cheek Pouch](https://www.serebii.net/abilitydex/cheekpouch.shtml)
+[Technician](https://www.serebii.net/abilitydex/technician.shtml)|74|**75**|70|65|75|111|
+273
+|
+#959
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/959.png)](https://www.serebii.net/pokedex-champions/tinkaton/)|
+|
+[Tinkaton](https://www.serebii.net/pokedex-champions/tinkaton/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Mold Breaker](https://www.serebii.net/abilitydex/moldbreaker.shtml)
+[Own Tempo](https://www.serebii.net/abilitydex/owntempo.shtml)
+[Pickpocket](https://www.serebii.net/abilitydex/pickpocket.shtml)|85|**75**|77|70|105|94|
+273
+|
+#310
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/310-m.png)](https://www.serebii.net/pokedex-champions/manectric/)|
+|
+[Manectric](https://www.serebii.net/pokedex-champions/manectric/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml)
+|
+[Intimidate](https://www.serebii.net/abilitydex/intimidate.shtml) |70|**75**|80|135|80|135|
+273
+|
+#609
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/609-m.png)](https://www.serebii.net/pokedex-champions/chandelure/)|
+|
+[Chandelure](https://www.serebii.net/pokedex-champions/chandelure/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml) [![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Infiltrator](https://www.serebii.net/abilitydex/infiltrator.shtml) |60|**75**|110|175|110|90|
+273
+|
+#925
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/925-f.png)](https://www.serebii.net/pokedex-champions/maushold/)|
+|
+[Maushold](https://www.serebii.net/pokedex-champions/maushold/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Friend Guard](https://www.serebii.net/abilitydex/friendguard.shtml)
+[Cheek Pouch](https://www.serebii.net/abilitydex/cheekpouch.shtml)
+[Technician](https://www.serebii.net/abilitydex/technician.shtml)|74|**75**|70|65|75|111|
+273
+|
+#080
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/080-m.png)](https://www.serebii.net/pokedex-champions/slowbro/)|
+|
+[Slowbro](https://www.serebii.net/pokedex-champions/slowbro/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Shell Armor](https://www.serebii.net/abilitydex/shellarmor.shtml) |95|**75**|180|130|80|30|
+273
+|
+#730
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/730.png)](https://www.serebii.net/pokedex-champions/primarina/)|
+|
+[Primarina](https://www.serebii.net/pokedex-champions/primarina/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Torrent](https://www.serebii.net/abilitydex/torrent.shtml)
+[Liquid Voice](https://www.serebii.net/abilitydex/liquidvoice.shtml)|80|**74**|74|126|116|60|
+271
+|
+#693
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/693.png)](https://www.serebii.net/pokedex-champions/clawitzer/)|
+|
+[Clawitzer](https://www.serebii.net/pokedex-champions/clawitzer/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Mega Launcher](https://www.serebii.net/abilitydex/megalauncher.shtml) |71|**73**|88|120|89|59|
+269
+|
+#683
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/683.png)](https://www.serebii.net/pokedex-champions/aromatisse/)|
+|
+[Aromatisse](https://www.serebii.net/pokedex-champions/aromatisse/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Healer](https://www.serebii.net/abilitydex/healer.shtml)
+[Aroma Veil](https://www.serebii.net/abilitydex/aromaveil.shtml)|101|**72**|72|99|89|29|
+267
+|
+#036
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/036.png)](https://www.serebii.net/pokedex-champions/clefable/)|
+|
+[Clefable](https://www.serebii.net/pokedex-champions/clefable/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Cute Charm](https://www.serebii.net/abilitydex/cutecharm.shtml)
+[Magic Guard](https://www.serebii.net/abilitydex/magicguard.shtml)
+[Unaware](https://www.serebii.net/abilitydex/unaware.shtml)|95|**70**|73|95|90|60|
+262
+|
+#334
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/334.png)](https://www.serebii.net/pokedex-champions/altaria/)|
+|
+[Altaria](https://www.serebii.net/pokedex-champions/altaria/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Natural Cure](https://www.serebii.net/abilitydex/naturalcure.shtml)
+[Cloud Nine](https://www.serebii.net/abilitydex/cloudnine.shtml)|75|**70**|90|70|105|80|
+262
+|
+#351
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/351.png)](https://www.serebii.net/pokedex-champions/castform/)|
+|
+[Castform](https://www.serebii.net/pokedex-champions/castform/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Forecast](https://www.serebii.net/abilitydex/forecast.shtml) |70|**70**|70|70|70|70|
+262
+|
+#407
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/407.png)](https://www.serebii.net/pokedex-champions/roserade/)|
+|
+[Roserade](https://www.serebii.net/pokedex-champions/roserade/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Natural Cure](https://www.serebii.net/abilitydex/naturalcure.shtml)
+[Poison Point](https://www.serebii.net/abilitydex/poisonpoint.shtml)
+[Technician](https://www.serebii.net/abilitydex/technician.shtml)|60|**70**|65|125|105|90|
+262
+|
+#715
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/715.png)](https://www.serebii.net/pokedex-champions/noivern/)|
+|
+[Noivern](https://www.serebii.net/pokedex-champions/noivern/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Frisk](https://www.serebii.net/abilitydex/frisk.shtml)
+[Infiltrator](https://www.serebii.net/abilitydex/infiltrator.shtml)
+[Telepathy](https://www.serebii.net/abilitydex/telepathy.shtml)|85|**70**|80|97|80|123|
+262
+|
+#752
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/752.png)](https://www.serebii.net/pokedex-champions/araquanid/)|
+|
+[Araquanid](https://www.serebii.net/pokedex-champions/araquanid/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml)
+|
+[Water Bubble](https://www.serebii.net/abilitydex/waterbubble.shtml)
+[Water Absorb](https://www.serebii.net/abilitydex/waterabsorb.shtml)|68|**70**|92|50|132|42|
+262
+|
+#964
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/964.png)](https://www.serebii.net/pokedex-champions/palafin/)|
+|
+[Palafin](https://www.serebii.net/pokedex-champions/palafin/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Zero to Hero](https://www.serebii.net/abilitydex/zerotohero.shtml) |100|**70**|72|53|62|100|
+262
+|
+#655
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/655.png)](https://www.serebii.net/pokedex-champions/delphox/)|
+|
+[Delphox](https://www.serebii.net/pokedex-champions/delphox/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Blaze](https://www.serebii.net/abilitydex/blaze.shtml)
+[Magician](https://www.serebii.net/abilitydex/magician.shtml)|75|**69**|72|114|100|104|
+260
+|
+#655
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/655-m.png)](https://www.serebii.net/pokedex-champions/delphox/)|
+|
+[Delphox](https://www.serebii.net/pokedex-champions/delphox/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Levitate](https://www.serebii.net/abilitydex/levitate.shtml) |75|**69**|72|159|125|134|
+260
+|
+#547
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/547.png)](https://www.serebii.net/pokedex-champions/whimsicott/)|
+|
+[Whimsicott](https://www.serebii.net/pokedex-champions/whimsicott/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Prankster](https://www.serebii.net/abilitydex/prankster.shtml)
+[Infiltrator](https://www.serebii.net/abilitydex/infiltrator.shtml)
+[Chlorophyll](https://www.serebii.net/abilitydex/chlorophyll.shtml)|60|**67**|85|77|75|116|
+256
+|
+#038
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/038-a.png)](https://www.serebii.net/pokedex-champions/ninetales/)|
+|
+[Ninetales](https://www.serebii.net/pokedex-champions/ninetales/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Snow Cloak](https://www.serebii.net/abilitydex/snowcloak.shtml)
+[Snow Warning](https://www.serebii.net/abilitydex/snowwarning.shtml)|73|**67**|75|81|100|109|
+256
+|
+#618
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/618.png)](https://www.serebii.net/pokedex-champions/stunfisk/)|
+|
+[Stunfisk](https://www.serebii.net/pokedex-champions/stunfisk/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml) [![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml)
+|
+[Static](https://www.serebii.net/abilitydex/static.shtml)
+[Limber](https://www.serebii.net/abilitydex/limber.shtml)
+[Sand Veil](https://www.serebii.net/abilitydex/sandveil.shtml)|109|**66**|84|81|99|32|
+254
+|
+#094
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/094.png)](https://www.serebii.net/pokedex-champions/gengar/)|
+|
+[Gengar](https://www.serebii.net/pokedex-champions/gengar/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Cursed Body](https://www.serebii.net/abilitydex/cursedbody.shtml) |60|**65**|60|130|75|110|
+251
+|
+#134
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/134.png)](https://www.serebii.net/pokedex-champions/vaporeon/)|
+|
+[Vaporeon](https://www.serebii.net/pokedex-champions/vaporeon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Water Absorb](https://www.serebii.net/abilitydex/waterabsorb.shtml)
+[Hydration](https://www.serebii.net/abilitydex/hydration.shtml)|130|**65**|60|110|95|65|
+251
+|
+#135
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/135.png)](https://www.serebii.net/pokedex-champions/jolteon/)|
+|
+[Jolteon](https://www.serebii.net/pokedex-champions/jolteon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml)
+|
+[Volt Absorb](https://www.serebii.net/abilitydex/voltabsorb.shtml)
+[Quick Feet](https://www.serebii.net/abilitydex/quickfeet.shtml)|65|**65**|60|110|95|130|
+251
+|
+#196
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/196.png)](https://www.serebii.net/pokedex-champions/espeon/)|
+|
+[Espeon](https://www.serebii.net/pokedex-champions/espeon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Synchronize](https://www.serebii.net/abilitydex/synchronize.shtml)
+[Magic Bounce](https://www.serebii.net/abilitydex/magicbounce.shtml)|65|**65**|60|130|95|110|
+251
+|
+#197
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/197.png)](https://www.serebii.net/pokedex-champions/umbreon/)|
+|
+[Umbreon](https://www.serebii.net/pokedex-champions/umbreon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/dark.gif)](https://www.serebii.net/pokedex-champions/dark.shtml)
+|
+[Synchronize](https://www.serebii.net/abilitydex/synchronize.shtml)
+[Inner Focus](https://www.serebii.net/abilitydex/innerfocus.shtml)|95|**65**|110|60|130|65|
+251
+|
+#282
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/282.png)](https://www.serebii.net/pokedex-champions/gardevoir/)|
+|
+[Gardevoir](https://www.serebii.net/pokedex-champions/gardevoir/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Synchronize](https://www.serebii.net/abilitydex/synchronize.shtml)
+[Trace](https://www.serebii.net/abilitydex/trace.shtml)
+[Telepathy](https://www.serebii.net/abilitydex/telepathy.shtml)|68|**65**|65|125|115|80|
+251
+|
+#579
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/579.png)](https://www.serebii.net/pokedex-champions/reuniclus/)|
+|
+[Reuniclus](https://www.serebii.net/pokedex-champions/reuniclus/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Overcoat](https://www.serebii.net/abilitydex/overcoat.shtml)
+[Magic Guard](https://www.serebii.net/abilitydex/magicguard.shtml)
+[Regenerator](https://www.serebii.net/abilitydex/regenerator.shtml)|110|**65**|75|125|85|30|
+251
+|
+#671
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/671.png)](https://www.serebii.net/pokedex-champions/florges/)|
+|
+[Florges](https://www.serebii.net/pokedex-champions/florges/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Flower Veil](https://www.serebii.net/abilitydex/flowerveil.shtml)
+[Symbiosis](https://www.serebii.net/abilitydex/symbiosis.shtml)|78|**65**|68|112|154|75|
+251
+|
+#700
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/700.png)](https://www.serebii.net/pokedex-champions/sylveon/)|
+|
+[Sylveon](https://www.serebii.net/pokedex-champions/sylveon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Cute Charm](https://www.serebii.net/abilitydex/cutecharm.shtml)
+[Pixilate](https://www.serebii.net/abilitydex/pixilate.shtml)|95|**65**|65|110|130|60|
+251
+|
+#855
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/855.png)](https://www.serebii.net/pokedex-champions/polteageist/)|
+|
+[Polteageist](https://www.serebii.net/pokedex-champions/polteageist/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Weak Armor](https://www.serebii.net/abilitydex/weakarmor.shtml)
+[Cursed Body](https://www.serebii.net/abilitydex/cursedbody.shtml)|60|**65**|65|134|114|70|
+251
+|
+#094
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/094-m.png)](https://www.serebii.net/pokedex-champions/gengar/)|
+|
+[Gengar](https://www.serebii.net/pokedex-champions/gengar/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Shadow Tag](https://www.serebii.net/abilitydex/shadowtag.shtml) |60|**65**|80|170|95|130|
+251
+|
+#199
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/199-g.png)](https://www.serebii.net/pokedex-champions/slowking/)|
+|
+[Slowking](https://www.serebii.net/pokedex-champions/slowking/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Curious Medicine](https://www.serebii.net/abilitydex/curiousmedicine.shtml)
+[Own Tempo](https://www.serebii.net/abilitydex/owntempo.shtml)
+[Regenerator](https://www.serebii.net/abilitydex/regenerator.shtml)|95|**65**|80|110|110|30|
+251
+|
+#479
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/479-h.png)](https://www.serebii.net/pokedex-champions/rotom/)|
+|
+[Rotom](https://www.serebii.net/pokedex-champions/rotom/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml) [![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Levitate](https://www.serebii.net/abilitydex/levitate.shtml) |50|**65**|107|105|107|86|
+251
+|
+#479
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/479-f.png)](https://www.serebii.net/pokedex-champions/rotom/)|
+|
+[Rotom](https://www.serebii.net/pokedex-champions/rotom/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml) [![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Levitate](https://www.serebii.net/abilitydex/levitate.shtml) |50|**65**|107|105|107|86|
+251
+|
+#479
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/479-s.png)](https://www.serebii.net/pokedex-champions/rotom/)|
+|
+[Rotom](https://www.serebii.net/pokedex-champions/rotom/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Levitate](https://www.serebii.net/abilitydex/levitate.shtml) |50|**65**|107|105|107|86|
+251
+|
+#479
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/479-m.png)](https://www.serebii.net/pokedex-champions/rotom/)|
+|
+[Rotom](https://www.serebii.net/pokedex-champions/rotom/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml) [![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml)
+|
+[Levitate](https://www.serebii.net/abilitydex/levitate.shtml) |50|**65**|107|105|107|86|
+251
+|
+#670
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/670-e.png)](https://www.serebii.net/pokedex-champions/floette/)|
+|
+[Floette](https://www.serebii.net/pokedex-champions/floette/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Flower Veil](https://www.serebii.net/abilitydex/flowerveil.shtml)
+[Symbiosis](https://www.serebii.net/abilitydex/symbiosis.shtml)|74|**65**|67|125|128|92|
+251
+|
+#758
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/758.png)](https://www.serebii.net/pokedex-champions/salazzle/)|
+|
+[Salazzle](https://www.serebii.net/pokedex-champions/salazzle/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml) [![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Corrosion](https://www.serebii.net/abilitydex/corrosion.shtml)
+[Oblivious](https://www.serebii.net/abilitydex/oblivious.shtml)|68|**64**|60|111|60|117|
+249
+|
+#939
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/939.png)](https://www.serebii.net/pokedex-champions/bellibolt/)|
+|
+[Bellibolt](https://www.serebii.net/pokedex-champions/bellibolt/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml)
+|
+[Electromorphosis](https://www.serebii.net/abilitydex/electromorphosis.shtml)
+[Static](https://www.serebii.net/abilitydex/static.shtml)
+[Damp](https://www.serebii.net/abilitydex/damp.shtml)|109|**64**|91|103|83|45|
+249
+|
+#748
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/748.png)](https://www.serebii.net/pokedex-champions/toxapex/)|
+|
+[Toxapex](https://www.serebii.net/pokedex-champions/toxapex/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml) [![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Merciless](https://www.serebii.net/abilitydex/merciless.shtml)
+[Limber](https://www.serebii.net/abilitydex/limber.shtml)
+[Regenerator](https://www.serebii.net/abilitydex/regenerator.shtml)|50|**63**|152|53|142|35|
+247
+|
+#308
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/308.png)](https://www.serebii.net/pokedex-champions/medicham/)|
+|
+[Medicham](https://www.serebii.net/pokedex-champions/medicham/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fighting.gif)](https://www.serebii.net/pokedex-champions/fighting.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Pure Power](https://www.serebii.net/abilitydex/purepower.shtml)
+[Telepathy](https://www.serebii.net/abilitydex/telepathy.shtml)|60|**60**|75|60|75|80|
+240
+|
+#350
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/350.png)](https://www.serebii.net/pokedex-champions/milotic/)|
+|
+[Milotic](https://www.serebii.net/pokedex-champions/milotic/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml)
+|
+[Marvel Scale](https://www.serebii.net/abilitydex/marvelscale.shtml)
+[Competitive](https://www.serebii.net/abilitydex/competitive.shtml)
+[Cute Charm](https://www.serebii.net/abilitydex/cutecharm.shtml)|95|**60**|79|100|125|81|
+240
+|
+#471
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/471.png)](https://www.serebii.net/pokedex-champions/glaceon/)|
+|
+[Glaceon](https://www.serebii.net/pokedex-champions/glaceon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ice.gif)](https://www.serebii.net/pokedex-champions/ice.shtml)
+|
+[Snow Cloak](https://www.serebii.net/abilitydex/snowcloak.shtml)
+[Ice Body](https://www.serebii.net/abilitydex/icebody.shtml)|65|**60**|110|130|95|65|
+240
+|
+#531
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/531.png)](https://www.serebii.net/pokedex-champions/audino/)|
+|
+[Audino](https://www.serebii.net/pokedex-champions/audino/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Healer](https://www.serebii.net/abilitydex/healer.shtml)
+[Regenerator](https://www.serebii.net/abilitydex/regenerator.shtml)
+[Klutz](https://www.serebii.net/abilitydex/klutz.shtml)|103|**60**|86|60|86|50|
+240
+|
+#637
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/637.png)](https://www.serebii.net/pokedex-champions/volcarona/)|
+|
+[Volcarona](https://www.serebii.net/pokedex-champions/volcarona/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml) [![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Flame Body](https://www.serebii.net/abilitydex/flamebody.shtml)
+[Swarm](https://www.serebii.net/abilitydex/swarm.shtml)|85|**60**|65|135|105|100|
+240
+|
+#765
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/765.png)](https://www.serebii.net/pokedex-champions/oranguru/)|
+|
+[Oranguru](https://www.serebii.net/pokedex-champions/oranguru/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Inner Focus](https://www.serebii.net/abilitydex/innerfocus.shtml)
+[Telepathy](https://www.serebii.net/abilitydex/telepathy.shtml)
+[Symbiosis](https://www.serebii.net/abilitydex/symbiosis.shtml)|90|**60**|80|90|110|60|
+240
+|
+#780
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/780.png)](https://www.serebii.net/pokedex-champions/drampa/)|
+|
+[Drampa](https://www.serebii.net/pokedex-champions/drampa/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml) [![](https://www.serebii.net/pokedex-bw/type/dragon.gif)](https://www.serebii.net/pokedex-champions/dragon.shtml)
+|
+[Berserk](https://www.serebii.net/abilitydex/berserk.shtml)
+[Sap Sipper](https://www.serebii.net/abilitydex/sapsipper.shtml)
+[Cloud Nine](https://www.serebii.net/abilitydex/cloudnine.shtml)|78|**60**|85|135|91|36|
+240
+|
+#869
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/869.png)](https://www.serebii.net/pokedex-champions/alcremie/)|
+|
+[Alcremie](https://www.serebii.net/pokedex-champions/alcremie/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Sweet Veil](https://www.serebii.net/abilitydex/sweetveil.shtml)
+[Aroma Veil](https://www.serebii.net/abilitydex/aromaveil.shtml)|65|**60**|75|110|121|64|
+240
+|
+#936
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/936.png)](https://www.serebii.net/pokedex-champions/armarouge/)|
+|
+[Armarouge](https://www.serebii.net/pokedex-champions/armarouge/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml) [![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Flash Fire](https://www.serebii.net/abilitydex/flashfire.shtml)
+[Weak Armor](https://www.serebii.net/abilitydex/weakarmor.shtml)|85|**60**|100|125|80|75|
+240
+|
+#956
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/956.png)](https://www.serebii.net/pokedex-champions/espathra/)|
+|
+[Espathra](https://www.serebii.net/pokedex-champions/espathra/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Opportunist](https://www.serebii.net/abilitydex/opportunist.shtml)
+[Frisk](https://www.serebii.net/abilitydex/frisk.shtml)
+[Speed Boost](https://www.serebii.net/abilitydex/speedboost.shtml)|95|**60**|60|101|60|105|
+240
+|
+#1013
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/1013.png)](https://www.serebii.net/pokedex-champions/sinistcha/)|
+|
+[Sinistcha](https://www.serebii.net/pokedex-champions/sinistcha/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/grass.gif)](https://www.serebii.net/pokedex-champions/grass.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Hospitality](https://www.serebii.net/abilitydex/hospitality.shtml)
+[Heatproof](https://www.serebii.net/abilitydex/heatproof.shtml)|71|**60**|106|121|80|70|
+240
+|
+#531
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/531-m.png)](https://www.serebii.net/pokedex-champions/audino/)|
+|
+[Audino](https://www.serebii.net/pokedex-champions/audino/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Healer](https://www.serebii.net/abilitydex/healer.shtml) |103|**60**|126|80|126|50|
+240
+|
+#702
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/702.png)](https://www.serebii.net/pokedex-champions/dedenne/)|
+|
+[Dedenne](https://www.serebii.net/pokedex-champions/dedenne/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Cheek Pouch](https://www.serebii.net/abilitydex/cheekpouch.shtml)
+[Pickup](https://www.serebii.net/abilitydex/pickup.shtml)
+[Plus](https://www.serebii.net/abilitydex/plus.shtml)|67|**58**|57|81|67|101|
+236
+|
+#660
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/660.png)](https://www.serebii.net/pokedex-champions/diggersby/)|
+|
+[Diggersby](https://www.serebii.net/pokedex-champions/diggersby/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml) [![](https://www.serebii.net/pokedex-bw/type/ground.gif)](https://www.serebii.net/pokedex-champions/ground.shtml)
+|
+[Pickup](https://www.serebii.net/abilitydex/pickup.shtml)
+[Cheek Pouch](https://www.serebii.net/abilitydex/cheekpouch.shtml)
+[Huge Power](https://www.serebii.net/abilitydex/hugepower.shtml)|85|**56**|77|50|77|78|
+232
+|
+#025
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/025.png)](https://www.serebii.net/pokedex-champions/pikachu/)|
+|
+[Pikachu](https://www.serebii.net/pokedex-champions/pikachu/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml)
+|
+[Static](https://www.serebii.net/abilitydex/static.shtml)
+[Lightning Rod](https://www.serebii.net/abilitydex/lightningrod.shtml)|35|**55**|40|50|50|90|
+229
+|
+#609
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/609.png)](https://www.serebii.net/pokedex-champions/chandelure/)|
+|
+[Chandelure](https://www.serebii.net/pokedex-champions/chandelure/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml) [![](https://www.serebii.net/pokedex-bw/type/fire.gif)](https://www.serebii.net/pokedex-champions/fire.shtml)
+|
+[Flash Fire](https://www.serebii.net/abilitydex/flashfire.shtml)
+[Flame Body](https://www.serebii.net/abilitydex/flamebody.shtml)
+[Infiltrator](https://www.serebii.net/abilitydex/infiltrator.shtml)|60|**55**|90|145|90|80|
+229
+|
+#695
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/695.png)](https://www.serebii.net/pokedex-champions/heliolisk/)|
+|
+[Heliolisk](https://www.serebii.net/pokedex-champions/heliolisk/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml) [![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Dry Skin](https://www.serebii.net/abilitydex/dryskin.shtml)
+[Sand Veil](https://www.serebii.net/abilitydex/sandveil.shtml)
+[Solar Power](https://www.serebii.net/abilitydex/solarpower.shtml)|62|**55**|52|109|94|109|
+229
+|
+#970
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/970.png)](https://www.serebii.net/pokedex-champions/glimmora/)|
+|
+[Glimmora](https://www.serebii.net/pokedex-champions/glimmora/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml) [![](https://www.serebii.net/pokedex-bw/type/poison.gif)](https://www.serebii.net/pokedex-champions/poison.shtml)
+|
+[Toxic Debris](https://www.serebii.net/abilitydex/toxicdebris.shtml)
+[Corrosion](https://www.serebii.net/abilitydex/corrosion.shtml)|83|**55**|90|130|81|86|
+229
+|
+#411
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/411.png)](https://www.serebii.net/pokedex-champions/bastiodon/)|
+|
+[Bastiodon](https://www.serebii.net/pokedex-champions/bastiodon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/rock.gif)](https://www.serebii.net/pokedex-champions/rock.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Sturdy](https://www.serebii.net/abilitydex/sturdy.shtml)
+[Soundproof](https://www.serebii.net/abilitydex/soundproof.shtml)|60|**52**|168|47|138|30|
+223
+|
+#666
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/666.png)](https://www.serebii.net/pokedex-champions/vivillon/)|
+|
+[Vivillon](https://www.serebii.net/pokedex-champions/vivillon/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/bug.gif)](https://www.serebii.net/pokedex-champions/bug.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Shield Dust](https://www.serebii.net/abilitydex/shielddust.shtml)
+[Compoundeyes](https://www.serebii.net/abilitydex/compoundeyes.shtml)
+[Friend Guard](https://www.serebii.net/abilitydex/friendguard.shtml)|80|**52**|50|90|50|89|
+223
+|
+#065
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/065.png)](https://www.serebii.net/pokedex-champions/alakazam/)|
+|
+[Alakazam](https://www.serebii.net/pokedex-champions/alakazam/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Synchronize](https://www.serebii.net/abilitydex/synchronize.shtml)
+[Inner Focus](https://www.serebii.net/abilitydex/innerfocus.shtml)
+[Magic Guard](https://www.serebii.net/abilitydex/magicguard.shtml)|55|**50**|45|135|95|120|
+218
+|
+#184
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/184.png)](https://www.serebii.net/pokedex-champions/azumarill/)|
+|
+[Azumarill](https://www.serebii.net/pokedex-champions/azumarill/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/fairy.gif)](https://www.serebii.net/pokedex-champions/fairy.shtml)
+|
+[Thick Fat](https://www.serebii.net/abilitydex/thickfat.shtml)
+[Huge Power](https://www.serebii.net/abilitydex/hugepower.shtml)
+[Sap Sipper](https://www.serebii.net/abilitydex/sapsipper.shtml)|100|**50**|80|60|80|50|
+218
+|
+#279
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/279.png)](https://www.serebii.net/pokedex-champions/pelipper/)|
+|
+[Pelipper](https://www.serebii.net/pokedex-champions/pelipper/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/water.gif)](https://www.serebii.net/pokedex-champions/water.shtml) [![](https://www.serebii.net/pokedex-bw/type/flying.gif)](https://www.serebii.net/pokedex-champions/flying.shtml)
+|
+[Keen Eye](https://www.serebii.net/abilitydex/keeneye.shtml)
+[Drizzle](https://www.serebii.net/abilitydex/drizzle.shtml)
+[Rain Dish](https://www.serebii.net/abilitydex/raindish.shtml)|60|**50**|100|95|70|65|
+218
+|
+#358
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/358.png)](https://www.serebii.net/pokedex-champions/chimecho/)|
+|
+[Chimecho](https://www.serebii.net/pokedex-champions/chimecho/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Levitate](https://www.serebii.net/abilitydex/levitate.shtml) |75|**50**|80|95|90|65|
+218
+|
+#479
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/479.png)](https://www.serebii.net/pokedex-champions/rotom/)|
+|
+[Rotom](https://www.serebii.net/pokedex-champions/rotom/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/electric.gif)](https://www.serebii.net/pokedex-champions/electric.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Levitate](https://www.serebii.net/abilitydex/levitate.shtml) |50|**50**|77|95|77|91|
+218
+|
+#563
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/563.png)](https://www.serebii.net/pokedex-champions/cofagrigus/)|
+|
+[Cofagrigus](https://www.serebii.net/pokedex-champions/cofagrigus/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Mummy](https://www.serebii.net/abilitydex/mummy.shtml) |58|**50**|145|95|105|30|
+218
+|
+#681
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/681.png)](https://www.serebii.net/pokedex-champions/aegislash/)|
+|
+[Aegislash](https://www.serebii.net/pokedex-champions/aegislash/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml) [![](https://www.serebii.net/pokedex-bw/type/ghost.gif)](https://www.serebii.net/pokedex-champions/ghost.shtml)
+|
+[Stance Change](https://www.serebii.net/abilitydex/stancechange.shtml) |60|**50**|140|50|140|60|
+218
+|
+#065
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/065-m.png)](https://www.serebii.net/pokedex-champions/alakazam/)|
+|
+[Alakazam](https://www.serebii.net/pokedex-champions/alakazam/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Trace](https://www.serebii.net/abilitydex/trace.shtml) |55|**50**|65|175|105|150|
+218
+|
+#358
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/358-m.png)](https://www.serebii.net/pokedex-champions/chimecho/)|
+|
+[Chimecho](https://www.serebii.net/pokedex-champions/chimecho/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml) [![](https://www.serebii.net/pokedex-bw/type/steel.gif)](https://www.serebii.net/pokedex-champions/steel.shtml)
+|
+[Levitate](https://www.serebii.net/abilitydex/levitate.shtml) |75|**50**|110|135|120|65|
+218
+|
+#132
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/132.png)](https://www.serebii.net/pokedex-champions/ditto/)|
+|
+[Ditto](https://www.serebii.net/pokedex-champions/ditto/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/normal.gif)](https://www.serebii.net/pokedex-champions/normal.shtml)
+|
+[Limber](https://www.serebii.net/abilitydex/limber.shtml)
+[Imposter](https://www.serebii.net/abilitydex/imposter.shtml)|48|**48**|48|48|48|48|
+214
+|
+#678
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/678.png)](https://www.serebii.net/pokedex-champions/meowstic/)|
+|
+[Meowstic](https://www.serebii.net/pokedex-champions/meowstic/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Keen Eye](https://www.serebii.net/abilitydex/keeneye.shtml)
+[Infiltrator](https://www.serebii.net/abilitydex/infiltrator.shtml)
+[Prankster](https://www.serebii.net/abilitydex/prankster.shtml)|74|**48**|76|83|81|104|
+214
+|
+#678
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/678-f.png)](https://www.serebii.net/pokedex-champions/meowstic/)|
+|
+[Meowstic](https://www.serebii.net/pokedex-champions/meowstic/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Keen Eye](https://www.serebii.net/abilitydex/keeneye.shtml)
+[Infiltrator](https://www.serebii.net/abilitydex/infiltrator.shtml)
+[Competitive](https://www.serebii.net/abilitydex/competitive.shtml)|74|**48**|76|83|81|104|
+214
+|
+#678
+|
+|[![](https://www.serebii.net/pokedex-champions/icon/678-m.png)](https://www.serebii.net/pokedex-champions/meowstic/)|
+|
+[Meowstic](https://www.serebii.net/pokedex-champions/meowstic/)
+|
+[![](https://www.serebii.net/pokedex-bw/type/psychic.gif)](https://www.serebii.net/pokedex-champions/psychic.shtml)
+|
+[Trace](https://www.serebii.net/abilitydex/trace.shtml) |74|**48**|76|143|101|124|
+214
+|
+[Pok�mon of the Week](https://www.serebii.net/potw-sv/)
+[![Pok�mon of the Week](https://www.serebii.net/potw-sv/950.jpg)](https://www.serebii.net/potw-sv/950.shtml)
+Next In Japan
+![](https://www.serebii.net/anime/NextOn/1370.jpg)
+Episode 134
+**The Ultimate Showdown! Mega Evolution!!**
+![](https://www.serebii.net/anime/NextOn/1370-i.jpg)
+Airdate: 17/04/2026
+Recently In USA
+[![](https://www.serebii.net/1347.jpg)
+Episode 111
+**Better, Farther, Stronger!**
+![](https://www.serebii.net/anime/synopsis.gif)Synopsis 
+[![](https://www.serebii.net/anime/pictures.gif)Pictures](https://www.serebii.net/anime/pictures/pokemon2023/111.shtml)
+Next In USA
+[![](https://www.serebii.net/1348.jpg)
+Episode 112
+** Mega Evolution - Roy**
+Airdate: 2026 
+[![](https://www.serebii.net/anime/synopsis.gif)Synopsis](https://www.serebii.net/anime/epiguide/pokemon2023/112.shtml)
+[![](https://www.serebii.net/anime/pictures.gif)Pictures](https://www.serebii.net/anime/pictures/pokemon2023/112.shtml)
+Social Media
+[![Facebook](https://www.serebii.net/Toolbar/headers/Facebook.png)](https://www.facebook.com/SerebiiNetPage)
+[![Twitter](https://www.serebii.net/Toolbar/headers/Twitter.png)](https://www.twitter.com/SerebiiNet)
+[![BlueSky](https://www.serebii.net/Toolbar/headers/bluesky.png)](https://bsky.app/profile/serebii.bsky.social)
+[![YouTube](https://www.serebii.net/Toolbar/headers/youtube.png)](https://www.youtube.com/serebiispp)
+[![Instagram](https://www.serebii.net/Toolbar/headers/instagram.png)](https://www.instagram.com/serebii)
+[![Threads](https://www.serebii.net/Toolbar/headers/threads.png)](https://www.threads.net/@serebii)
+Support Us
+[![Patreon](https://www.serebii.net/Toolbar/headers/patreon.png)](https://www.patreon.com/serebiinet)
+In Association With
+[![#PM](https://www.serebii.net/Toolbar/pm.png)](http://www.pocketmonsters.net/)
+[![Legendary Pok�mon](https://www.serebii.net/Toolbar/lpoke.png)](http://www.legendarypokemon.net/)

@@ -1,0 +1,21 @@
+---
+pid: 31620
+cwd: |
+  C:\Users\byli3
+---
+PS C:\Users\byli3>
+
+
+PS C:\Users\byli3>
+PS C:\Users\byli3> cd C:\Users\byli3\.cursor\projects\empty-window
+PS C:\Users\byli3\.cursor\projects\empty-window> gh auth login
+gh : The term 'gh' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and 
+try again.                                                                            
+At line:1 char:1
++ gh auth login
++ ~~                                                              
+    + CategoryInfo          : ObjectNotFound: (gh:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS C:\Users\byli3\.cursor\projects\empty-window>
