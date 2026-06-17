@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T18:24:20.943Z",
+  "generatedAt": "2026-06-17T16:49:47.301Z",
   "geo": "US",
   "windowDays": 90,
   "baselineQuery": "graphic tee",
@@ -7,21 +7,49 @@
   "methodologyEn": "Each theme is ratioed vs US search interest for \"graphic tee\" over the same window; heat7 is the 7-day mean of that ratio. heatScore is relative within this snapshot (0–100). Source: Google Trends (demand signal, not retailer sales).",
   "categories": [
     {
+      "id": "summer-beach",
+      "labelZh": "夏季 / 海滩",
+      "labelEn": "Summer / beach",
+      "query": "beach graphic tee",
+      "heat7": 0.004608294930875576,
+      "heat30": 0.005330636370444194,
+      "sparkline": [
+        0.043,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0.028,
+        0.027,
+        0.03,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0.032
+      ],
+      "heatScore": 100
+    },
+    {
       "id": "christmas",
       "labelZh": "圣诞 / 节日",
       "labelEn": "Christmas / holiday",
       "query": "christmas graphic tee",
-      "heat7": null,
-      "heat30": null,
-      "sparkline": [],
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON",
-      "heatScore": null
-    },
-    {
-      "id": "halloween",
-      "labelZh": "万圣节",
-      "labelEn": "Halloween",
-      "query": "halloween graphic tee",
       "heat7": 0,
       "heat30": 0,
       "sparkline": [
@@ -54,6 +82,17 @@
         0,
         0
       ],
+      "heatScore": 0
+    },
+    {
+      "id": "halloween",
+      "labelZh": "万圣节",
+      "labelEn": "Halloween",
+      "query": "halloween graphic tee",
+      "heat7": null,
+      "heat30": null,
+      "sparkline": [],
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON",
       "heatScore": null
     },
     {
@@ -65,45 +104,6 @@
       "heat30": null,
       "sparkline": [],
       "error": "Unexpected token '<', \"<html lang\"... is not valid JSON",
-      "heatScore": null
-    },
-    {
-      "id": "summer-beach",
-      "labelZh": "夏季 / 海滩",
-      "labelEn": "Summer / beach",
-      "query": "beach graphic tee",
-      "heat7": 0,
-      "heat30": 0.003267195767195767,
-      "sparkline": [
-        0,
-        0.042,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0.029,
-        0.028,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
       "heatScore": null
     },
     {
@@ -154,7 +154,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "anime",
