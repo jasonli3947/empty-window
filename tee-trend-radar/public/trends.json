@@ -1,50 +1,11 @@
 {
-  "generatedAt": "2026-07-19T14:44:46.598Z",
+  "generatedAt": "2026-07-20T15:42:09.349Z",
   "geo": "US",
   "windowDays": 90,
   "baselineQuery": "graphic tee",
   "methodology": "每个主题与同一时间段内的「graphic tee」搜索热度做比值，再取近 7 天平均；heatScore 为当日批次内相对排名（0–100）。数据来自 Google Trends，反映搜索意图而非具体电商销量。",
   "methodologyEn": "Each theme is ratioed vs US search interest for \"graphic tee\" over the same window; heat7 is the 7-day mean of that ratio. heatScore is relative within this snapshot (0–100). Source: Google Trends (demand signal, not retailer sales).",
   "categories": [
-    {
-      "id": "vintage",
-      "labelZh": "复古 / Y2K",
-      "labelEn": "Vintage / retro",
-      "query": "vintage graphic tee",
-      "heat7": 0.032728290015156376,
-      "heat30": 0.05919788948170635,
-      "sparkline": [
-        0.12,
-        0.093,
-        0.093,
-        0.123,
-        0.054,
-        0.048,
-        0.068,
-        0.048,
-        0.075,
-        0.045,
-        0.054,
-        0.083,
-        0.05,
-        0.067,
-        0.033,
-        0.063,
-        0.059,
-        0.057,
-        0.034,
-        0.036,
-        0.033,
-        0.033,
-        0.036,
-        0.038,
-        0.032,
-        0.031,
-        0.03,
-        0.028
-      ],
-      "heatScore": 100
-    },
     {
       "id": "christmas",
       "labelZh": "圣诞 / 节日",
@@ -82,7 +43,7 @@
         0,
         0
       ],
-      "heatScore": 0
+      "heatScore": null
     },
     {
       "id": "halloween",
@@ -121,7 +82,7 @@
         0,
         0
       ],
-      "heatScore": 0
+      "heatScore": null
     },
     {
       "id": "valentines",
@@ -160,7 +121,7 @@
         0,
         0
       ],
-      "heatScore": 0
+      "heatScore": null
     },
     {
       "id": "summer-beach",
@@ -168,16 +129,16 @@
       "labelEn": "Summer / beach",
       "query": "beach graphic tee",
       "heat7": 0,
-      "heat30": 0.005045657869560567,
+      "heat30": 0.0034585855997266443,
       "sparkline": [
         0,
-        0.037,
         0.019,
-        0.031,
+        0.032,
         0,
         0,
         0,
         0,
+        0.053,
         0,
         0,
         0,
@@ -199,46 +160,18 @@
         0,
         0
       ],
-      "heatScore": 0
+      "heatScore": null
     },
     {
       "id": "nfl",
       "labelZh": "NFL / 运动",
       "labelEn": "NFL / sports",
       "query": "nfl graphic tee",
-      "heat7": 0,
-      "heat30": 0,
-      "sparkline": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "heatScore": 0
+      "heat7": null,
+      "heat30": null,
+      "sparkline": [],
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON",
+      "heatScore": null
     },
     {
       "id": "pride",
@@ -246,11 +179,11 @@
       "labelEn": "Pride",
       "query": "pride graphic tee",
       "heat7": 0,
-      "heat30": 0,
+      "heat30": 0.0005376344086021505,
       "sparkline": [
         0,
         0,
-        0,
+        0.016,
         0,
         0,
         0,
@@ -277,7 +210,7 @@
         0,
         0
       ],
-      "heatScore": 0
+      "heatScore": null
     },
     {
       "id": "anime",
@@ -285,11 +218,11 @@
       "labelEn": "Anime",
       "query": "anime graphic tee",
       "heat7": 0,
-      "heat30": 0,
+      "heat30": 0.0005376344086021505,
       "sparkline": [
         0,
         0,
-        0,
+        0.016,
         0,
         0,
         0,
@@ -316,7 +249,18 @@
         0,
         0
       ],
-      "heatScore": 0
+      "heatScore": null
+    },
+    {
+      "id": "vintage",
+      "labelZh": "复古 / Y2K",
+      "labelEn": "Vintage / retro",
+      "query": "vintage graphic tee",
+      "heat7": null,
+      "heat30": null,
+      "sparkline": [],
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON",
+      "heatScore": null
     },
     {
       "id": "funny",
@@ -355,7 +299,7 @@
         0,
         0
       ],
-      "heatScore": 0
+      "heatScore": null
     },
     {
       "id": "mom-life",
@@ -394,7 +338,7 @@
         0,
         0
       ],
-      "heatScore": 0
+      "heatScore": null
     },
     {
       "id": "patriotic",
@@ -433,7 +377,7 @@
         0,
         0
       ],
-      "heatScore": 0
+      "heatScore": null
     },
     {
       "id": "christian",
@@ -441,7 +385,7 @@
       "labelEn": "Faith / Christian",
       "query": "christian graphic tee",
       "heat7": 0,
-      "heat30": 0,
+      "heat30": 0.0017543859649122805,
       "sparkline": [
         0,
         0,
@@ -450,7 +394,7 @@
         0,
         0,
         0,
-        0,
+        0.053,
         0,
         0,
         0,
@@ -472,7 +416,7 @@
         0,
         0
       ],
-      "heatScore": 0
+      "heatScore": null
     }
   ]
 }
