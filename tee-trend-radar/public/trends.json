@@ -1,11 +1,50 @@
 {
-  "generatedAt": "2026-09-04T17:12:15.520Z",
+  "generatedAt": "2026-09-05T16:19:21.945Z",
   "geo": "US",
   "windowDays": 90,
   "baselineQuery": "graphic tee",
   "methodology": "每个主题与同一时间段内的「graphic tee」搜索热度做比值，再取近 7 天平均；heatScore 为当日批次内相对排名（0–100）。数据来自 Google Trends，反映搜索意图而非具体电商销量。",
   "methodologyEn": "Each theme is ratioed vs US search interest for \"graphic tee\" over the same window; heat7 is the 7-day mean of that ratio. heatScore is relative within this snapshot (0–100). Source: Google Trends (demand signal, not retailer sales).",
   "categories": [
+    {
+      "id": "vintage",
+      "labelZh": "复古 / Y2K",
+      "labelEn": "Vintage / retro",
+      "query": "vintage graphic tee",
+      "heat7": 0.03907761216474175,
+      "heat30": 0.0338429544536742,
+      "sparkline": [
+        0.054,
+        0,
+        0.102,
+        0.037,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0.073,
+        0,
+        0,
+        0.048,
+        0.044,
+        0.056,
+        0.056,
+        0.057,
+        0.059,
+        0.059,
+        0.049,
+        0.05,
+        0.057,
+        0.03,
+        0.054,
+        0.026,
+        0.026,
+        0.029
+      ],
+      "heatScore": 100
+    },
     {
       "id": "christmas",
       "labelZh": "圣诞 / 节日",
@@ -43,7 +82,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "halloween",
@@ -51,7 +90,7 @@
       "labelEn": "Halloween",
       "query": "halloween graphic tee",
       "heat7": 0,
-      "heat30": 0,
+      "heat30": 0.001639344262295082,
       "sparkline": [
         0,
         0,
@@ -82,7 +121,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "valentines",
@@ -121,7 +160,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "summer-beach",
@@ -160,7 +199,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "nfl",
@@ -199,7 +238,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "pride",
@@ -238,7 +277,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "anime",
@@ -277,46 +316,7 @@
         0,
         0
       ],
-      "heatScore": null
-    },
-    {
-      "id": "vintage",
-      "labelZh": "复古 / Y2K",
-      "labelEn": "Vintage / retro",
-      "query": "vintage graphic tee",
-      "heat7": 0,
-      "heat30": 0,
-      "sparkline": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "funny",
@@ -355,7 +355,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "mom-life",
@@ -394,7 +394,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "patriotic",
@@ -433,7 +433,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "christian",
@@ -472,7 +472,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     }
   ]
 }
