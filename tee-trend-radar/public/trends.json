@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:59:31.080Z",
+  "generatedAt": "2026-10-24T17:03:26.845Z",
   "geo": "US",
   "windowDays": 90,
   "baselineQuery": "graphic tee",
@@ -7,26 +7,82 @@
   "methodologyEn": "Each theme is ratioed vs US search interest for \"graphic tee\" over the same window; heat7 is the 7-day mean of that ratio. heatScore is relative within this snapshot (0–100). Source: Google Trends (demand signal, not retailer sales).",
   "categories": [
     {
-      "id": "christmas",
-      "labelZh": "圣诞 / 节日",
-      "labelEn": "Christmas / holiday",
-      "query": "christmas graphic tee",
-      "heat7": null,
-      "heat30": null,
-      "sparkline": [],
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON",
-      "heatScore": null
-    },
-    {
       "id": "halloween",
       "labelZh": "万圣节",
       "labelEn": "Halloween",
       "query": "halloween graphic tee",
-      "heat7": null,
-      "heat30": null,
-      "sparkline": [],
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON",
-      "heatScore": null
+      "heat7": 0.026267294312407097,
+      "heat30": 0.01217073895273252,
+      "sparkline": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0.021,
+        0.022,
+        0.021,
+        0.023,
+        0.024,
+        0.024,
+        0.024,
+        0.022,
+        0.022,
+        0.026,
+        0.026,
+        0.027,
+        0.026,
+        0.029,
+        0.028
+      ],
+      "heatScore": 100
+    },
+    {
+      "id": "christmas",
+      "labelZh": "圣诞 / 节日",
+      "labelEn": "Christmas / holiday",
+      "query": "christmas graphic tee",
+      "heat7": 0,
+      "heat30": 0,
+      "sparkline": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "heatScore": 0
     },
     {
       "id": "valentines",
@@ -76,7 +132,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "nfl",
@@ -115,7 +171,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "pride",
@@ -154,18 +210,46 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "anime",
       "labelZh": "动漫 / 二次元",
       "labelEn": "Anime",
       "query": "anime graphic tee",
-      "heat7": null,
-      "heat30": null,
-      "sparkline": [],
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON",
-      "heatScore": null
+      "heat7": 0,
+      "heat30": 0,
+      "sparkline": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "heatScore": 0
     },
     {
       "id": "vintage",
@@ -215,7 +299,7 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "mom-life",
@@ -265,18 +349,46 @@
         0,
         0
       ],
-      "heatScore": null
+      "heatScore": 0
     },
     {
       "id": "christian",
       "labelZh": "信仰 / 基督教",
       "labelEn": "Faith / Christian",
       "query": "christian graphic tee",
-      "heat7": null,
-      "heat30": null,
-      "sparkline": [],
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON",
-      "heatScore": null
+      "heat7": 0,
+      "heat30": 0,
+      "sparkline": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "heatScore": 0
     }
   ]
 }
